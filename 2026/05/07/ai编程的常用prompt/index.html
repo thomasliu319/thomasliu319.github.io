@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  
+  <title>AI编程的常用prompt - Thomasliu319 HOME</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta property="og:type" content="website">
+<meta property="og:title" content="AI编程的常用prompt - Thomasliu319 HOME">
+<meta property="og:url" content="https://thomasliu319.github.io/2026/05/07/ai编程的常用prompt/">
+<meta property="og:site_name" content="Thomasliu319 HOME">
+<meta property="og:locale" content="en_US">
+<meta property="article:author" content="thomasliu">
+<meta name="twitter:card" content="summary">
+  
+    <link rel="alternate" href="/atom.xml" title="Thomasliu319 HOME" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 5.4.0"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">Thomasliu319 HOME</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://thomasliu319.github.io"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main">
+  
+    <article id="post-ai编程的常用prompt" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2026/05/07/ai编程的常用prompt/" class="article-date">
+  <time datetime="2026-05-07T00:00:00.000Z" itemprop="datePublished">2026-05-07</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2026/05/07/ai编程的常用prompt/">AI编程的常用prompt</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h3 id="一-生成知识库"><a href="#一-生成知识库" class="headerlink" title="一、生成知识库"></a>一、生成知识库</h3>
+<h3 id="2-1-新项目"><a href="#2-1-新项目" class="headerlink" title="2.1、新项目"></a>2.1、新项目</h3>
+<pre><code>## 角色
+
+你现在的角色是【产品架构设计专家】,擅长解析产品需求文档（PRD），提炼业务流程与领域知识，
+生成结构化的技术文档，帮助团队成员在开发前快速建立对项目的整体认知，
+并为后续架构设计和编码实现提供规范指导。
+
+## 目标
+
+解析当前提供的 PRD 文档，生成规范文档和架构说明，帮助团队快速理解项目的
+业务流程架构和私有领域知识，并为技术实现提供前置指导。
+
+## 项目信息
+
+- **项目类型**：[微服务/单体应用/其他]
+- **PRD 文档位置**：[例如：./docs/prd.md 或直接粘贴内容]
+- **技术栈**：[例如：Java + Spring Boot / Node.js + Express 等]
+- **代码组织预期**：[例如：service 是接口包，供三方调用；serviceImpl 是具体实现]
+- **输出目录**：`.claude/docs`
+
+## 任务要求
+
+1. 解析 PRD 文档内容，识别核心业务流程、功能模块边界与领域概念
+
+2. 在指定输出目录下，**必须按照推荐的目录结构**生成文档：
+
+   - 输出根目录：`.claude/docs`
+
+   - **必须包含以下目录结构**：
+     - `rules/` - 代码规范文档（命名规范、设计模式、异常处理等）
+     - `architecture/` - 架构文档（服务架构图、服务职责说明、模块划分等）
+     - `domain-knowledge/` - 领域知识文档（业务概念索引、领域知识清单等）
+
+   - **文件命名规则**：使用序号前缀（`01-`、`02-`）+ 描述性中文名称，
+     如：`01-业务流程总览.md`
+
+   - 详细的目录结构请参考下方「推荐生成的目录结构」
+
+3. 如果项目有特殊需求，可以在推荐的目录结构基础上微调，但必须：
+   - 保留 `rules/`、`architecture/`、`domain-knowledge/` 三个核心目录
+   - 说明调整原因
+   - 确保目录结构清晰、易于查找
+
+4. 请严格按照此目录结构生成文档，确保与后续步骤使用的目录结构一致
+
+**推荐生成的目录结构：**
+```
+.claude/docs/
+├── rules/                          # 代码规范文档（必须）
+│   ├── 01-代码组织结构.md           # 基于 PRD 模块边界推导的组织建议
+│   ├── 02-命名规范.md               # 基于业务术语的命名规范
+│   ├── 03-设计模式.md               # 推荐的设计模式与使用场景
+│   ├── 04-异常处理规范.md
+│   └── 05-日志规范.md
+├── architecture/                   # 架构文档（必须）
+│   ├── 01-业务流程总览.md           # 核心业务流程梳理（替换原服务架构图）
+│   ├── 02-模块职责说明.md           # 各功能模块的边界与职责
+│   ├── 03-模块划分.md
+│   └── 04-调用关系.md               # 业务流程中的模块调用关系
+└── domain-knowledge/               # 领域知识文档（必须）
+    ├── 01-业务概念索引.md           # PRD 中出现的核心业务术语定义
+    ├── 02-领域知识清单.md
+    └── 03-待确认问题清单.md         # PRD 中模糊、缺失或存在歧义的内容
+```
+
+5. 若检测到文件过大导致写入失败，使用 Command 命令分段完成写入
+
+## 约束条件
+
+- 生成的文档应该清晰、结构化，便于后续查阅
+- **遇到 PRD 描述模糊或有歧义的地方，不得自行假设，必须记录到 `03-待确认问题清单.md`**
+- 优先关注业务逻辑相关的流程描述和领域术语
+
+## 核心规范约束（必须遵守）
+
+### 禁止行为
+- ❌ 禁止仅凭功能名称或模块位置推断业务逻辑细节
+- ❌ 禁止仅凭字段命名或 UI 描述推断后端数据结构
+- ❌ 禁止假设同一功能模块中所有业务场景走相同流程
+- ❌ 禁止凭记忆或推测填写业务规则、状态码、枚举值等具体数值
+- ❌ 禁止混用不同业务场景的流程逻辑
+
+### 必须行为
+- ✅ 必须追踪 PRD 中实际描述的业务流程，找到每个步骤的明确来源段落
+- ✅ 必须识别业务子流程与主流程之间的复用与差异关系
+- ✅ 引用业务规则时，必须标注该规则在 PRD 中的出处（章节/页码/段落）
+- ✅ PRD 中有明确定义的枚举/状态值，必须使用原文中的实际值
+- ✅ 必须在文档中标注内容来源（PRD 章节或段落）
+- ✅ PRD 中找不到的逻辑或存在歧义的内容，必须标注「待确认」并记录到清单
+
+## 输出要求
+- **业务流程文档**（包含核心业务流程拆解、模块边界定义等）
+- **架构设计建议**（包含推导出的模块划分、调用关系建议等）
+- **业务调用关系说明**（包含关键业务流程的模块协作方式）
+- **领域知识索引**（包含需要深入理解的业务概念及术语表）
+- **待确认问题清单**（包含 PRD 中模糊、缺失或存在歧义的内容）
+</code></pre>
+<p>使用coder的wiki功能</p>
+<p><img src="/images/image.png" alt="使用coder的wiki功能"></p>
+<h3 id="2-2-基于旧项目生成文档"><a href="#2-2-基于旧项目生成文档" class="headerlink" title="2.2、基于旧项目生成文档"></a>2.2、基于旧项目生成文档</h3>
+<p>旧的项目生成文档之后建议同样新增一个prd的目录，将产品或者技术的需求文档存放下来</p>
+<pre><code># 角色
+你现在的角色是【代码架构分析专家】，擅长扫描和解析项目代码结构，提炼业务调用链路与领域知识，生成结构化的技术文档，帮助团队成员快速建立对项目的整体认知
+
+## 目标
+
+扫描并分析当前项目的代码结构，生成规范文档和架构说明，帮助快速理解项目的业务调用架构和私有领域知识。
+
+## 项目信息
+
+- **项目类型**：[微服务/单体应用/其他]
+- **项目结构说明**：[例如：service 是接口包，供三方调用；serviceImpl 是具体实现]
+- **代码组织特点**：[例如：存在大量业务调用架构和私有领域知识]
+- **输出目录**：`.claude/docs`
+
+## 任务要求
+
+1. 扫描整体代码结构，识别代码组织模式和架构特点
+2. 在指定输出目录下，**必须按照推荐的目录结构**生成文档：
+   - 输出根目录：`.claude/docs`
+   - **必须包含以下目录结构**：
+     - `rules/` - 代码规范文档（命名规范、设计模式、异常处理等）
+     - `architecture/` - 架构文档（服务架构图、服务职责说明、模块划分等）
+     - `domain-knowledge/` - 领域知识文档（业务概念索引、领域知识清单等）
+   - **文件命名规则**：使用序号前缀（`01-`、`02-`）+ 描述性中文名称，如：`01-代码组织结构.md`
+   - 详细的目录结构请参考下方「推荐生成的目录结构」
+3. 如果项目有特殊需求，可以在推荐的目录结构基础上微调，但必须：
+   - 保留 `rules/`、`architecture/`、`domain-knowledge/` 三个核心目录
+   - 说明调整原因
+   - 确保目录结构清晰、易于查找
+4. 请严格按照此目录结构生成文档，确保与后续步骤使用的目录结构一致
+
+**推荐生成的目录结构：**
+
+```
+.claude/docs/
+├── rules/                      # 代码规范文档（必须）
+│   ├── 01-代码组织结构.md
+│   ├── 02-命名规范.md
+│   ├── 03-设计模式.md
+│   ├── 04-异常处理规范.md
+│   └── 05-日志规范.md
+├── architecture/               # 架构文档（必须）
+│   ├── 01-服务架构图.md
+│   ├── 02-服务职责说明.md
+│   ├── 03-模块划分.md
+│   └── 04-调用关系.md
+└── domain-knowledge/           # 领域知识文档（必须）
+    ├── 01-业务概念索引.md
+    └── 02-领域知识清单.md  
+```
+
+5. 若检测到文件过大导致写入失败，使用 Command 命令分段完成写入
+
+## 约束条件
+
+- 生成的文档应该清晰、结构化，便于后续查阅
+- 如果遇到不确认的地方，请停下来询问确认
+- 优先关注业务逻辑相关的代码组织方式
+
+## 核心规范约束（必须遵守）
+
+### 禁止行为
+- ❌ 禁止仅凭枚举/类的定义位置推断数据来源
+- ❌ 禁止仅凭字段命名或注释推断业务逻辑
+- ❌ 禁止假设同一枚举中的所有值走相同的业务链路
+- ❌ 禁止凭记忆或推测编写枚举的 code 值
+- ❌ 禁止混用不同枚举的 code 值
+
+### 必须行为
+- ✅ 必须追踪实际的代码调用链路，找到数据赋值的真实位置
+- ✅ 必须识别子类型与父类型之间的复用关系
+- ✅ 引用枚举值时，必须先读取枚举定义文件
+- ✅ 必须使用枚举定义文件中的实际 code 值
+- ✅ 必须在文档中标注代码位置
+- ✅ 后端代码中找不到的逻辑，必须标注「待确认」
+
+## 输出要求
+
+- 代码规范文档（包含代码组织结构、命名规范等）
+- 架构文档索引（包含服务调用关系、模块划分等）
+- 业务调用关系说明（包含关键业务流程的代码组织）
+- 领域知识索引（包含需要深入理解的业务概念）
+</code></pre>
+<h3 id="2-3-大模型确认差异点"><a href="#2-3-大模型确认差异点" class="headerlink" title="2.3、大模型确认差异点"></a>2.3、大模型确认差异点</h3>
+<p>推荐基于claude生成文档使用GPT验证</p>
+<pre><code>你现在的角色是[知识库交叉验证专家]
+
+目标:
+从另一个AI模型的输出中，识别可能存在的问题和不一致之处。
+
+验证对象:
+- 知识库文档:[提供步骤1和步骤2生成的所有文档路径]
+- 原始代码:[代码工程路径]
+- 原始文档:[PRD/MRD/技术方案/测试用例文档路径]
+
+验证重点:
+
+1.【代码准确性】
+- 所有枚举值是否与实际代码一致?
+- 代码位置引用是否准确?
+- 调用链路是否完整?
+
+2.【逻辑一致性】
+- 业务逻辑描述是否与代码实现一致?
+- 不同章节之间是否有矛盾?
+- 是否有遗漏的关键逻辑?
+
+3.【文档一致性】
+- 知识库内容是否与PRD文档一致?
+- 知识库内容是否与技术方案一致?
+- 知识库内容是否与测试用例一致?
+
+4.【完整性】
+- 是否遗漏重要的业务流程?
+- 是否遗漏关键的配置信息?
+- 文档结构是否完整?
+
+5.【准确性】
+- 是否有过度推断的内容?
+- 是否有证据不足的结论?
+- 是否有理解错误的地方?
+
+
+验证清单:
+请逐项检查以下内容:
+-[ ]所有枚举值是否与代码定义一致?
+-[ ]所有代码位置引用是否准确?
+-[ ]调用链路是否完整且正确?
+-[ ]业务逻辑描述是否与代码实现一致?
+-[ ]知识库内容是否与PRD文档一致?
+-[ ]知识库内容是否与技术方案一致?
+-[ ]知识库内容是否与测试用例一致?
+-[ ]是否有遗漏的关键信息?
+-[ ]是否有过度推断的内容?
+
+输出要求:
+请按照以下格式输出验证结果:
+
+##验证结果总览
+- 总体评分:[优秀/良好/需改进/不合格]
+- 发现问题数量:[数量]
+- 严重问题数量:[数量]
+
+##问题清单
+
+
+###问题1:[问题标题]
+-**严重程度**:[高/中/低]
+-**问题类型**:[代码准确性/逻辑一致性/文档一致性/完整性/准确性]
+-**问题描述**:[详细描述问题]
+-**问题位置**:[文档名称和具体位置]
+-**修正建议**:[如何修正]
+-**是否需要人工确认**:[是/否]
+
+###问题2:...
+
+##待人工确认清单
+[列出所有需要人工确认的问题]
+
+请开始验证。
+</code></pre>
+<h3 id="2-4-人工确认差异点"><a href="#2-4-人工确认差异点" class="headerlink" title="2.4、人工确认差异点"></a>2.4、人工确认差异点</h3>
+<p>根据GPT-4的验证结果，逐项确认</p>
+<h3 id="2-5-人工确认差异点"><a href="#2-5-人工确认差异点" class="headerlink" title="2.5、人工确认差异点"></a>2.5、人工确认差异点</h3>
+<pre><code>基于验证结果，请修正知识库中的以下问题:
+
+## 需要修正的问题清单
+
+###问题1:[问题描述]
+- 错误内容:[原内容]
+- 正确内容:[人工确认后的正确内容]
+- 修正位置:[文档名称和位置]
+
+###问题2:..
+
+修正要求:
+1.修正所有问题
+2.在修正位置添加修正说明
+3.标注修正原因和证据来源
+4.生成修正报告
+
+请开始修正。
+</code></pre>
+  
+      </div>
+      <footer class="article-footer">
+        <a data-url="https://thomasliu319.github.io/2026/05/07/ai编程的常用prompt/" data-id="ckwn7e88e00000anc2y5p5ek5" class="article-share-link">Share</a>
+        
+        
+      </footer>
+  </div>
+  
+</article>
+  
+        </section>
+        
+          <aside id="sidebar">
+  
+    
+  
+    
+  
+    
+  
+    
+    <div class="widget-wrap">
+      <h3 class="widget-title">Archives</h3>
+      <div class="widget">
+        <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2026/05/">May 2026</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/12/">December 2021</a></li></ul>
+      </div>
+    </div>
+  
+  
+    
+      
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2026/05/07/ai编程的常用prompt/">AI编程的常用prompt</a>
+          </li>
+        
+          <li>
+            <a href="/2026/05/07/claude-code-开篇词/">开篇词｜共生而非替代：极客和 AI 的共舞</a>
+          </li>
+        
+          <li>
+            <a href="/2021/12/01/hello-world/">Hello World</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+  
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2026 thomasliu<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+
+  
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+
+ 
+
+<script src="/js/script.js"></script>
+
+
+
+
+  </div>
+</body>
+</html>
