@@ -1,0 +1,810 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Claude Code安装与核心插件配置指南</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+/* Override strong tags inside headings to maintain consistent weight */
+h1 strong,
+h2 strong,
+h3 strong {
+	font-weight: 600;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 10px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+
+	table.collection-content {
+		width: 100%;
+		table-layout: fixed;
+	}
+
+	table.collection-content th,
+	table.collection-content td {
+		overflow-wrap: anywhere;
+	}
+
+	table.collection-content td > .user,
+	table.collection-content td > time {
+		white-space: pre-wrap;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content-wrapper {
+	overflow-x: auto;
+}
+
+@media only print {
+	.collection-content-wrapper {
+		overflow-x: visible;
+	}
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.collection-content td {
+	white-space: pre-wrap;
+	word-break: break-word;
+}
+
+.column-list {
+	display: flex;
+	gap: 46px;
+}
+
+.column {
+	min-width: 0;
+	overflow: hidden;
+}
+
+.column > *:first-child {
+	margin-top: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+table {
+	border-collapse: collapse;
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol.numbered-list.numbered-list-digits-2 {
+	padding-inline-start: 2em;
+}
+
+ol.numbered-list.numbered-list-digits-3plus {
+	padding-inline-start: 2.4em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+	margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.callout img.notion-static-icon {
+	width: 1em;
+	height: 1em;
+}
+
+.callout p {
+	margin: 0;
+}
+
+.callout h1,
+.callout h2,
+.callout h3 {
+	margin: 0 0 0.6rem;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+blockquote.quote-large {
+	font-size: 1.25em;
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(44, 44, 43, 1);
+}
+.highlight-gray {
+	color: rgba(125, 122, 117, 1);
+	fill: rgba(125, 122, 117, 1);
+}
+.highlight-brown {
+	color: rgba(159, 118, 90, 1);
+	fill: rgba(159, 118, 90, 1);
+}
+.highlight-orange {
+	color: rgba(210, 123, 45, 1);
+	fill: rgba(210, 123, 45, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 148, 52, 1);
+	fill: rgba(203, 148, 52, 1);
+}
+.highlight-teal {
+	color: rgba(80, 148, 110, 1);
+	fill: rgba(80, 148, 110, 1);
+}
+.highlight-blue {
+	color: rgba(56, 125, 201, 1);
+	fill: rgba(56, 125, 201, 1);
+}
+.highlight-purple {
+	color: rgba(154, 107, 180, 1);
+	fill: rgba(154, 107, 180, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(207, 81, 72, 1);
+	fill: rgba(207, 81, 72, 1);
+}
+.highlight-default_background {
+	color: rgba(44, 44, 43, 1);
+}
+.highlight-gray_background {
+	background: rgba(42, 28, 0, 0.07);
+}
+.highlight-brown_background {
+	background: rgba(139, 46, 0, 0.086);
+}
+.highlight-orange_background {
+	background: rgba(224, 101, 1, 0.129);
+}
+.highlight-yellow_background {
+	background: rgba(211, 168, 0, 0.137);
+}
+.highlight-teal_background {
+	background: rgba(0, 100, 45, 0.09);
+}
+.highlight-blue_background {
+	background: rgba(0, 124, 215, 0.094);
+}
+.highlight-purple_background {
+	background: rgba(102, 0, 178, 0.078);
+}
+.highlight-pink_background {
+	background: rgba(197, 0, 93, 0.086);
+}
+.highlight-red_background {
+	background: rgba(223, 22, 0, 0.094);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(125, 122, 117, 1);
+	fill: rgba(125, 122, 117, 1);
+}
+.block-color-brown {
+	color: rgba(159, 118, 90, 1);
+	fill: rgba(159, 118, 90, 1);
+}
+.block-color-orange {
+	color: rgba(210, 123, 45, 1);
+	fill: rgba(210, 123, 45, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 148, 52, 1);
+	fill: rgba(203, 148, 52, 1);
+}
+.block-color-teal {
+	color: rgba(80, 148, 110, 1);
+	fill: rgba(80, 148, 110, 1);
+}
+.block-color-blue {
+	color: rgba(56, 125, 201, 1);
+	fill: rgba(56, 125, 201, 1);
+}
+.block-color-purple {
+	color: rgba(154, 107, 180, 1);
+	fill: rgba(154, 107, 180, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(207, 81, 72, 1);
+	fill: rgba(207, 81, 72, 1);
+}
+.block-color-default_background {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray_background {
+	background: rgba(240, 239, 237, 1);
+}
+.block-color-brown_background {
+	background: rgba(245, 237, 233, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 235, 222, 1);
+}
+.block-color-yellow_background {
+	background: rgba(249, 243, 220, 1);
+}
+.block-color-teal_background {
+	background: rgba(232, 241, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(229, 242, 252, 1);
+}
+.block-color-purple_background {
+	background: rgba(243, 235, 249, 1);
+}
+.block-color-pink_background {
+	background: rgba(250, 233, 241, 1);
+}
+.block-color-red_background {
+	background: rgba(252, 233, 231, 1);
+}
+.select-value-color-default { background-color: rgba(42, 28, 0, 0.07); }
+.select-value-color-gray { background-color: rgba(28, 19, 1, 0.11); }
+.select-value-color-brown { background-color: rgba(127, 51, 0, 0.156); }
+.select-value-color-orange { background-color: rgba(196, 88, 0, 0.203); }
+.select-value-color-yellow { background-color: rgba(209, 156, 0, 0.282); }
+.select-value-color-green { background-color: rgba(0, 96, 38, 0.156); }
+.select-value-color-blue { background-color: rgba(0, 118, 217, 0.203); }
+.select-value-color-purple { background-color: rgba(92, 0, 163, 0.141); }
+.select-value-color-pink { background-color: rgba(183, 0, 78, 0.152); }
+.select-value-color-red { background-color: rgba(206, 24, 0, 0.164); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="3271cdc3-6e92-8063-906d-f043fb56dbd2" class="page sans"><header><img class="page-cover-image" src="https://www.notion.so/images/page-cover/webb4.jpg" style="object-position:center 50%"/><div class="page-header-icon page-header-icon-with-cover"><span class="icon">🎃</span></div><h1 class="page-title" dir="auto">Claude Code安装与核心插件配置指南</h1><p class="page-description" dir="auto"></p></header><div class="page-body"><div style="display:contents" dir="auto"><blockquote id="3271cdc3-6e92-8085-8ad6-ca96cb365326" class="">本文档基于 Claude Code 最新版本（2026年3月），帮助你快速完成安装和主流 MCP 插件的配置。</blockquote></div><div style="display:contents" dir="auto"><hr id="3271cdc3-6e92-80b7-bb4e-c65b13a749ee"/></div><div style="display:contents" dir="auto"><h2 id="3271cdc3-6e92-8037-a6ff-f0580ddb2038" class="">前置条件</h2></div><div style="display:contents" dir="auto"><p id="3271cdc3-6e92-80d6-868d-d832edae0abe" class="">在安装 Claude Code 前，请确认以下条件：</p></div><div style="display:contents" dir="auto"><ul id="3271cdc3-6e92-806d-9408-fc166f8b16a6" class="bulleted-list"><li style="list-style-type:disc"><strong>账户要求</strong>：有申请国内+国外号池<div style="display:contents" dir="auto"><ul id="3271cdc3-6e92-802f-89d8-e51e309f12fa" class="bulleted-list"><li style="list-style-type:circle"><strong>国内推荐：</strong><div style="display:contents" dir="auto"><ul id="3271cdc3-6e92-8008-b30b-f636dbdfbc4a" class="bulleted-list"><li style="list-style-type:square"><a href="https://common-buy.aliyun.com/?commodityCode=sfm_codingplan_public_cn">阿里云coding plan</a><a href="https://account.aliyun.com/login/login.htm?oauth_callback=https%3A%2F%2Fcommon-buy.aliyun.com%2F%3FcommodityCode%3Dsfm_codingplan_public_cn">https://account.aliyun.com/login/login.htm?oauth_callback=https%3A%2F%2Fcommon-buy.aliyun.com%2F%3FcommodityCode%3Dsfm_codingplan_public_cn</a></li></ul></div><div style="display:contents" dir="auto"><ul id="3271cdc3-6e92-8072-b759-f34768be3d3a" class="bulleted-list"><li style="list-style-type:square"><a href="https://bigmodel.cn/glm-coding">智普</a> <a href="http://security.feishu.cn/link/safety?target=https%3A%2F%2Fbigmodel.cn%2Fglm-coding&amp;scene=ccm&amp;logParams=%7B%22location%22%3A%22ccm_docs%22%7D&amp;lang=zh-CN">http://security.feishu.cn/link/safety?target=https%3A%2F%2Fbigmodel.cn%2Fglm-coding&amp;scene=ccm&amp;logParams={&quot;location&quot;%3A&quot;ccm_docs&quot;}&amp;lang=zh-CN</a></li></ul></div><div style="display:contents" dir="auto"><ul id="3271cdc3-6e92-8072-b410-f120f471e263" class="bulleted-list"><li style="list-style-type:square"><a href="https://platform.minimaxi.com/subscribe/coding-plan">MiniMax</a> <a href="https://platform.minimaxi.com/subscribe/token-plan">https://platform.minimaxi.com/subscribe/token-plan</a></li></ul></div></li></ul></div><div style="display:contents" dir="auto"><ul id="3271cdc3-6e92-8018-9231-ed72004c5a81" class="bulleted-list"><li style="list-style-type:circle">海外号池<div style="display:contents" dir="auto"><ul id="3271cdc3-6e92-80a9-ace6-d0c5f2431504" class="bulleted-list"><li style="list-style-type:square"><a href="https://aipg.work/register?aff=3oju">aipg.work</a> (我在搞的) <a href="https://aipg.work/console">https://aipg.work/console</a></li></ul></div><div style="display:contents" dir="auto"><ul id="3271cdc3-6e92-80c9-97e4-f9ec329079a7" class="bulleted-list"><li style="list-style-type:square"><a href="https://aicodewith.com/zh">apicode</a>  <a href="https://aicodewith.com/zh">https://aicodewith.com/zh</a></li></ul></div></li></ul></div></li></ul></div><div style="display:contents" dir="auto"><p id="3271cdc3-6e92-80c5-81ef-c00755578e44" class="">
+</p></div><div style="display:contents" dir="auto"><h2 id="3271cdc3-6e92-80d6-a388-db6874c78641" class="">一、安装 Claude Code</h2></div><div style="display:contents" dir="auto"><p id="3271cdc3-6e92-80bf-81a4-e31ed536f691" class=""><strong>方式一：命令行安装(可能需要科学上网)</strong></p></div><div style="display:contents" dir="auto"><p id="3271cdc3-6e92-800c-962e-e22bd9f965f7" class="">打开终端，执行以下命令：</p></div><div style="display:contents" dir="auto"><script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js" integrity="sha512-7Z9J3l1+EYfeaPKcGXu3MS/7T+w19WtKQY/n+xzmw4hZhJ9tyYmcUS+4QqAlzhicE5LAfMQSF3iFTK9bQdTxXg==" crossorigin="anonymous" referrerPolicy="no-referrer"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css" integrity="sha512-tN7Ec6zAFaVSG3TpNAKtk4DOHNpSwKHxxrsiw4GHKESGPs5njn/0sMCUMl2svV4wo4BK/rCP7juYz+zx+l6oeQ==" crossorigin="anonymous" referrerPolicy="no-referrer"/><script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-bash.min.js" integrity="sha512-whYhDwtTmlC/NpZlCr6PSsAaLOrfjVg/iXAnC4H/dtiHawpShhT2SlIMbpIhT/IL/NrpdMm+Hq2C13+VKpHTYw==" crossorigin="anonymous" referrerPolicy="no-referrer"></script><pre id="3271cdc3-6e92-80ab-9d46-df5579afab79" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all"># 全局安装 Claude Code CLI
+npm install -g @anthropic-ai/claude-code
+
+# 验证安装是否成功
+claude --version</code></pre></div><div style="display:contents" dir="auto"><p id="3271cdc3-6e92-807f-892d-db9fbb0dddd7" class=""><strong>方式二：使用AI帮你安装</strong></p></div><div style="display:contents" dir="auto"><p id="3271cdc3-6e92-8082-ab7d-d9f6f434fa45" class="">
+</p></div><div style="display:contents" dir="auto"><p id="3271cdc3-6e92-8026-b593-d42a0310f0c0" class=""><a href="https://qoder.com/%EF%BC%8C%E9%80%9A%E8%BF%87qoder%E6%9D%A5%E5%AE%89%E8%A3%85">https://qoder.com/，通过qoder来安装</a></p></div><div style="display:contents" dir="ltr"><figure id="3271cdc3-6e92-8038-8bf4-db1f4a0ad80e" class="image"><a href="Claude%20Code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/image.png"><img style="width:710px" src="Claude%20Code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/image.png"/></a></figure></div><div style="display:contents" dir="ltr"><figure id="3271cdc3-6e92-80e8-831f-db8814cf6ba9" class="image"><a href="Claude%20Code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/image%201.png"><img style="width:709.9921875px" src="Claude%20Code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/image%201.png"/></a></figure></div><div style="display:contents" dir="auto"><pre id="3271cdc3-6e92-8049-be28-d3f5e5a46068" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all"># 全局安装 Claude Code CLI
+npm install -g @anthropic-ai/claude-code
+
+# 验证安装是否成功
+claude --version
+请你帮我安装claude code，以上是安装命令，如果本机已安装，请输出当前的claude 版本</code></pre></div><div style="display:contents" dir="auto"><p id="32a1cdc3-6e92-80d6-9e52-d781fd5c9507" class="">
+</p></div><div style="display:contents" dir="auto"><h3 id="32a1cdc3-6e92-80db-b9e6-d3c863b9b9ea" class=""><strong>二、认证与登录</strong></h3></div><div style="display:contents" dir="auto"><p id="32a1cdc3-6e92-808b-a2cb-cba341426a20" class="">这里推荐使用cc助手，可以配置多api源</p></div><div style="display:contents" dir="auto"><p id="32a1cdc3-6e92-8089-86af-d3a590aeb21d" class="">https://www.npmjs.com/package/@wcldyx/claude-code-switcher</p></div><div style="display:contents" dir="ltr"><figure id="32a1cdc3-6e92-809c-8682-cb124b6b03ed" class="image"><a href="Claude%20Code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/image%202.png"><img style="width:703.9921875px" src="Claude%20Code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/image%202.png"/></a></figure></div><div style="display:contents" dir="auto"><pre id="32a1cdc3-6e92-80e8-bb44-d2143a2983f5" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all">供应商名称 │ apiwork                                            
+显示名称  │ apiwork                                            
+认证模式  │ API密钥模式                                            
+基础URL │ https://aipg.work                                  
+认证令牌  │ sk-x
+主模型   │ 未设置                                                
+快速模型  │ 未设置 </code></pre></div><div style="display:contents" dir="auto"><pre id="32a1cdc3-6e92-80a6-91f6-d9d89b9841bd" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all">供应商名称 │ glm                                              
+显示名称  │ glm                                              
+认证模式  │ API密钥模式                                          
+基础URL │ https://open.bigmodel.cn/api/anthropic           
+认证令牌  │ bb-x</code></pre></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-80ef-bf39-da615b94c0f6" class=""><br/></p></div><div style="display:contents" dir="auto"><h3 id="32c1cdc3-6e92-80d3-911e-c133fa67ef92" class="">三、核心插件安装<br/><a href="https://github.com/gsd-build/get-shit-done">https://github.com/gsd-build/get-shit-done</a><br/>1、官方仓库<br/>•<a href="https://github.com/anthropics/claude-code/tree/main/plugins">https://github.com/anthropics/claude-code/tree/main/plugins</a><br/>•安装方式：npm install -g @anthropic-ai/claude-code</h3></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-80b3-862f-d35df35aa14d" class="">
+</p></div><div style="display:contents" dir="auto"><h3 id="32c1cdc3-6e92-80cb-b4b6-dc61fd0fc2c9" class="">工具功能对照表<br/>标红的是最常用</h3></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-8069-86f1-d1c9f531211d" class="">    </p></div><div style="display:contents" dir="ltr"><table id="32c1cdc3-6e92-80a4-9569-cead9fa08ed0" class="simple-table"><tbody><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80a8-82e8-e2d78f9b48af"><td id="&gt;DKu" class="" style="width:239.66666666666666px">名称</td><td id="]`ae" class="" style="width:398.65625px">说明</td><td id="&lt;Vp^" class="" style="width:517.65625px">功能内容</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-803f-ad0d-d76d5983b137"><td id="&gt;DKu" class="" style="width:239.66666666666666px">agent-sdk-dev</td><td id="]`ae" class="" style="width:398.65625px">Claude Agent SDK 开发工具包</td><td id="&lt;Vp^" class="" style="width:517.65625px">命令：/new-sdk-app —— 交互式创建新的 Agent SDK 项目&lt;br&gt;智能体：<br/>agent-sdk-verifier-py、 agent-sdk-verifier-ts —— 按最佳实践检验<br/>SDK 应用</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80f9-a686-c382e1171910"><td id="&gt;DKu" class="" style="width:239.66666666666666px">claude-opus-4-5-migration<br/></td><td id="]`ae" class="" style="width:398.65625px">将代码与提示词从 Sonnet 4.x、Opus 4.1 迁移到 Opus 4.5</td><td id="&lt;Vp^" class="" style="width:517.65625px">技能：<code>claude-opus-4-5-migration</code> —— 自动迁移模型名称、测试版请求头与提示词适配</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80be-a93b-df36ada25524"><td id="&gt;DKu" class="" style="width:239.66666666666666px">code-review<br/></td><td id="]`ae" class="" style="width:398.65625px">基于多专业智能体的自动化 PR 代码评审，带置信度评分过滤误报</td><td id="&lt;Vp^" class="" style="width:517.65625px">命令：/code-review —— 自动化 PR 评审流程&lt;br&gt;智能体：5 个并行 Sonnet<br/>智能体，负责 <a href="http://claude.md/">CLAUDE.md</a> 规范、Bug 检测、历史上下文、PR 记录、代码注释</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80f1-8643-c20c08aaa5b8"><td id="&gt;DKu" class="block-color-red_background" style="width:239.66666666666666px">commit-commands</td><td id="]`ae" class="block-color-red_background" style="width:398.65625px">Git 工作流自动化：提交、推送与创建 Pull Request</td><td id="&lt;Vp^" class="block-color-red_background" style="width:517.65625px">命令：/commit、/commit-push-pr、/clean_gone —— 简化 Git 操作</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80e6-ae05-ef65d09daf6f"><td id="&gt;DKu" class="" style="width:239.66666666666666px">explanatory-output-style</td><td id="]`ae" class="" style="width:398.65625px">补充关于实现思路与代码架构模式的讲解说明（复刻已废弃的讲解式输出风格）</td><td id="&lt;Vp^" class="" style="width:517.65625px">钩子： SessionStart —— 每次会话开始时注入讲解性上下文</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-808c-816c-f2f511658a4f"><td id="&gt;DKu" class="block-color-red_background" style="width:239.66666666666666px">feature-dev</td><td id="]`ae" class="block-color-red_background" style="width:398.65625px">完整的功能开发工作流，采用结构化 7 阶段流程</td><td id="&lt;Vp^" class="block-color-red_background" style="width:517.65625px">命令：/feature-dev —— 引导式功能开发流程&lt;br&gt;智能体：code-explorer<br/>（代码浏览）、code-architect（架构设计）、code-reviewer（质量评审）</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80be-a59d-e1782bfd62a0"><td id="&gt;DKu" class="block-color-red_background" style="width:239.66666666666666px">frontend-design</td><td id="]`ae" class="block-color-red_background" style="width:398.65625px">创建有辨识度、生产级前端界面，避免通用 AI 风格</td><td id="&lt;Vp^" class="block-color-red_background" style="width:517.65625px">技能： frontend-design —— 前端工作时自动启用，提供设计、排版、动画、<br/>视觉细节等指导</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80a9-8600-f57564007447"><td id="&gt;DKu" class="" style="width:239.66666666666666px">hookify</td><td id="]`ae" class="" style="width:398.65625px">通过分析对话模式或显式指令，快速创建自定义钩子以避免不期望行为</td><td id="&lt;Vp^" class="" style="width:517.65625px">命令：/hookify 、 /hookify:list 、 /hookify:configure 、 /hookify:hel<br/>p &lt;br&gt;智能体： conversation-analyzer —— 分析对话中的异常行为&lt;br&gt;技<br/>能： writing-rules —— 钩子规则语法编写指南</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80a0-9521-ee125e9dd340"><td id="&gt;DKu" class="" style="width:239.66666666666666px">learning-output-style</td><td id="]`ae" class="" style="width:398.65625px">交互式学习模式，在关键决策点要求用户编写有意义的代码（复制未上线的学习式输出风格）</td><td id="&lt;Vp^" class="" style="width:517.65625px">钩子：SessionStart —— 鼓励在决策点编写有效代码（5-10 行）并同步讲解</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-803e-a932-c5da31b79e5a"><td id="&gt;DKu" class="" style="width:239.66666666666666px">plugin-dev</td><td id="]`ae" class="" style="width:398.65625px">Claude 代码插件开发完整工具包，含 7 项专家技能与 AI 辅助创建</td><td id="&lt;Vp^" class="" style="width:517.65625px">命令：/plugin-dev:create-plugin —— 8 阶段引导式插件构建流程&lt;br&gt;智能<br/>体：agent-creator、plugin-validator、skill-reviewer&lt;br&gt;技能：<br/>钩子开发、MCP 集成、插件结构、配置、命令、智能体与技能开发</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-8034-ab9e-fd03673a98bf"><td id="&gt;DKu" class="" style="width:239.66666666666666px">pr-review-toolkit</td><td id="]`ae" class="" style="width:398.65625px">专业 PR 评审工具集，专注注释、测试、错误处理、类型设计、代码质量、简化</td><td id="&lt;Vp^" class="" style="width:517.65625px">命令：/pr-review-toolkit:review-pr ——可指定评审维度（注释、测试、<br/>错误、类型、代码、简化、全部）&lt;br&gt;智能体：comment-analyzer、pr-<br/>test-analyzer、silent-failure-hunter、type-design-analyzer、code-reviewer、code-simplifier</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-8065-a697-cb3bb707e8e8"><td id="&gt;DKu" class="" style="width:239.66666666666666px">ralph-wiggum</td><td id="]`ae" class="" style="width:398.65625px">交互式自循环 AI 迭代开发，Claude 重复执行同一任务直至完成</td><td id="&lt;Vp^" class="" style="width:517.65625px">命令： /ralph-loop 、 /cancel-ralph  —— 启动/停止自主迭代循环&lt;br&gt;钩<br/>子： Stop —— 拦截退出操作以继续迭代</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80a2-901e-cd8710113d28"><td id="&gt;DKu" class="" style="width:239.66666666666666px">security-guidance</td><td id="]`ae" class="" style="width:398.65625px">安全提醒钩子，编辑文件时对潜在安全风险发出警告</td><td id="&lt;Vp^" class="" style="width:517.65625px">钩子：PreToolUse —— 监控 9 类安全模式，包括命令注入、XSS、eval 使用、<br/>危险 HTML、pickle 反序列化、os.system 调用等</td></tr></div></tbody></table></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-8056-87cf-f20f84e7ac27" class="">需要我帮你把这份内容整理成<strong>简洁版清单</strong>方便快速查阅吗？</p></div><div style="display:contents" dir="auto"><pre id="32c1cdc3-6e92-80eb-b0b9-f5f6cd6258e4" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all">/feature-dev:feature-dev is running… @agent-service/src/main/java/com/agent/
+service/consumer/QwMessageHandler.java#L106-120 
+1、先分析理解这段代码，项目中有多处类似逻辑需要一起修改
+2、将这行代码(CollectionUtils.isNotEmpty(sandBoxUser) &amp;&amp; 
+sandBoxUser.contains(qwUserInfo.getUserId())修改成CollectionUtils.isNotEmpty(sandBoxUser) &amp;&amp; 
+sandBoxUser.contains(qwUserInfo.getWid())
+3、相关的注释和日志也许要同步修改</code></pre></div><div style="display:contents" dir="auto"><h3 id="32c1cdc3-6e92-80ef-8bcd-f953f43dd46d" class="">2、superpower<br/>Github：<a href="https://github.com/obra/superpowers%E2%80%8B">https://github.com/obra/superpowers</a><br/>安装方式</h3></div><div style="display:contents" dir="auto"><pre id="32c1cdc3-6e92-8015-8650-e409d14294cb" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all">/plugin marketplace add obra/superpowers-marketplace
+/plugin install superpowers@superpowers-marketplace</code></pre></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-8072-a182-f400c84b3d27" class="">
+</p></div><div style="display:contents" dir="auto"><h3 id="32c1cdc3-6e92-802c-8ced-f46efcef0ed9" class="">工具功能对照表</h3></div><div style="display:contents" dir="ltr"><table id="32c1cdc3-6e92-8023-b897-da0b175a6f8f" class="simple-table"><tbody><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-801e-a2fd-f5f3b8a05256"><td id="E^K&gt;" class="" style="width:239.66666666666666px">技能</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">何时使用</td><td id="voK&lt;" class="" style="width:239.66666666666666px">产出</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-8078-a8dd-c10b887e6f46"><td id="E^K&gt;" class="" style="width:239.66666666666666px">using-superpowers</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">对话开始</td><td id="voK&lt;" class="" style="width:239.66666666666666px">加载正确技能</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80d0-8bae-eec4969a97fe"><td id="E^K&gt;" class="block-color-red_background" style="width:239.66666666666666px">brainstorming</td><td id="T&lt;OO" class="block-color-red_background" style="width:239.66666666666666px">创建功能/修改行为</td><td id="voK&lt;" class="block-color-red_background" style="width:239.66666666666666px">设计文档</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-8031-a874-c48966167c41"><td id="E^K&gt;" class="" style="width:239.66666666666666px">systematic-debugging</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">Bug/测试失败</td><td id="voK&lt;" class="" style="width:239.66666666666666px">根因分析 + 修复</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-800b-b463-f9c326a25553"><td id="E^K&gt;" class="" style="width:239.66666666666666px">test-driven-development</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">实现功能/bugfix</td><td id="voK&lt;" class="" style="width:239.66666666666666px">测试 + 实现</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-804e-84b6-e58ebd167d3c"><td id="E^K&gt;" class="" style="width:239.66666666666666px">writing-plans</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">多步骤任务</td><td id="voK&lt;" class="" style="width:239.66666666666666px">实现计划</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80f1-8ba3-d48fffdd8781"><td id="E^K&gt;" class="" style="width:239.66666666666666px">executing-plans</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">执行计划（独立会话）</td><td id="voK&lt;" class="" style="width:239.66666666666666px">完成的实现</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-8071-9af4-ca264f0f73fe"><td id="E^K&gt;" class="" style="width:239.66666666666666px">subagent-driven-development</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">执行计划（同会话）</td><td id="voK&lt;" class="" style="width:239.66666666666666px">完成的实现</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-8065-8849-c704e9e4b3d5"><td id="E^K&gt;" class="" style="width:239.66666666666666px">verification-before-completion</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">声称完成前</td><td id="voK&lt;" class="" style="width:239.66666666666666px">验证证据</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80d8-af7f-ef4924644e21"><td id="E^K&gt;" class="" style="width:239.66666666666666px">requesting-code-review</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">任务/功能完成</td><td id="voK&lt;" class="" style="width:239.66666666666666px">审查反馈</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-8036-a1cd-c6b8eb2f440b"><td id="E^K&gt;" class="" style="width:239.66666666666666px">receiving-code-review</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">收到审查反馈</td><td id="voK&lt;" class="" style="width:239.66666666666666px">技术评估</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-8042-b15a-f3f136dfab36"><td id="E^K&gt;" class="" style="width:239.66666666666666px">finishing-a-development-branch</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">所有任务完成</td><td id="voK&lt;" class="" style="width:239.66666666666666px">合并/PR/清理</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-803f-8c77-dc3ba3e25538"><td id="E^K&gt;" class="" style="width:239.66666666666666px">using-git-worktrees</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">需要隔离环境</td><td id="voK&lt;" class="" style="width:239.66666666666666px">worktree</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-80aa-8d7e-cf2cceec57c7"><td id="E^K&gt;" class="" style="width:239.66666666666666px">dispatching-parallel-agents</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">多个独立问题</td><td id="voK&lt;" class="" style="width:239.66666666666666px">并行解决</td></tr></div><div style="display:contents" dir="ltr"><tr id="32c1cdc3-6e92-8003-be6e-e5309f605c8b"><td id="E^K&gt;" class="" style="width:239.66666666666666px">writing-skills</td><td id="T&lt;OO" class="" style="width:239.66666666666666px">创建/编辑技能</td><td id="voK&lt;" class="" style="width:239.66666666666666px"><a href="http://skill.md/">SKILL.md</a></td></tr></div></tbody></table></div><div style="display:contents" dir="auto"><h3 id="32c1cdc3-6e92-803b-869a-ebd128f4c3b8" class="">3、GSD<br/><br/>GSD 是一个元提示词和上下文工程系统，它彻底改变了你与 AI 编码助手（如 Claude Code、OpenCode、Gemini CLI 和 Codex）的协作方式。它通过智能编排、XML 格式的提示词以及原子任务执行，解决了上下文腐烂这一关键问题——即 AI 模型因累积过多上下文而导致的性能下降。</h3></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-80a4-9fc8-e4292b9def23" class="">•Github：<a href="https://zread.ai/gsd-build/get-shit-done/18-quick-mode-ad-hoc-tasks-without-full-planning%E2%80%8B">https://zread.ai/gsd-build/get-shit-done/18-quick-mode-ad-hoc-tasks-without-full-planning</a><br/>•手册：<a href="https://zread.ai/gsd-build/get-shit-done/2-quick-start">https://zread.ai/gsd-build/get-shit-done/2-quick-start</a></p></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-80c7-82d8-f69f74a8bc2f" class="">
+</p></div><div style="display:contents" dir="auto"><h3 id="32c1cdc3-6e92-8050-a174-c65129774953" class="">4、写作助手<br/><br/>🚀 专注公众号/自媒体文章创作的 AI 智能写作助手<br/>在 Claude、Cursor、Gemini 等 AI 助手中直接使用斜杠命令，系统化创作高质量文章<br/><br/>•Github：<a href="https://github.com/wordflowlab/article-writer">https://github.com/wordflowlab/article-writer</a></h3></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-80ed-b4b8-d8fe9a941f29" class="">
+</p></div><div style="display:contents" dir="auto"><h3 id="32c1cdc3-6e92-8017-bcd5-faaced002820" class="">3、Context7 MCP（实时文档）<br/>安装</h3></div><div style="display:contents" dir="auto"><pre id="32c1cdc3-6e92-80b9-a670-ebfafeeba003" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all">claude mcp add --transport http context7 https://mcp.context7.com/mcp</code></pre></div><div style="display:contents" dir="ltr"><figure id="32c1cdc3-6e92-802e-b67b-c33063c7b425" class="image"><a href="Claude%20Code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/image%203.png"><img style="width:703.984375px" src="Claude%20Code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/image%203.png"/></a></figure></div><div style="display:contents" dir="auto"><h3 id="32c1cdc3-6e92-804d-9f3c-d2c5d018bb98" class="">4、draw(绘制架构图)<br/><br/>可以安装三方的draw.io的插件仓库，也可以自己让claude code<br/><a href="https://www.claudepluginhub.com/plugins/henkisdabro-mcp-excalidraw-plugins-mcp-excalidraw">https://www.claudepluginhub.com/plugins/henkisdabro-mcp-excalidraw-plugins-mcp-excalidraw</a></h3></div><div style="display:contents" dir="ltr"><figure id="32c1cdc3-6e92-80b0-9fe8-e030317a78b4" class="image"><a href="Claude%20Code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/image%204.png"><img style="width:703.96875px" src="Claude%20Code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/image%204.png"/></a></figure></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-8037-8968-e83710e3dc41" class="">
+</p></div><div style="display:contents" dir="auto"><h3 id="32c1cdc3-6e92-80ec-a548-c3e9ff527c30" class="">四、核心 MCP 插件</h3></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-80b0-b699-f6a8acc0df56" class=""><br/>MCP（Model Context Protocol）是开放标准协议，让 Claude Code 能连接外部工具、数据库和 API。安装插件后，Claude 可以直接操作 GitHub 仓库、查询数据库、搜索网络等。<br/><br/>⚠️ 请仅安装来源可信的 MCP 服务。第三方服务器可能带来提示注入风险，安装前确认信任来源。<br/></p></div><div style="display:contents" dir="auto"><h4 id="32c1cdc3-6e92-8046-bdf9-e0264f0507d0" class="">1.Context7 MCP（实时文档）</h4></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-8015-be3a-c13798846c9a" class="">为 Claude 提供各主流框架和库的最新实时文档，解决训练数据过时问题。</p></div><div style="display:contents" dir="auto"><pre id="32c1cdc3-6e92-806e-ae28-dda575430827" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all">claude mcp add --transport http context7 https://mcp.context7.com/mcp</code></pre></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-807e-9ea1-e2d5809a15e3" class="">安装后，Claude 会在需要时自动拉取对应库的最新文档，提升代码建议的准确性。</p></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-805a-a7f0-efa9874cf1f5" class="">
+</p></div><div style="display:contents" dir="auto"><h4 id="32c1cdc3-6e92-80e2-b246-e025baf88912" class="">2.PostgreSQL MCP</h4></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-8021-bb9f-fbe0bce59433" class="">让 Claude 以自然语言查询 PostgreSQL 数据库，自动生成并执行 SQL。</p></div><div style="display:contents" dir="auto"><pre id="32c1cdc3-6e92-800c-a92c-e9ef402f6663" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all">claude mcp add-json postgres &#x27;{
+  &quot;command&quot;: &quot;npx&quot;,
+  &quot;args&quot;: [
+    &quot;-y&quot;,
+    &quot;@modelcontextprotocol/server-postgres&quot;,
+    &quot;postgresql://username:password@localhost:5432/dbname&quot;
+  ]
+}&#x27;</code></pre></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-8080-a393-d68df9610658" class="">将连接字符串替换为你的数据库信息。<br/>示例用法：</p></div><div style="display:contents" dir="auto"><pre id="32c1cdc3-6e92-80bf-b09b-f9e2d9305bad" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all">查询上个月消费金额最高的 10 个用户</code></pre></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-805c-99dc-e922fe5e3e42" class="">Claude 会自动检查表结构，生成并执行对应 SQL。</p></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-809d-b0a6-e6bee27aae16" class="">
+</p></div><div style="display:contents" dir="auto"><h4 id="32c1cdc3-6e92-803c-bfd2-ed6802af8010" class="">3. Github</h4></div><div style="display:contents" dir="auto"><pre id="32c1cdc3-6e92-8090-bf2c-f2b21fb33ad4" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all">claude mcp add --transport http github https://api.githubcopilot.com/mcp/</code></pre></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-80ec-a1f8-ddd6a1d9372a" class="">
+</p></div><div style="display:contents" dir="auto"><h3 id="32c1cdc3-6e92-8083-913d-fde28163676f" class="">五、核心配置</h3></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-802a-b0f7-cfe1207037df" class="">•hook机制：结束完内容之后会自动更新知识库</p></div><div style="display:contents" dir="auto"><pre id="32c1cdc3-6e92-80ac-92a4-fca5b3271a14" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all">{
+  &quot;hooks&quot;: {
+    &quot;Stop&quot;: [
+      {
+        &quot;hooks&quot;: [
+          {
+            &quot;type&quot;: &quot;prompt&quot;,
+            &quot;prompt&quot;: &quot;你正在评估当前对话上下文中的信息是否需要更新到知识库中。背景信息：$ARGUMENTS\n\n分析对话内容并判断是否应该更新到知识库中。\n\n## 评估标准\n\n### 需要更新知识库的情况（任一满足即可）：\n\n**1. 技术发现与解决方案**\n- 发现新的技术方案、工具使用方法或最佳实践\n- 解决了复杂的技术问题，有参考价值的排查经验\n- 发现了框架/库的特定用法或陷阱\n\n**2. 架构与设计变更**\n- 项目架构调整、模块职责变化\n- 新的设计模式应用或重构经验\n- 接口定义、调用关系的重要变更\n\n**3. 代码规范与约定**\n- 新的编码规范或命名约定\n- 特殊的代码组织方式或项目结构调整\n- 重要的代码风格要求\n\n**4. 业务逻辑知识**\n- 新的业务概念、领域知识\n- 业务流程变更、状态流转规则\n- 新的业务场景或用例\n\n**5. 配置与环境**\n- 新的配置项、环境变量\n- 依赖版本升级及兼容性说明\n- 部署方式、启动参数变更\n\n**6. API与服务集成**\n- 外部服务的调用方式、接口说明\n- API使用经验、限流、重试等配置\n- 集成问题的解决方案\n\n### 不需要更新的情况：\n- 简单的代码修改、bug修复\n- 临时性的调试信息\n- 重复已有知识的内容\n- 缺乏通用价值的临时方案\n- 无法验证的正确性\n- 仅提交代码\n\n## 回复格式\n\n以JSON格式回复：\n\n如果无需更新知识库，直接返回：\n{\&quot;ok\&quot;: true}\n\n如果需要更新知识库，返回：\n{\&quot;ok\&quot;: false, \&quot;decision\&quot;: \&quot;block\&quot;, \&quot;reason\&quot;: \&quot;详细说明应该更新什么内容，属于哪个评估类别，并要求更新到知识库\&quot;}&quot;
+          }
+        ]
+      }
+    ]
+  }
+}</code></pre></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-809e-b6db-df96b03bca86" class="">
+</p></div><div style="display:contents" dir="auto"><h3 id="32c1cdc3-6e92-807b-ad82-c84ed63fa402" class="">六、一些玩法<br/>6.1、安装claude code</h3></div><div style="display:contents" dir="auto"><pre id="32c1cdc3-6e92-8003-8036-fc38e3f080d6" class="code code-wrap"><code class="language-bash" style="white-space:pre-wrap;word-break:break-all"># 官方命令
+curl -fsSL https://openclaw.ai/install.sh | bash
+
+# 备用命令（如果上面的不行）
+curl -fsSL https://molt.bot/install.sh | bash
+curl -fsSL https://clawd.bot/install.sh | bash
+
+我想要安装openclaw，以上是安装命令，请你帮我操作</code></pre></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-8027-b7f4-f4f8cf16bc55" class="">
+</p></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-8098-9ddc-d3ecc2569673" class="">参考资源<br/><br/>•<a href="https://skills.sh/anthropics/skills%E2%80%8B">https://skills.sh/anthropics/skills</a> <a href="https://skills.sh/anthropics/skills">https://skills.sh/anthropics/skills</a><br/>•<a href="https://skillsmp.com/%E2%80%8B">https://skillsmp.com/</a>  <a href="https://skillsmp.com/">https://skillsmp.com/</a><br/>•Claude Code 官方文档 <a href="https://code.claude.com/docs/en/overview">https://code.claude.com/docs/en/overview</a><br/>•MCP 协议文档 <a href="https://code.claude.com/docs/en/mcp">https://code.claude.com/docs/en/mcp</a><br/>•MCP 插件目录 <a href="https://claudelog.com/claude-code-mcps/">https://claudelog.com/claude-code-mcps/</a><br/>•GitHub MCP Server  <a href="https://github.com/github/github-mcp-server">https://github.com/github/github-mcp-server</a></p></div><div style="display:contents" dir="auto"><p id="32c1cdc3-6e92-8076-b146-c69c5b7f188b" class="">
+</p></div></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>
