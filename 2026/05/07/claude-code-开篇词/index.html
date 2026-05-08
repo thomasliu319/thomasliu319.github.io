@@ -62,9 +62,22 @@
     </div>
   </div>
 </header>
+      
+<div id="dashboard-container" class="outer" style="padding: 20px 0;">
+        <div style="text-align:center; color:#999;">Loading...</div>
+      </div>
+      <script>
+        fetch('/widgets/dashboard.html')
+          .then(response => response.text())
+          .then(html => {
+            document.getElementById('dashboard-container').innerHTML = html;
+          })
+          .catch(err => console.error('Failed to load dashboard:', err));
+      </script>
+      
       <div class="outer">
         <section id="main">
-  
+   
     <article id="post-claude-code-开篇词" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/2026/05/07/claude-code-开篇词/" class="article-date">
