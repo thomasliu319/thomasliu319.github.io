@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md - Claude Code 工程化实战</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/prism.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-bash.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-javascript.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-python.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-json.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-yaml.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-css.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-markdown.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-typescript.min.js"></script>
+  <style>
+    .article-entry { max-width: 800px; margin: 0 auto; padding: 20px; }
+    .article-entry h1 { font-size: 2em; margin-bottom: 10px; }
+    .article-entry h2 { font-size: 1.5em; margin: 1.5em 0 0.5em; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+    .article-entry h3 { font-size: 1.25em; margin: 1.25em 0 0.5em; }
+    .article-entry p { line-height: 1.8; margin: 1em 0; }
+    .article-entry ul, .article-entry ol { line-height: 1.8; padding-left: 2em; }
+    .article-entry li { margin: 0.5em 0; }
+    .article-entry pre { margin: 1em 0; padding: 1em; background: #f6f8fa; border-radius: 6px; overflow-x: auto; }
+    .article-entry code { font-family: 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 0.9em; }
+    .article-entry img { max-width: 100%; height: auto; margin: 1em 0; }
+    .article-entry blockquote { margin: 1em 0; padding: 0.5em 1em; border-left: 4px solid #ddd; background: #f9f9f9; }
+    .article-entry table { width: 100%; border-collapse: collapse; margin: 1em 0; }
+    .article-entry th, .article-entry td { border: 1px solid #ddd; padding: 8px 12px; text-align: left; }
+    .article-entry th { background: #f6f8fa; }
+    .article-entry a { color: #0366d6; text-decoration: none; }
+    .article-entry a:hover { text-decoration: underline; }
+    .article-entry audio { width: 100%; margin: 1em 0; }
+    .article-entry .audio-title { font-size: 0.9em; color: #666; margin-bottom: 5px; }
+    .article-entry strong { font-weight: 600; }
+    figure { margin: 1em 0; }
+    figcaption { font-size: 0.9em; color: #666; text-align: center; margin-top: 5px; }
+  </style>
+</head>
+<body>
+  <div id="layout">
+    <header id="header">
+      <div class="header-inner">
+        <a href="/" class="logo">Thomas Liu</a>
+        <nav class="header-nav">
+          <a href="/">Home</a>
+          <a href="/archives">Archives</a>
+          <a href="/tags">Tags</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main">
+      <div class="main-inner">
+        <article class="article">
+          <header class="article-header">
+            <h1 itemprop="name">02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md</h1>
+            <div class="article-meta">
+              <time datetime="2026-05-09" itemprop="datePublished">2026-05-09</time>
+              <span class="article-tag">
+                <a href="/tags/Claude-Code-工程化实战/">Claude Code 工程化实战</a>
+              </span>
+            </div>
+          </header>
+          <div class="article-entry" id="article-content" itemprop="articleBody">
+            <p>Loading...</p>
+          </div>
+        </article>
+        <aside class="sidebar">
+          <div class="widget-wrap">
+            <h3 class="widget-title">Tags</h3>
+            <div class="widget">
+              <div class="tag-list">
+                <a href="/tags/Claude-Code-工程化实战/">Claude Code 工程化实战</a>
+              </div>
+            </div>
+          </div>
+          <div id="dashboard-container"></div>
+        </aside>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="footer-inner">
+        <p>&copy; 2026 Thomas Liu. Built with Hexo.</p>
+      </div>
+    </footer>
+  </div>
+  <script>
+    async function loadMarkdown() {
+      try {
+        const response = await fetch('/Clippings/Claude Code 工程化实战/02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间.md');
+        const mdContent = await response.text();
+        
+        const contentDiv = document.getElementById('article-content');
+        
+        const frontMatterMatch = mdContent.match(/^---\n([\s\S]*?)\n---\n/);
+        let content = mdContent;
+        if (frontMatterMatch) {
+          content = mdContent.slice(frontMatterMatch[0].length);
+        }
+        
+        marked.setOptions({
+          breaks: true,
+          gfm: true
+        });
+        
+        const html = marked.parse(content);
+        contentDiv.innerHTML = html;
+        
+        Prism.highlightAllUnder(contentDiv);
+      } catch (error) {
+        document.getElementById('article-content').innerHTML = '<p>Failed to load content.</p>';
+        console.error('Error loading markdown:', error);
+      }
+    }
+    
+    loadMarkdown();
+    
+    fetch('/widgets/dashboard.html')
+      .then(response => response.text())
+      .then(html => {
+        document.getElementById('dashboard-container').innerHTML = html;
+      });
+  </script>
+</body>
+</html>
