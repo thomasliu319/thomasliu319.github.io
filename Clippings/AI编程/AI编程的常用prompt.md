@@ -1,4 +1,14 @@
-# AI编程的常用prompt
+---
+title: AI编程的常用prompt
+source: https://bouncy-crawdad-10e.notion.site/AI-prompt-3271cdc36e928013a2f2daf5be2af80a?source=copy_link
+author:
+  - thomas
+published:
+created: 2026-05-09
+description: AI编程的常用prompt。
+tags:
+  - AI编程
+---
 
 ### 一、生成知识库
 2.1、新项目
