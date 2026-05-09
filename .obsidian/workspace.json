@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Claude Code 工程化实战/01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间.md",
+                "file": "Clippings/Claude Code 工程化实战/02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间"
+              "title": "02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Claude Code 工程化实战/01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间.md",
+                "file": "Clippings/Claude Code 工程化实战/02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间 的反向链接列表"
+              "title": "02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/Claude Code 工程化实战/01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间.md",
+                "file": "Clippings/Claude Code 工程化实战/02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间 的出链列表"
+              "title": "02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Claude Code 工程化实战/01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间.md",
+                "file": "Clippings/Claude Code 工程化实战/02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间 的大纲"
+              "title": "02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间 的大纲"
             }
           }
         ]
@@ -185,6 +185,11 @@
   },
   "active": "1c53fd11a359c0c7",
   "lastOpenFiles": [
+    "Clippings/Claude Code 工程化实战/01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间.md",
+    "Clippings/Claude Code 工程化实战/00 ｜ 开篇词｜共生而非替代：极客和 AI 的共舞-Claude Code 工程化实战-极客时间.md",
+    "83dd09b3-4e6f-44bf-9ad0-f94034153bdc_ExportBlock-0755a75b-d56a-4950-adaa-a7ba7fe8e498.zip",
+    "95a7921b-e141-4b3d-968b-699ea8339fd4_ExportBlock-6b2159ad-5bad-4b9c-ad80-e20502b5a9ca.zip",
+    "Clippings/Claude Code 工程化实战/02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间.md",
     "tags/Claude-Code-工程化实战/index.html",
     "tags/Claude-Code-工程化实战",
     "archives/2026/05/09/index.html",
@@ -192,12 +197,6 @@
     "2026/05/09/02-过目不忘-claude-code-记忆系统与-claudemd/index.html",
     "2026/05/09/02-过目不忘-claude-code-记忆系统与-claudemd",
     "2026/05/09",
-    "Clippings/Claude Code 工程化实战/02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间.md",
-    "Clippings/Claude Code 工程化实战/01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间.md",
-    "Clippings/Claude Code 工程化实战/00 ｜ 开篇词｜共生而非替代：极客和 AI 的共舞-Claude Code 工程化实战-极客时间.md",
-    "Clippings/Claude Code 工程化实战",
-    "未命名.base",
-    "Clippings",
-    "阿里巴巴Java开发手册.pdf"
+    "Clippings/Claude Code 工程化实战"
   ]
 }
