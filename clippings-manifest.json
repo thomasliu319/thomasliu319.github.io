@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T08:04:30.450Z",
+  "generatedAt": "2026-05-09T09:35:38.305Z",
   "siteName": "Thomas Liu",
   "tags": [
     {
@@ -10,8 +10,8 @@
         {
           "slug": "ai编程的常用prompt",
           "title": "AI编程的常用prompt",
-          "created": "",
-          "excerpt": "AI编程的常用prompt 一、生成知识库 2.1、新项目 bash 角色 你现在的角色是【产品架构设计专家】,擅长解析产品需求文档（PRD），提炼业务流程与领域知识， 生成结构化的技术文档，帮助团队成员在开发前快速建立对项目的整体认知， ",
+          "created": "2026-05-09",
+          "excerpt": "AI编程的常用prompt。",
           "url": "/posts/ai%E7%BC%96%E7%A8%8B/ai%E7%BC%96%E7%A8%8B%E7%9A%84%E5%B8%B8%E7%94%A8prompt/",
           "mdPath": "/Clippings/AI编程/AI编程的常用prompt.md"
         }
@@ -20,7 +20,7 @@
     {
       "name": "Claude Code 工程化实战",
       "slug": "claude-code-工程化实战",
-      "count": 3,
+      "count": 4,
       "posts": [
         {
           "slug": "00-开篇词-共生而非替代-极客和-ai-的共舞",
@@ -45,11 +45,30 @@
           "excerpt": "Claude Code记忆系统是一种五层级的记忆架构，用于解决与AI合作时的“失忆症”问题。通过精简、具体、渐进式披露和关键三问题原则，CLAUDE.md编写能提高工作效率，适用于大型项目和复杂团队。文章介绍了如何编写高效的CLAUDE.m",
           "url": "/posts/claude-code-%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E6%88%98/02-%E8%BF%87%E7%9B%AE%E4%B8%8D%E5%BF%98-claude-code-%E8%AE%B0%E5%BF%86%E7%B3%BB%E7%BB%9F%E4%B8%8E-claude-md/",
           "mdPath": "/Clippings/Claude Code 工程化实战/02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "03-分而治之-sub-agents-的核心概念与应用价值",
+          "title": "03｜分而治之：Sub-Agents 的核心概念与应用价值",
+          "created": "2026-05-09",
+          "excerpt": "子代理(Sub-Agents)是Claude Code工程化实战中的核心概念，旨在解决上下文污染问题。通过隔离、约束和复用，有效地将执行过程中的噪声隔离出去，只保留有价值的结论。子代理的配置文件格式和位置，以及创建方式都得到了详细的介绍。子",
+          "url": "/posts/claude-code-%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E6%88%98/03-%E5%88%86%E8%80%8C%E6%B2%BB%E4%B9%8B-sub-agents-%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%BA%94%E7%94%A8%E4%BB%B7%E5%80%BC/",
+          "mdPath": "/Clippings/Claude Code 工程化实战/03｜分而治之：Sub-Agents 的核心概念与应用价值-Claude Code 工程化实战-极客时间.md"
         }
       ]
     }
   ],
   "posts": [
+    {
+      "slug": "ai编程的常用prompt",
+      "title": "AI编程的常用prompt",
+      "created": "2026-05-09",
+      "excerpt": "AI编程的常用prompt。",
+      "url": "/posts/ai%E7%BC%96%E7%A8%8B/ai%E7%BC%96%E7%A8%8B%E7%9A%84%E5%B8%B8%E7%94%A8prompt/",
+      "mdPath": "/Clippings/AI编程/AI编程的常用prompt.md",
+      "tagName": "AI编程",
+      "tagSlug": "ai编程",
+      "source": "https://bouncy-crawdad-10e.notion.site/AI-prompt-3271cdc36e928013a2f2daf5be2af80a?source=copy_link"
+    },
     {
       "slug": "00-开篇词-共生而非替代-极客和-ai-的共舞",
       "title": "开篇词｜共生而非替代：极客和 AI 的共舞",
@@ -84,15 +103,15 @@
       "source": "https://time.geekbang.org/column/article/942948?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
     },
     {
-      "slug": "ai编程的常用prompt",
-      "title": "AI编程的常用prompt",
-      "created": "",
-      "excerpt": "AI编程的常用prompt 一、生成知识库 2.1、新项目 bash 角色 你现在的角色是【产品架构设计专家】,擅长解析产品需求文档（PRD），提炼业务流程与领域知识， 生成结构化的技术文档，帮助团队成员在开发前快速建立对项目的整体认知， ",
-      "url": "/posts/ai%E7%BC%96%E7%A8%8B/ai%E7%BC%96%E7%A8%8B%E7%9A%84%E5%B8%B8%E7%94%A8prompt/",
-      "mdPath": "/Clippings/AI编程/AI编程的常用prompt.md",
-      "tagName": "AI编程",
-      "tagSlug": "ai编程",
-      "source": ""
+      "slug": "03-分而治之-sub-agents-的核心概念与应用价值",
+      "title": "03｜分而治之：Sub-Agents 的核心概念与应用价值",
+      "created": "2026-05-09",
+      "excerpt": "子代理(Sub-Agents)是Claude Code工程化实战中的核心概念，旨在解决上下文污染问题。通过隔离、约束和复用，有效地将执行过程中的噪声隔离出去，只保留有价值的结论。子代理的配置文件格式和位置，以及创建方式都得到了详细的介绍。子",
+      "url": "/posts/claude-code-%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E6%88%98/03-%E5%88%86%E8%80%8C%E6%B2%BB%E4%B9%8B-sub-agents-%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%BA%94%E7%94%A8%E4%BB%B7%E5%80%BC/",
+      "mdPath": "/Clippings/Claude Code 工程化实战/03｜分而治之：Sub-Agents 的核心概念与应用价值-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code 工程化实战",
+      "tagSlug": "claude-code-工程化实战",
+      "source": "https://time.geekbang.org/column/article/943368?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
     }
   ]
 }
