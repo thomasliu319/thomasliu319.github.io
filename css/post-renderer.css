@@ -1,7 +1,103 @@
 /* ============================================================
    post-renderer.css
-   文章页 / Tag 页 / 首页通用增强样式
+   文章页 / Tag 页 / 首页 / 侧边栏通用增强样式
    ============================================================ */
+
+/* —— 侧边栏：Home 按钮 —— */
+.sidebar-home-link {
+  display: block;
+  text-align: center;
+  padding: 8px 0;
+  font-size: 14px;
+  font-weight: bold;
+  color: #258fb8;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+.sidebar-home-link:hover { text-decoration: underline; }
+
+/* —— 侧边栏：日历控件 —— */
+.sidebar-calendar {
+  padding: 10px 12px !important;
+}
+.cal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.cal-month-label {
+  font-size: 13px;
+  font-weight: bold;
+  color: #555;
+}
+.cal-prev,
+.cal-next {
+  background: none;
+  border: none;
+  font-size: 18px;
+  line-height: 1;
+  color: #999;
+  cursor: pointer;
+  padding: 0 4px;
+}
+.cal-prev:hover,
+.cal-next:hover { color: #258fb8; }
+
+.cal-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  color: #666;
+}
+.cal-table th {
+  text-align: center;
+  padding: 4px 2px;
+  color: #999;
+  font-weight: normal;
+  border: none;
+  background: none;
+}
+.cal-table td {
+  text-align: center;
+  padding: 4px 2px;
+  border: none;
+  background: none;
+  border-radius: 50%;
+}
+.cal-table td.cal-today {
+  background: #258fb8;
+  color: #fff;
+  border-radius: 50%;
+  font-weight: bold;
+}
+
+/* —— 侧边栏：Tags 列表 —— */
+.sidebar-tag-list {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.sidebar-tag-list li { margin: 4px 0; }
+.sidebar-tag-list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #258fb8 !important;
+  text-decoration: none;
+  font-size: 13px;
+  padding: 3px 2px;
+}
+.sidebar-tag-list a:hover { text-decoration: underline !important; }
+.sidebar-tag-count {
+  background: rgba(0,0,0,0.1);
+  color: #777;
+  font-size: 11px;
+  padding: 1px 7px;
+  border-radius: 10px;
+  min-width: 20px;
+  text-align: center;
+}
 
 /* —— 文章页 —— */
 .post-article {

@@ -183,18 +183,21 @@ ${dashboard()}
             <nav class="post-nav"></nav>
           </article>
         </section>
+        <aside id="sidebar">
+          <div class="sidebar-inner"></div>
+        </aside>
       </div>
 
     </div>
 ${footer()}
   </div>
-${mobileNav()}
 
   <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism-tomorrow.min.css">
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-core.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/plugins/autoloader/prism-autoloader.min.js"></script>
   <script src="/js/post-renderer.js"></script>
+  <script src="/js/sidebar.js"></script>
 </body>
 </html>
 `;
@@ -231,14 +234,15 @@ ${dashboard()}
           <ul class="post-list">${items}
           </ul>
         </section>
+        <aside id="sidebar">
+          <div class="sidebar-inner"></div>
+        </aside>
       </div>
 
     </div>
 ${footer()}
   </div>
-${mobileNav()}
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-  <script src="/js/script.js"></script>
+  <script src="/js/sidebar.js"></script>
 </body>
 </html>
 `;
@@ -272,14 +276,15 @@ ${dashboard()}
           <div class="tag-cards">${cards}
           </div>
         </section>
+        <aside id="sidebar">
+          <div class="sidebar-inner"></div>
+        </aside>
       </div>
 
     </div>
 ${footer()}
   </div>
-${mobileNav()}
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-  <script src="/js/script.js"></script>
+  <script src="/js/sidebar.js"></script>
 </body>
 </html>
 `;
@@ -317,14 +322,15 @@ ${dashboard()}
           <ul class="post-list">${items}
           </ul>
         </section>
+        <aside id="sidebar">
+          <div class="sidebar-inner"></div>
+        </aside>
       </div>
 
     </div>
 ${footer()}
   </div>
-${mobileNav()}
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-  <script src="/js/script.js"></script>
+  <script src="/js/sidebar.js"></script>
 </body>
 </html>
 `;
@@ -361,16 +367,15 @@ ${dashboard()}
           </div>
           <div class="home-more"><a href="/posts/">查看全部 →</a></div>
         </section>
+        <aside id="sidebar">
+          <div class="sidebar-inner"></div>
+        </aside>
       </div>
 
     </div>
 ${footer()}
   </div>
-${mobileNav()}
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
-  <script src="/fancybox/jquery.fancybox.pack.js"></script>
-  <script src="/js/script.js"></script>
+  <script src="/js/sidebar.js"></script>
 </body>
 </html>
 `;
@@ -412,14 +417,15 @@ ${dashboard()}
           <div class="archive-blocks">${blocks}
           </div>
         </section>
+        <aside id="sidebar">
+          <div class="sidebar-inner"></div>
+        </aside>
       </div>
 
     </div>
 ${footer()}
   </div>
-${mobileNav()}
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-  <script src="/js/script.js"></script>
+  <script src="/js/sidebar.js"></script>
 </body>
 </html>
 `;
