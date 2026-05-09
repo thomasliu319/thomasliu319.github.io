@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-05-09T07:44:36.205Z",
+  "generatedAt": "2026-05-09T08:04:30.450Z",
   "siteName": "Thomas Liu",
   "tags": [
+    {
+      "name": "AI编程",
+      "slug": "ai编程",
+      "count": 1,
+      "posts": [
+        {
+          "slug": "ai编程的常用prompt",
+          "title": "AI编程的常用prompt",
+          "created": "",
+          "excerpt": "AI编程的常用prompt 一、生成知识库 2.1、新项目 bash 角色 你现在的角色是【产品架构设计专家】,擅长解析产品需求文档（PRD），提炼业务流程与领域知识， 生成结构化的技术文档，帮助团队成员在开发前快速建立对项目的整体认知， ",
+          "url": "/posts/ai%E7%BC%96%E7%A8%8B/ai%E7%BC%96%E7%A8%8B%E7%9A%84%E5%B8%B8%E7%94%A8prompt/",
+          "mdPath": "/Clippings/AI编程/AI编程的常用prompt.md"
+        }
+      ]
+    },
     {
       "name": "Claude Code 工程化实战",
       "slug": "claude-code-工程化实战",
@@ -67,6 +82,17 @@
       "tagName": "Claude Code 工程化实战",
       "tagSlug": "claude-code-工程化实战",
       "source": "https://time.geekbang.org/column/article/942948?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "ai编程的常用prompt",
+      "title": "AI编程的常用prompt",
+      "created": "",
+      "excerpt": "AI编程的常用prompt 一、生成知识库 2.1、新项目 bash 角色 你现在的角色是【产品架构设计专家】,擅长解析产品需求文档（PRD），提炼业务流程与领域知识， 生成结构化的技术文档，帮助团队成员在开发前快速建立对项目的整体认知， ",
+      "url": "/posts/ai%E7%BC%96%E7%A8%8B/ai%E7%BC%96%E7%A8%8B%E7%9A%84%E5%B8%B8%E7%94%A8prompt/",
+      "mdPath": "/Clippings/AI编程/AI编程的常用prompt.md",
+      "tagName": "AI编程",
+      "tagSlug": "ai编程",
+      "source": ""
     }
   ]
 }
