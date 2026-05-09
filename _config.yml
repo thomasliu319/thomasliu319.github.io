@@ -1,0 +1,11 @@
+url: https://thomasliu319.github.io
+root: /
+source: Clippings
+public_dir: public
+theme: landscape
+deploy:
+  type: git
+  repo: https://github.com/thomasliu319/thomasliu319.github.io
+  branch: master
+new_post_name: :title.markdown
+default_layout: post

@@ -1,0 +1,72 @@
+{
+  "generatedAt": "2026-05-09T07:05:08.060Z",
+  "siteName": "Thomas Liu",
+  "tags": [
+    {
+      "name": "Claude Code 工程化实战",
+      "slug": "claude-code-工程化实战",
+      "count": 3,
+      "posts": [
+        {
+          "slug": "00-开篇词-共生而非替代-极客和-ai-的共舞",
+          "title": "开篇词｜共生而非替代：极客和 AI 的共舞",
+          "created": "2026-05-09",
+          "excerpt": "AI编程工具Claude Code的革新，不仅提高编码效率，更是一种新的工作范式，通过Sub-Agents和Skills概念实现任务拆解和智能协作。AI的发展让更多人获得极客精神，从“会写代码”转变为“用技术解决问题”。",
+          "url": "/posts/claude-code-%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E6%88%98/00-%E5%BC%80%E7%AF%87%E8%AF%8D-%E5%85%B1%E7%94%9F%E8%80%8C%E9%9D%9E%E6%9B%BF%E4%BB%A3-%E6%9E%81%E5%AE%A2%E5%92%8C-ai-%E7%9A%84%E5%85%B1%E8%88%9E/",
+          "mdPath": "/Clippings/Claude Code 工程化实战/00 ｜ 开篇词｜共生而非替代：极客和 AI 的共舞-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "01-登台远望-claude-code-底层技术全景导览",
+          "title": "01｜登台远望：Claude Code 底层技术全景导览",
+          "created": "2026-05-09",
+          "excerpt": "Claude Code是一个可编程、可扩展、可组合的AI Agent框架，支持用户自定义工作流。它包括Skills、SubAgents、Hooks和集成层等核心组件，以及Agent SDK接口层。该框架通过技能触发、数据流向和插件打包等方式",
+          "url": "/posts/claude-code-%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E6%88%98/01-%E7%99%BB%E5%8F%B0%E8%BF%9C%E6%9C%9B-claude-code-%E5%BA%95%E5%B1%82%E6%8A%80%E6%9C%AF%E5%85%A8%E6%99%AF%E5%AF%BC%E8%A7%88/",
+          "mdPath": "/Clippings/Claude Code 工程化实战/01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "02-过目不忘-claude-code-记忆系统与-claude-md",
+          "title": "02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md",
+          "created": "2026-05-09",
+          "excerpt": "Claude Code记忆系统是一种五层级的记忆架构，用于解决与AI合作时的“失忆症”问题。通过精简、具体、渐进式披露和关键三问题原则，CLAUDE.md编写能提高工作效率，适用于大型项目和复杂团队。文章介绍了如何编写高效的CLAUDE.m",
+          "url": "/posts/claude-code-%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E6%88%98/02-%E8%BF%87%E7%9B%AE%E4%B8%8D%E5%BF%98-claude-code-%E8%AE%B0%E5%BF%86%E7%B3%BB%E7%BB%9F%E4%B8%8E-claude-md/",
+          "mdPath": "/Clippings/Claude Code 工程化实战/02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间.md"
+        }
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "slug": "00-开篇词-共生而非替代-极客和-ai-的共舞",
+      "title": "开篇词｜共生而非替代：极客和 AI 的共舞",
+      "created": "2026-05-09",
+      "excerpt": "AI编程工具Claude Code的革新，不仅提高编码效率，更是一种新的工作范式，通过Sub-Agents和Skills概念实现任务拆解和智能协作。AI的发展让更多人获得极客精神，从“会写代码”转变为“用技术解决问题”。",
+      "url": "/posts/claude-code-%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E6%88%98/00-%E5%BC%80%E7%AF%87%E8%AF%8D-%E5%85%B1%E7%94%9F%E8%80%8C%E9%9D%9E%E6%9B%BF%E4%BB%A3-%E6%9E%81%E5%AE%A2%E5%92%8C-ai-%E7%9A%84%E5%85%B1%E8%88%9E/",
+      "mdPath": "/Clippings/Claude Code 工程化实战/00 ｜ 开篇词｜共生而非替代：极客和 AI 的共舞-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code 工程化实战",
+      "tagSlug": "claude-code-工程化实战",
+      "source": "https://time.geekbang.org/column/article/942422?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "01-登台远望-claude-code-底层技术全景导览",
+      "title": "01｜登台远望：Claude Code 底层技术全景导览",
+      "created": "2026-05-09",
+      "excerpt": "Claude Code是一个可编程、可扩展、可组合的AI Agent框架，支持用户自定义工作流。它包括Skills、SubAgents、Hooks和集成层等核心组件，以及Agent SDK接口层。该框架通过技能触发、数据流向和插件打包等方式",
+      "url": "/posts/claude-code-%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E6%88%98/01-%E7%99%BB%E5%8F%B0%E8%BF%9C%E6%9C%9B-claude-code-%E5%BA%95%E5%B1%82%E6%8A%80%E6%9C%AF%E5%85%A8%E6%99%AF%E5%AF%BC%E8%A7%88/",
+      "mdPath": "/Clippings/Claude Code 工程化实战/01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code 工程化实战",
+      "tagSlug": "claude-code-工程化实战",
+      "source": "https://time.geekbang.org/column/article/942438?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "02-过目不忘-claude-code-记忆系统与-claude-md",
+      "title": "02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md",
+      "created": "2026-05-09",
+      "excerpt": "Claude Code记忆系统是一种五层级的记忆架构，用于解决与AI合作时的“失忆症”问题。通过精简、具体、渐进式披露和关键三问题原则，CLAUDE.md编写能提高工作效率，适用于大型项目和复杂团队。文章介绍了如何编写高效的CLAUDE.m",
+      "url": "/posts/claude-code-%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E6%88%98/02-%E8%BF%87%E7%9B%AE%E4%B8%8D%E5%BF%98-claude-code-%E8%AE%B0%E5%BF%86%E7%B3%BB%E7%BB%9F%E4%B8%8E-claude-md/",
+      "mdPath": "/Clippings/Claude Code 工程化实战/02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code 工程化实战",
+      "tagSlug": "claude-code-工程化实战",
+      "source": "https://time.geekbang.org/column/article/942948?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    }
+  ]
+}
