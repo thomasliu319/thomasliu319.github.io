@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Clippings/AI编程/AI编程的常用prompt.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -183,15 +183,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "27822b036f45ca61",
+  "active": "19b551dd2aaa3677",
   "lastOpenFiles": [
+    "Clippings/AI编程/AI编程的常用prompt.md",
     "tags/ai编程/index.html",
     "tags/ai编程",
     "posts/ai编程/ai编程的常用prompt/index.html",
     "posts/ai编程/ai编程的常用prompt",
     "posts/ai编程",
-    "Clippings/AI编程/AI编程的常用prompt.md",
-    "Clippings/AI编程/AI编程的常用prompt.md",
     "Clippings/AI编程/image.png",
     "Clippings/AI编程/ExportBlock-7ca56e82-300b-4529-8c11-29fb136d725f-Part-1/AI编程的常用prompt/image.png",
     "Clippings/AI编程/ExportBlock-7ca56e82-300b-4529-8c11-29fb136d725f-Part-1/AI编程的常用prompt 3271cdc36e928013a2f2daf5be2af80a.md",
@@ -203,7 +202,6 @@
     "CLAUDE.md",
     "Clippings/AI编程",
     "Clippings/Claude Code 工程化实战/00 ｜ 开篇词｜共生而非替代：极客和 AI 的共舞-Claude Code 工程化实战-极客时间.md",
-    "js/sidebar.js",
     "source/_posts/hello.md",
     "source/_posts/2026-05-09-02｜过目不忘：Claude Code 记忆系统与 CLAUDE.md-Claude Code 工程化实战-极客时间.md",
     "source/_posts/2026-05-09-01｜登台远望：Claude Code 底层技术全景导览-Claude Code 工程化实战-极客时间.md",
