@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <title>ELK - Thomas Liu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="ELK - Thomas Liu">
+  <meta property="og:site_name" content="Thomas Liu">
+  <meta property="og:locale" content="zh_CN">
+  <link rel="icon" href="/favicon.png">
+  <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/post-renderer.css">
+</head>
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+        <div id="banner"></div>
+        <div id="header-outer" class="outer">
+          <div id="header-title" class="inner">
+            <h1 id="logo-wrap">
+              <a href="/" id="logo">Thomas Liu</a>
+            </h1>
+          </div>
+        </div>
+      </header>
+
+      <div id="dashboard-container" class="outer" style="padding: 20px 0;">
+        <div style="text-align:center; color:#999;">Loading...</div>
+      </div>
+      <script>
+        fetch('/widgets/dashboard.html')
+          .then(r => r.text())
+          .then(html => { document.getElementById('dashboard-container').innerHTML = html; })
+          .catch(err => console.error('dashboard load failed:', err));
+      </script>
+
+      <div class="outer">
+        <section id="main" class="tag-page">
+          <header class="tag-header">
+            <h1 class="tag-title">#ELK</h1>
+            <p class="tag-count">0 篇文章</p>
+          </header>
+          <ul class="post-list">
+          </ul>
+        </section>
+        <aside id="sidebar">
+          <div class="sidebar-inner"></div>
+        </aside>
+      </div>
+
+    </div>
+    <footer id="footer">
+      <div class="outer">
+        <div id="footer-info" class="inner">
+          &copy; 2026 thomasliu<br>
+          内容采集自极客时间，仅作个人学习笔记使用
+        </div>
+      </div>
+    </footer>
+  </div>
+  <script src="/js/sidebar.js"></script>
+</body>
+</html>
