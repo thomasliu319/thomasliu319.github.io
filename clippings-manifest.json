@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-10T03:42:11.094Z",
+  "generatedAt": "2026-05-11T01:55:32.148Z",
   "siteName": "Thomas Liu",
   "tags": [
     {
       "name": "AI Coding",
       "slug": "ai-coding",
-      "count": 1,
+      "count": 2,
       "posts": [
         {
           "slug": "ai编程的常用prompt",
@@ -14,13 +14,21 @@
           "excerpt": "AI编程的常用prompt。",
           "url": "/posts/ai-coding/ai%E7%BC%96%E7%A8%8B%E7%9A%84%E5%B8%B8%E7%94%A8prompt/",
           "mdPath": "/Clippings/AI Coding/AI编程的常用prompt.md"
+        },
+        {
+          "slug": "claude-code安装与核心插件配置指南",
+          "title": "Claude Code安装与核心插件配置指南",
+          "created": "2026-05-11",
+          "excerpt": "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team's pr",
+          "url": "/posts/ai-coding/claude-code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/",
+          "mdPath": "/Clippings/AI Coding/Claude Code安装与核心插件配置指南.md"
         }
       ]
     },
     {
       "name": "Claude Code Action",
       "slug": "claude-code-action",
-      "count": 6,
+      "count": 9,
       "posts": [
         {
           "slug": "00-开篇词-共生而非替代-极客和-ai-的共舞",
@@ -69,6 +77,30 @@
           "excerpt": "本文介绍了如何构建只读型的安全审计子代理，以及为何需要这样的子代理。通过分析代码审查的工程痛点，设计了一个从痛点出发、反推设计的工程思维。文章还详细介绍了代码审查子代理的配置和功能，以及在实际项目中的应用场景和设计思路。文章强调了子代理的配",
           "url": "/posts/claude-code-action/05-%E6%98%8E%E5%AF%9F%E7%A7%8B%E6%AF%AB-%E6%9E%84%E5%BB%BA%E5%8F%AA%E8%AF%BB%E5%9E%8B%E5%AE%89%E5%85%A8%E5%AE%A1%E8%AE%A1%E5%AD%90%E4%BB%A3%E7%90%86/",
           "mdPath": "/Clippings/Claude Code Action/05｜明察秋毫 ：构建只读型安全审计子代理-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "06-去芜存菁-高噪声任务处理——测试运行器与日志分析器",
+          "title": "06｜去芜存菁 ：高噪声任务处理——测试运行器与日志分析器",
+          "created": "2026-05-11",
+          "excerpt": "本文介绍了处理高噪声任务的方法，通过创建测试运行器和日志分析器来隔离噪声，提高效率。强调了信噪比决策框架的重要性，以及如何使用子代理来处理高噪声场景。通过实例展示了测试运行器和日志分析器的配置和使用方法，以及输出格式设计的重要性。文章总结了",
+          "url": "/posts/claude-code-action/06-%E5%8E%BB%E8%8A%9C%E5%AD%98%E8%8F%81-%E9%AB%98%E5%99%AA%E5%A3%B0%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86%E2%80%94%E2%80%94%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C%E5%99%A8%E4%B8%8E%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E5%99%A8/",
+          "mdPath": "/Clippings/Claude Code Action/06｜去芜存菁 ：高噪声任务处理——测试运行器与日志分析器-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "07-百舸争流-多任务并行探索与流水线编排",
+          "title": "07｜百舸争流：多任务并行探索与流水线编排",
+          "created": "2026-05-11",
+          "excerpt": "本文总结了并行探索和流水线编排在工程化实战中的应用，强调了任务独立性和信息依赖的重要性。并行探索支持多个子代理同时工作，适合独立任务的同时处理，提供快速 + 清洁的上下文，其核心价值是速度 + 独立性。流水线编排支持多个子代理顺序工作，适合",
+          "url": "/posts/claude-code-action/07-%E7%99%BE%E8%88%B8%E4%BA%89%E6%B5%81-%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%B9%B6%E8%A1%8C%E6%8E%A2%E7%B4%A2%E4%B8%8E%E6%B5%81%E6%B0%B4%E7%BA%BF%E7%BC%96%E6%8E%92/",
+          "mdPath": "/Clippings/Claude Code Action/07｜百舸争流：多任务并行探索与流水线编排-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "08-群策群力-agent-teams-多会话协作架构",
+          "title": "08｜群策群力：Agent Teams 多会话协作架构",
+          "created": "2026-05-11",
+          "excerpt": "Agent Teams 是 Claude Code 的实验性功能，通过团队协作模式，让代理之间能够直接交流、互相挑战、协作推进。文章介绍了Agent Teams的创建和使用方式，并提供了一个实战项目示例。此外，文章还总结了Agent Tea",
+          "url": "/posts/claude-code-action/08-%E7%BE%A4%E7%AD%96%E7%BE%A4%E5%8A%9B-agent-teams-%E5%A4%9A%E4%BC%9A%E8%AF%9D%E5%8D%8F%E4%BD%9C%E6%9E%B6%E6%9E%84/",
+          "mdPath": "/Clippings/Claude Code Action/08｜群策群力：Agent Teams 多会话协作架构-Claude Code 工程化实战-极客时间.md"
         }
       ]
     },
@@ -161,6 +193,12 @@
       "posts": []
     },
     {
+      "name": "Multi-Agent Design and Engineering Camp",
+      "slug": "multi-agent-design-and-engineering-camp",
+      "count": 0,
+      "posts": []
+    },
+    {
       "name": "TCP:IP Analysis",
       "slug": "tcp-ip-analysis",
       "count": 0,
@@ -236,6 +274,50 @@
     }
   ],
   "posts": [
+    {
+      "slug": "claude-code安装与核心插件配置指南",
+      "title": "Claude Code安装与核心插件配置指南",
+      "created": "2026-05-11",
+      "excerpt": "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team's pr",
+      "url": "/posts/ai-coding/claude-code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/",
+      "mdPath": "/Clippings/AI Coding/Claude Code安装与核心插件配置指南.md",
+      "tagName": "AI Coding",
+      "tagSlug": "ai-coding",
+      "source": "https://www.notion.so/Claude-Code-3271cdc36e928063906df043fb56dbd2"
+    },
+    {
+      "slug": "06-去芜存菁-高噪声任务处理——测试运行器与日志分析器",
+      "title": "06｜去芜存菁 ：高噪声任务处理——测试运行器与日志分析器",
+      "created": "2026-05-11",
+      "excerpt": "本文介绍了处理高噪声任务的方法，通过创建测试运行器和日志分析器来隔离噪声，提高效率。强调了信噪比决策框架的重要性，以及如何使用子代理来处理高噪声场景。通过实例展示了测试运行器和日志分析器的配置和使用方法，以及输出格式设计的重要性。文章总结了",
+      "url": "/posts/claude-code-action/06-%E5%8E%BB%E8%8A%9C%E5%AD%98%E8%8F%81-%E9%AB%98%E5%99%AA%E5%A3%B0%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86%E2%80%94%E2%80%94%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C%E5%99%A8%E4%B8%8E%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E5%99%A8/",
+      "mdPath": "/Clippings/Claude Code Action/06｜去芜存菁 ：高噪声任务处理——测试运行器与日志分析器-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/944525"
+    },
+    {
+      "slug": "07-百舸争流-多任务并行探索与流水线编排",
+      "title": "07｜百舸争流：多任务并行探索与流水线编排",
+      "created": "2026-05-11",
+      "excerpt": "本文总结了并行探索和流水线编排在工程化实战中的应用，强调了任务独立性和信息依赖的重要性。并行探索支持多个子代理同时工作，适合独立任务的同时处理，提供快速 + 清洁的上下文，其核心价值是速度 + 独立性。流水线编排支持多个子代理顺序工作，适合",
+      "url": "/posts/claude-code-action/07-%E7%99%BE%E8%88%B8%E4%BA%89%E6%B5%81-%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%B9%B6%E8%A1%8C%E6%8E%A2%E7%B4%A2%E4%B8%8E%E6%B5%81%E6%B0%B4%E7%BA%BF%E7%BC%96%E6%8E%92/",
+      "mdPath": "/Clippings/Claude Code Action/07｜百舸争流：多任务并行探索与流水线编排-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/945070"
+    },
+    {
+      "slug": "08-群策群力-agent-teams-多会话协作架构",
+      "title": "08｜群策群力：Agent Teams 多会话协作架构",
+      "created": "2026-05-11",
+      "excerpt": "Agent Teams 是 Claude Code 的实验性功能，通过团队协作模式，让代理之间能够直接交流、互相挑战、协作推进。文章介绍了Agent Teams的创建和使用方式，并提供了一个实战项目示例。此外，文章还总结了Agent Tea",
+      "url": "/posts/claude-code-action/08-%E7%BE%A4%E7%AD%96%E7%BE%A4%E5%8A%9B-agent-teams-%E5%A4%9A%E4%BC%9A%E8%AF%9D%E5%8D%8F%E4%BD%9C%E6%9E%B6%E6%9E%84/",
+      "mdPath": "/Clippings/Claude Code Action/08｜群策群力：Agent Teams 多会话协作架构-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/945358"
+    },
     {
       "slug": "04-量体裁衣-从-sub-agents-到-multi-agent-的工程指南",
       "title": "04｜量体裁衣：从 Sub-Agents 到 Multi-Agent 的工程指南",

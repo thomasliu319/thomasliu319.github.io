@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Thomas Liu Blog",
   "scripts": {
-    "manifest": "node scripts/generate-manifest.js"
+    "manifest": "node scripts/generate-manifest.js",
+    "dev": "python3 -m http.server 8341"
   }
 }
