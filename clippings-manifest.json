@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T01:55:02.901Z",
+  "generatedAt": "2026-05-12T15:58:26.992Z",
   "siteName": "Thomas Liu",
   "tags": [
     {
@@ -28,7 +28,7 @@
     {
       "name": "Claude Code Action",
       "slug": "claude-code-action",
-      "count": 9,
+      "count": 10,
       "posts": [
         {
           "slug": "00-开篇词-共生而非替代-极客和-ai-的共舞",
@@ -101,6 +101,14 @@
           "excerpt": "Agent Teams 是 Claude Code 的实验性功能，通过团队协作模式，让代理之间能够直接交流、互相挑战、协作推进。文章介绍了Agent Teams的创建和使用方式，并提供了一个实战项目示例。此外，文章还总结了Agent Tea",
           "url": "/posts/claude-code-action/08-%E7%BE%A4%E7%AD%96%E7%BE%A4%E5%8A%9B-agent-teams-%E5%A4%9A%E4%BC%9A%E8%AF%9D%E5%8D%8F%E4%BD%9C%E6%9E%B6%E6%9E%84/",
           "mdPath": "/Clippings/Claude Code Action/08｜群策群力：Agent Teams 多会话协作架构-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "加餐-子代理专题总结-&-春节练习",
+          "title": "加餐｜子代理专题总结 & 春节练习",
+          "created": "2026-05-12",
+          "excerpt": "子代理专题总结：通过五讲学习，掌握了子代理的完整知识体系，包括结构化分工和协作型认知。四种使用模式和综合运用案例展示了子代理在工程场景中的应用。春节假期作业提供了思考题，引导学习者设计子代理编排方案，探讨AI排查和修复的风险。子代理真正解决",
+          "url": "/posts/claude-code-action/%E5%8A%A0%E9%A4%90-%E5%AD%90%E4%BB%A3%E7%90%86%E4%B8%93%E9%A2%98%E6%80%BB%E7%BB%93-&-%E6%98%A5%E8%8A%82%E7%BB%83%E4%B9%A0/",
+          "mdPath": "/Clippings/Claude Code Action/加餐｜子代理专题总结 & 春节练习-Claude Code 工程化实战-极客时间.md"
         }
       ]
     },
@@ -290,6 +298,17 @@
     }
   ],
   "posts": [
+    {
+      "slug": "加餐-子代理专题总结-&-春节练习",
+      "title": "加餐｜子代理专题总结 & 春节练习",
+      "created": "2026-05-12",
+      "excerpt": "子代理专题总结：通过五讲学习，掌握了子代理的完整知识体系，包括结构化分工和协作型认知。四种使用模式和综合运用案例展示了子代理在工程场景中的应用。春节假期作业提供了思考题，引导学习者设计子代理编排方案，探讨AI排查和修复的风险。子代理真正解决",
+      "url": "/posts/claude-code-action/%E5%8A%A0%E9%A4%90-%E5%AD%90%E4%BB%A3%E7%90%86%E4%B8%93%E9%A2%98%E6%80%BB%E7%BB%93-&-%E6%98%A5%E8%8A%82%E7%BB%83%E4%B9%A0/",
+      "mdPath": "/Clippings/Claude Code Action/加餐｜子代理专题总结 & 春节练习-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/945359"
+    },
     {
       "slug": "01-消息引擎系统abc",
       "title": "01 消息引擎系统ABC",
