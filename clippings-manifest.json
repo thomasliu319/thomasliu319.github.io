@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T15:58:26.992Z",
+  "generatedAt": "2026-05-13T10:17:57.784Z",
   "siteName": "Thomas Liu",
   "tags": [
     {
@@ -28,7 +28,7 @@
     {
       "name": "Claude Code Action",
       "slug": "claude-code-action",
-      "count": 10,
+      "count": 12,
       "posts": [
         {
           "slug": "00-开篇词-共生而非替代-极客和-ai-的共舞",
@@ -101,6 +101,22 @@
           "excerpt": "Agent Teams 是 Claude Code 的实验性功能，通过团队协作模式，让代理之间能够直接交流、互相挑战、协作推进。文章介绍了Agent Teams的创建和使用方式，并提供了一个实战项目示例。此外，文章还总结了Agent Tea",
           "url": "/posts/claude-code-action/08-%E7%BE%A4%E7%AD%96%E7%BE%A4%E5%8A%9B-agent-teams-%E5%A4%9A%E4%BC%9A%E8%AF%9D%E5%8D%8F%E4%BD%9C%E6%9E%B6%E6%9E%84/",
           "mdPath": "/Clippings/Claude Code Action/08｜群策群力：Agent Teams 多会话协作架构-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "09-触类旁通-skill-md-结构与触发机制",
+          "title": "09｜触类旁通：SKILL.md 结构与触发机制",
+          "created": "2026-05-13",
+          "excerpt": "企业中的技能系统Skills是SOP体系的一部分，连接“行动能力”与“语义世界”，具有特殊地位。Skills支持两种触发方式，通过语义理解判断当前对话是否匹配某个Skill。企业本体论视角下，Skill分为参考型和任务型，分别影响“怎么做”",
+          "url": "/posts/claude-code-action/09-%E8%A7%A6%E7%B1%BB%E6%97%81%E9%80%9A-skill-md-%E7%BB%93%E6%9E%84%E4%B8%8E%E8%A7%A6%E5%8F%91%E6%9C%BA%E5%88%B6/",
+          "mdPath": "/Clippings/Claude Code Action/09｜触类旁通：SKILL.md 结构与触发机制-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "10-令行禁止-任务型-skills-斜杠命令-command-实战",
+          "title": "10｜令行禁止：任务型 Skills （斜杠命令 /Command）实战",
+          "created": "2026-05-13",
+          "excerpt": "任务型 Skill 是一种用于执行特定工作流程的技术，支持参数传递和动态上下文注入，能提高工程效率，减少重复对话模式。设计时需遵循七步设计清单，包括动作命名、触发者、权限、上下文、安全网、输出量和模型选择。团队标准命令集的创建包括智能提交、",
+          "url": "/posts/claude-code-action/10-%E4%BB%A4%E8%A1%8C%E7%A6%81%E6%AD%A2-%E4%BB%BB%E5%8A%A1%E5%9E%8B-skills-%E6%96%9C%E6%9D%A0%E5%91%BD%E4%BB%A4-command-%E5%AE%9E%E6%88%98/",
+          "mdPath": "/Clippings/Claude Code Action/10｜令行禁止：任务型 Skills （斜杠命令 Command）实战-Claude Code 工程化实战-极客时间.md"
         },
         {
           "slug": "加餐-子代理专题总结-&-春节练习",
@@ -298,6 +314,28 @@
     }
   ],
   "posts": [
+    {
+      "slug": "09-触类旁通-skill-md-结构与触发机制",
+      "title": "09｜触类旁通：SKILL.md 结构与触发机制",
+      "created": "2026-05-13",
+      "excerpt": "企业中的技能系统Skills是SOP体系的一部分，连接“行动能力”与“语义世界”，具有特殊地位。Skills支持两种触发方式，通过语义理解判断当前对话是否匹配某个Skill。企业本体论视角下，Skill分为参考型和任务型，分别影响“怎么做”",
+      "url": "/posts/claude-code-action/09-%E8%A7%A6%E7%B1%BB%E6%97%81%E9%80%9A-skill-md-%E7%BB%93%E6%9E%84%E4%B8%8E%E8%A7%A6%E5%8F%91%E6%9C%BA%E5%88%B6/",
+      "mdPath": "/Clippings/Claude Code Action/09｜触类旁通：SKILL.md 结构与触发机制-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/945937"
+    },
+    {
+      "slug": "10-令行禁止-任务型-skills-斜杠命令-command-实战",
+      "title": "10｜令行禁止：任务型 Skills （斜杠命令 /Command）实战",
+      "created": "2026-05-13",
+      "excerpt": "任务型 Skill 是一种用于执行特定工作流程的技术，支持参数传递和动态上下文注入，能提高工程效率，减少重复对话模式。设计时需遵循七步设计清单，包括动作命名、触发者、权限、上下文、安全网、输出量和模型选择。团队标准命令集的创建包括智能提交、",
+      "url": "/posts/claude-code-action/10-%E4%BB%A4%E8%A1%8C%E7%A6%81%E6%AD%A2-%E4%BB%BB%E5%8A%A1%E5%9E%8B-skills-%E6%96%9C%E6%9D%A0%E5%91%BD%E4%BB%A4-command-%E5%AE%9E%E6%88%98/",
+      "mdPath": "/Clippings/Claude Code Action/10｜令行禁止：任务型 Skills （斜杠命令 Command）实战-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/946297"
+    },
     {
       "slug": "加餐-子代理专题总结-&-春节练习",
       "title": "加餐｜子代理专题总结 & 春节练习",
