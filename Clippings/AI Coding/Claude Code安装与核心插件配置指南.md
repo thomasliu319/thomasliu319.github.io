@@ -7,7 +7,7 @@ published:
 created: 2026-05-11
 description: A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team's projects, meetings, and connected apps.
 tags:
-  - AI编程
+  - AICoding
 ---
 
 > 本文档基于 Claude Code 最新版本（2026年3月），帮助你快速完成安装和主流 MCP 插件的配置。

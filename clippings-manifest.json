@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T10:17:57.784Z",
+  "generatedAt": "2026-05-14T09:41:07.225Z",
   "siteName": "Thomas Liu",
   "tags": [
     {
@@ -217,12 +217,6 @@
       "posts": []
     },
     {
-      "name": "Multi-Agent Design and Engineering Camp",
-      "slug": "multi-agent-design-and-engineering-camp",
-      "count": 0,
-      "posts": []
-    },
-    {
       "name": "TCP:IP Analysis",
       "slug": "tcp-ip-analysis",
       "count": 0,
@@ -307,6 +301,21 @@
       ]
     },
     {
+      "name": "llm",
+      "slug": "llm",
+      "count": 1,
+      "posts": [
+        {
+          "slug": "cuda安装驱动失败",
+          "title": "CUDA安装驱动失败",
+          "created": "2026-05-14",
+          "excerpt": "ChatGPT conversation with 8 messages",
+          "url": "/posts/llm/cuda%E5%AE%89%E8%A3%85%E9%A9%B1%E5%8A%A8%E5%A4%B1%E8%B4%A5/",
+          "mdPath": "/Clippings/llm/CUDA安装驱动失败.md"
+        }
+      ]
+    },
+    {
       "name": "mysql",
       "slug": "mysql",
       "count": 0,
@@ -314,6 +323,17 @@
     }
   ],
   "posts": [
+    {
+      "slug": "cuda安装驱动失败",
+      "title": "CUDA安装驱动失败",
+      "created": "2026-05-14",
+      "excerpt": "ChatGPT conversation with 8 messages",
+      "url": "/posts/llm/cuda%E5%AE%89%E8%A3%85%E9%A9%B1%E5%8A%A8%E5%A4%B1%E8%B4%A5/",
+      "mdPath": "/Clippings/llm/CUDA安装驱动失败.md",
+      "tagName": "llm",
+      "tagSlug": "llm",
+      "source": "https://chatgpt.com/c/6a058743-a508-83ea-95ef-f64bfffec456"
+    },
     {
       "slug": "09-触类旁通-skill-md-结构与触发机制",
       "title": "09｜触类旁通：SKILL.md 结构与触发机制",
