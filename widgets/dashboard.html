@@ -40,5 +40,168 @@
       </li>
     </ul>
   </div>
-  
+
+  <div id="ai-news-container" style="flex: 1 0 100%; margin-top: 24px; min-height: 50px; border-top: 1px solid #eee; padding-top: 20px;">
+    <div style="padding: 15px; color: #999; text-align: center;">Loading AI News...</div>
+  </div>
 </div>
+
+<style>
+.ai-news-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+.ai-news-header h4 { margin: 0; font-size: 15px; color: #333; display: flex; align-items: center; gap: 8px; }
+.ai-news-header h4 .dot { width: 8px; height: 8px; background: #22c55e; border-radius: 50%; animation: ai-pulse 2s ease-in-out infinite; }
+@keyframes ai-pulse {
+  0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(34,197,94,0.4); }
+  50% { opacity: 0.6; box-shadow: 0 0 0 6px rgba(34,197,94,0); }
+}
+.ai-news-nav { display: flex; gap: 6px; }
+.ai-news-nav button { width: 28px; height: 28px; border: 1px solid #ddd; border-radius: 50%; background: #fff; cursor: pointer; font-size: 12px; color: #666; transition: all 0.2s; display: flex; align-items: center; justify-content: center; }
+.ai-news-nav button:hover { background: #f0f0f0; border-color: #999; }
+.ai-news-list { list-style: none; margin: 0; padding: 0; min-height: 220px; position: relative; transition: opacity 0.35s ease; }
+.ai-news-list.fading { opacity: 0; }
+.ai-news-item { display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-bottom: 1px solid #f1f5f9; transition: background 0.2s; }
+.ai-news-item:last-child { border-bottom: none; }
+.ai-news-item:hover { background: #f8fafc; }
+.ai-news-item .item-icon { flex: 0 0 32px; width: 32px; height: 32px; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 13px; color: #fff; font-weight: 700; }
+.ai-news-item .item-icon.src-openai      { background: #10a37f; }
+.ai-news-item .item-icon.src-anthropic   { background: #d97757; }
+.ai-news-item .item-icon.src-huggingface { background: #ffbd45; color: #333; }
+.ai-news-item .item-icon.src-google      { background: #4285f4; }
+.ai-news-item .item-icon.src-nvidia      { background: #76b900; }
+.ai-news-item .item-icon.src-meta        { background: #0668e1; }
+.ai-news-item .item-icon.src-microsoft   { background: #737373; }
+.ai-news-item .item-icon.src-stability   { background: #a855f7; }
+.ai-news-item .item-icon.src-techcrunch  { background: #0a0; }
+.ai-news-item .item-icon.src-mit         { background: #a31f34; }
+.ai-news-item .item-icon.src-default     { background: #6366f1; }
+.ai-news-item .item-title { flex: 1; font-size: 14px; color: #1e293b; line-height: 1.45; text-decoration: none; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; transition: color 0.2s; cursor: pointer; }
+.ai-news-item .item-title:hover { color: #6366f1; }
+.ai-news-item .item-time { flex: 0 0 auto; font-size: 11px; color: #94a3b8; white-space: nowrap; }
+.ai-news-dots { display: flex; justify-content: center; gap: 6px; margin-top: 12px; }
+.ai-news-dots .dot-ind { width: 6px; height: 6px; border-radius: 50%; background: #cbd5e1; transition: all 0.3s; cursor: pointer; }
+.ai-news-dots .dot-ind.active { background: #6366f1; width: 18px; border-radius: 3px; }
+@media (max-width: 768px) { .ai-news-item { padding: 10px 12px; gap: 10px; } .ai-news-item .item-title { font-size: 13px; } }
+</style>
+
+<script>
+(function() {
+  var container = document.getElementById('ai-news-container');
+  var PAGE_SIZE = 5;
+  var allCards = [];
+  var totalPages = 0;
+  var currentPage = 0;
+  var autoTimer = null;
+
+  var srcIconMap = {
+    'openai':      { cls: 'src-openai',      ico: 'O' },
+    'anthropic':   { cls: 'src-anthropic',   ico: 'A' },
+    'hugging':     { cls: 'src-huggingface', ico: 'HF' },
+    'google':      { cls: 'src-google',      ico: 'G' },
+    'deepmind':    { cls: 'src-google',      ico: 'D' },
+    'nvidia':      { cls: 'src-nvidia',      ico: 'N' },
+    'meta':        { cls: 'src-meta',        ico: 'M' },
+    'microsoft':   { cls: 'src-microsoft',   ico: 'MS' },
+    'stability':   { cls: 'src-stability',   ico: 'S' },
+    'techcrunch':  { cls: 'src-techcrunch',  ico: 'TC' },
+    'mit':         { cls: 'src-mit',         ico: 'MIT' }
+  };
+
+  function getIcon(src) {
+    var l = src.toLowerCase();
+    for (var k in srcIconMap) { if (l.indexOf(k) !== -1) return srcIconMap[k]; }
+    return { cls: 'src-default', ico: src.slice(0, 2).toUpperCase() };
+  }
+
+  function formatDate(dateStr) {
+    if (!dateStr) return '';
+    try {
+      var d = new Date(dateStr), now = new Date(), diffH = Math.floor((now - d) / 3600000);
+      if (diffH < 1) return '刚刚';
+      if (diffH < 24) return diffH + ' 小时前';
+      if (diffH < 48) return '昨天';
+      return d.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
+    } catch(e) { return ''; }
+  }
+
+  function renderPage(idx) {
+    var start = idx * PAGE_SIZE;
+    var batch = allCards.slice(start, start + PAGE_SIZE);
+    var list = container.querySelector('.ai-news-list');
+    var html = '';
+    batch.forEach(function(item) {
+      var ico = getIcon(item.source);
+      html += '<li class="ai-news-item">' +
+        '<span class="item-icon ' + ico.cls + '">' + ico.ico + '</span>' +
+        '<a class="item-title" href="' + item.link + '" target="_blank" rel="noopener">' + item.title + '</a>' +
+        '<span class="item-time">' + formatDate(item.pubDate) + '</span>' +
+        '</li>';
+    });
+    list.classList.add('fading');
+    setTimeout(function() {
+      list.innerHTML = html;
+      list.classList.remove('fading');
+    }, 180);
+  }
+
+  function updateDots() {
+    var dots = container.querySelector('.ai-news-dots');
+    var html = '';
+    for (var i = 0; i < totalPages; i++) {
+      html += '<div class="dot-ind' + (i === currentPage ? ' active' : '') + '" data-idx="' + i + '"></div>';
+    }
+    dots.innerHTML = html;
+    dots.querySelectorAll('.dot-ind').forEach(function(d) {
+      d.addEventListener('click', function() { goToPage(parseInt(this.dataset.idx)); });
+    });
+  }
+
+  function goToPage(idx) {
+    if (idx < 0 || idx >= totalPages || totalPages === 0) return;
+    currentPage = idx;
+    renderPage(currentPage);
+    updateDots();
+  }
+
+  function nextPage() { if (totalPages > 0) goToPage((currentPage + 1) % totalPages); }
+  function prevPage() { if (totalPages > 0) goToPage((currentPage - 1 + totalPages) % totalPages); }
+
+  function startAuto() { stopAuto(); autoTimer = setInterval(nextPage, 3000); }
+  function stopAuto() { if (autoTimer) { clearInterval(autoTimer); autoTimer = null; } }
+
+  function resolveJsonPath() {
+    var depth = (location.pathname.match(/\//g) || []).length;
+    return '../'.repeat(Math.max(0, depth - 1)) + 'posts/ai-news.json';
+  }
+
+  // 构建初始结构
+  container.innerHTML = '' +
+    '<div class="ai-news-header">' +
+      '<h4><span class="dot"></span>AI 资讯速览</h4>' +
+      '<div class="ai-news-nav"><button class="ai-prev">&larr;</button><button class="ai-next">&rarr;</button></div>' +
+    '</div>' +
+    '<ul class="ai-news-list"><li style="padding:40px;text-align:center;color:#94a3b8;">正在拉取最新 AI 资讯…</li></ul>' +
+    '<div class="ai-news-dots"></div>';
+
+  container.querySelector('.ai-prev').addEventListener('click', prevPage);
+  container.querySelector('.ai-next').addEventListener('click', nextPage);
+  var list = container.querySelector('.ai-news-list');
+  list.addEventListener('mouseenter', stopAuto);
+  list.addEventListener('touchstart', stopAuto, { passive: true });
+  list.addEventListener('mouseleave', startAuto);
+  list.addEventListener('touchend', function() { setTimeout(startAuto, 2000); });
+
+  fetch(resolveJsonPath())
+    .then(function(r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(function(data) {
+      allCards = data;
+      if (allCards.length === 0) throw new Error('empty');
+      totalPages = Math.ceil(allCards.length / PAGE_SIZE);
+      goToPage(0);
+      startAuto();
+    })
+    .catch(function(err) {
+      console.warn('AI news fetch failed:', err.message);
+      container.querySelector('.ai-news-list').innerHTML = '<li style="padding:30px;text-align:center;color:#94a3b8;">资讯暂不可用，请运行 npm run scrape:news 更新</li>';
+    });
+})();
+</script>

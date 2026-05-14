@@ -34,7 +34,19 @@
       <script>
         fetch('/widgets/dashboard.html')
           .then(r => r.text())
-          .then(html => { document.getElementById('dashboard-container').innerHTML = html; })
+          .then(html => {
+            var container = document.getElementById('dashboard-container');
+            container.innerHTML = html;
+            container.querySelectorAll('script').forEach(function(oldScript) {
+              var s = document.createElement('script');
+              for (var i = 0; i < oldScript.attributes.length; i++) {
+                var a = oldScript.attributes[i];
+                s.setAttribute(a.name, a.value);
+              }
+              s.text = oldScript.textContent;
+              oldScript.parentNode.replaceChild(s, oldScript);
+            });
+          })
           .catch(err => console.error('dashboard load failed:', err));
       </script>
 
