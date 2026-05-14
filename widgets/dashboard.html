@@ -57,6 +57,13 @@
 .ai-news-nav { display: flex; gap: 6px; }
 .ai-news-nav button { width: 28px; height: 28px; border: 1px solid #ddd; border-radius: 50%; background: #fff; cursor: pointer; font-size: 12px; color: #666; transition: all 0.2s; display: flex; align-items: center; justify-content: center; }
 .ai-news-nav button:hover { background: #f0f0f0; border-color: #999; }
+.ai-news-nav button.ai-refresh { font-size: 14px; }
+.ai-news-nav button.ai-refresh.spinning svg { animation: ai-spin 0.9s linear infinite; }
+.ai-news-nav button.ai-refresh:disabled { cursor: not-allowed; opacity: 0.7; }
+@keyframes ai-spin { to { transform: rotate(360deg); } }
+.ai-news-toast { position: absolute; right: 0; top: 36px; background: #1e293b; color: #fff; font-size: 12px; padding: 6px 10px; border-radius: 6px; opacity: 0; transform: translateY(-4px); transition: all 0.2s; pointer-events: none; z-index: 10; white-space: nowrap; }
+.ai-news-toast.show { opacity: 1; transform: translateY(0); }
+.ai-news-toast.err { background: #b91c1c; }
 .ai-news-list { list-style: none; margin: 0; padding: 0; min-height: 220px; position: relative; transition: opacity 0.35s ease; }
 .ai-news-list.fading { opacity: 0; }
 .ai-news-item { display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-bottom: 1px solid #f1f5f9; transition: background 0.2s; }
@@ -130,9 +137,11 @@
     var html = '';
     batch.forEach(function(item) {
       var ico = getIcon(item.source);
+      var title = (item.title || '').replace(/^<!\[CDATA\[/, '').replace(/\]\]>$/, '').trim();
+      if (!title) title = item.link;
       html += '<li class="ai-news-item">' +
         '<span class="item-icon ' + ico.cls + '">' + ico.ico + '</span>' +
-        '<a class="item-title" href="' + item.link + '" target="_blank" rel="noopener">' + item.title + '</a>' +
+        '<a class="item-title" href="' + item.link + '" target="_blank" rel="noopener">' + title + '</a>' +
         '<span class="item-time">' + formatDate(item.pubDate) + '</span>' +
         '</li>';
     });
@@ -175,20 +184,75 @@
 
   // 构建初始结构
   container.innerHTML = '' +
-    '<div class="ai-news-header">' +
+    '<div class="ai-news-header" style="position:relative;">' +
       '<h4><span class="dot"></span>AI 资讯速览</h4>' +
-      '<div class="ai-news-nav"><button class="ai-prev">&larr;</button><button class="ai-next">&rarr;</button></div>' +
+      '<div class="ai-news-nav">' +
+        '<button class="ai-refresh" title="手动抓取最新资讯"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"></polyline><polyline points="1 20 1 14 7 14"></polyline><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10"></path><path d="M20.49 15a9 9 0 0 1-14.85 3.36L1 14"></path></svg></button>' +
+        '<button class="ai-prev" title="上一页">&larr;</button>' +
+        '<button class="ai-next" title="下一页">&rarr;</button>' +
+      '</div>' +
+      '<div class="ai-news-toast"></div>' +
     '</div>' +
     '<ul class="ai-news-list"><li style="padding:40px;text-align:center;color:#94a3b8;">正在拉取最新 AI 资讯…</li></ul>' +
     '<div class="ai-news-dots"></div>';
 
+  var refreshBtn = container.querySelector('.ai-refresh');
+  var toastEl = container.querySelector('.ai-news-toast');
   container.querySelector('.ai-prev').addEventListener('click', prevPage);
   container.querySelector('.ai-next').addEventListener('click', nextPage);
+  refreshBtn.addEventListener('click', handleRefresh);
   var list = container.querySelector('.ai-news-list');
   list.addEventListener('mouseenter', stopAuto);
   list.addEventListener('touchstart', stopAuto, { passive: true });
   list.addEventListener('mouseleave', startAuto);
   list.addEventListener('touchend', function() { setTimeout(startAuto, 2000); });
+
+  function showToast(msg, isErr) {
+    toastEl.textContent = msg;
+    toastEl.classList.toggle('err', !!isErr);
+    toastEl.classList.add('show');
+    clearTimeout(showToast._t);
+    showToast._t = setTimeout(function() { toastEl.classList.remove('show'); }, 2400);
+  }
+
+  function reloadJson() {
+    return fetch(resolveJsonPath() + '?t=' + Date.now())
+      .then(function(r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then(function(data) {
+        allCards = data;
+        totalPages = Math.ceil(allCards.length / PAGE_SIZE);
+        currentPage = 0;
+        goToPage(0);
+      });
+  }
+
+  function handleRefresh() {
+    if (refreshBtn.disabled) return;
+    refreshBtn.disabled = true;
+    refreshBtn.classList.add('spinning');
+    stopAuto();
+    fetch('/api/scrape', { method: 'POST' })
+      .then(function(r) {
+        if (r.status === 404 || r.status === 405) {
+          return reloadJson().then(function() {
+            showToast('已重新加载（部署环境无抓取服务）');
+          });
+        }
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json().then(function(j) {
+          if (!j.ok) throw new Error(j.message || ('exit ' + j.code));
+          return reloadJson().then(function() { showToast('抓取完成，已更新'); });
+        });
+      })
+      .catch(function(err) {
+        showToast('抓取失败: ' + err.message, true);
+      })
+      .then(function() {
+        refreshBtn.disabled = false;
+        refreshBtn.classList.remove('spinning');
+        startAuto();
+      });
+  }
 
   fetch(resolveJsonPath())
     .then(function(r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })

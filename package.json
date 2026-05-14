@@ -4,7 +4,8 @@
   "description": "Thomas Liu Blog",
   "scripts": {
     "manifest": "node scripts/generate-manifest.js",
-    "dev": "python3 -m http.server 8341",
+    "dev": "node scripts/dev-server.js 8341",
+    "dev:py": "python3 -m http.server 8341",
     "scrape:news": "node scripts/scrape-ai-news.js"
   }
 }
