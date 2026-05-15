@@ -110,7 +110,8 @@ function commonHead(title) {
   <link rel="icon" href="/favicon.png">
   <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/css/post-renderer.css">`;
+  <link rel="stylesheet" href="/css/post-renderer.css">
+  <link rel="stylesheet" href="/css/dashboard.css">`;
 }
 
 function header() {
@@ -135,7 +136,8 @@ function dashboard() {
           .then(r => r.text())
           .then(html => { document.getElementById('dashboard-container').innerHTML = html; })
           .catch(err => console.error('dashboard load failed:', err));
-      </script>`;
+      </script>
+      <script src="/js/ai-news.js"></script>`;
 }
 
 function footer() {
