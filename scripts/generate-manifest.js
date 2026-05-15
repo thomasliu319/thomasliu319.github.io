@@ -362,7 +362,7 @@ ${dashboard()}
 
       <div class="outer">
         <section id="main" class="home-main">
-          <h1 class="home-title">最新文章</h1>
+          <h1 class="home-title">RECENT POST</h1>
           <div class="home-posts">${items}
           </div>
           <div class="home-more"><a href="/posts/">查看全部 →</a></div>
