@@ -1,42 +1,82 @@
 [
   {
-    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-    "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+    "title": "The haves and have nots of the AI gold rush",
+    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 14 May 2026 22:47:51 +0000",
+    "pubDate": "Sat, 16 May 2026 20:17:16 +0000",
     "image": ""
   },
   {
-    "title": "Elon Musk&#8217;s SpaceXAI has been bleeding staff since its merger",
-    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 14 May 2026 21:30:44 +0000",
+    "pubDate": "Sat, 16 May 2026 18:54:28 +0000",
     "image": ""
   },
   {
-    "title": "OpenAI says Codex is coming to your phone",
-    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 14 May 2026 20:58:55 +0000",
+    "pubDate": "Sat, 16 May 2026 15:33:33 +0000",
     "image": ""
   },
   {
-    "title": "What happens when AI starts building itself?",
-    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[OpenAI and Malta partner to bring ChatGPT Plus to all citizens]]>",
+    "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Thu, 14 May 2026 19:57:20 +0000",
+    "pubDate": "Sat, 16 May 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn&#8217;t be the first partner to feel burned",
-    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+    "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 14 May 2026 19:12:03 +0000",
+    "pubDate": "Fri, 15 May 2026 19:24:16 +0000",
+    "image": ""
+  },
+  {
+    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+    "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 15 May 2026 18:14:44 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How business operations teams use Codex]]>",
+    "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Databricks brings GPT-5.5 to enterprise agent workflows]]>",
+    "link": "https://openai.com/index/databricks",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How data science teams use Codex]]>",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[A new personal finance experience in ChatGPT]]>",
+    "link": "https://openai.com/index/personal-finance-chatgpt",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -46,22 +86,6 @@
     "description": "",
     "pubDate": "Thu, 14 May 2026 13:00:08 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202605/3f5a36fc533e728665aa2df4fff25da9/6a05c7893d6332f9f49d2aec_gfn-thursday-5-14-nv-blog-1280x680-logo-842x450/gfn-thursday-5-14-nv-blog-1280x680-logo-842x450_thmb.jpg"
-  },
-  {
-    "title": "<![CDATA[Work with Codex from anywhere]]>",
-    "link": "https://openai.com/index/work-with-codex-from-anywhere",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 14 May 2026 13:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Helping ChatGPT better recognize context in sensitive conversations]]>",
-    "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 14 May 2026 00:00:00 GMT",
-    "image": ""
   },
   {
     "title": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
@@ -80,35 +104,11 @@
     "image": "https://iprsoftwaremedia.com/219/files/202605/1fdf7cfc56dbe7a20034f655fd8a4b43/6a04760d3d63326e90268aa4_rtx-ai-garage-hermes-842x450/rtx-ai-garage-hermes-842x450_thmb.jpg"
   },
   {
-    "title": "<![CDATA[Building a safe, effective sandbox to enable Codex on Windows]]>",
-    "link": "https://openai.com/index/building-codex-windows-sandbox",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 13 May 2026 11:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Our response to the TanStack npm supply chain attack]]>",
-    "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 13 May 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
     "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
     "source": "Microsoft AI",
     "description": "Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure. The post Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026 appeared first on Microsoft Azure Blog. ]]>",
     "pubDate": "Tue, 12 May 2026 18:00:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How finance teams use Codex]]>",
-    "link": "https://openai.com/academy/how-finance-teams-use-codex",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 12 May 2026 15:00:00 GMT",
     "image": ""
   },
   {
@@ -144,6 +144,22 @@
     "image": ""
   },
   {
+    "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+    "link": "https://deepmind.google/blog/alphaevolve-impact/",
+    "source": "Google DeepMind",
+    "description": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+    "pubDate": "Wed, 06 May 2026 10:43:49 +0000",
+    "image": "https://lh3.googleusercontent.com/UNlyTVoqkmAoTzbbF4QRoPXr-X-QBkXeVpcHxIjte0y5mn_f6ZYHVsynQswOhGLJx-7hnbwt1NcTOQDQoCbum3-l8wPPP5dC6kw0tGmBQAw60nEHog=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "Enabling a new model for healthcare with AI co-clinician",
+    "link": "https://deepmind.google/blog/ai-co-clinician/",
+    "source": "Google DeepMind",
+    "description": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+    "pubDate": "Thu, 30 Apr 2026 12:14:15 +0000",
+    "image": "https://lh3.googleusercontent.com/z2sN_eil5tgap-Ji1W_4l1xnbfLRghzxdXzyCMdnKFVW1xTfgm0o8bpg9pNwE4RcHTR2QGEGhGx7LFn7Q6bg-LEPBW20d4Djo3Erii8PBYYrWz36=w528-h297-n-nu-rw-lo"
+  },
+  {
     "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment",
     "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
     "source": "Microsoft AI",
@@ -152,11 +168,35 @@
     "image": ""
   },
   {
+    "title": "Announcing our partnership with the Republic of Korea",
+    "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "source": "Google DeepMind",
+    "description": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+    "pubDate": "Mon, 27 Apr 2026 07:00:06 +0000",
+    "image": "https://lh3.googleusercontent.com/3q6uiTEWOv5PKJQYWgYLxCgohyndMqdWTFiwFDbxSzk-tW0HeannPdF7kvqR2hmE_tvSeryfw4IvG7gwuZ11rBgIYGvapEQvHO9RRJXw4JCqyme6uA=w528-h297-n-nu-rw-lo"
+  },
+  {
     "title": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform",
     "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
     "source": "Microsoft AI",
     "description": "OpenAI’s GPT-5.5 will be generally available in Microsoft Foundry, bringing OpenAI’s latest frontier model to Azure and the enterprise teams building agents for real production work. The post OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform appeared first ",
     "pubDate": "Thu, 23 Apr 2026 22:00:00 +0000",
     "image": ""
+  },
+  {
+    "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+    "link": "https://deepmind.google/blog/decoupled-diloco/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Wed, 22 Apr 2026 10:20:03 +0000",
+    "image": "https://lh3.googleusercontent.com/1-K_kcmoX-fIzTJ13T0-uF4gylS2tK00ZVvx87B2WSayzUS2fxDoDDXFq5hOhxptrBeG8AbjG_URN5OOTpGMqad9zILjMsTdAHWroiDKpziBQjzErw=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "Partnering with industry leaders to accelerate AI transformation",
+    "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "source": "Google DeepMind",
+    "description": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+    "pubDate": "Tue, 21 Apr 2026 14:54:15 +0000",
+    "image": "https://lh3.googleusercontent.com/t9KvGjgjHJMLDqzAzXuDUOXFI4IlnMiYLhRmxohCRvB1qGSr8-8-TDEI24qk8ilY4OzRB2et5dSlWOjMs6lm-R718xmtQwdiGBxOO7VjxBfMq4a3yoI=w528-h297-n-nu-rw-lo"
   }
 ]

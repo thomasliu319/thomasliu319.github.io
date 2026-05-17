@@ -145,7 +145,7 @@ function footer() {
       <div class="outer">
         <div id="footer-info" class="inner">
           &copy; 2026 thomasliu<br>
-          内容采集自极客时间，仅作个人学习笔记使用
+          
         </div>
       </div>
     </footer>`;
