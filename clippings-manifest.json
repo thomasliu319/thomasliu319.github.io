@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T13:58:08.772Z",
+  "generatedAt": "2026-05-18T09:20:11.424Z",
   "siteName": "Thomas Liu",
   "tags": [
     {
@@ -219,7 +219,7 @@
     {
       "name": "K8S",
       "slug": "k8s",
-      "count": 6,
+      "count": 8,
       "posts": [
         {
           "slug": "00-打通“容器技术”的任督二脉",
@@ -260,6 +260,22 @@
           "excerpt": "Kubernetes社区接手Docker项目，形成容器技术生态格局，对抗Docker公司的商业生态。Docker公司放弃开源社区竞争，专注商业业务。Solomon Hykes的选择引发思考。Kubernetes以开发者为核心，构建开放的容器",
           "url": "/posts/k8s/04-%E9%A2%84%E4%B9%A0%E7%AF%87-%C2%B7-%E5%B0%8F%E9%B2%B8%E9%B1%BC%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E5%9B%9B-%E5%B0%98%E5%9F%83%E8%90%BD%E5%AE%9A/",
           "mdPath": "/Clippings/K8S/04  预习篇 · 小鲸鱼大事记（四）：尘埃落定.md"
+        },
+        {
+          "slug": "05-白话容器基础-一-从进程说开去",
+          "title": "05 | 白话容器基础（一）：从进程说开去",
+          "created": "2026-05-18",
+          "excerpt": "容器技术的核心在于使用Cgroups和Namespace技术约束和修改进程的动态表现，创造出一个“边界”。Docker容器通过指定一组Namespace参数，使容器只能“看”到当前Namespace所限定的资源、文件、设备、状态或配置。与虚",
+          "url": "/posts/k8s/05-%E7%99%BD%E8%AF%9D%E5%AE%B9%E5%99%A8%E5%9F%BA%E7%A1%80-%E4%B8%80-%E4%BB%8E%E8%BF%9B%E7%A8%8B%E8%AF%B4%E5%BC%80%E5%8E%BB/",
+          "mdPath": "/Clippings/K8S/05  白话容器基础（一）：从进程说开去.md"
+        },
+        {
+          "slug": "06-白话容器基础-二-隔离与限制",
+          "title": "06 | 白话容器基础（二）：隔离与限制",
+          "created": "2026-05-18",
+          "excerpt": "Linux容器使用Namespace实现隔离，Cgroups限制资源。容器高性能、敏捷，但隔离不彻底。Docker等项目创建控制组，指定资源值。修复容器中的top指令和/proc文件系统信息可采用lxcfs。在虚拟机向容器迁移应用时，需解决",
+          "url": "/posts/k8s/06-%E7%99%BD%E8%AF%9D%E5%AE%B9%E5%99%A8%E5%9F%BA%E7%A1%80-%E4%BA%8C-%E9%9A%94%E7%A6%BB%E4%B8%8E%E9%99%90%E5%88%B6/",
+          "mdPath": "/Clippings/K8S/06  白话容器基础（二）：隔离与限制.md"
         },
         {
           "slug": "kubernates设计理念",
@@ -364,6 +380,28 @@
     }
   ],
   "posts": [
+    {
+      "slug": "05-白话容器基础-一-从进程说开去",
+      "title": "05 | 白话容器基础（一）：从进程说开去",
+      "created": "2026-05-18",
+      "excerpt": "容器技术的核心在于使用Cgroups和Namespace技术约束和修改进程的动态表现，创造出一个“边界”。Docker容器通过指定一组Namespace参数，使容器只能“看”到当前Namespace所限定的资源、文件、设备、状态或配置。与虚",
+      "url": "/posts/k8s/05-%E7%99%BD%E8%AF%9D%E5%AE%B9%E5%99%A8%E5%9F%BA%E7%A1%80-%E4%B8%80-%E4%BB%8E%E8%BF%9B%E7%A8%8B%E8%AF%B4%E5%BC%80%E5%8E%BB/",
+      "mdPath": "/Clippings/K8S/05  白话容器基础（一）：从进程说开去.md",
+      "tagName": "K8S",
+      "tagSlug": "k8s",
+      "source": "https://time.geekbang.org/column/article/14642"
+    },
+    {
+      "slug": "06-白话容器基础-二-隔离与限制",
+      "title": "06 | 白话容器基础（二）：隔离与限制",
+      "created": "2026-05-18",
+      "excerpt": "Linux容器使用Namespace实现隔离，Cgroups限制资源。容器高性能、敏捷，但隔离不彻底。Docker等项目创建控制组，指定资源值。修复容器中的top指令和/proc文件系统信息可采用lxcfs。在虚拟机向容器迁移应用时，需解决",
+      "url": "/posts/k8s/06-%E7%99%BD%E8%AF%9D%E5%AE%B9%E5%99%A8%E5%9F%BA%E7%A1%80-%E4%BA%8C-%E9%9A%94%E7%A6%BB%E4%B8%8E%E9%99%90%E5%88%B6/",
+      "mdPath": "/Clippings/K8S/06  白话容器基础（二）：隔离与限制.md",
+      "tagName": "K8S",
+      "tagSlug": "k8s",
+      "source": "https://time.geekbang.org/column/article/14653"
+    },
     {
       "slug": "00-开篇词-这一次-让我们一起来搞懂mysql",
       "title": "00  开篇词 | 这一次，让我们一起来搞懂MySQL",
