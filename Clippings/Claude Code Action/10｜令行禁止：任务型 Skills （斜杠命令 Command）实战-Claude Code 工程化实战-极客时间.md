@@ -10,7 +10,6 @@ tags:
   - "ClaudeCode"
 ---
 
-
 <audio title="10｜令行禁止：任务型 Skills （斜杠命令 /Command）实战" src="https://res001.geekbang.org/media/audio/75/73/753b0f4f9c7fe81yyaa364cd75af3173/ld/ld.m3u8"></audio>
 
 释题：令行禁止。虽然 /command 已经整合进入 Skills，但“命令”对工程师来说有天然亲近感，仍值得单独一讲。在 Claude Code 里，令行禁止几乎可以直接翻译为：disable-model-invocation: true 。也就是说——没有用户触发，Claude 绝不主动执行。
