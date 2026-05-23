@@ -1,42 +1,122 @@
 [
   {
-    "title": "<![CDATA[The next phase of OpenAI’s Education for Countries]]>",
-    "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 22 May 2026 23:03:33 +0000",
+    "image": ""
+  },
+  {
+    "title": "Google goes for the glitter with disco-ball icons: &#8216;Are y&#8217;all sure you still want this?&#8217;",
+    "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 22 May 2026 21:02:36 +0000",
+    "image": ""
+  },
+  {
+    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+    "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 22 May 2026 20:40:48 +0000",
+    "image": ""
+  },
+  {
+    "title": "Elon Musk can&#8217;t hear you over the sound of his $1.75 trillion IPO",
+    "link": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 22 May 2026 18:17:07 +0000",
+    "image": ""
+  },
+  {
+    "title": "You can no longer Google the word &#8216;disregard&#8217;",
+    "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 22 May 2026 16:16:48 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[OpenAI named a Leader in enterprise coding agents by Gartner]]>",
+    "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How Virgin Atlantic ships faster with Codex]]>",
+    "link": "https://openai.com/index/virgin-atlantic",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Announces Upcoming Events for Financial Community",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-events-for-financial-community-6921679",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 21 May 2026 21:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Thu, 21 May 2026 19:46:42 +0000",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
+    "link": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 21 May 2026 16:00:17 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202605/277f558f36eced978d8a8ed77de95cbd/6a0f2c2f3d6332cfde6440a7_computex-rolling-blog-kickoff-842x450/computex-rolling-blog-kickoff-842x450_thmb.jpg"
+  },
+  {
+    "title": "License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 21 May 2026 13:00:22 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202605/f95a7813324f1ce1bf5c88c4fbfd53e5/6a0f01f33d633200d41043df_gfn-thursday-5-14-nv-blog-1280x680-logo-1-842x450/gfn-thursday-5-14-nv-blog-1280x680-logo-1-842x450_thmb.jpg"
+  },
+  {
+    "title": "<![CDATA[AdventHealth advances whole-person care with OpenAI]]>",
+    "link": "https://openai.com/index/adventhealth",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 21 May 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Announces Financial Results for First Quarter Fiscal 2027",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 20 May 2026 20:20:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg"
+  },
+  {
+    "title": "<![CDATA[An OpenAI model has disproved a central conjecture in discrete geometry]]>",
+    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Google just declared itself a contender in AI design at IO 2026",
-    "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[The next phase of OpenAI’s Education for Countries]]>",
+    "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Tue, 19 May 2026 21:33:30 +0000",
-    "image": ""
-  },
-  {
-    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-    "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 19 May 2026 21:25:31 +0000",
-    "image": ""
-  },
-  {
-    "title": "How to use Google’s new AI agents to go beyond your standard searches",
-    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 19 May 2026 21:16:25 +0000",
-    "image": ""
-  },
-  {
-    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-    "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 19 May 2026 21:08:51 +0000",
+    "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -48,76 +128,36 @@
     "image": "https://iprsoftwaremedia.com/219/files/202605/1fab7dbc7e47dea8a9fc0410ca73eaca/6a0cc88a3d63322e7a527300_google-cloud-nvidia-1920x1080-1-842x450/google-cloud-nvidia-1920x1080-1-842x450_thmb.jpg"
   },
   {
-    "title": "<![CDATA[Introducing OpenAI for Singapore]]>",
-    "link": "https://openai.com/index/introducing-openai-for-singapore",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 19 May 2026 20:30:00 GMT",
+    "title": "Fast-tracking genetic leads to reverse cellular aging",
+    "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "source": "Google DeepMind",
+    "description": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+    "pubDate": "Mon, 18 May 2026 18:21:39 +0000",
+    "image": "https://lh3.googleusercontent.com/Xyt_1kwd_q4W4dKV0YND9MzHJF0UOGAYyZjfKEVQK0LoE2HC7i29ZnIG32Sd8RR1qj5iXEzbexg20aePXF5vLjYUB5vO_zdoqAZhKrSV4VVyce5VT1s=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "Simulate real-world places with Project Genie and Street View",
+    "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "source": "Google DeepMind",
+    "description": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+    "pubDate": "Sun, 17 May 2026 19:53:18 +0000",
     "image": ""
   },
   {
-    "title": "Elon Musk said Sam Altman &#8216;stole&#8217; a non-profit — but the trial showed he had similar aims",
-    "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-    "source": "TechCrunch AI",
+    "title": "Introducing Gemini Omni",
+    "link": "https://deepmind.google/blog/introducing-gemini-omni/",
+    "source": "Google DeepMind",
     "description": "",
-    "pubDate": "Tue, 19 May 2026 20:11:00 +0000",
+    "pubDate": "Sun, 17 May 2026 19:50:57 +0000",
     "image": ""
   },
   {
-    "title": "<![CDATA[Advancing content provenance for a safer, more transparent AI ecosystem]]>",
-    "link": "https://openai.com/index/advancing-content-provenance",
-    "source": "OpenAI Blog",
+    "title": "Introducing Google Antigravity 2.0",
+    "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "source": "Google DeepMind",
     "description": "",
-    "pubDate": "Tue, 19 May 2026 10:45:00 GMT",
+    "pubDate": "Sun, 17 May 2026 19:43:45 +0000",
     "image": ""
-  },
-  {
-    "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
-    "link": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 18 May 2026 22:28:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202605/0c8cfcf36747a38ebfac09f84c527b65/6a0b92d83d63323290c0245a_26-dtw-keynote-jhh-dell-CG3A2688_Option2-842x450/26-dtw-keynote-jhh-dell-CG3A2688_Option2-842x450_thmb.jpg"
-  },
-  {
-    "title": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs",
-    "link": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 18 May 2026 21:48:17 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202605/63ecc8de3de6cdc34860f8df3cb2073b/6a0b89303d633202c58bf86f_Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651/Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651_thmb.jpg"
-  },
-  {
-    "title": "<![CDATA[OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments]]>",
-    "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 18 May 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[OpenAI and Malta partner to bring ChatGPT Plus to all citizens]]>",
-    "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Sat, 16 May 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Sea You in the Cloud: ‘Subnautica 2’ Early Access Dives Onto GeForce NOW",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 14 May 2026 13:00:08 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202605/3f5a36fc533e728665aa2df4fff25da9/6a05c7893d6332f9f49d2aec_gfn-thursday-5-14-nv-blog-1280x680-logo-842x450/gfn-thursday-5-14-nv-blog-1280x680-logo-842x450_thmb.jpg"
-  },
-  {
-    "title": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
-    "link": "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 13 May 2026 13:00:57 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202605/88334f964037232ff2db28adf5ab6ea8/6a04764f3d63326fa38aa165_agentic-logo-lockup-Ineffable-press-1920x1080-1-842x450/agentic-logo-lockup-Ineffable-press-1920x1080-1-842x450_thmb.jpg"
   },
   {
     "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",

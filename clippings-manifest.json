@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T09:39:06.184Z",
+  "generatedAt": "2026-05-23T02:14:24.443Z",
   "siteName": "Thomas Liu",
   "tags": [
     {
@@ -28,7 +28,7 @@
     {
       "name": "Claude Code Action",
       "slug": "claude-code-action",
-      "count": 17,
+      "count": 21,
       "posts": [
         {
           "slug": "00-开篇词-共生而非替代-极客和-ai-的共舞",
@@ -149,6 +149,38 @@
           "excerpt": "Agent生态中的Skills从产品特性发展成行业标准，强调了声明式、自包含和知识本位属性，以及与SubAgents的对比。介绍了Agentic AI Foundation的成立和skills.sh的推出。强调了AGENTS.md和Skil",
           "url": "/posts/claude-code-action/14-%E6%98%9F%E7%81%AB%E7%87%8E%E5%8E%9F-%E4%BB%8E-claude-code-%E5%88%B0%E8%A1%8C%E4%B8%9A%E5%BC%80%E6%94%BE%E6%A0%87%E5%87%86/",
           "mdPath": "/Clippings/Claude Code Action/14｜星火燎原：从 Claude Code 到行业开放标准-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "15-防微杜渐-hooks-事件驱动自动化",
+          "title": "15｜防微杜渐：Hooks 事件驱动自动化",
+          "created": "2026-05-23",
+          "excerpt": "Hooks事件驱动自动化是Claude Code的重要扩展机制，支持17种事件，包括控制点、接管点和观察点，可在工具执行前后插入自定义检查，保护敏感文件、自动格式化代码。Hooks提供了自动化安全检查和保护敏感文件的功能，同时支持自定义事件",
+          "url": "/posts/claude-code-action/15-%E9%98%B2%E5%BE%AE%E6%9D%9C%E6%B8%90-hooks-%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E8%87%AA%E5%8A%A8%E5%8C%96/",
+          "mdPath": "/Clippings/Claude Code Action/15｜防微杜渐：Hooks 事件驱动自动化.md"
+        },
+        {
+          "slug": "16-未雨绸缪-hooks-高级模式与工程实践",
+          "title": "16｜未雨绸缪：Hooks 高级模式与工程实践",
+          "created": "2026-05-23",
+          "excerpt": "本文深入探讨了Hooks高级模式与工程实践，包括Stop Hook的质量门控和自动测试门控的实战应用，以及SubagentStart和SubagentStop事件的使用。进阶技巧和最佳实践包括多Hook链、环境变量的使用、在Commands",
+          "url": "/posts/claude-code-action/16-%E6%9C%AA%E9%9B%A8%E7%BB%B8%E7%BC%AA-hooks-%E9%AB%98%E7%BA%A7%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/",
+          "mdPath": "/Clippings/Claude Code Action/16｜未雨绸缪：Hooks 高级模式与工程实践.md"
+        },
+        {
+          "slug": "17-海纳百川-mcp-协议与外部工具连接",
+          "title": "17｜海纳百川：MCP 协议与外部工具连接",
+          "created": "2026-05-23",
+          "excerpt": "MCP协议连接数字世界，解决AI助手碎片化问题。实战中，连接主流MCP服务如Context7、GitHub、Notion和数据库，展示了其实用性。MCP协议支持多种传输方式，适用于不同场景，是全栈开发者的完整工具箱。此外，文章还介绍了创建自",
+          "url": "/posts/claude-code-action/17-%E6%B5%B7%E7%BA%B3%E7%99%BE%E5%B7%9D-mcp-%E5%8D%8F%E8%AE%AE%E4%B8%8E%E5%A4%96%E9%83%A8%E5%B7%A5%E5%85%B7%E8%BF%9E%E6%8E%A5/",
+          "mdPath": "/Clippings/Claude Code Action/17｜海纳百川：MCP 协议与外部工具连接.md"
+        },
+        {
+          "slug": "18-庖丁解牛-tools-工具系统内核剖析",
+          "title": "18｜庖丁解牛：Tools 工具系统内核剖析",
+          "created": "2026-05-23",
+          "excerpt": "本文深入解析了Claude Code的工具系统内核，阐述了工具的设计哲学和分类，以及工具的风险等级。强调了工具集是一组精心选择的原语，而不是特化的高级能力，高级能力是通过原语工具的组合涌现出来的。文章还介绍了权限控制体系、工具扩展与架构定位",
+          "url": "/posts/claude-code-action/18-%E5%BA%96%E4%B8%81%E8%A7%A3%E7%89%9B-tools-%E5%B7%A5%E5%85%B7%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%89%96%E6%9E%90/",
+          "mdPath": "/Clippings/Claude Code Action/18｜庖丁解牛：Tools 工具系统内核剖析.md"
         },
         {
           "slug": "加餐-子代理专题总结-&-春节练习",
@@ -328,6 +360,37 @@
       ]
     },
     {
+      "name": "KAFKA",
+      "slug": "kafka",
+      "count": 3,
+      "posts": [
+        {
+          "slug": "01-消息引擎系统abc",
+          "title": "01 消息引擎系统ABC",
+          "created": "2026-05-12",
+          "excerpt": "消息引擎系统ABC",
+          "url": "/posts/kafka/01-%E6%B6%88%E6%81%AF%E5%BC%95%E6%93%8E%E7%B3%BB%E7%BB%9Fabc/",
+          "mdPath": "/Clippings/KAFKA/01 消息引擎系统ABC.md"
+        },
+        {
+          "slug": "开篇词-为什么要学习kafka",
+          "title": "开篇词 为什么要学习Kafka？",
+          "created": "2026-05-12",
+          "excerpt": "为什么要学习Kafka",
+          "url": "/posts/kafka/%E5%BC%80%E7%AF%87%E8%AF%8D-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AD%A6%E4%B9%A0kafka/",
+          "mdPath": "/Clippings/KAFKA/开篇词  为什么要学习Kafka.md"
+        },
+        {
+          "slug": "kafka在mac上的安装与启用",
+          "title": "kafka在mac上的安装与启用",
+          "created": "",
+          "excerpt": "kafka在mac上的安装与启用 1.kafka安装包下载 在Apache的kafka官网下载安装包，以下4个包随便选一个下载。 2.启动zookeeper的服务 进入文件的解压目录，输入 bin/zookeeperserverstart.",
+          "url": "/posts/kafka/kafka%E5%9C%A8mac%E4%B8%8A%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E5%90%AF%E7%94%A8/",
+          "mdPath": "/Clippings/KAFKA/kafka在mac上的安装与启用.md"
+        }
+      ]
+    },
+    {
       "name": "LLM",
       "slug": "llm",
       "count": 1,
@@ -382,50 +445,57 @@
       ]
     },
     {
-      "name": "Multi-Agent Design and Engineering Camp",
-      "slug": "multi-agent-design-and-engineering-camp",
-      "count": 0,
-      "posts": []
-    },
-    {
       "name": "TCP:IP Analysis",
       "slug": "tcp-ip-analysis",
       "count": 0,
       "posts": []
-    },
-    {
-      "name": "kafka",
-      "slug": "kafka",
-      "count": 3,
-      "posts": [
-        {
-          "slug": "01-消息引擎系统abc",
-          "title": "01 消息引擎系统ABC",
-          "created": "2026-05-12",
-          "excerpt": "消息引擎系统ABC",
-          "url": "/posts/kafka/01-%E6%B6%88%E6%81%AF%E5%BC%95%E6%93%8E%E7%B3%BB%E7%BB%9Fabc/",
-          "mdPath": "/Clippings/kafka/01 消息引擎系统ABC.md"
-        },
-        {
-          "slug": "开篇词-为什么要学习kafka",
-          "title": "开篇词 为什么要学习Kafka？",
-          "created": "2026-05-12",
-          "excerpt": "为什么要学习Kafka",
-          "url": "/posts/kafka/%E5%BC%80%E7%AF%87%E8%AF%8D-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AD%A6%E4%B9%A0kafka/",
-          "mdPath": "/Clippings/kafka/开篇词  为什么要学习Kafka.md"
-        },
-        {
-          "slug": "kafka在mac上的安装与启用",
-          "title": "kafka在mac上的安装与启用",
-          "created": "",
-          "excerpt": "kafka在mac上的安装与启用 1.kafka安装包下载 在Apache的kafka官网下载安装包，以下4个包随便选一个下载。 2.启动zookeeper的服务 进入文件的解压目录，输入 bin/zookeeperserverstart.",
-          "url": "/posts/kafka/kafka%E5%9C%A8mac%E4%B8%8A%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E5%90%AF%E7%94%A8/",
-          "mdPath": "/Clippings/kafka/kafka在mac上的安装与启用.md"
-        }
-      ]
     }
   ],
   "posts": [
+    {
+      "slug": "15-防微杜渐-hooks-事件驱动自动化",
+      "title": "15｜防微杜渐：Hooks 事件驱动自动化",
+      "created": "2026-05-23",
+      "excerpt": "Hooks事件驱动自动化是Claude Code的重要扩展机制，支持17种事件，包括控制点、接管点和观察点，可在工具执行前后插入自定义检查，保护敏感文件、自动格式化代码。Hooks提供了自动化安全检查和保护敏感文件的功能，同时支持自定义事件",
+      "url": "/posts/claude-code-action/15-%E9%98%B2%E5%BE%AE%E6%9D%9C%E6%B8%90-hooks-%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E8%87%AA%E5%8A%A8%E5%8C%96/",
+      "mdPath": "/Clippings/Claude Code Action/15｜防微杜渐：Hooks 事件驱动自动化.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/953022"
+    },
+    {
+      "slug": "16-未雨绸缪-hooks-高级模式与工程实践",
+      "title": "16｜未雨绸缪：Hooks 高级模式与工程实践",
+      "created": "2026-05-23",
+      "excerpt": "本文深入探讨了Hooks高级模式与工程实践，包括Stop Hook的质量门控和自动测试门控的实战应用，以及SubagentStart和SubagentStop事件的使用。进阶技巧和最佳实践包括多Hook链、环境变量的使用、在Commands",
+      "url": "/posts/claude-code-action/16-%E6%9C%AA%E9%9B%A8%E7%BB%B8%E7%BC%AA-hooks-%E9%AB%98%E7%BA%A7%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/",
+      "mdPath": "/Clippings/Claude Code Action/16｜未雨绸缪：Hooks 高级模式与工程实践.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/954158"
+    },
+    {
+      "slug": "17-海纳百川-mcp-协议与外部工具连接",
+      "title": "17｜海纳百川：MCP 协议与外部工具连接",
+      "created": "2026-05-23",
+      "excerpt": "MCP协议连接数字世界，解决AI助手碎片化问题。实战中，连接主流MCP服务如Context7、GitHub、Notion和数据库，展示了其实用性。MCP协议支持多种传输方式，适用于不同场景，是全栈开发者的完整工具箱。此外，文章还介绍了创建自",
+      "url": "/posts/claude-code-action/17-%E6%B5%B7%E7%BA%B3%E7%99%BE%E5%B7%9D-mcp-%E5%8D%8F%E8%AE%AE%E4%B8%8E%E5%A4%96%E9%83%A8%E5%B7%A5%E5%85%B7%E8%BF%9E%E6%8E%A5/",
+      "mdPath": "/Clippings/Claude Code Action/17｜海纳百川：MCP 协议与外部工具连接.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/955015"
+    },
+    {
+      "slug": "18-庖丁解牛-tools-工具系统内核剖析",
+      "title": "18｜庖丁解牛：Tools 工具系统内核剖析",
+      "created": "2026-05-23",
+      "excerpt": "本文深入解析了Claude Code的工具系统内核，阐述了工具的设计哲学和分类，以及工具的风险等级。强调了工具集是一组精心选择的原语，而不是特化的高级能力，高级能力是通过原语工具的组合涌现出来的。文章还介绍了权限控制体系、工具扩展与架构定位",
+      "url": "/posts/claude-code-action/18-%E5%BA%96%E4%B8%81%E8%A7%A3%E7%89%9B-tools-%E5%B7%A5%E5%85%B7%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%89%96%E6%9E%90/",
+      "mdPath": "/Clippings/Claude Code Action/18｜庖丁解牛：Tools 工具系统内核剖析.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/957210"
+    },
     {
       "slug": "11-循序渐进-渐进式披露架构设计",
       "title": "11｜循序渐进：渐进式披露架构设计",
@@ -718,8 +788,8 @@
       "created": "2026-05-12",
       "excerpt": "消息引擎系统ABC",
       "url": "/posts/kafka/01-%E6%B6%88%E6%81%AF%E5%BC%95%E6%93%8E%E7%B3%BB%E7%BB%9Fabc/",
-      "mdPath": "/Clippings/kafka/01 消息引擎系统ABC.md",
-      "tagName": "kafka",
+      "mdPath": "/Clippings/KAFKA/01 消息引擎系统ABC.md",
+      "tagName": "KAFKA",
       "tagSlug": "kafka",
       "source": "https://time.geekbang.org/column/article/98948"
     },
@@ -729,8 +799,8 @@
       "created": "2026-05-12",
       "excerpt": "为什么要学习Kafka",
       "url": "/posts/kafka/%E5%BC%80%E7%AF%87%E8%AF%8D-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AD%A6%E4%B9%A0kafka/",
-      "mdPath": "/Clippings/kafka/开篇词  为什么要学习Kafka.md",
-      "tagName": "kafka",
+      "mdPath": "/Clippings/KAFKA/开篇词  为什么要学习Kafka.md",
+      "tagName": "KAFKA",
       "tagSlug": "kafka",
       "source": "https://time.geekbang.org/column/article/98683"
     },
@@ -883,8 +953,8 @@
       "created": "",
       "excerpt": "kafka在mac上的安装与启用 1.kafka安装包下载 在Apache的kafka官网下载安装包，以下4个包随便选一个下载。 2.启动zookeeper的服务 进入文件的解压目录，输入 bin/zookeeperserverstart.",
       "url": "/posts/kafka/kafka%E5%9C%A8mac%E4%B8%8A%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E5%90%AF%E7%94%A8/",
-      "mdPath": "/Clippings/kafka/kafka在mac上的安装与启用.md",
-      "tagName": "kafka",
+      "mdPath": "/Clippings/KAFKA/kafka在mac上的安装与启用.md",
+      "tagName": "KAFKA",
       "tagSlug": "kafka",
       "source": ""
     }
