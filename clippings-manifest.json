@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T15:44:55.815Z",
+  "generatedAt": "2026-05-28T10:06:41.092Z",
   "siteName": "Thomas Liu",
   "tags": [
     {
@@ -28,7 +28,7 @@
     {
       "name": "Claude Code Action",
       "slug": "claude-code-action",
-      "count": 23,
+      "count": 26,
       "posts": [
         {
           "slug": "00-开篇词-共生而非替代-极客和-ai-的共舞",
@@ -197,6 +197,30 @@
           "excerpt": "Claude Code中的规则系统包括指令规则和权限规则，分别位于`.claude/rules/`目录和`.claude/settings.json`中。指令规则是认知约束，权限规则是行为约束，两者协同构成完整的规则体系。权限规则覆盖内置工",
           "url": "/posts/claude-code-action/20-%E6%9C%89%E7%AB%A0%E5%8F%AF%E5%BE%AA-rules-%E8%A7%84%E5%88%99%E7%B3%BB%E7%BB%9F%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90/",
           "mdPath": "/Clippings/Claude Code Action/20｜有章可循：Rules 规则系统深度剖析.md"
+        },
+        {
+          "slug": "21-登堂入室-通过agent-sdk-掌控-claude-code",
+          "title": "21｜登堂入室 ：通过Agent SDK 掌控 Claude Code",
+          "created": "2026-05-28",
+          "excerpt": "Agent SDK是一种可编程接口，封装了Claude Code的能力，提供Python和TypeScript支持，通过query()函数和ClaudeSDKClient类实现对AI Agent的驱动和控制。其特点是简洁高效的query()",
+          "url": "/posts/claude-code-action/21-%E7%99%BB%E5%A0%82%E5%85%A5%E5%AE%A4-%E9%80%9A%E8%BF%87agent-sdk-%E6%8E%8C%E6%8E%A7-claude-code/",
+          "mdPath": "/Clippings/Claude Code Action/21｜登堂入室 ：通过Agent SDK 掌控 Claude Code-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "22-得心应手-agent-sdk-高级应用",
+          "title": "22｜得心应手：Agent SDK 高级应用",
+          "created": "2026-05-28",
+          "excerpt": "Agent SDK高级应用深入讲解了自定义工具、Hooks拦截、权限分层和流式会话等高级能力，展示了如何在工程环境中应用Agent SDK的高级特性。文章还介绍了生产环境中应用SDK的最佳实践，包括成本控制、错误重试和超时处理。SDK提供了",
+          "url": "/posts/claude-code-action/22-%E5%BE%97%E5%BF%83%E5%BA%94%E6%89%8B-agent-sdk-%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8/",
+          "mdPath": "/Clippings/Claude Code Action/22｜得心应手：Agent SDK 高级应用-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "23-化零为整-plugins-插件打包与分发",
+          "title": "23｜化零为整：Plugins 插件打包与分发",
+          "created": "2026-05-28",
+          "excerpt": "本文介绍了如何使用插件系统将散落在各处的Commands、Skills、Agents、Hooks、MCP配置打包成一个可安装、可升级、可分享的插件。通过插件系统，可以将个人经验转化为团队能力，实现知识的资产化和重复的复用。文章还介绍了插件的",
+          "url": "/posts/claude-code-action/23-%E5%8C%96%E9%9B%B6%E4%B8%BA%E6%95%B4-plugins-%E6%8F%92%E4%BB%B6%E6%89%93%E5%8C%85%E4%B8%8E%E5%88%86%E5%8F%91/",
+          "mdPath": "/Clippings/Claude Code Action/23｜化零为整：Plugins 插件打包与分发.md"
         },
         {
           "slug": "加餐-子代理专题总结-&-春节练习",
@@ -468,6 +492,39 @@
     }
   ],
   "posts": [
+    {
+      "slug": "21-登堂入室-通过agent-sdk-掌控-claude-code",
+      "title": "21｜登堂入室 ：通过Agent SDK 掌控 Claude Code",
+      "created": "2026-05-28",
+      "excerpt": "Agent SDK是一种可编程接口，封装了Claude Code的能力，提供Python和TypeScript支持，通过query()函数和ClaudeSDKClient类实现对AI Agent的驱动和控制。其特点是简洁高效的query()",
+      "url": "/posts/claude-code-action/21-%E7%99%BB%E5%A0%82%E5%85%A5%E5%AE%A4-%E9%80%9A%E8%BF%87agent-sdk-%E6%8E%8C%E6%8E%A7-claude-code/",
+      "mdPath": "/Clippings/Claude Code Action/21｜登堂入室 ：通过Agent SDK 掌控 Claude Code-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/965077?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "22-得心应手-agent-sdk-高级应用",
+      "title": "22｜得心应手：Agent SDK 高级应用",
+      "created": "2026-05-28",
+      "excerpt": "Agent SDK高级应用深入讲解了自定义工具、Hooks拦截、权限分层和流式会话等高级能力，展示了如何在工程环境中应用Agent SDK的高级特性。文章还介绍了生产环境中应用SDK的最佳实践，包括成本控制、错误重试和超时处理。SDK提供了",
+      "url": "/posts/claude-code-action/22-%E5%BE%97%E5%BF%83%E5%BA%94%E6%89%8B-agent-sdk-%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8/",
+      "mdPath": "/Clippings/Claude Code Action/22｜得心应手：Agent SDK 高级应用-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/966254?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "23-化零为整-plugins-插件打包与分发",
+      "title": "23｜化零为整：Plugins 插件打包与分发",
+      "created": "2026-05-28",
+      "excerpt": "本文介绍了如何使用插件系统将散落在各处的Commands、Skills、Agents、Hooks、MCP配置打包成一个可安装、可升级、可分享的插件。通过插件系统，可以将个人经验转化为团队能力，实现知识的资产化和重复的复用。文章还介绍了插件的",
+      "url": "/posts/claude-code-action/23-%E5%8C%96%E9%9B%B6%E4%B8%BA%E6%95%B4-plugins-%E6%8F%92%E4%BB%B6%E6%89%93%E5%8C%85%E4%B8%8E%E5%88%86%E5%8F%91/",
+      "mdPath": "/Clippings/Claude Code Action/23｜化零为整：Plugins 插件打包与分发.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/966900?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
     {
       "slug": "19-无人值守-headless-模式与-cicd-集成",
       "title": "19｜无人值守：Headless 模式与 CI/CD 集成",
