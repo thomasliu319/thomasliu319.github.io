@@ -1,42 +1,98 @@
 [
   {
-    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-    "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+    "title": "Coders are refusing to work without AI — and that could come back to bite them",
+    "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 28 May 2026 07:00:00 +0000",
+    "pubDate": "Fri, 29 May 2026 22:14:22 +0000",
     "image": ""
   },
   {
-    "title": "Why Google&#8217;s AI can&#8217;t spell Google (or anything else)",
-    "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "title": "So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that",
+    "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 28 May 2026 00:17:41 +0000",
+    "pubDate": "Fri, 29 May 2026 18:49:19 +0000",
     "image": ""
   },
   {
-    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-    "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "title": "What happens when companies become too AI-pilled?",
+    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 27 May 2026 20:10:00 +0000",
+    "pubDate": "Fri, 29 May 2026 17:57:05 +0000",
     "image": ""
   },
   {
-    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-    "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "title": "After Nvidia&#8217;s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 27 May 2026 19:39:45 +0000",
+    "pubDate": "Fri, 29 May 2026 17:27:13 +0000",
     "image": ""
   },
   {
-    "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
-    "link": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+    "title": "Cognition&#8217;s Scott Wu says AI coding agents shouldn&#8217;t replace humans",
+    "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 27 May 2026 18:39:17 +0000",
+    "pubDate": "Fri, 29 May 2026 16:13:47 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Boston Children’s uses AI to unlock new diagnoses]]>",
+    "link": "https://openai.com/index/boston-childrens-hospital",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How Braintrust turns customer requests into code with Codex]]>",
+    "link": "https://openai.com/index/braintrust",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Strengthening societal resilience with Rosalind Biodefense]]>",
+    "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 29 May 2026 03:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[A shared playbook for trustworthy third party evaluations]]>",
+    "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 29 May 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+    "link": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 28 May 2026 13:00:51 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202605/d3693729445a435f8314fbe905b013f0/6a183cc83d633227a07de7df_icra-26-corp-blog-option2/icra-26-corp-blog-option2_thmb.jpg"
+  },
+  {
+    "title": "The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 28 May 2026 13:00:37 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202605/f94aacd6bbd0cb7fd62cb370d9520537/6a183ccb3d633227a07de7e5_gfn-thursday-5-28-nv-blog-1280x680-logo-1-842x450/gfn-thursday-5-28-nv-blog-1280x680-logo-1-842x450_thmb.jpg"
+  },
+  {
+    "title": "<![CDATA[How Endava builds an agentic organization with Codex]]>",
+    "link": "https://openai.com/index/endava",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 28 May 2026 12:00:00 GMT",
     "image": ""
   },
   {
@@ -48,52 +104,12 @@
     "image": "https://iprsoftwaremedia.com/219/files/202605/bc25e57a306a4dc07c4616009bfb3c96/6a17156a3d63327f38e74965_AI_v001-842x450/AI_v001-842x450_thmb.jpg"
   },
   {
-    "title": "<![CDATA[Cisco and OpenAI redefine enterprise engineering with Codex]]>",
-    "link": "https://openai.com/index/cisco",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 27 May 2026 11:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Building self-improving tax agents with Codex]]>",
-    "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Election information and safeguards in 2026]]>",
-    "link": "https://openai.com/index/election-safeguards-2026",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Warp’s big bet on building open source with GPT-5.5]]>",
-    "link": "https://openai.com/index/warp",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
     "link": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Tue, 26 May 2026 21:15:15 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202605/d87b540f22e8195a4c2d3eaefe5d0e78/6a160d9c3d63327808b53d94_Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651-1/Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651-1_thmb.jpg"
-  },
-  {
-    "title": "<![CDATA[OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership]]>",
-    "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
-    "image": ""
   },
   {
     "title": "NVIDIA Announces Upcoming Events for Financial Community",
@@ -104,20 +120,44 @@
     "image": "https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg"
   },
   {
-    "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
-    "link": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
-    "source": "NVIDIA Blog",
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "source": "Google DeepMind",
     "description": "",
-    "pubDate": "Thu, 21 May 2026 16:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20264/3e194fa738d3b8bdec62ae0a0d0e1d87/6a1691683d6332f180327aaf_26-gtctpe-special-event-jhh-constellation-celebration-1-shn-6892_16x9/26-gtctpe-special-event-jhh-constellation-celebration-1-shn-6892_16x9_thmb.jpg"
+    "pubDate": "Thu, 21 May 2026 19:46:42 +0000",
+    "image": ""
   },
   {
-    "title": "License to Stream: ‘007 First Light’ Coming to GeForce NOW With an Ultimate Bundle",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/",
-    "source": "NVIDIA Blog",
+    "title": "Fast-tracking genetic leads to reverse cellular aging",
+    "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "source": "Google DeepMind",
+    "description": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+    "pubDate": "Mon, 18 May 2026 18:21:39 +0000",
+    "image": "https://lh3.googleusercontent.com/Xyt_1kwd_q4W4dKV0YND9MzHJF0UOGAYyZjfKEVQK0LoE2HC7i29ZnIG32Sd8RR1qj5iXEzbexg20aePXF5vLjYUB5vO_zdoqAZhKrSV4VVyce5VT1s=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "Simulate real-world places with Project Genie and Street View",
+    "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "source": "Google DeepMind",
+    "description": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+    "pubDate": "Sun, 17 May 2026 19:53:18 +0000",
+    "image": ""
+  },
+  {
+    "title": "Introducing Gemini Omni",
+    "link": "https://deepmind.google/blog/introducing-gemini-omni/",
+    "source": "Google DeepMind",
     "description": "",
-    "pubDate": "Thu, 21 May 2026 13:00:22 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202605/f95a7813324f1ce1bf5c88c4fbfd53e5/6a0f01f33d633200d41043df_gfn-thursday-5-14-nv-blog-1280x680-logo-1-842x450/gfn-thursday-5-14-nv-blog-1280x680-logo-1-842x450_thmb.jpg"
+    "pubDate": "Sun, 17 May 2026 19:50:57 +0000",
+    "image": ""
+  },
+  {
+    "title": "Introducing Google Antigravity 2.0",
+    "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Sun, 17 May 2026 19:43:45 +0000",
+    "image": ""
   },
   {
     "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",

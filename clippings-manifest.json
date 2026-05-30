@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T10:06:41.092Z",
+  "generatedAt": "2026-05-30T03:09:35.543Z",
   "siteName": "Thomas Liu",
   "tags": [
     {
@@ -28,7 +28,7 @@
     {
       "name": "Claude Code Action",
       "slug": "claude-code-action",
-      "count": 26,
+      "count": 27,
       "posts": [
         {
           "slug": "00-开篇词-共生而非替代-极客和-ai-的共舞",
@@ -237,6 +237,14 @@
           "excerpt": "文章总结了Skills专题的六讲全景、四种设计模式及其综合运用案例，突出了Skills在AI Agent架构中的重要性和与Tools、SubAgents的关系。强调了贯穿始终的工程方法论和Skills的终极定义。同时，提出了构建生产级Ski",
           "url": "/posts/claude-code-action/%E5%8A%A0%E9%A4%90-skills-%E4%B8%93%E9%A2%98%E6%80%BB%E7%BB%93/",
           "mdPath": "/Clippings/Claude Code Action/加餐｜Skills 专题总结-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "结束语-时代飞速更迭-你我携手同行",
+          "title": "结束语｜时代飞速更迭，你我携手同行",
+          "created": "2026-05-30",
+          "excerpt": "本文介绍了如何使用插件系统将散落在各处的Commands、Skills、Agents、Hooks、MCP配置打包成一个可安装、可升级、可分享的插件。通过插件系统，可以将个人经验转化为团队能力，实现知识的资产化和重复的复用。文章还介绍了插件的",
+          "url": "/posts/claude-code-action/%E7%BB%93%E6%9D%9F%E8%AF%AD-%E6%97%B6%E4%BB%A3%E9%A3%9E%E9%80%9F%E6%9B%B4%E8%BF%AD-%E4%BD%A0%E6%88%91%E6%90%BA%E6%89%8B%E5%90%8C%E8%A1%8C/",
+          "mdPath": "/Clippings/Claude Code Action/结束语｜时代飞速更迭，你我携手同行.md"
         }
       ]
     },
@@ -492,6 +500,17 @@
     }
   ],
   "posts": [
+    {
+      "slug": "结束语-时代飞速更迭-你我携手同行",
+      "title": "结束语｜时代飞速更迭，你我携手同行",
+      "created": "2026-05-30",
+      "excerpt": "本文介绍了如何使用插件系统将散落在各处的Commands、Skills、Agents、Hooks、MCP配置打包成一个可安装、可升级、可分享的插件。通过插件系统，可以将个人经验转化为团队能力，实现知识的资产化和重复的复用。文章还介绍了插件的",
+      "url": "/posts/claude-code-action/%E7%BB%93%E6%9D%9F%E8%AF%AD-%E6%97%B6%E4%BB%A3%E9%A3%9E%E9%80%9F%E6%9B%B4%E8%BF%AD-%E4%BD%A0%E6%88%91%E6%90%BA%E6%89%8B%E5%90%8C%E8%A1%8C/",
+      "mdPath": "/Clippings/Claude Code Action/结束语｜时代飞速更迭，你我携手同行.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/967306?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
     {
       "slug": "21-登堂入室-通过agent-sdk-掌控-claude-code",
       "title": "21｜登堂入室 ：通过Agent SDK 掌控 Claude Code",
