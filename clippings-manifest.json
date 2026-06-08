@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T02:40:39.364Z",
+  "generatedAt": "2026-06-08T16:17:53.817Z",
   "siteName": "Thomas Liu",
   "tags": [
     {
@@ -544,6 +544,21 @@
       "slug": "tcp-ip-analysis",
       "count": 0,
       "posts": []
+    },
+    {
+      "name": "openclaw",
+      "slug": "openclaw",
+      "count": 1,
+      "posts": [
+        {
+          "slug": "openclaw对接qq消息收发原来这么简单",
+          "title": "OpenClaw对接QQ消息收发原来这么简单",
+          "created": "",
+          "excerpt": "简介：讲解OpenClaw对接QQ消息收 进入QQ开放平台，扫码登录 https://q.qq.com/qqbot/openclaw/index.html 点击创建机器人，立即分配对应ID ![[Pasted image 202606090",
+          "url": "/posts/openclaw/openclaw%E5%AF%B9%E6%8E%A5qq%E6%B6%88%E6%81%AF%E6%94%B6%E5%8F%91%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95/",
+          "mdPath": "/Clippings/openclaw/OpenClaw对接QQ消息收发原来这么简单.md"
+        }
+      ]
     }
   ],
   "posts": [
@@ -1172,6 +1187,17 @@
       "mdPath": "/Clippings/KAFKA/kafka在mac上的安装与启用.md",
       "tagName": "KAFKA",
       "tagSlug": "kafka",
+      "source": ""
+    },
+    {
+      "slug": "openclaw对接qq消息收发原来这么简单",
+      "title": "OpenClaw对接QQ消息收发原来这么简单",
+      "created": "",
+      "excerpt": "简介：讲解OpenClaw对接QQ消息收 进入QQ开放平台，扫码登录 https://q.qq.com/qqbot/openclaw/index.html 点击创建机器人，立即分配对应ID ![[Pasted image 202606090",
+      "url": "/posts/openclaw/openclaw%E5%AF%B9%E6%8E%A5qq%E6%B6%88%E6%81%AF%E6%94%B6%E5%8F%91%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95/",
+      "mdPath": "/Clippings/openclaw/OpenClaw对接QQ消息收发原来这么简单.md",
+      "tagName": "openclaw",
+      "tagSlug": "openclaw",
       "source": ""
     }
   ]
