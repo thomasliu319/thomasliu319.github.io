@@ -1,12 +1,12 @@
 ---
-title: "04｜实践篇：用Go语言实现一个简单Agent-AI重塑云原生应用开发实战-极客时间"
-source: "https://time.geekbang.org/column/article/835145?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+title: 04｜实践篇：用Go语言实现一个简单Agent-AI重塑云原生应用开发实战-极客时间
+source: https://time.geekbang.org/column/article/835145?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web
 author:
 published:
 created: 2026-06-04
-description: "本文介绍了使用Go语言实现一个简单Agent的实践过程，展示了Agent的工作流程和多轮对话核心逻辑。通过ReAct方案和LangChain Hub，详细解释了ReAct Prompt模板的构成和Agent核心代码的实现。文章涵盖了技术实践和代码示例，适合搜索引擎抓取。"
+description: 本文介绍了使用Go语言实现一个简单Agent的实践过程，展示了Agent的工作流程和多轮对话核心逻辑。通过ReAct方案和LangChain Hub，详细解释了ReAct Prompt模板的构成和Agent核心代码的实现。文章涵盖了技术实践和代码示例，适合搜索引擎抓取。
 tags:
-  - "clippings"
+  - agentops
 ---
 
 

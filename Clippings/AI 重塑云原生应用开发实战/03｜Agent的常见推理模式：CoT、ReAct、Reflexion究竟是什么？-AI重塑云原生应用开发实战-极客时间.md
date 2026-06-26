@@ -1,12 +1,12 @@
 ---
-title: "03｜Agent的常见推理模式：CoT、ReAct、Reflexion究竟是什么？-AI重塑云原生应用开发实战-极客时间"
-source: "https://time.geekbang.org/column/article/834219?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+title: 03｜Agent的常见推理模式：CoT、ReAct、Reflexion究竟是什么？-AI重塑云原生应用开发实战-极客时间
+source: https://time.geekbang.org/column/article/834219?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web
 author:
 published:
 created: 2026-06-04
-description: "常见推理模式包括CoT、ReAct、Reflexion，它们在AI Agent应用开发中使用率极高，有助于提高大模型的推理能力和减少幻觉产生。ReWOO则是在ReAct方案基础上提出的新思路，通过规划解决步骤，节省对话成本。这些思想不断完善，为解决大模型和实际应用中的痛点提供了多种选择。"
+description: 常见推理模式包括CoT、ReAct、Reflexion，它们在AI Agent应用开发中使用率极高，有助于提高大模型的推理能力和减少幻觉产生。ReWOO则是在ReAct方案基础上提出的新思路，通过规划解决步骤，节省对话成本。这些思想不断完善，为解决大模型和实际应用中的痛点提供了多种选择。
 tags:
-  - "clippings"
+  - agentops
 ---
 
 

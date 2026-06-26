@@ -1,12 +1,12 @@
 ---
-title: "01｜Agent的前辈：Function Calling-AI重塑云原生应用开发实战-极客时间"
-source: "https://time.geekbang.org/column/article/833574?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+title: 01｜Agent的前辈：Function Calling-AI重塑云原生应用开发实战-极客时间
+source: https://time.geekbang.org/column/article/833574?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web
 author:
 published:
 created: 2026-06-04
-description: "OpenAI 公司推出了 Function Calling 机制，通过向大模型提供工具（函数），让其自行选择合适的工具解决问题。文章介绍了使用 Go 语言演示 Function Calling 功能的实战步骤，包括模型环境变量配置、Chat Completions 方法的使用等。 Function Calling 机制为大模型与外界环境交互提供了解决方案，成为行业标杆做法。"
+description: OpenAI 公司推出了 Function Calling 机制，通过向大模型提供工具（函数），让其自行选择合适的工具解决问题。文章介绍了使用 Go 语言演示 Function Calling 功能的实战步骤，包括模型环境变量配置、Chat Completions 方法的使用等。 Function Calling 机制为大模型与外界环境交互提供了解决方案，成为行业标杆做法。
 tags:
-  - "clippings"
+  - agentops
 ---
 
 自 2023 年 3 月 ChatGPT 在中国爆火以来，大模型已经悄然改变了许多人的提问方式，尤其是在互联网圈子里。从以前的“有问题，Google 一下”，到现在的“先问问大模型”，这种转变反映了技术对日常生活的深远影响，比如图中这位女士就将 ChatGPT 使用的淋漓尽致。

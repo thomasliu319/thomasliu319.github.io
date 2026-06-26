@@ -1,12 +1,12 @@
 ---
-title: "02｜Agent的原理：什么是AI Agent？-AI重塑云原生应用开发实战-极客时间"
-source: "https://time.geekbang.org/column/article/833757?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+title: 02｜Agent的原理：什么是AI Agent？-AI重塑云原生应用开发实战-极客时间
+source: https://time.geekbang.org/column/article/833757?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web
 author:
 published:
 created: 2026-06-04
-description: "AI Agent是一种计算实体，能感知环境、自主决策并执行行动。它通过多模态输入获取信息，进行信息加工和决策，最终执行行动。Agent的重要性在于帮助大模型解决复杂问题，如推理和规划。 Agent的实现需要结合感知、大脑和行动三部分。"
+description: AI Agent是一种计算实体，能感知环境、自主决策并执行行动。它通过多模态输入获取信息，进行信息加工和决策，最终执行行动。Agent的重要性在于帮助大模型解决复杂问题，如推理和规划。 Agent的实现需要结合感知、大脑和行动三部分。
 tags:
-  - "clippings"
+  - agentops
 ---
 
 在上节课中，我们详细讨论了 Function Calling 的技术背景和功能，并用一个小例子带你体验了大模型通过工具与外界交互的能力。这节课，我将沿着上节课的脚步，探讨一下，AI Agent 是什么，有了 Function Calling 为什么还需要 Agent？

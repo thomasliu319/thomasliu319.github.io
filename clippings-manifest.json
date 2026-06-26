@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:17:53.817Z",
+  "generatedAt": "2026-06-26T07:54:09.062Z",
   "siteName": "Thomas Liu",
   "tags": [
     {
@@ -28,7 +28,7 @@
     {
       "name": "AI 重塑云原生应用开发实战",
       "slug": "ai-重塑云原生应用开发实战",
-      "count": 5,
+      "count": 7,
       "posts": [
         {
           "slug": "00-开篇词-ai+云原生-孔明与刘备的互相成就-ai重塑云原生应用开发实战-极客时间",
@@ -69,6 +69,22 @@
           "excerpt": "本文介绍了使用Go语言实现一个简单Agent的实践过程，展示了Agent的工作流程和多轮对话核心逻辑。通过ReAct方案和LangChain Hub，详细解释了ReAct Prompt模板的构成和Agent核心代码的实现。文章涵盖了技术实践",
           "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/04-%E5%AE%9E%E8%B7%B5%E7%AF%87-%E7%94%A8go%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95agent-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
           "mdPath": "/Clippings/AI 重塑云原生应用开发实战/04｜实践篇：用Go语言实现一个简单Agent-AI重塑云原生应用开发实战-极客时间.md"
+        },
+        {
+          "slug": "05-设计-用自然语言调用agent操控k8s-ai重塑云原生应用开发实战-极客时间",
+          "title": "05｜设计：用自然语言调用Agent操控K8s-AI重塑云原生应用开发实战-极客时间",
+          "created": "2026-06-26",
+          "excerpt": "本文介绍了如何利用自然语言调用Agent操控Kubernetes（K8s），包括传统的Kubernetes交互方式、用自然语言操控Kubernetes的原理与设计，以及相关技术如Cobra命令行工具、API设计、client-go进阶用法和",
+          "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/05-%E8%AE%BE%E8%AE%A1-%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E8%B0%83%E7%94%A8agent%E6%93%8D%E6%8E%A7k8s-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+          "mdPath": "/Clippings/AI 重塑云原生应用开发实战/05｜设计：用自然语言调用Agent操控K8s-AI重塑云原生应用开发实战-极客时间.md"
+        },
+        {
+          "slug": "06-client-go进阶玩法之restmapper",
+          "title": "06｜client-go进阶玩法之RestMapper",
+          "created": "2026-06-26",
+          "excerpt": "本文介绍了如何利用自然语言调用Agent操控Kubernetes（K8s），包括传统的Kubernetes交互方式、用自然语言操控Kubernetes的原理与设计，以及相关技术如Cobra命令行工具、API设计、client-go进阶用法和",
+          "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/06-client-go%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95%E4%B9%8Brestmapper/",
+          "mdPath": "/Clippings/AI 重塑云原生应用开发实战/06｜client-go进阶玩法之RestMapper.md"
         }
       ]
     },
@@ -562,6 +578,28 @@
     }
   ],
   "posts": [
+    {
+      "slug": "05-设计-用自然语言调用agent操控k8s-ai重塑云原生应用开发实战-极客时间",
+      "title": "05｜设计：用自然语言调用Agent操控K8s-AI重塑云原生应用开发实战-极客时间",
+      "created": "2026-06-26",
+      "excerpt": "本文介绍了如何利用自然语言调用Agent操控Kubernetes（K8s），包括传统的Kubernetes交互方式、用自然语言操控Kubernetes的原理与设计，以及相关技术如Cobra命令行工具、API设计、client-go进阶用法和",
+      "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/05-%E8%AE%BE%E8%AE%A1-%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E8%B0%83%E7%94%A8agent%E6%93%8D%E6%8E%A7k8s-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+      "mdPath": "/Clippings/AI 重塑云原生应用开发实战/05｜设计：用自然语言调用Agent操控K8s-AI重塑云原生应用开发实战-极客时间.md",
+      "tagName": "AI 重塑云原生应用开发实战",
+      "tagSlug": "ai-重塑云原生应用开发实战",
+      "source": "https://time.geekbang.org/column/article/835895"
+    },
+    {
+      "slug": "06-client-go进阶玩法之restmapper",
+      "title": "06｜client-go进阶玩法之RestMapper",
+      "created": "2026-06-26",
+      "excerpt": "本文介绍了如何利用自然语言调用Agent操控Kubernetes（K8s），包括传统的Kubernetes交互方式、用自然语言操控Kubernetes的原理与设计，以及相关技术如Cobra命令行工具、API设计、client-go进阶用法和",
+      "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/06-client-go%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95%E4%B9%8Brestmapper/",
+      "mdPath": "/Clippings/AI 重塑云原生应用开发实战/06｜client-go进阶玩法之RestMapper.md",
+      "tagName": "AI 重塑云原生应用开发实战",
+      "tagSlug": "ai-重塑云原生应用开发实战",
+      "source": "https://time.geekbang.org/column/article/836672"
+    },
     {
       "slug": "00-开篇词-ai+云原生-孔明与刘备的互相成就-ai重塑云原生应用开发实战-极客时间",
       "title": "开篇词｜AI+云原生：孔明与刘备的互相成就-AI重塑云原生应用开发实战-极客时间",

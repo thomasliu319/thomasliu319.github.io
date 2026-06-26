@@ -7,7 +7,7 @@ published:
 created: 2026-06-04
 description: 云原生AI套件结合Kubernetes构建生产系统，管理GPU资源和复杂环境，提升AI训练效率。AI网关作为云原生API网关，具备智能调度、自动化管理和自然语言交互能力，简化复杂系统的管理与调度过程。课程设计着重于AI+云原生应用开发，包括自然语言操控K8s和云原生AI网关的实战。
 tags:
-  - clippings
+  - agentops
 ---
 
 
