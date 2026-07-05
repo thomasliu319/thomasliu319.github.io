@@ -72,6 +72,22 @@
     "image": "https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg"
   },
   {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 01 Jul 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 30 Jun 2026 18:32:50 GMT",
+    "image": ""
+  },
+  {
     "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
     "link": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
     "source": "NVIDIA Blog",
@@ -94,6 +110,14 @@
     "description": "",
     "pubDate": "Tue, 30 Jun 2026 15:00:57 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202606/46eca8102541963ace8bb69d9d7d8481/6a43da813d6332962ecebe9c_press-inference-ai-aws-beat-1920x1080-1-842x450/press-inference-ai-aws-beat-1920x1080-1-842x450_thmb.jpg"
+  },
+  {
+    "title": "Why Specialization Is Inevitable",
+    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 30 Jun 2026 14:39:11 GMT",
+    "image": ""
   },
   {
     "title": "<![CDATA[How ChatGPT adoption has expanded]]>",
@@ -125,6 +149,22 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "link": "https://huggingface.co/blog/eee-community-evals",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "link": "https://huggingface.co/blog/allenai/discoformer",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Mon, 29 Jun 2026 18:02:48 GMT",
     "image": ""
   },
   {
