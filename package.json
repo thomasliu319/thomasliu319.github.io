@@ -6,6 +6,8 @@
     "node": "22.x"
   },
   "scripts": {
-    "manifest": "node scripts/generate-manifest.js"
+    "manifest": "node scripts/generate-manifest.js",
+    "dev:server": "python3 -m http.server 8341",
+    "scrape:news": "node scripts/scrape-ai-news.js"
   }
 }
