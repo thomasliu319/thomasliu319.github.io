@@ -2,6 +2,9 @@
   "name": "thomasliu319.github.io",
   "version": "1.0.0",
   "description": "Thomas Liu Blog",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "manifest": "node scripts/generate-manifest.js",
     "dev:server": "python3 -m http.server 8341",

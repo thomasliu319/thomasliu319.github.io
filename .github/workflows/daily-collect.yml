@@ -18,9 +18,11 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version-file: '.nvmrc'
 
       - run: npm run scrape:news
+        env:
+          NODE_OPTIONS: '--no-deprecation'
 
       - name: Commit and push if changed
         run: |
