@@ -1,5 +1,21 @@
 [
   {
+    "title": "🤗 Kernels: Major Updates",
+    "link": "https://huggingface.co/blog/revamped-kernels",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Mon, 06 Jul 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sun, 05 Jul 2026 17:43:36 +0000",
+    "image": ""
+  },
+  {
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
     "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
     "source": "TechCrunch AI",
@@ -29,14 +45,6 @@
     "source": "TechCrunch AI",
     "description": "",
     "pubDate": "Sat, 04 Jul 2026 15:51:32 +0000",
-    "image": ""
-  },
-  {
-    "title": "The only AI glossary you&#8217;ll need this year",
-    "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 03 Jul 2026 21:20:00 +0000",
     "image": ""
   },
   {
@@ -157,14 +165,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "DiScoFormer: One transformer for density and score, across distributions",
-    "link": "https://huggingface.co/blog/allenai/discoformer",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Mon, 29 Jun 2026 18:02:48 GMT",
     "image": ""
   },
   {
