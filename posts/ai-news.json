@@ -1,50 +1,90 @@
 [
   {
+    "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+    "link": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 07 Jul 2026 06:00:26 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/98920b727045b5c12b56c2d117e9a63f/6a4c96153d63325b54c655da_nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450_thmb.jpg"
+  },
+  {
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "link": "https://huggingface.co/blog/lerobot-release-v060",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
+    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 06 Jul 2026 23:56:14 +0000",
+    "image": ""
+  },
+  {
+    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 06 Jul 2026 23:21:03 +0000",
+    "image": ""
+  },
+  {
+    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+    "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 06 Jul 2026 19:49:10 +0000",
+    "image": ""
+  },
+  {
+    "title": "You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 beta",
+    "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 06 Jul 2026 19:01:59 +0000",
+    "image": ""
+  },
+  {
+    "title": "Every major tech layoff in 2026 that has name-checked AI",
+    "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 06 Jul 2026 18:35:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "How Open Models Are Driving AI Research",
+    "link": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 06 Jul 2026 16:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/71178f679a4a0e9b1cb80a0672270b98/6a4bd12a3d633294f94558f5_ICML-Blog-Featured-Image-842x450/ICML-Blog-Featured-Image-842x450_thmb.jpg"
+  },
+  {
+    "title": "PRX Part 4: Our Data Strategy",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Mon, 06 Jul 2026 15:30:55 GMT",
+    "image": ""
+  },
+  {
+    "title": "How Nations Are Deploying AI for Strategic Priorities",
+    "link": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 06 Jul 2026 15:00:25 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202506/6849556d3d6332a11bf78634_llm-blog-gtc-25-paris-3945665-1280x680-1-842x450/llm-blog-gtc-25-paris-3945665-1280x680-1-842x450_thmb.jpg"
+  },
+  {
     "title": "🤗 Kernels: Major Updates",
     "link": "https://huggingface.co/blog/revamped-kernels",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Mon, 06 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Amazon will stop accepting new customers for Mechanical Turk",
-    "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sun, 05 Jul 2026 17:43:36 +0000",
-    "image": ""
-  },
-  {
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 04 Jul 2026 20:55:25 +0000",
-    "image": ""
-  },
-  {
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 04 Jul 2026 18:00:05 +0000",
-    "image": ""
-  },
-  {
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 04 Jul 2026 16:32:08 +0000",
-    "image": ""
-  },
-  {
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 04 Jul 2026 15:51:32 +0000",
     "image": ""
   },
   {
@@ -72,14 +112,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg"
   },
   {
-    "title": "NVIDIA and Partners Build in America, for America",
-    "link": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 01 Jul 2026 13:00:47 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg"
-  },
-  {
     "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
     "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
     "source": "Hugging Face Blog",
@@ -96,35 +128,11 @@
     "image": ""
   },
   {
-    "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
-    "link": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 30 Jun 2026 17:00:38 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202606/87fcaecc8e2e0705958c997424700a1a/6a43f6783d6332202b542014_anthropic-nvidia-842x450/anthropic-nvidia-842x450_thmb.jpg"
-  },
-  {
     "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
     "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Tue, 30 Jun 2026 16:02:40 +0000",
-    "image": ""
-  },
-  {
-    "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
-    "link": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 30 Jun 2026 15:00:57 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202606/46eca8102541963ace8bb69d9d7d8481/6a43da813d6332962ecebe9c_press-inference-ai-aws-beat-1920x1080-1-842x450/press-inference-ai-aws-beat-1920x1080-1-842x450_thmb.jpg"
-  },
-  {
-    "title": "Why Specialization Is Inevitable",
-    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 30 Jun 2026 14:39:11 GMT",
     "image": ""
   },
   {
@@ -136,8 +144,8 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Inside Genebench-Pro]]>",
-    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "title": "<![CDATA[Core dump epidemiology: fixing an 18-year-old bug]]>",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
@@ -152,17 +160,9 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Core dump epidemiology: fixing an 18-year-old bug]]>",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "title": "<![CDATA[Inside Genebench-Pro]]>",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
     "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-    "link": "https://huggingface.co/blog/eee-community-evals",
-    "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
     "image": ""
