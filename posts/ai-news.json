@@ -1,42 +1,82 @@
 [
   {
-    "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-    "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+    "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
+    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 08 Jul 2026 22:41:33 +0000",
+    "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
     "image": ""
   },
   {
-    "title": "Google&#8217;s deepfake detector system used to debunk McConnell hoax pic",
-    "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "title": "Fidji Simo steps down from OpenAI&#8217;s no. 2 role",
+    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 08 Jul 2026 20:37:03 +0000",
+    "pubDate": "Thu, 09 Jul 2026 23:38:00 +0000",
     "image": ""
   },
   {
-    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&#8217;",
-    "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 08 Jul 2026 19:30:16 +0000",
+    "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
     "image": ""
   },
   {
-    "title": "This startup thinks robotics is about to have its ChatGPT moment",
-    "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "title": "An AI agent startup just let its agent run its $100M fundraise",
+    "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 08 Jul 2026 19:19:15 +0000",
+    "pubDate": "Thu, 09 Jul 2026 22:08:58 +0000",
     "image": ""
   },
   {
-    "title": "Google Photos adds a new AI &#8216;Video Remix&#8217; tool",
-    "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 08 Jul 2026 18:30:08 +0000",
+    "pubDate": "Thu, 09 Jul 2026 22:03:54 +0000",
+    "image": ""
+  },
+  {
+    "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 09 Jul 2026 13:00:55 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/3e3ee94d16b13a11d45c4b363c1ff746/6a4f9bbd3d633226e978121d_gfn-thursday-7-9-blog-1920x1080-no-copy-842x450/gfn-thursday-7-9-blog-1920x1080-no-copy-842x450_thmb.jpg"
+  },
+  {
+    "title": "<![CDATA[GPT-5.6 is now the preferred model in Microsoft 365 Copilot]]>",
+    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 09 Jul 2026 13:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[ChatGPT is now a partner for your most ambitious work]]>",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[GPT-5.5 Bio Bug Bounty]]>",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[GPT-5.6: Frontier intelligence that scales with your ambition]]>",
+    "link": "https://openai.com/index/gpt-5-6",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
     "image": ""
   },
   {
@@ -61,30 +101,6 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Wed, 08 Jul 2026 13:30:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Separating signal from noise in coding evaluations]]>",
-    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 08 Jul 2026 13:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Helping K–12 educators build practical AI skills]]>",
-    "link": "https://openai.com/index/k-12-educators-practical-skills",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 08 Jul 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Introducing GPT-Live]]>",
-    "link": "https://openai.com/index/introducing-gpt-live",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 08 Jul 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -128,14 +144,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202607/98920b727045b5c12b56c2d117e9a63f/6a4c96153d63325b54c655da_nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450_thmb.jpg"
   },
   {
-    "title": "<![CDATA[Australian Payments Plus moves faster with ChatGPT and Codex]]>",
-    "link": "https://openai.com/index/australian-payments-plus",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
     "link": "https://huggingface.co/blog/skypilot-hf-storage",
     "source": "Hugging Face Blog",
@@ -150,14 +158,6 @@
     "description": "",
     "pubDate": "Mon, 06 Jul 2026 16:00:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202607/71178f679a4a0e9b1cb80a0672270b98/6a4bd12a3d633294f94558f5_ICML-Blog-Featured-Image-842x450/ICML-Blog-Featured-Image-842x450_thmb.jpg"
-  },
-  {
-    "title": "How Nations Are Deploying AI for Strategic Priorities",
-    "link": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 06 Jul 2026 15:00:25 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202506/6849556d3d6332a11bf78634_llm-blog-gtc-25-paris-3945665-1280x680-1-842x450/llm-blog-gtc-25-paris-3945665-1280x680-1-842x450_thmb.jpg"
   },
   {
     "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
