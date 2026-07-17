@@ -1,11 +1,91 @@
 [
   {
-    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-    "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "title": "Google Vids now lets you star in your own AI videos",
+    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 16 Jul 2026 04:00:00 +0000",
+    "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
     "image": ""
+  },
+  {
+    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 16 Jul 2026 16:01:21 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Why teens deserve access to safe AI]]>",
+    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Google&#8217;s AI Mode now lets you link and interact with select apps",
+    "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 16 Jul 2026 16:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Yes, you can now order DoorDash from the command line",
+    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 16 Jul 2026 15:38:55 +0000",
+    "image": ""
+  },
+  {
+    "title": "Why is OpenAI selling a ChatGPT basketball?",
+    "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 16 Jul 2026 15:31:09 +0000",
+    "image": ""
+  },
+  {
+    "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 16 Jul 2026 13:00:34 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg"
+  },
+  {
+    "title": "Newer Models, Same Advantage",
+    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 16 Jul 2026 11:49:48 GMT",
+    "image": ""
+  },
+  {
+    "title": "Our approach to bioresilience",
+    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "source": "Google DeepMind",
+    "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+    "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
+    "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure",
+    "link": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 16 Jul 2026 08:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg"
   },
   {
     "title": "Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
@@ -16,11 +96,19 @@
     "image": "https://iprsoftwaremedia.com/219/files/202607/ec180c85cf8840fb0edaf360eba98abd/6a580ccd3d63323228944ad6_NVIDIA%20Cosmos%20in%20Japan/NVIDIA%20Cosmos%20in%20Japan_thmb.jpg"
   },
   {
-    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-    "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[How Cars24 scales conversations and builds faster with OpenAI]]>",
+    "link": "https://openai.com/index/cars24",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Wed, 15 Jul 2026 23:59:44 +0000",
+    "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Security incident disclosure — July 2026",
+    "link": "https://huggingface.co/blog/security-incident-july-2026",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -38,30 +126,6 @@
     "description": "",
     "pubDate": "Wed, 15 Jul 2026 23:00:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png"
-  },
-  {
-    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-    "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
-    "image": ""
-  },
-  {
-    "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-    "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 15 Jul 2026 18:06:05 +0000",
-    "image": ""
-  },
-  {
-    "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-    "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 15 Jul 2026 18:04:06 +0000",
-    "image": ""
   },
   {
     "title": "What building Shippy taught us about building agents",
@@ -88,44 +152,12 @@
     "image": ""
   },
   {
-    "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-    "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 15 Jul 2026 10:51:37 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/8d5d44e4ba7487845368c6beab8b91ea/6a5766433d633216108a381c_IMG_7018-scaled-e1784111533455-842x450/IMG_7018-scaled-e1784111533455-842x450_thmb.jpg"
-  },
-  {
     "title": "<![CDATA[GPT-Red: Unlocking Self-Improvement for Robustness]]>",
     "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
     "image": ""
-  },
-  {
-    "title": "Welcome Inkling by Thinking Machines",
-    "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 15 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-    "link": "https://huggingface.co/blog/real-world-voiceeq",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 15 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
-    "link": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 14 Jul 2026 16:45:13 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/3e4f0607784a3005a6a6ec41d4b9346b/6a5667b83d63322ec5499b0d_nemotron-labs-open-models-blog-feature-image-842x450/nemotron-labs-open-models-blog-feature-image-842x450_thmb.jpg"
   },
   {
     "title": "<![CDATA[How to manage AI investments in the agentic era]]>",
@@ -136,36 +168,12 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[How sales teams use ChatGPT Work]]>",
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How data science teams use ChatGPT Work]]>",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
     "source": "Google DeepMind",
     "description": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "pubDate": "Mon, 13 Jul 2026 12:37:28 +0000",
     "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-    "link": "https://huggingface.co/blog/torch-attention-profile",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 10 Jul 2026 00:00:00 GMT",
-    "image": ""
   },
   {
     "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
@@ -190,13 +198,5 @@
     "description": "",
     "pubDate": "Wed, 24 Jun 2026 16:30:01 +0000",
     "image": ""
-  },
-  {
-    "title": "Unlocking UK house-building with AI-accelerated planning",
-    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "source": "Google DeepMind",
-    "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-    "pubDate": "Tue, 16 Jun 2026 21:29:50 +0000",
-    "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo"
   }
 ]
