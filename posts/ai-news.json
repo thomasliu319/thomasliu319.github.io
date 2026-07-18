@@ -1,26 +1,66 @@
 [
   {
-    "title": "Google Vids now lets you star in your own AI videos",
-    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "title": "Neil Rimer thinks the AI money is coming back out",
+    "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
+    "pubDate": "Sat, 18 Jul 2026 04:47:25 +0000",
     "image": ""
   },
   {
-    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
+    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
+    "pubDate": "Fri, 17 Jul 2026 22:55:09 +0000",
     "image": ""
   },
   {
-    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "title": "Databricks hits $188B valuation, extending its run as AI&#8217;s favorite second act",
+    "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
+    "image": ""
+  },
+  {
+    "title": "The Zoom hack that says, &#8216;Don&#8217;t record me&#8217;",
+    "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 17 Jul 2026 21:20:47 +0000",
+    "image": ""
+  },
+  {
+    "title": "Agility Robotics plants its flag in Tesla&#8217;s backyard",
+    "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 17 Jul 2026 20:19:49 +0000",
+    "image": ""
+  },
+  {
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
     "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Thu, 16 Jul 2026 16:01:21 GMT",
+    "pubDate": "Fri, 17 Jul 2026 15:57:54 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads – a Key Metric for Agentic AI",
+    "link": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Fri, 17 Jul 2026 15:00:14 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/a36d2ab9f02473c4ad6982b9cebe6874/6a5a43943d63323c232c58b7_inline-1784235912807-842x450/inline-1784235912807-842x450_thmb.jpg?v=89f2974f-1947-4fb0-80f7-17e2b986de2b"
+  },
+  {
+    "title": "<![CDATA[A scorecard for the AI age]]>",
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
     "image": ""
   },
   {
@@ -32,36 +72,12 @@
     "image": ""
   },
   {
-    "title": "Google&#8217;s AI Mode now lets you link and interact with select apps",
-    "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 16 Jul 2026 16:00:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "Yes, you can now order DoorDash from the command line",
-    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 16 Jul 2026 15:38:55 +0000",
-    "image": ""
-  },
-  {
-    "title": "Why is OpenAI selling a ChatGPT basketball?",
-    "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 16 Jul 2026 15:31:09 +0000",
-    "image": ""
-  },
-  {
     "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Thu, 16 Jul 2026 13:00:34 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg"
+    "image": "https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg?v=bd33b739-b1ec-4d77-bd91-49605860249f"
   },
   {
     "title": "Newer Models, Same Advantage",
@@ -85,7 +101,7 @@
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Thu, 16 Jul 2026 08:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg"
+    "image": "https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg?v=396d279d-90dd-48ec-9372-c71a7a15dbfb"
   },
   {
     "title": "Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
@@ -93,7 +109,7 @@
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Thu, 16 Jul 2026 03:40:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/ec180c85cf8840fb0edaf360eba98abd/6a580ccd3d63323228944ad6_NVIDIA%20Cosmos%20in%20Japan/NVIDIA%20Cosmos%20in%20Japan_thmb.jpg"
+    "image": "https://iprsoftwaremedia.com/219/files/202607/ec180c85cf8840fb0edaf360eba98abd/6a580ccd3d63323228944ad6_NVIDIA%20Cosmos%20in%20Japan/NVIDIA%20Cosmos%20in%20Japan_thmb.jpg?v=0846fd59-e6d6-419e-91a3-f8cd075ab146"
   },
   {
     "title": "<![CDATA[How Cars24 scales conversations and builds faster with OpenAI]]>",
@@ -117,15 +133,7 @@
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Wed, 15 Jul 2026 23:00:54 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg"
-  },
-  {
-    "title": "Japan’s Enterprises and Startups Build Industry-Specialized AI With NVIDIA Nemotron Open Models",
-    "link": "https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 15 Jul 2026 23:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png"
+    "image": "https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg?v=4230e976-68d1-469a-afe1-87a5bd525818"
   },
   {
     "title": "What building Shippy taught us about building agents",
@@ -157,14 +165,6 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How to manage AI investments in the agentic era]]>",
-    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
     "image": ""
   },
   {
