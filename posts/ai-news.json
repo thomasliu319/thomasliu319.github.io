@@ -1,50 +1,82 @@
 [
   {
-    "title": "What to watch for after Jensen Huang&#8217;s Japan visit",
-    "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+    "title": "Anthropic&#8217;s landmark $1.5B copyright settlement is approved",
+    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 19 Jul 2026 21:16:07 +0000",
+    "pubDate": "Tue, 21 Jul 2026 00:12:24 +0000",
     "image": ""
   },
   {
-    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-    "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "title": "Trump&#8217;s latest AI czar has already resigned",
+    "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 19 Jul 2026 19:24:45 +0000",
+    "pubDate": "Mon, 20 Jul 2026 22:21:04 +0000",
     "image": ""
   },
   {
-    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-    "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 19 Jul 2026 14:52:08 +0000",
+    "pubDate": "Mon, 20 Jul 2026 21:21:15 +0000",
     "image": ""
   },
   {
-    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-    "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "title": "AI&#8217;s most important protocol is getting a little bit easier to use",
+    "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
+    "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000",
     "image": ""
   },
   {
-    "title": "Kimi: Threat or menace?",
-    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "title": "X relaunches a rebuilt Android app after year-long effort",
+    "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000",
+    "pubDate": "Mon, 20 Jul 2026 19:37:39 +0000",
     "image": ""
   },
   {
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "title": "Introducing Cosmos 3 Edge",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
     "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Fri, 17 Jul 2026 15:57:54 GMT",
+    "pubDate": "Mon, 20 Jul 2026 15:58:51 GMT",
+    "image": ""
+  },
+  {
+    "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+    "link": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 20 Jul 2026 15:00:53 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/0d87804f17b49cbfaac22608734686f6/6a5e38433d6332689ed0ce1a_5451751_26Sigg_Promo_Pack_1280x720_v03/5451751_26Sigg_Promo_Pack_1280x720_v03_thmb.jpg?v=fe630e71-6afd-4993-afe0-31a38e4c69c6"
+  },
+  {
+    "title": "NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 20 Jul 2026 15:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/7da24036858337008646d9a6a3752ac4/6a5aaa273d63320eee00f8a6_nvidia-omniverse-libraries/nvidia-omniverse-libraries_thmb.jpg?v=65052a7c-b8c9-4405-8de6-07ab084378a4"
+  },
+  {
+    "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+    "link": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 20 Jul 2026 10:59:23 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/33910a48d1a7f8306c457401a0f496cd/6a5dffdb3d633258b2eb92d2_Image-7-842x450/Image-7-842x450_thmb.jpg?v=5ccfeda4-612f-4d84-ab36-eba61b5806af"
+  },
+  {
+    "title": "<![CDATA[Safety and alignment in an era of long-horizon models]]>",
+    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 20 Jul 2026 10:00:00 GMT",
     "image": ""
   },
   {
@@ -96,22 +128,6 @@
     "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure",
-    "link": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 16 Jul 2026 08:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg?v=396d279d-90dd-48ec-9372-c71a7a15dbfb"
-  },
-  {
-    "title": "Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
-    "link": "https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 16 Jul 2026 03:40:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/ec180c85cf8840fb0edaf360eba98abd/6a580ccd3d63323228944ad6_NVIDIA%20Cosmos%20in%20Japan/NVIDIA%20Cosmos%20in%20Japan_thmb.jpg?v=0846fd59-e6d6-419e-91a3-f8cd075ab146"
-  },
-  {
     "title": "<![CDATA[How Cars24 scales conversations and builds faster with OpenAI]]>",
     "link": "https://openai.com/index/cars24",
     "source": "OpenAI Blog",
@@ -126,14 +142,6 @@
     "description": "",
     "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
     "image": ""
-  },
-  {
-    "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
-    "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 15 Jul 2026 23:00:54 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg?v=4230e976-68d1-469a-afe1-87a5bd525818"
   },
   {
     "title": "What building Shippy taught us about building agents",
@@ -157,14 +165,6 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[GPT-Red: Unlocking Self-Improvement for Robustness]]>",
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
     "image": ""
   },
   {
