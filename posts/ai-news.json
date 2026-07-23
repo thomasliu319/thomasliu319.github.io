@@ -1,18 +1,106 @@
 [
   {
-    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-    "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+    "link": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 23 Jul 2026 02:00:46 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/33d1d43bbac80839414a1d268ef0a479/6a61760f3d6332733a6ed026_260722-N-UT641-7052-842x450/260722-N-UT641-7052-842x450_thmb.jpg?v=39f1aba7-bdac-494f-90a9-67ef354e2f57"
+  },
+  {
+    "title": "After shocking quarter, IBM insists that AI isn&#8217;t killing the mainframe",
+    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 22 Jul 2026 03:20:57 +0000",
+    "pubDate": "Wed, 22 Jul 2026 23:47:54 +0000",
     "image": ""
   },
   {
-    "title": "Meta is testing an AI bedtime story app for people with no imagination",
-    "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 21 Jul 2026 23:55:10 +0000",
+    "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000",
+    "image": ""
+  },
+  {
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic&#8217;s Fable",
+    "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 22 Jul 2026 20:49:03 +0000",
+    "image": ""
+  },
+  {
+    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 22 Jul 2026 19:11:46 +0000",
+    "image": ""
+  },
+  {
+    "title": "Travis Kalanick&#8217;s robotics company raises $1.7B, led by a16z",
+    "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 22 Jul 2026 18:50:44 +0000",
+    "image": ""
+  },
+  {
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "source": "Google DeepMind",
+    "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+    "pubDate": "Wed, 22 Jul 2026 13:38:54 +0000",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+    "link": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 22 Jul 2026 13:00:11 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/7e5db345e42d4b1b8db9b84f187506d5/6a60bf193d6332f155ad5209_catheter_2_v4/catheter_2_v4_thmb.jpg?v=e75977ef-2bc9-40d8-a979-f86a155815d2"
+  },
+  {
+    "title": "<![CDATA[Building AI infrastructure with the Effingham County community]]>",
+    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How news organizations are using AI to advance their vital missions]]>",
+    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Advancing the next era of national science]]>",
+    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 22 Jul 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Introducing OpenAI Presence]]>",
+    "link": "https://openai.com/index/introducing-openai-presence",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 22 Jul 2026 05:30:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[NTT DATA Group cuts incident analysis to 30 minutes with Codex]]>",
+    "link": "https://openai.com/index/ntt-data",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 22 Jul 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -24,43 +112,11 @@
     "image": "https://iprsoftwaremedia.com/219/files/202607/e9802f6daf7685f7032cd3e15505ed02/6a5ff44d3d6332043850ee6c_wistron-event-july2026-kv-3840x2160-1-842x450/wistron-event-july2026-kv-3840x2160-1-842x450_thmb.jpg?v=841e3369-d7a4-4283-b364-3080c365dfdc"
   },
   {
-    "title": "OpenAI says Hugging Face was breached by its pre-release models",
-    "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 21 Jul 2026 20:56:55 +0000",
-    "image": ""
-  },
-  {
     "title": "The State of Simulation for Physical AI: An Overview",
     "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Tue, 21 Jul 2026 20:00:27 GMT",
-    "image": ""
-  },
-  {
-    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-    "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 21 Jul 2026 19:43:41 +0000",
-    "image": ""
-  },
-  {
-    "title": "AI and the rise of the universal entertainment app",
-    "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 21 Jul 2026 19:39:30 +0000",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Introducing the ChatGPT for small business program]]>",
-    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 21 Jul 2026 17:00:00 GMT",
     "image": ""
   },
   {
@@ -88,51 +144,11 @@
     "image": "https://iprsoftwaremedia.com/219/files/202607/8a2a24326c92409de98c31c57e75d332/6a5f89c43d6332ff6c3104f7_ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450/ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450_thmb.jpg?v=3cbe4980-f407-4815-b5c4-303ab70b5c85"
   },
   {
-    "title": "<![CDATA[OpenAI and Hugging Face partner to address security incident during model evaluation]]>",
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC]]>",
-    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 21 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Grabette: an open system to record robot-manipulation data",
     "link": "https://huggingface.co/blog/grabette",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Tue, 21 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-    "link": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 20 Jul 2026 15:00:53 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/0d87804f17b49cbfaac22608734686f6/6a5e38433d6332689ed0ce1a_5451751_26Sigg_Promo_Pack_1280x720_v03/5451751_26Sigg_Promo_Pack_1280x720_v03_thmb.jpg?v=fe630e71-6afd-4993-afe0-31a38e4c69c6"
-  },
-  {
-    "title": "NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 20 Jul 2026 15:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/7da24036858337008646d9a6a3752ac4/6a5aaa273d63320eee00f8a6_nvidia-omniverse-libraries/nvidia-omniverse-libraries_thmb.jpg?v=65052a7c-b8c9-4405-8de6-07ab084378a4"
-  },
-  {
-    "title": "<![CDATA[Safety and alignment in an era of long-horizon models]]>",
-    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 20 Jul 2026 10:00:00 GMT",
     "image": ""
   },
   {
@@ -142,14 +158,6 @@
     "description": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "pubDate": "Fri, 17 Jul 2026 15:00:11 +0000",
     "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "<![CDATA[A scorecard for the AI age]]>",
-    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
-    "image": ""
   },
   {
     "title": "Newer Models, Same Advantage",
@@ -190,13 +198,5 @@
     "description": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "pubDate": "Mon, 13 Jul 2026 12:37:28 +0000",
     "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Fri, 03 Jul 2026 14:25:43 +0000",
-    "image": ""
   }
 ]
