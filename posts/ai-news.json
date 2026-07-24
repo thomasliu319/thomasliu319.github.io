@@ -1,5 +1,69 @@
 [
   {
+    "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+    "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Fri, 24 Jul 2026 04:34:27 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/7fa7d8563102c1cfb3b22e05f5fa8505/6a62eb5f3d6332c03fdb2ed0_jhh-k-ai-summit-1920x1080-2-842x450/jhh-k-ai-summit-1920x1080-2-842x450_thmb.jpg?v=88a8942f-ee25-4d59-9719-acc43e56bc81"
+  },
+  {
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 24 Jul 2026 01:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 23 Jul 2026 23:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20266/28a0fa81d0fd7998ecd0fa89b61037ac/6a62a26c3d63324a0f0657ca_kaist-nvidia-logos-16x9/kaist-nvidia-logos-16x9_thmb.jpg?v=8f849691-d966-496c-962f-2a7f9b7e8f67"
+  },
+  {
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
+    "image": ""
+  },
+  {
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
+    "image": ""
+  },
+  {
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 23 Jul 2026 17:07:35 +0000",
+    "image": ""
+  },
+  {
+    "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 23 Jul 2026 13:00:16 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/558b4b77dfdc89e8b30fa7ae784a30a4/6a6210843d63327a0eb55d3f_gfn-thursday-7-23-blog-1920x1080-logo-842x450/gfn-thursday-7-23-blog-1920x1080-logo-842x450_thmb.jpg?v=c7ef8eb7-2359-4ce9-b02d-8557f107b130"
+  },
+  {
     "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
     "link": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
     "source": "NVIDIA Blog",
@@ -8,43 +72,19 @@
     "image": "https://iprsoftwaremedia.com/219/files/202607/33d1d43bbac80839414a1d268ef0a479/6a61760f3d6332733a6ed026_260722-N-UT641-7052-842x450/260722-N-UT641-7052-842x450_thmb.jpg?v=39f1aba7-bdac-494f-90a9-67ef354e2f57"
   },
   {
-    "title": "After shocking quarter, IBM insists that AI isn&#8217;t killing the mainframe",
-    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[Launching Health in ChatGPT ]]>",
+    "link": "https://openai.com/index/health-in-chatgpt",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Wed, 22 Jul 2026 23:47:54 +0000",
+    "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Google justifies its massive AI spending with a booming cloud business",
-    "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-    "source": "TechCrunch AI",
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "link": "https://huggingface.co/blog/nunchaku-diffusers",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000",
-    "image": ""
-  },
-  {
-    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic&#8217;s Fable",
-    "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 22 Jul 2026 20:49:03 +0000",
-    "image": ""
-  },
-  {
-    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-    "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 22 Jul 2026 19:11:46 +0000",
-    "image": ""
-  },
-  {
-    "title": "Travis Kalanick&#8217;s robotics company raises $1.7B, led by a16z",
-    "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 22 Jul 2026 18:50:44 +0000",
+    "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -96,22 +136,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[NTT DATA Group cuts incident analysis to 30 minutes with Codex]]>",
-    "link": "https://openai.com/index/ntt-data",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 22 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
-    "link": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 21 Jul 2026 22:35:45 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/e9802f6daf7685f7032cd3e15505ed02/6a5ff44d3d6332043850ee6c_wistron-event-july2026-kv-3840x2160-1-842x450/wistron-event-july2026-kv-3840x2160-1-842x450_thmb.jpg?v=841e3369-d7a4-4283-b364-3080c365dfdc"
-  },
-  {
     "title": "The State of Simulation for Physical AI: An Overview",
     "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
     "source": "Hugging Face Blog",
@@ -120,28 +144,12 @@
     "image": ""
   },
   {
-    "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-    "link": "https://blogs.nvidia.com/blog/vera-rubin/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 21 Jul 2026 15:36:43 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/815a8a18037d3a7514d0ce28f8d949de/6a5f922f3d633228b7291e17_vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450/vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450_thmb.jpg?v=c295a905-654b-411d-a586-6d456d4439ff"
-  },
-  {
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
     "source": "Google DeepMind",
     "description": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
     "pubDate": "Tue, 21 Jul 2026 15:16:30 +0000",
     "image": ""
-  },
-  {
-    "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
-    "link": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 21 Jul 2026 15:00:20 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/8a2a24326c92409de98c31c57e75d332/6a5f89c43d6332ff6c3104f7_ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450/ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450_thmb.jpg?v=3cbe4980-f407-4815-b5c4-303ab70b5c85"
   },
   {
     "title": "Grabette: an open system to record robot-manipulation data",
@@ -181,14 +189,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "What building Shippy taught us about building agents",
-    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 15 Jul 2026 17:29:41 GMT",
     "image": ""
   },
   {
