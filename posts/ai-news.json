@@ -1,19 +1,51 @@
 [
   {
+    "title": "I tried out OpenAI&#8217;s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000",
+    "image": ""
+  },
+  {
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
+    "image": ""
+  },
+  {
+    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+    "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 24 Jul 2026 18:07:32 +0000",
+    "image": ""
+  },
+  {
+    "title": "Anthropic launches Opus 5",
+    "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 24 Jul 2026 15:51:49 +0000",
+    "image": ""
+  },
+  {
     "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
     "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
     "source": "NVIDIA Blog",
     "description": "",
-    "pubDate": "Fri, 24 Jul 2026 04:34:27 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/7fa7d8563102c1cfb3b22e05f5fa8505/6a62eb5f3d6332c03fdb2ed0_jhh-k-ai-summit-1920x1080-2-842x450/jhh-k-ai-summit-1920x1080-2-842x450_thmb.jpg?v=88a8942f-ee25-4d59-9719-acc43e56bc81"
-  },
-  {
-    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 24 Jul 2026 01:00:00 +0000",
-    "image": ""
+    "pubDate": "Fri, 24 Jul 2026 04:34:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20266/ce11f0ba89e667898211e74444c75ac7/6a6420b53d6332a98d2a253f_DSCF9448/DSCF9448_thmb.jpg?v=5159986f-fbaf-43d4-99c8-60daeabb925a"
   },
   {
     "title": "NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea",
@@ -22,38 +54,6 @@
     "description": "",
     "pubDate": "Thu, 23 Jul 2026 23:00:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/20266/28a0fa81d0fd7998ecd0fa89b61037ac/6a62a26c3d63324a0f0657ca_kaist-nvidia-logos-16x9/kaist-nvidia-logos-16x9_thmb.jpg?v=8f849691-d966-496c-962f-2a7f9b7e8f67"
-  },
-  {
-    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
-    "image": ""
-  },
-  {
-    "title": "Anthropic updates Claude voice mode with more capable models",
-    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-    "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
-    "image": ""
-  },
-  {
-    "title": "Runway launches AI model router as generative media gets crowded",
-    "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 23 Jul 2026 17:07:35 +0000",
-    "image": ""
   },
   {
     "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
