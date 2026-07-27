@@ -1,5 +1,45 @@
 [
   {
+    "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+    "link": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 27 Jul 2026 00:45:42 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/64490d907967ce5f22a0ffc6b24e7721/6a66aa823d63325c4d09bac5_cpu-corp-blog-vera-superchip-1280x680-4939150-842x450/cpu-corp-blog-vera-superchip-1280x680-4939150-842x450_thmb.jpg?v=78f7efd1-7b38-4ec5-a140-95e41f375728"
+  },
+  {
+    "title": "NVIDIA Expands NVIDIA Agent Toolkit With NVIDIA PhysicsNeMo and CUDA-X Libraries to Transform How the World Engineers, Designs and Builds",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 27 Jul 2026 00:45:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7"
+  },
+  {
+    "title": "Are brain waves the next unlock for physical AI?",
+    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 27 Jul 2026 00:19:14 +0000",
+    "image": ""
+  },
+  {
+    "title": "Making sense of the panic over Chinese AI",
+    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sun, 26 Jul 2026 19:40:57 +0000",
+    "image": ""
+  },
+  {
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sun, 26 Jul 2026 16:33:13 +0000",
+    "image": ""
+  },
+  {
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
     "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "source": "TechCrunch AI",
@@ -13,14 +53,6 @@
     "source": "TechCrunch AI",
     "description": "",
     "pubDate": "Sat, 25 Jul 2026 16:00:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "One fallen power line exposed a growing AI data center problem. Here&#8217;s how to fix it.",
-    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
     "image": ""
   },
   {
@@ -40,44 +72,12 @@
     "image": "https://iprsoftwaremedia.com/219/files/202607/e5bed52ab6ab2d0b526ce8fc0d495c37/6a63f6713d6332dc622a2636_sk-nvidia-logos/sk-nvidia-logos_thmb.jpg?v=63978d76-b4d8-4c57-bb65-18cb2415ad6b"
   },
   {
-    "title": "I tried out OpenAI&#8217;s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-    "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000",
-    "image": ""
-  },
-  {
-    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
-    "image": ""
-  },
-  {
     "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
     "link": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Fri, 24 Jul 2026 04:34:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/20266/ce11f0ba89e667898211e74444c75ac7/6a6420b53d6332a98d2a253f_DSCF9448/DSCF9448_thmb.jpg?v=5159986f-fbaf-43d4-99c8-60daeabb925a"
-  },
-  {
-    "title": "NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 23 Jul 2026 23:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20266/28a0fa81d0fd7998ecd0fa89b61037ac/6a62a26c3d63324a0f0657ca_kaist-nvidia-logos-16x9/kaist-nvidia-logos-16x9_thmb.jpg?v=8f849691-d966-496c-962f-2a7f9b7e8f67"
-  },
-  {
-    "title": "GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 23 Jul 2026 13:00:16 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/558b4b77dfdc89e8b30fa7ae784a30a4/6a6210843d63327a0eb55d3f_gfn-thursday-7-23-blog-1920x1080-logo-842x450/gfn-thursday-7-23-blog-1920x1080-logo-842x450_thmb.jpg?v=c7ef8eb7-2359-4ce9-b02d-8557f107b130"
   },
   {
     "title": "<![CDATA[Launching Health in ChatGPT ]]>",
