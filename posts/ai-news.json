@@ -1,43 +1,75 @@
 [
   {
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 28 Jul 2026 04:30:00 +0000",
+    "pubDate": "Wed, 29 Jul 2026 00:09:05 +0000",
     "image": ""
   },
   {
-    "title": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI",
-    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 28 Jul 2026 00:13:33 +0000",
+    "pubDate": "Tue, 28 Jul 2026 21:29:34 +0000",
     "image": ""
   },
   {
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 27 Jul 2026 21:17:11 +0000",
+    "pubDate": "Tue, 28 Jul 2026 20:45:12 +0000",
     "image": ""
   },
   {
-    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "title": "Sam Altman is ready to decelerate",
+    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 27 Jul 2026 20:19:42 +0000",
+    "pubDate": "Tue, 28 Jul 2026 20:17:08 +0000",
     "image": ""
   },
   {
-    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "title": "<![CDATA[Scientific computing in the age of agentic AI]]>",
+    "link": "https://openai.com/index/scientific-computing-agentic-ai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 28 Jul 2026 17:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "image": ""
+  },
+  {
+    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+    "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
+    "pubDate": "Tue, 28 Jul 2026 15:42:26 +0000",
     "image": ""
+  },
+  {
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 28 Jul 2026 15:01:45 GMT",
+    "image": ""
+  },
+  {
+    "title": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
+    "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 28 Jul 2026 15:00:19 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202607/db25288b024e484385754083ffb2e0f1/6a68c4ae3d6332c7cabdaf15_SarahGuo_Jetson_FeaturedImage-842x450/SarahGuo_Jetson_FeaturedImage-842x450_thmb.jpg?v=8a1a8fdc-2497-44d1-8b26-ae819263bb83"
   },
   {
     "title": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
@@ -60,8 +92,8 @@
     "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
     "source": "NVIDIA Blog",
     "description": "",
-    "pubDate": "Mon, 27 Jul 2026 09:00:07 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/1a9187783a4013e100c708ff1b103f9b/6a671e633d6332949ffc75a8_osaia-logo-garden_press-kit_1920x1080_V4-842x450/osaia-logo-garden_press-kit_1920x1080_V4-842x450_thmb.jpg?v=6aadbf19-a1b8-44d9-8a4e-801fafcae81d"
+    "pubDate": "Mon, 27 Jul 2026 09:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20266/fb14f7c59fc41a6cb3e360dad2df1ca1/6a68d1333d6332f1e8a4b6c7_osaia-logo-garden_press-kit_1920x1080-2/osaia-logo-garden_press-kit_1920x1080-2_thmb.png?v=a78abb0f-0b87-48bf-a95d-cbd695698576"
   },
   {
     "title": "<![CDATA[How AI is expanding what people do at work]]>",
@@ -88,12 +120,12 @@
     "image": "https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7"
   },
   {
-    "title": "NAVER, NVIDIA and Brookfield to Expand Korea’s National AI Factory Infrastructure Buildout",
-    "link": "https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout",
-    "source": "NVIDIA Blog",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Sat, 25 Jul 2026 05:10:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/6f17a6451c306392c3376747f022b895/6a63f3113d6332dc5d2a252d_naver-nvidia-brookfield-logos/naver-nvidia-brookfield-logos_thmb.jpg?v=23c4d337-017e-4cbe-9f64-6a602ab1abc6"
+    "pubDate": "Mon, 27 Jul 2026 00:00:00 GMT",
+    "image": ""
   },
   {
     "title": "<![CDATA[Launching Health in ChatGPT ]]>",
@@ -136,27 +168,11 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Advancing the next era of national science]]>",
-    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 22 Jul 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
     "source": "Google DeepMind",
     "description": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
     "pubDate": "Tue, 21 Jul 2026 15:16:30 +0000",
-    "image": ""
-  },
-  {
-    "title": "Grabette: an open system to record robot-manipulation data",
-    "link": "https://huggingface.co/blog/grabette",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 21 Jul 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -168,28 +184,12 @@
     "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "Newer Models, Same Advantage",
-    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 16 Jul 2026 11:49:48 GMT",
-    "image": ""
-  },
-  {
     "title": "Our approach to bioresilience",
     "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
     "source": "Google DeepMind",
     "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
     "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
     "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Security incident disclosure — July 2026",
-    "link": "https://huggingface.co/blog/security-incident-july-2026",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
-    "image": ""
   },
   {
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
