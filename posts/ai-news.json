@@ -1,34 +1,82 @@
 [
   {
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 29 Jul 2026 00:09:05 +0000",
+    "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
     "image": ""
   },
   {
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 28 Jul 2026 21:29:34 +0000",
+    "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000",
     "image": ""
   },
   {
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 28 Jul 2026 20:45:12 +0000",
+    "pubDate": "Wed, 29 Jul 2026 22:46:03 +0000",
     "image": ""
   },
   {
-    "title": "Sam Altman is ready to decelerate",
-    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
+    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 28 Jul 2026 20:17:08 +0000",
+    "pubDate": "Wed, 29 Jul 2026 22:23:12 +0000",
+    "image": ""
+  },
+  {
+    "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 29 Jul 2026 21:16:39 +0000",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Sets Conference Call for Second-Quarter Financial Results",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 29 Jul 2026 21:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038"
+  },
+  {
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Wed, 29 Jul 2026 16:02:10 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How enabling two settings tripled our scores on the ARC-AGI-3 benchmark]]>",
+    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 29 Jul 2026 15:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Accelerating scientific discovery with ChatGPT for Academic Researchers]]>",
+    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How GPT-5.6 fuses frontier intelligence with frontier efficiency]]>",
+    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 29 Jul 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -45,14 +93,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Tue, 28 Jul 2026 16:27:42 GMT",
-    "image": ""
-  },
-  {
-    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-    "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 28 Jul 2026 15:42:26 +0000",
     "image": ""
   },
   {
@@ -112,27 +152,11 @@
     "image": "https://iprsoftwaremedia.com/219/files/202607/64490d907967ce5f22a0ffc6b24e7721/6a66aa823d63325c4d09bac5_cpu-corp-blog-vera-superchip-1280x680-4939150-842x450/cpu-corp-blog-vera-superchip-1280x680-4939150-842x450_thmb.jpg?v=78f7efd1-7b38-4ec5-a140-95e41f375728"
   },
   {
-    "title": "NVIDIA Expands NVIDIA Agent Toolkit With NVIDIA PhysicsNeMo and CUDA-X Libraries to Transform How the World Engineers, Designs and Builds",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 27 Jul 2026 00:45:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7"
-  },
-  {
     "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
     "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Mon, 27 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Launching Health in ChatGPT ]]>",
-    "link": "https://openai.com/index/health-in-chatgpt",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -149,22 +173,6 @@
     "source": "Google DeepMind",
     "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
     "pubDate": "Wed, 22 Jul 2026 13:38:54 +0000",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Building AI infrastructure with the Effingham County community]]>",
-    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How news organizations are using AI to advance their vital missions]]>",
-    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
     "image": ""
   },
   {
@@ -190,13 +198,5 @@
     "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
     "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
     "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Empowering India’s next generation of innovators with ATL Saathi",
-    "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "source": "Google DeepMind",
-    "description": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-    "pubDate": "Mon, 13 Jul 2026 12:37:28 +0000",
-    "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo"
   }
 ]
