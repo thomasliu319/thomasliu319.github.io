@@ -1,42 +1,74 @@
 [
   {
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
+    "pubDate": "Fri, 31 Jul 2026 22:47:26 +0000",
     "image": ""
   },
   {
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "title": "India is starting to pay for apps, not just download them",
+    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
+    "pubDate": "Fri, 31 Jul 2026 21:07:45 +0000",
     "image": ""
   },
   {
-    "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
-    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 30 Jul 2026 23:08:58 +0000",
+    "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
     "image": ""
   },
   {
-    "title": "Investors love AI, as long as you’re a cloud host",
-    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "title": "Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI",
+    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 30 Jul 2026 22:41:41 +0000",
+    "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
     "image": ""
   },
   {
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000",
+    "pubDate": "Fri, 31 Jul 2026 16:49:08 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Advancing responsible AI across Europe]]>",
+    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Building abundant intelligence]]>",
+    "link": "https://openai.com/index/building-abundant-intelligence",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Univé builds an AI-ready workforce]]>",
+    "link": "https://openai.com/index/unive",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Disrupting a Criminal Scam Operation]]>",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 31 Jul 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -72,14 +104,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[How avatarin built a 24/7 retail agent with GPT-Realtime]]>",
-    "link": "https://openai.com/index/avatarin",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 30 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "NVIDIA Sets Conference Call for Second-Quarter Financial Results",
     "link": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195",
     "source": "NVIDIA Blog",
@@ -93,30 +117,6 @@
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Wed, 29 Jul 2026 16:02:10 +0000",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How enabling two settings tripled our scores on the ARC-AGI-3 benchmark]]>",
-    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 29 Jul 2026 15:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Accelerating scientific discovery with ChatGPT for Academic Researchers]]>",
-    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How GPT-5.6 fuses frontier intelligence with frontier efficiency]]>",
-    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 29 Jul 2026 00:00:00 GMT",
     "image": ""
   },
   {
