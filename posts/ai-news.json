@@ -1,42 +1,106 @@
 [
   {
-    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
-    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 03 Aug 2026 23:19:50 +0000",
+    "pubDate": "Tue, 04 Aug 2026 21:07:26 +0000",
     "image": ""
   },
   {
-    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 03 Aug 2026 20:00:00 +0000",
+    "pubDate": "Tue, 04 Aug 2026 20:05:26 +0000",
     "image": ""
   },
   {
-    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 03 Aug 2026 19:28:57 +0000",
+    "pubDate": "Tue, 04 Aug 2026 19:48:40 +0000",
     "image": ""
   },
   {
-    "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
-    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 03 Aug 2026 19:09:56 +0000",
+    "pubDate": "Tue, 04 Aug 2026 19:34:34 +0000",
     "image": ""
   },
   {
-    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-    "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "title": "Nvidia doesn&#8217;t mess around: A week after open AI industry group formed, it&#8217;s already showing progress",
+    "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 03 Aug 2026 18:43:43 +0000",
+    "pubDate": "Tue, 04 Aug 2026 19:28:49 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Third-party cyber evaluations involving OpenAI models]]>",
+    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 04 Aug 2026 19:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+    "link": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 04 Aug 2026 17:30:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20267/45e5623ba2ef2917fa5f5cf75a2dd81a/6a7222c43d6332dc7629aea5_regionalhubnsf-842x450/regionalhubnsf-842x450_thmb.jpg?v=94a8f427-9cb6-4c79-a755-db0544268f00"
+  },
+  {
+    "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+    "link": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 04 Aug 2026 15:00:49 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/d0e7d6bd0dee6aa94e5bc03d7c727c9f/6a71ff193d633239bd4c69d2_alpamayo-launch-kv-blog-1920x1080-1-842x450/alpamayo-launch-kv-blog-1920x1080-1-842x450_thmb.jpg?v=5fa640ee-1853-40f2-80fd-b7df1011cf89"
+  },
+  {
+    "title": "As AI Increases Demands on Memory, Storage Steps Up",
+    "link": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 04 Aug 2026 15:00:47 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/0972d0df04ffadd4d5a27289905fa318/6a71ff253d633239bd4c69d9_ai-storage-fms-1920x1080-1-842x450/ai-storage-fms-1920x1080-1-842x450_thmb.jpg?v=d4555b57-46dd-4b43-a3ba-04dbb8f66a7d"
+  },
+  {
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 04 Aug 2026 13:58:29 GMT",
+    "image": ""
+  },
+  {
+    "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
+    "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 04 Aug 2026 13:00:47 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/df5d0c57ee12f7535536f4ab57941e91/6a71e2ab3d6332adf2000fb9_agentic-ai-press-osaia-5518050-1280x680-r2-842x450/agentic-ai-press-osaia-5518050-1280x680-r2-842x450_thmb.jpg?v=435c1c6f-8b3e-4167-801d-d5a51184509d"
+  },
+  {
+    "title": "<![CDATA[New ways to learn and teach with ChatGPT Work and Codex]]>",
+    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Apple is getting this wrong]]>",
+    "link": "https://openai.com/index/apple-is-getting-this-wrong",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 03 Aug 2026 22:00:00 GMT",
     "image": ""
   },
   {
@@ -53,30 +117,6 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Mon, 03 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Ten advances in mathematics and theoretical computer science]]>",
-    "link": "https://openai.com/index/ten-advances-in-mathematics",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Sat, 01 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Advancing responsible AI across Europe]]>",
-    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Building abundant intelligence]]>",
-    "link": "https://openai.com/index/building-abundant-intelligence",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
     "image": ""
   },
   {
@@ -104,14 +144,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202607/61266e39b7f0c1e247fc0600d6ac293e/6a6b4b293d63323b7d337100_gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450/gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450_thmb.jpg?v=8813def2-c00e-4436-8e1b-148b309e8472"
   },
   {
-    "title": "NVIDIA Sets Conference Call for Second-Quarter Financial Results",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 29 Jul 2026 21:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038"
-  },
-  {
     "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
     "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
     "source": "Google DeepMind",
@@ -128,22 +160,6 @@
     "image": ""
   },
   {
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 28 Jul 2026 15:01:45 GMT",
-    "image": ""
-  },
-  {
-    "title": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
-    "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 28 Jul 2026 15:00:19 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/db25288b024e484385754083ffb2e0f1/6a68c4ae3d6332c7cabdaf15_SarahGuo_Jetson_FeaturedImage-842x450/SarahGuo_Jetson_FeaturedImage-842x450_thmb.jpg?v=8a1a8fdc-2497-44d1-8b26-ae819263bb83"
-  },
-  {
     "title": "Gemini Robotics 2 brings whole body intelligence to robots",
     "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
     "source": "Google DeepMind",
@@ -152,28 +168,12 @@
     "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
-    "link": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 27 Jul 2026 13:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/595589fd9c7929f74a3726662e15f4ac/6a6675ff3d63324e142a251a_ssi-nvidia/ssi-nvidia_thmb.jpg?v=c11a6442-e59a-4f26-b4a9-a08fb34f2181"
-  },
-  {
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Mon, 27 Jul 2026 09:32:20 GMT",
     "image": ""
-  },
-  {
-    "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-    "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 27 Jul 2026 09:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20266/fb14f7c59fc41a6cb3e360dad2df1ca1/6a68d1333d6332f1e8a4b6c7_osaia-logo-garden_press-kit_1920x1080-2/osaia-logo-garden_press-kit_1920x1080-2_thmb.png?v=a78abb0f-0b87-48bf-a95d-cbd695698576"
   },
   {
     "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
