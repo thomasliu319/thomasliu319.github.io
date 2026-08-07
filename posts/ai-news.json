@@ -1,42 +1,98 @@
 [
   {
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 05 Aug 2026 21:21:28 +0000",
+    "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000",
     "image": ""
   },
   {
-    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 05 Aug 2026 20:05:00 +0000",
+    "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
     "image": ""
   },
   {
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 05 Aug 2026 19:30:19 +0000",
+    "pubDate": "Thu, 06 Aug 2026 17:00:37 +0000",
     "image": ""
   },
   {
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+    "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 05 Aug 2026 15:56:14 +0000",
+    "pubDate": "Thu, 06 Aug 2026 15:53:03 +0000",
     "image": ""
   },
   {
-    "title": "Hark previews its browser use agent for completing tasks",
-    "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 05 Aug 2026 15:46:27 +0000",
+    "pubDate": "Thu, 06 Aug 2026 15:10:32 +0000",
+    "image": ""
+  },
+  {
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
+    "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "GeForce NOW Shakes Up August With 26 New Games",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 06 Aug 2026 13:00:11 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/d6f9b30fdbeb852e4940643c7ce59212/6a7485993d6332ba4196a955_gfn-thursday-8-6-nv-blog-1280x680-logo-842x450/gfn-thursday-8-6-nv-blog-1280x680-logo-842x450_thmb.jpg?v=af6f12c1-0246-45c5-ae86-fffe7dd8fd7e"
+  },
+  {
+    "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+    "link": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 06 Aug 2026 13:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/8643e8c980bfcf1c3c0437618d1a65d0/6a74859e3d6332ba4196a95c_nv-ov-ito-social-1920x1080-1-842x450/nv-ov-ito-social-1920x1080-1-842x450_thmb.jpg?v=45641c00-9197-4e5e-8c94-14898ced7196"
+  },
+  {
+    "title": "<![CDATA[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users]]>",
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Working with the American Psychological Association on youth mental health and AI]]>",
+    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 06 Aug 2026 06:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[From asking to doing: How the world is putting ChatGPT to work]]>",
+    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 06 Aug 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/baseten",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 06 Aug 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -80,43 +136,11 @@
     "image": ""
   },
   {
-    "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-    "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 04 Aug 2026 13:00:47 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/df5d0c57ee12f7535536f4ab57941e91/6a71e2ab3d6332adf2000fb9_agentic-ai-press-osaia-5518050-1280x680-r2-842x450/agentic-ai-press-osaia-5518050-1280x680-r2-842x450_thmb.jpg?v=435c1c6f-8b3e-4167-801d-d5a51184509d"
-  },
-  {
     "title": "<![CDATA[New ways to learn and teach with ChatGPT Work and Codex]]>",
     "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Apple is getting this wrong]]>",
-    "link": "https://openai.com/index/apple-is-getting-this-wrong",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 03 Aug 2026 22:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How we built a realtime system for responsive voice AI in six months]]>",
-    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Circles powers telco personalization with OpenAI technology]]>",
-    "link": "https://openai.com/index/circles",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 03 Aug 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -134,14 +158,6 @@
     "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
     "pubDate": "Thu, 30 Jul 2026 15:00:59 +0000",
     "image": ""
-  },
-  {
-    "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 30 Jul 2026 13:00:20 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/61266e39b7f0c1e247fc0600d6ac293e/6a6b4b293d63323b7d337100_gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450/gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450_thmb.jpg?v=8813def2-c00e-4436-8e1b-148b309e8472"
   },
   {
     "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
@@ -176,27 +192,11 @@
     "image": ""
   },
   {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Mon, 27 Jul 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
     "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
     "source": "Google DeepMind",
     "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
     "pubDate": "Wed, 22 Jul 2026 13:38:54 +0000",
-    "image": ""
-  },
-  {
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "source": "Google DeepMind",
-    "description": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-    "pubDate": "Tue, 21 Jul 2026 15:16:30 +0000",
     "image": ""
   }
 ]
