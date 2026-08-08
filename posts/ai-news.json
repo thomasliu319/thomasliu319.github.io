@@ -1,42 +1,66 @@
 [
   {
-    "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000",
+    "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000",
     "image": ""
   },
   {
-    "title": "ChatGPT brings unlimited text chats to free users",
-    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
+    "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
     "image": ""
   },
   {
-    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-    "source": "TechCrunch AI",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Thu, 06 Aug 2026 17:00:37 +0000",
+    "pubDate": "Fri, 07 Aug 2026 17:53:32 GMT",
     "image": ""
   },
   {
-    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-    "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 06 Aug 2026 15:53:03 +0000",
+    "pubDate": "Fri, 07 Aug 2026 16:16:09 +0000",
     "image": ""
   },
   {
-    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "title": "<![CDATA[Responding to the next frontier of critical cyber capabilities]]>",
+    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 07 Aug 2026 15:20:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 06 Aug 2026 15:10:32 +0000",
+    "pubDate": "Fri, 07 Aug 2026 14:22:49 +0000",
+    "image": ""
+  },
+  {
+    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley&#8217;s leaders are bad sci-fi readers",
+    "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 07 Aug 2026 14:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How HSP GRUPPE builds AI capabilities for tax advisory]]>",
+    "link": "https://openai.com/index/hsp-gruppe",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
     "image": ""
   },
   {
@@ -96,14 +120,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Third-party cyber evaluations involving OpenAI models]]>",
-    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 04 Aug 2026 19:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
     "link": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program",
     "source": "NVIDIA Blog",
@@ -136,14 +152,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[New ways to learn and teach with ChatGPT Work and Codex]]>",
-    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "source": "Hugging Face Blog",
@@ -165,14 +173,6 @@
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Wed, 29 Jul 2026 16:02:10 +0000",
-    "image": ""
-  },
-  {
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 28 Jul 2026 16:27:42 GMT",
     "image": ""
   },
   {
