@@ -1,5 +1,29 @@
 [
   {
+    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sat, 08 Aug 2026 21:24:02 +0000",
+    "image": ""
+  },
+  {
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000",
+    "image": ""
+  },
+  {
+    "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+    "link": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Sat, 08 Aug 2026 10:24:54 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/ea1fc4efd1faf794fdcb83b47fe91eb8/6a77041d3d633206d053e5b5_5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450_thmb.jpg?v=11e6a9e9-ce9f-46a6-8931-fd333d9a9529"
+  },
+  {
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "source": "TechCrunch AI",
@@ -37,22 +61,6 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Fri, 07 Aug 2026 15:20:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 07 Aug 2026 14:22:49 +0000",
-    "image": ""
-  },
-  {
-    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley&#8217;s leaders are bad sci-fi readers",
-    "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 07 Aug 2026 14:00:00 +0000",
     "image": ""
   },
   {
@@ -134,14 +142,6 @@
     "description": "",
     "pubDate": "Tue, 04 Aug 2026 15:00:49 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202608/d0e7d6bd0dee6aa94e5bc03d7c727c9f/6a71ff193d633239bd4c69d2_alpamayo-launch-kv-blog-1920x1080-1-842x450/alpamayo-launch-kv-blog-1920x1080-1-842x450_thmb.jpg?v=5fa640ee-1853-40f2-80fd-b7df1011cf89"
-  },
-  {
-    "title": "As AI Increases Demands on Memory, Storage Steps Up",
-    "link": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 04 Aug 2026 15:00:47 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/0972d0df04ffadd4d5a27289905fa318/6a71ff253d633239bd4c69d9_ai-storage-fms-1920x1080-1-842x450/ai-storage-fms-1920x1080-1-842x450_thmb.jpg?v=d4555b57-46dd-4b43-a3ba-04dbb8f66a7d"
   },
   {
     "title": "Deploy local agents everywhere with LFM2.5-2.6B",
