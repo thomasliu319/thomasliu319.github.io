@@ -1,34 +1,98 @@
 [
   {
-    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+    "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 12 Aug 2026 00:38:21 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/fbb1638cdd823c3d889959838e198909/6a7bc08b3d63323f43247650_jhh-support-blog-visual-logo-lock-up-3x4-1-842x450/jhh-support-blog-visual-logo-lock-up-3x4-1-842x450_thmb.jpg?v=7e51e3fb-1d2a-4983-98df-f6b29ec112d8"
+  },
+  {
+    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 11 Aug 2026 00:03:18 +0000",
+    "pubDate": "Tue, 11 Aug 2026 21:39:11 +0000",
     "image": ""
   },
   {
-    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 10 Aug 2026 23:56:15 +0000",
+    "pubDate": "Tue, 11 Aug 2026 19:15:35 +0000",
     "image": ""
   },
   {
-    "title": "Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI",
-    "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "title": "Google’s Gemini app surges to 1 billion users",
+    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 10 Aug 2026 20:53:02 +0000",
+    "pubDate": "Tue, 11 Aug 2026 18:49:12 +0000",
     "image": ""
   },
   {
-    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "title": "Brad Lightcap, OpenAI&#8217;s longtime COO, is leaving to &#8216;start something new&#8217;",
+    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
+    "pubDate": "Tue, 11 Aug 2026 17:41:34 +0000",
+    "image": ""
+  },
+  {
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 11 Aug 2026 17:41:22 +0000",
+    "image": ""
+  },
+  {
+    "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+    "link": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 11 Aug 2026 15:00:06 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/dc4adb5e93d27f63890053bc3c14f8d4/6a7b392e3d6332a5b3372d6c_800vdc-842x450/800vdc-842x450_thmb.jpg?v=e29bfc46-2ac2-49b9-b68d-1b5fbdf7c023"
+  },
+  {
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 11 Aug 2026 13:37:10 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+    "link": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 11 Aug 2026 13:00:25 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/bce87722fd47ff73858264743a435db4/6a7b1d123d63321af71129af_raig-rolling-blog-local-ai-community-open-source-842x450/raig-rolling-blog-local-ai-community-open-source-842x450_thmb.jpg?v=48d6f906-4172-4ebe-b524-0a6aa119fadb"
+  },
+  {
+    "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+    "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 11 Aug 2026 13:00:05 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/88ad63ecbe845009051bfee4ede87d61/6a7b1cd13d63321a00406cfa_image1-842x450/image1-842x450_thmb.jpg?v=2520df3e-f7d8-4a95-ba91-766e1348b762"
+  },
+  {
+    "title": "<![CDATA[Testing ads in ChatGPT]]>",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Daybreak models are now available on AWS]]>",
+    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 11 Aug 2026 10:00:00 GMT",
     "image": ""
   },
   {
@@ -56,14 +120,6 @@
     "image": ""
   },
   {
-    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 10 Aug 2026 16:20:13 +0000",
-    "image": ""
-  },
-  {
     "title": "<![CDATA[OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas]]>",
     "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
     "source": "OpenAI Blog",
@@ -88,36 +144,12 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Expanding Daybreak as the Cyber Defense Window Narrows]]>",
-    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 10 Aug 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Putting frontier cyber models in more trusted hands]]>",
-    "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 10 Aug 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
     "link": "https://huggingface.co/blog/muse-glimmer",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Mon, 10 Aug 2026 00:00:00 GMT",
     "image": ""
-  },
-  {
-    "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
-    "link": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Sat, 08 Aug 2026 10:24:54 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/ea1fc4efd1faf794fdcb83b47fe91eb8/6a77041d3d633206d053e5b5_5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450_thmb.jpg?v=11e6a9e9-ce9f-46a6-8931-fd333d9a9529"
   },
   {
     "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
@@ -134,38 +166,6 @@
     "description": "",
     "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
     "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "GeForce NOW Shakes Up August With 26 New Games",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 06 Aug 2026 13:00:11 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/d6f9b30fdbeb852e4940643c7ce59212/6a7485993d6332ba4196a955_gfn-thursday-8-6-nv-blog-1280x680-logo-842x450/gfn-thursday-8-6-nv-blog-1280x680-logo-842x450_thmb.jpg?v=af6f12c1-0246-45c5-ae86-fffe7dd8fd7e"
-  },
-  {
-    "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
-    "link": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 06 Aug 2026 13:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/8643e8c980bfcf1c3c0437618d1a65d0/6a74859e3d6332ba4196a95c_nv-ov-ito-social-1920x1080-1-842x450/nv-ov-ito-social-1920x1080-1-842x450_thmb.jpg?v=45641c00-9197-4e5e-8c94-14898ced7196"
-  },
-  {
-    "title": "Baseten on Hugging Face Inference Providers 🔥",
-    "link": "https://huggingface.co/blog/baseten",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 06 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
-    "link": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 04 Aug 2026 17:30:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20267/45e5623ba2ef2917fa5f5cf75a2dd81a/6a7222c43d6332dc7629aea5_regionalhubnsf-842x450/regionalhubnsf-842x450_thmb.jpg?v=94a8f427-9cb6-4c79-a755-db0544268f00"
   },
   {
     "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
