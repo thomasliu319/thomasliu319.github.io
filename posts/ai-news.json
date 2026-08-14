@@ -1,42 +1,98 @@
 [
   {
-    "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
-    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 12 Aug 2026 22:26:37 +0000",
+    "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
     "image": ""
   },
   {
-    "title": "Amazon will train on Twitch streamers&#8217; content by default, unless they opt out",
-    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 12 Aug 2026 20:10:40 +0000",
+    "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
     "image": ""
   },
   {
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 12 Aug 2026 18:19:12 +0000",
+    "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
     "image": ""
   },
   {
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
+    "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
     "image": ""
   },
   {
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
+    "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
+    "image": ""
+  },
+  {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 13 Aug 2026 17:16:04 GMT",
+    "image": ""
+  },
+  {
+    "title": "Introducing Gemini 3.7 Flash",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "image": ""
+  },
+  {
+    "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 13 Aug 2026 13:00:33 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/67cbb9f031f542eb7e86fb5f49c01a75/6a7dc02e3d633209a54c0ee3_gfn-thursday-8-13-blog-1920x1080-logo-842x450/gfn-thursday-8-13-blog-1920x1080-logo-842x450_thmb.jpg?v=2844c00c-76c2-4214-932a-70d53fd6af21"
+  },
+  {
+    "title": "<![CDATA[The builder’s guide to GPT‑5.6]]>",
+    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed]]>",
+    "link": "https://openai.com/index/previewing-ultrafast",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 13 Aug 2026 10:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[OpenAI appoints Dali Rajic as Chief Revenue Officer]]>",
+    "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 13 Aug 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -120,54 +176,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202608/bce87722fd47ff73858264743a435db4/6a7b1d123d63321af71129af_raig-rolling-blog-local-ai-community-open-source-842x450/raig-rolling-blog-local-ai-community-open-source-842x450_thmb.jpg?v=48d6f906-4172-4ebe-b524-0a6aa119fadb"
   },
   {
-    "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
-    "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 11 Aug 2026 13:00:05 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/88ad63ecbe845009051bfee4ede87d61/6a7b1cd13d63321a00406cfa_image1-842x450/image1-842x450_thmb.jpg?v=2520df3e-f7d8-4a95-ba91-766e1348b762"
-  },
-  {
-    "title": "<![CDATA[Testing ads in ChatGPT]]>",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 11 Aug 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Daybreak models are now available on AWS]]>",
-    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 11 Aug 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Mon, 10 Aug 2026 16:25:36 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas]]>",
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 10 Aug 2026 14:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Mon, 10 Aug 2026 10:05:36 GMT",
-    "image": ""
-  },
-  {
     "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
     "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "source": "Google DeepMind",
@@ -190,13 +198,5 @@
     "description": "",
     "pubDate": "Wed, 29 Jul 2026 16:02:10 +0000",
     "image": ""
-  },
-  {
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Tue, 28 Jul 2026 13:21:37 +0000",
-    "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w528-h297-n-nu-rw-lo"
   }
 ]
