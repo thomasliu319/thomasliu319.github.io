@@ -1,42 +1,90 @@
 [
   {
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "title": "Anthropic&#8217;s annualized revenue surges to $65B",
+    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 16 Aug 2026 20:57:04 +0000",
+    "pubDate": "Mon, 17 Aug 2026 23:56:26 +0000",
     "image": ""
   },
   {
-    "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
-    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
+    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
+    "pubDate": "Mon, 17 Aug 2026 21:27:05 +0000",
     "image": ""
   },
   {
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "source": "TechCrunch AI",
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000",
+    "pubDate": "Mon, 17 Aug 2026 19:46:21 GMT",
     "image": ""
   },
   {
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
+    "pubDate": "Mon, 17 Aug 2026 16:38:44 +0000",
     "image": ""
   },
   {
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000",
+    "pubDate": "Mon, 17 Aug 2026 16:15:12 +0000",
+    "image": ""
+  },
+  {
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 17 Aug 2026 15:16:24 +0000",
+    "image": ""
+  },
+  {
+    "title": "Securing the Infrastructure of Intelligence",
+    "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 17 Aug 2026 12:34:51 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/ab56d354167f3005953b566c6c523933/6a83000f3d63327d55a37982_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450_thmb.jpg?v=2ce8fe92-872c-4062-aa13-2ea0f10008b1"
+  },
+  {
+    "title": "NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 17 Aug 2026 12:33:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/6a829bf63d633298f4b3f8cd_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1_thmb.png?v=4485e282-071f-4027-a12f-440e901bb193"
+  },
+  {
+    "title": "<![CDATA[The Defender’s Window]]>",
+    "link": "https://openai.com/index/the-defenders-window",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 17 Aug 2026 05:30:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[OpenAI joins PORTS-Pike project]]>",
+    "link": "https://openai.com/index/openai-joins-ports-pike-project",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 17 Aug 2026 05:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[New policy ideas for the Intelligence Age]]>",
+    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 17 Aug 2026 03:15:00 GMT",
     "image": ""
   },
   {
@@ -96,14 +144,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[OpenAI appoints Dali Rajic as Chief Revenue Officer]]>",
-    "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 13 Aug 2026 09:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "What We Learned by Reproducing 2,200 papers from ICML",
     "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
     "source": "Hugging Face Blog",
@@ -128,52 +168,12 @@
     "image": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 12 Aug 2026 14:00:51 GMT",
-    "image": ""
-  },
-  {
     "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
     "link": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Wed, 12 Aug 2026 14:00:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202608/cb521c3bbcbc0dc5253269936efb18e2/6a7c7e453d6332e2748124b3_GlassdoorBestCEOs2026_16x9-842x450/GlassdoorBestCEOs2026_16x9-842x450_thmb.jpg?v=4289c1f3-cd49-41eb-8a38-6f228204c555"
-  },
-  {
-    "title": "<![CDATA[From assistance to execution: How enterprises put AI to work]]>",
-    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 12 Aug 2026 06:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
-    "link": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 12 Aug 2026 00:38:21 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/fbb1638cdd823c3d889959838e198909/6a7bc08b3d63323f43247650_jhh-support-blog-visual-logo-lock-up-3x4-1-842x450/jhh-support-blog-visual-logo-lock-up-3x4-1-842x450_thmb.jpg?v=7e51e3fb-1d2a-4983-98df-f6b29ec112d8"
-  },
-  {
-    "title": "<![CDATA[How RingCentral builds AI-native work from engineering to ops]]>",
-    "link": "https://openai.com/index/ringcentral",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 12 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-    "link": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 11 Aug 2026 15:00:06 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/dc4adb5e93d27f63890053bc3c14f8d4/6a7b392e3d6332a5b3372d6c_800vdc-842x450/800vdc-842x450_thmb.jpg?v=e29bfc46-2ac2-49b9-b68d-1b5fbdf7c023"
   },
   {
     "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
