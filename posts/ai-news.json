@@ -1,18 +1,98 @@
 [
   {
-    "title": "Anthropic&#8217;s annualized revenue surges to $65B",
-    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 17 Aug 2026 23:56:26 +0000",
+    "pubDate": "Tue, 18 Aug 2026 22:14:25 +0000",
     "image": ""
   },
   {
-    "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
-    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "title": "<![CDATA[Strengthening democratic oversight in national security]]>",
+    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 18 Aug 2026 19:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "image": ""
+  },
+  {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 17 Aug 2026 21:27:05 +0000",
+    "pubDate": "Tue, 18 Aug 2026 18:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Etched&#8217;s valuation doubles to $21B in a month",
+    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 18 Aug 2026 17:21:58 +0000",
+    "image": ""
+  },
+  {
+    "title": "Why Apple&#8217;s camera-equipped AirPods may not be the &#8216;pervert pods&#8217; consumers fear",
+    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 18 Aug 2026 16:19:10 +0000",
+    "image": ""
+  },
+  {
+    "title": "Warp&#8217;s new system is an out-of-the-box software factory for AI development",
+    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 18 Aug 2026 14:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Partnering with CodeAI to prepare the first AI generation]]>",
+    "link": "https://openai.com/index/partnering-with-codeai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Pacing model development in an era of cyber-critical capabilities]]>",
+    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Introducing ChatGPT for Teens: Built for learning, backed by protections]]>",
+    "link": "https://openai.com/index/chatgpt-for-teens",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How NVIDIA scales expertise with ChatGPT Work]]>",
+    "link": "https://openai.com/index/nvidia/chatgpt-work",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 18 Aug 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/multi-vector-encoder",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 18 Aug 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -24,30 +104,6 @@
     "image": ""
   },
   {
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 17 Aug 2026 16:38:44 +0000",
-    "image": ""
-  },
-  {
-    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 17 Aug 2026 16:15:12 +0000",
-    "image": ""
-  },
-  {
-    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 17 Aug 2026 15:16:24 +0000",
-    "image": ""
-  },
-  {
     "title": "Securing the Infrastructure of Intelligence",
     "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
     "source": "NVIDIA Blog",
@@ -56,36 +112,12 @@
     "image": "https://iprsoftwaremedia.com/219/files/202608/ab56d354167f3005953b566c6c523933/6a83000f3d63327d55a37982_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450_thmb.jpg?v=2ce8fe92-872c-4062-aa13-2ea0f10008b1"
   },
   {
-    "title": "NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
+    "title": "NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
     "link": "https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Mon, 17 Aug 2026 12:33:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/6a829bf63d633298f4b3f8cd_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1_thmb.png?v=4485e282-071f-4027-a12f-440e901bb193"
-  },
-  {
-    "title": "<![CDATA[The Defender’s Window]]>",
-    "link": "https://openai.com/index/the-defenders-window",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 17 Aug 2026 05:30:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[OpenAI joins PORTS-Pike project]]>",
-    "link": "https://openai.com/index/openai-joins-ports-pike-project",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 17 Aug 2026 05:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[New policy ideas for the Intelligence Age]]>",
-    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 17 Aug 2026 03:15:00 GMT",
-    "image": ""
   },
   {
     "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
@@ -126,38 +158,6 @@
     "description": "",
     "pubDate": "Thu, 13 Aug 2026 13:00:33 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202608/67cbb9f031f542eb7e86fb5f49c01a75/6a7dc02e3d633209a54c0ee3_gfn-thursday-8-13-blog-1920x1080-logo-842x450/gfn-thursday-8-13-blog-1920x1080-logo-842x450_thmb.jpg?v=2844c00c-76c2-4214-932a-70d53fd6af21"
-  },
-  {
-    "title": "<![CDATA[The builder’s guide to GPT‑5.6]]>",
-    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed]]>",
-    "link": "https://openai.com/index/previewing-ultrafast",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 13 Aug 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "What We Learned by Reproducing 2,200 papers from ICML",
-    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 13 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 12 Aug 2026 16:14:36 GMT",
-    "image": ""
   },
   {
     "title": "Putting sign language AI into users’ hands",
