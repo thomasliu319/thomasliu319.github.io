@@ -1,42 +1,58 @@
 [
   {
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Fri, 21 Aug 2026 00:13:44 +0000",
+    "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
     "image": ""
   },
   {
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000",
+    "pubDate": "Fri, 21 Aug 2026 22:37:38 +0000",
     "image": ""
   },
   {
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000",
+    "pubDate": "Fri, 21 Aug 2026 19:43:39 +0000",
     "image": ""
   },
   {
-    "title": "OK, can we actually cool data centers with our pee?",
-    "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 20 Aug 2026 20:53:13 +0000",
+    "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
     "image": ""
   },
   {
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 20 Aug 2026 19:18:21 +0000",
+    "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "source": "Google DeepMind",
+    "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+    "pubDate": "Fri, 21 Aug 2026 11:59:48 +0000",
+    "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -144,14 +160,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202608/16ff1b2c2a741c0630788f9373ef0aff/6a7f4cc73d63328f41f1a0cf_Launching-Ceremony-2-1-842x450/Launching-Ceremony-2-1-842x450_thmb.jpg?v=8723012a-4021-4988-b070-ff6f89013f45"
   },
   {
-    "title": "State of Open Models: Summer 2026 Observations",
-    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 14 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Introducing Gemini 3.7 Flash",
     "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
     "source": "Google DeepMind",
@@ -189,14 +197,6 @@
     "source": "Google DeepMind",
     "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
     "pubDate": "Thu, 30 Jul 2026 15:00:59 +0000",
-    "image": ""
-  },
-  {
-    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-    "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Wed, 29 Jul 2026 16:02:10 +0000",
     "image": ""
   }
 ]
