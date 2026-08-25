@@ -1,42 +1,90 @@
 [
   {
-    "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 23 Aug 2026 20:01:36 +0000",
+    "pubDate": "Tue, 25 Aug 2026 00:23:12 +0000",
     "image": ""
   },
   {
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 23 Aug 2026 19:14:08 +0000",
+    "pubDate": "Mon, 24 Aug 2026 21:24:17 +0000",
     "image": ""
   },
   {
-    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 23 Aug 2026 15:30:00 +0000",
+    "pubDate": "Mon, 24 Aug 2026 19:54:19 +0000",
     "image": ""
   },
   {
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
+    "pubDate": "Mon, 24 Aug 2026 18:03:55 +0000",
     "image": ""
   },
   {
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 22 Aug 2026 21:46:56 +0000",
+    "pubDate": "Mon, 24 Aug 2026 15:24:18 +0000",
+    "image": ""
+  },
+  {
+    "title": "How XPUs Meet a World-Class AI Factory",
+    "link": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 24 Aug 2026 15:00:54 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/a1ce72fadebf1335ec82522dfff48fa7/6a8c5cc43d63322b0421b255_nvidia-dsx-maxlps-fg-i4of6-d-842x450/nvidia-dsx-maxlps-fg-i4of6-d-842x450_thmb.jpg?v=825aef88-6d9b-4df1-a570-b9a32e041444"
+  },
+  {
+    "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+    "link": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 24 Aug 2026 15:00:41 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/ae000d071337f11f4c972a05ab29cd98/6a8c5cc93d63322b0421b25c_HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450_thmb.jpg?v=96fb9ec7-aeb4-4317-adfa-1d13d00f3af3"
+  },
+  {
+    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+    "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 24 Aug 2026 15:00:19 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/c012995b317864304459f889595fdadb/6a8c5cd03d63322b0421b263_end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450_thmb.jpg?v=242d4884-f62a-46eb-96d0-18a6298ff2b4"
+  },
+  {
+    "title": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale",
+    "link": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 24 Aug 2026 15:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/65b0fd8afd27d9721e6235c3cd203198/6a8bbea73d63320f3189b09c_nvidia-vera-cpu/nvidia-vera-cpu_thmb.jpg?v=263e9dd8-503b-4fbb-a459-8a61473aa44a"
+  },
+  {
+    "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 24 Aug 2026 15:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/d61fba36e887bdc54b45bd9d3bb74a2e/6a8b9f313d6332894389b07d_nvidia-groq-3-lpx-rack/nvidia-groq-3-lpx-rack_thmb.png?v=371bafaf-61ba-429f-b95b-fc5eb12cfff9"
+  },
+  {
+    "title": "<![CDATA[Advancing price-performance for developers with GPT‑5.6 in Kiro]]>",
+    "link": "https://openai.com/index/gpt-5-6-in-kiro",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 24 Aug 2026 12:00:00 GMT",
     "image": ""
   },
   {
@@ -62,14 +110,6 @@
     "description": "",
     "pubDate": "Thu, 20 Aug 2026 16:52:57 GMT",
     "image": ""
-  },
-  {
-    "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 20 Aug 2026 13:00:24 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/6456122da2740b9472826cba264217c9/6a86fa953d63320a4ddc7796_GFN_Thursday-Firefox-842x450/GFN_Thursday-Firefox-842x450_thmb.jpg?v=9faec63e-5a29-449d-bfa4-5c0e82aa3feb"
   },
   {
     "title": "<![CDATA[Introducing AI Futures]]>",
@@ -104,14 +144,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[ChatGPT Ads expands across Europe]]>",
-    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 18 Aug 2026 22:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "How Much Memory Does Your Agent Actually Need?",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "source": "Hugging Face Blog",
@@ -136,44 +168,12 @@
     "image": ""
   },
   {
-    "title": "Securing the Infrastructure of Intelligence",
-    "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 17 Aug 2026 12:34:51 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/ab56d354167f3005953b566c6c523933/6a83000f3d63327d55a37982_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450_thmb.jpg?v=2ce8fe92-872c-4062-aa13-2ea0f10008b1"
-  },
-  {
-    "title": "NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 17 Aug 2026 12:33:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/6a829bf63d633298f4b3f8cd_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1_thmb.png?v=4485e282-071f-4027-a12f-440e901bb193"
-  },
-  {
-    "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-    "link": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Fri, 14 Aug 2026 17:13:05 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/16ff1b2c2a741c0630788f9373ef0aff/6a7f4cc73d63328f41f1a0cf_Launching-Ceremony-2-1-842x450/Launching-Ceremony-2-1-842x450_thmb.jpg?v=8723012a-4021-4988-b070-ff6f89013f45"
-  },
-  {
     "title": "Introducing Gemini 3.7 Flash",
     "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Thu, 13 Aug 2026 17:04:18 +0000",
     "image": ""
-  },
-  {
-    "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 13 Aug 2026 13:00:33 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/67cbb9f031f542eb7e86fb5f49c01a75/6a7dc02e3d633209a54c0ee3_gfn-thursday-8-13-blog-1920x1080-logo-842x450/gfn-thursday-8-13-blog-1920x1080-logo-842x450_thmb.jpg?v=2844c00c-76c2-4214-932a-70d53fd6af21"
   },
   {
     "title": "Putting sign language AI into users’ hands",
