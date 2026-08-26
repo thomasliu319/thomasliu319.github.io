@@ -1,42 +1,114 @@
 [
   {
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 25 Aug 2026 00:23:12 +0000",
+    "pubDate": "Wed, 26 Aug 2026 00:40:59 +0000",
     "image": ""
   },
   {
-    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 24 Aug 2026 21:24:17 +0000",
+    "pubDate": "Wed, 26 Aug 2026 00:06:20 +0000",
     "image": ""
   },
   {
-    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 24 Aug 2026 19:54:19 +0000",
+    "pubDate": "Tue, 25 Aug 2026 19:03:47 +0000",
     "image": ""
   },
   {
-    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 24 Aug 2026 18:03:55 +0000",
+    "pubDate": "Tue, 25 Aug 2026 17:50:33 +0000",
     "image": ""
   },
   {
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+    "link": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 25 Aug 2026 15:30:48 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2"
+  },
+  {
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 25 Aug 2026 15:14:14 GMT",
+    "image": ""
+  },
+  {
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 24 Aug 2026 15:24:18 +0000",
+    "pubDate": "Tue, 25 Aug 2026 15:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 25 Aug 2026 15:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_thmb.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823"
+  },
+  {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 25 Aug 2026 11:39:24 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[The full stack behind abundant intelligence]]>",
+    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 25 Aug 2026 07:05:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Jalapeño’s first results show industry-leading speed and efficiency in AI inference]]>",
+    "link": "https://openai.com/index/jalapeno-first-results",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Disrupting a new covert influence campaign from Russia]]>",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Introducing the Admin plugin for ChatGPT Work and Codex]]>",
+    "link": "https://openai.com/index/introducing-admin-plugin",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -64,22 +136,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202608/c012995b317864304459f889595fdadb/6a8c5cd03d63322b0421b263_end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450_thmb.jpg?v=242d4884-f62a-46eb-96d0-18a6298ff2b4"
   },
   {
-    "title": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale",
-    "link": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 24 Aug 2026 15:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/65b0fd8afd27d9721e6235c3cd203198/6a8bbea73d63320f3189b09c_nvidia-vera-cpu/nvidia-vera-cpu_thmb.jpg?v=263e9dd8-503b-4fbb-a459-8a61473aa44a"
-  },
-  {
-    "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 24 Aug 2026 15:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/d61fba36e887bdc54b45bd9d3bb74a2e/6a8b9f313d6332894389b07d_nvidia-groq-3-lpx-rack/nvidia-groq-3-lpx-rack_thmb.png?v=371bafaf-61ba-429f-b95b-fc5eb12cfff9"
-  },
-  {
     "title": "<![CDATA[Advancing price-performance for developers with GPT‑5.6 in Kiro]]>",
     "link": "https://openai.com/index/gpt-5-6-in-kiro",
     "source": "OpenAI Blog",
@@ -96,75 +152,19 @@
     "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "Measuring benchmark optimization in speech recognition",
-    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "link": "https://huggingface.co/blog/pwc-search",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "title": "Measuring benchmark optimization in speech recognition",
+    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
     "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Thu, 20 Aug 2026 16:52:57 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Introducing AI Futures]]>",
-    "link": "https://openai.com/index/introducing-ai-futures",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Stampli cuts launch hours by 68% using ChatGPT Work]]>",
-    "link": "https://openai.com/index/stampli",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 20 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Offering Zero Data Retention for frontier models]]>",
-    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Replit expands access to software creation with GPT-5.6 Luna]]>",
-    "link": "https://openai.com/index/replit",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 18 Aug 2026 18:09:38 GMT",
-    "image": ""
-  },
-  {
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/multi-vector-encoder",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 18 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Mon, 17 Aug 2026 19:46:21 GMT",
+    "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
     "image": ""
   },
   {
