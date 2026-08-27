@@ -1,34 +1,122 @@
 [
   {
-    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "title": "OpenAI to start showing ads on ChatGPT&#8217;s free and Go tiers in India",
+    "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 26 Aug 2026 00:40:59 +0000",
+    "pubDate": "Thu, 27 Aug 2026 11:35:59 +0000",
     "image": ""
   },
   {
-    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 26 Aug 2026 00:06:20 +0000",
+    "pubDate": "Thu, 27 Aug 2026 06:32:51 +0000",
     "image": ""
   },
   {
-    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-    "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[Expanding OpenAI’s presence in Brazil]]>",
+    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Tue, 25 Aug 2026 19:03:47 +0000",
+    "pubDate": "Thu, 27 Aug 2026 03:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Claude Cowork finally remembers what you told the app in chat",
-    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 25 Aug 2026 17:50:33 +0000",
+    "pubDate": "Thu, 27 Aug 2026 00:24:57 +0000",
+    "image": ""
+  },
+  {
+    "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
+    "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 26 Aug 2026 23:47:18 +0000",
+    "image": ""
+  },
+  {
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 26 Aug 2026 21:37:39 +0000",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+    "link": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 26 Aug 2026 21:05:30 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792"
+  },
+  {
+    "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI",
+    "link": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 26 Aug 2026 21:05:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202608/b215feb0f0d6c81e22ff4307cc071a1f/6a8e37a23d633249b789b083_aws-nvidia/aws-nvidia_thmb.jpg?v=d9d852ce-307b-4e74-9c08-6182462f9762"
+  },
+  {
+    "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 26 Aug 2026 20:20:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"
+  },
+  {
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "source": "Google DeepMind",
+    "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "pubDate": "Wed, 26 Aug 2026 17:01:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Bringing ChatGPT for Teachers to more U.S. school districts]]>",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Learning never stops: How AI makes learning continuous]]>",
+    "link": "https://openai.com/index/learning-never-stops",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[The Hugging Face incident and the road ahead]]>",
+    "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How loveholidays is making everyone a builder with Codex]]>",
+    "link": "https://openai.com/index/loveholidays",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -48,14 +136,6 @@
     "image": ""
   },
   {
-    "title": "Gamma acquires Accel-backed design startup Lica",
-    "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 25 Aug 2026 15:00:00 +0000",
-    "image": ""
-  },
-  {
     "title": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
     "link": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
     "source": "NVIDIA Blog",
@@ -72,75 +152,11 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[The full stack behind abundant intelligence]]>",
-    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 25 Aug 2026 07:05:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Jalapeño’s first results show industry-leading speed and efficiency in AI inference]]>",
-    "link": "https://openai.com/index/jalapeno-first-results",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Disrupting a new covert influence campaign from Russia]]>",
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Introducing the Admin plugin for ChatGPT Work and Codex]]>",
-    "link": "https://openai.com/index/introducing-admin-plugin",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
     "link": "https://huggingface.co/blog/gradio-workflow-guide",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "How XPUs Meet a World-Class AI Factory",
-    "link": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 24 Aug 2026 15:00:54 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/a1ce72fadebf1335ec82522dfff48fa7/6a8c5cc43d63322b0421b255_nvidia-dsx-maxlps-fg-i4of6-d-842x450/nvidia-dsx-maxlps-fg-i4of6-d-842x450_thmb.jpg?v=825aef88-6d9b-4df1-a570-b9a32e041444"
-  },
-  {
-    "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
-    "link": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 24 Aug 2026 15:00:41 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/ae000d071337f11f4c972a05ab29cd98/6a8c5cc93d63322b0421b25c_HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450_thmb.jpg?v=96fb9ec7-aeb4-4317-adfa-1d13d00f3af3"
-  },
-  {
-    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-    "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 24 Aug 2026 15:00:19 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/c012995b317864304459f889595fdadb/6a8c5cd03d63322b0421b263_end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450_thmb.jpg?v=242d4884-f62a-46eb-96d0-18a6298ff2b4"
-  },
-  {
-    "title": "<![CDATA[Advancing price-performance for developers with GPT‑5.6 in Kiro]]>",
-    "link": "https://openai.com/index/gpt-5-6-in-kiro",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 24 Aug 2026 12:00:00 GMT",
     "image": ""
   },
   {
@@ -154,14 +170,6 @@
   {
     "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
     "link": "https://huggingface.co/blog/pwc-search",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Measuring benchmark optimization in speech recognition",
-    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
@@ -190,13 +198,5 @@
     "description": "",
     "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
     "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-    "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-    "source": "Google DeepMind",
-    "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-    "pubDate": "Thu, 30 Jul 2026 15:00:59 +0000",
-    "image": ""
   }
 ]
