@@ -1,6 +1,30 @@
 [
   {
-    "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 28 Aug 2026 20:24:11 +0000",
+    "image": ""
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 28 Aug 2026 19:30:38 +0000",
+    "image": ""
+  },
+  {
+    "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
+    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 28 Aug 2026 18:19:40 +0000",
+    "image": ""
+  },
+  {
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
     "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
     "source": "TechCrunch AI",
     "description": "",
@@ -16,6 +40,14 @@
     "image": ""
   },
   {
+    "title": "<![CDATA[Our decision on Cursor following its acquisition by SpaceX]]>",
+    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 28 Aug 2026 06:00:00 GMT",
+    "image": ""
+  },
+  {
     "title": "<![CDATA[Supporting Thailand’s next generation of AI startups]]>",
     "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "source": "OpenAI Blog",
@@ -24,11 +56,11 @@
     "image": ""
   },
   {
-    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Thu, 27 Aug 2026 23:16:45 +0000",
+    "pubDate": "Fri, 28 Aug 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -38,22 +70,6 @@
     "description": "",
     "pubDate": "Thu, 27 Aug 2026 21:00:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038"
-  },
-  {
-    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-    "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 27 Aug 2026 19:52:52 +0000",
-    "image": ""
-  },
-  {
-    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 27 Aug 2026 17:43:24 +0000",
-    "image": ""
   },
   {
     "title": "Gemini Omni 1.1 Flash lets you build with more control",
@@ -128,14 +144,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Bringing ChatGPT for Teachers to more U.S. school districts]]>",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "<![CDATA[Learning never stops: How AI makes learning continuous]]>",
     "link": "https://openai.com/index/learning-never-stops",
     "source": "OpenAI Blog",
@@ -182,14 +190,6 @@
     "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
     "pubDate": "Fri, 21 Aug 2026 11:59:48 +0000",
     "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "link": "https://huggingface.co/blog/pwc-search",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
-    "image": ""
   },
   {
     "title": "Introducing Gemini 3.7 Flash",
