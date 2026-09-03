@@ -1,10 +1,74 @@
 [
   {
-    "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
-    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 01 Sep 2026 22:08:24 +0000",
+    "pubDate": "Wed, 02 Sep 2026 23:01:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 02 Sep 2026 22:44:56 +0000",
+    "image": ""
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 02 Sep 2026 22:24:09 +0000",
+    "image": ""
+  },
+  {
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 02 Sep 2026 20:19:14 +0000",
+    "image": ""
+  },
+  {
+    "title": "Pangram&#8217;s Max Spero on why AI detection is harder than &#8216;Real or Fake&#8217;",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
+    "image": ""
+  },
+  {
+    "title": "Proactive cyber defense for governments and enterprises",
+    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Wed, 02 Sep 2026 16:24:24 +0000",
+    "image": ""
+  },
+  {
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "image": ""
+  },
+  {
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 02 Sep 2026 13:49:14 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT]]>",
+    "link": "https://openai.com/index/atv-big-air-tour",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 02 Sep 2026 12:00:00 GMT",
     "image": ""
   },
   {
@@ -22,38 +86,6 @@
     "description": "",
     "pubDate": "Tue, 01 Sep 2026 21:19:20 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202609/c2b4f6776e34beb6c701386ec4c39302/6a9741713d63320ca3a5a9d6_falcon-nvidia-main-feature-image-842x450/falcon-nvidia-main-feature-image-842x450_thmb.jpg?v=d5c1260e-9111-4b20-a3b2-8385a18686e7"
-  },
-  {
-    "title": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
-    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
-    "image": ""
-  },
-  {
-    "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
-    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 01 Sep 2026 20:53:05 +0000",
-    "image": ""
-  },
-  {
-    "title": "Anthropic&#8217;s new Fable release is cheaper, less restrictive",
-    "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 01 Sep 2026 19:39:22 +0000",
-    "image": ""
-  },
-  {
-    "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
-    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
-    "image": ""
   },
   {
     "title": "Introducing agentic video understanding with Gemini",
@@ -112,14 +144,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2"
   },
   {
-    "title": "<![CDATA[OpenAI supports California’s bill to advance youth AI safety]]>",
-    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "The Open ASR Leaderboard Adds Its First Global South Language",
     "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
     "source": "Hugging Face Blog",
@@ -168,35 +192,11 @@
     "image": "https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792"
   },
   {
-    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-    "source": "Google DeepMind",
-    "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-    "pubDate": "Wed, 26 Aug 2026 17:01:00 +0000",
-    "image": ""
-  },
-  {
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
     "link": "https://huggingface.co/blog/train-multi-vector-encoder",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
     "image": ""
-  },
-  {
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 25 Aug 2026 15:14:14 GMT",
-    "image": ""
-  },
-  {
-    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-    "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-    "source": "Google DeepMind",
-    "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-    "pubDate": "Fri, 21 Aug 2026 11:59:48 +0000",
-    "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
   }
 ]
