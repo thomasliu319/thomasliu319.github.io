@@ -1,42 +1,138 @@
 [
   {
-    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 02 Sep 2026 23:01:00 +0000",
+    "pubDate": "Fri, 04 Sep 2026 04:21:03 +0000",
     "image": ""
   },
   {
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 02 Sep 2026 22:44:56 +0000",
+    "pubDate": "Fri, 04 Sep 2026 00:48:42 +0000",
     "image": ""
   },
   {
-    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 02 Sep 2026 22:24:09 +0000",
+    "pubDate": "Thu, 03 Sep 2026 19:36:29 +0000",
     "image": ""
   },
   {
-    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 02 Sep 2026 20:19:14 +0000",
+    "pubDate": "Thu, 03 Sep 2026 18:37:57 +0000",
     "image": ""
   },
   {
-    "title": "Pangram&#8217;s Max Spero on why AI detection is harder than &#8216;Real or Fake&#8217;",
-    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
+    "pubDate": "Thu, 03 Sep 2026 18:19:56 +0000",
+    "image": ""
+  },
+  {
+    "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+    "link": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 16:00:59 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445"
+  },
+  {
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "<![CDATA[Daybreak for Frontline Defenders: $1B to protect essential services]]>",
+    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 13:13:48 GMT",
+    "image": ""
+  },
+  {
+    "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 13:00:35 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/17c6d2e6ab122de760ffe2743238dcff/6a996f8a3d6332e2bddd5853_gfn-thursday-9-3-blog-1920x1080-logo-842x450/gfn-thursday-9-3-blog-1920x1080-logo-842x450_thmb.jpg?v=1e776358-a858-4f3d-81ee-f434d7be441e"
+  },
+  {
+    "title": "<![CDATA[Legora reviewed 41 documents in minutes with GPT-6 Astra]]>",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Playco cut manual fixes 50% prototyping games with GPT-6 Astra]]>",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA to Acquire Hugging Face",
+    "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 11:59:49 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/c7220e9c4241f777ae4f7172c60a6f41/6a9961443d63329ca6f0f645_hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-842x450/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-842x450_thmb.jpg?v=bbdb768a-6281-40b7-a3c6-3e314400f61a"
+  },
+  {
+    "title": "<![CDATA[Safety overview: GPT-6 Astra]]>",
+    "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Give Your Coding Agents a Memory You Own",
+    "link": "https://huggingface.co/blog/funes",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -72,14 +168,6 @@
     "image": ""
   },
   {
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "link": "https://huggingface.co/blog/allenai/benchmirt",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 01 Sep 2026 21:39:07 GMT",
-    "image": ""
-  },
-  {
     "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
     "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
     "source": "NVIDIA Blog",
@@ -96,46 +184,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[How AI-native companies turn workflows into operating capability]]>",
-    "link": "https://openai.com/index/ai-native-company-workflows",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 01 Sep 2026 17:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Path to Astra: critical capabilities and frontier safeguards]]>",
-    "link": "https://openai.com/index/path-to-astra",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 01 Sep 2026 13:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Healthcare organizations can now connect EHR and additional industry data to ChatGPT]]>",
-    "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 01 Sep 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How law firm Gilbert + Tobin governs and scales AI with OpenAI]]>",
-    "link": "https://openai.com/index/gilbert-tobin",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 01 Sep 2026 01:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "link": "https://huggingface.co/blog/webgpu-kernels",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 01 Sep 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
     "link": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
     "source": "NVIDIA Blog",
@@ -144,59 +192,11 @@
     "image": "https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2"
   },
   {
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 28 Aug 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "NVIDIA Announces Upcoming Event for Financial Community",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 27 Aug 2026 21:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038"
-  },
-  {
     "title": "Gemini Omni 1.1 Flash lets you build with more control",
     "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Thu, 27 Aug 2026 16:11:32 +0000",
-    "image": ""
-  },
-  {
-    "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 27 Aug 2026 13:00:33 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/969ad909104ac6ad5d551bbeba277789/6a9035013d63323f45be92b6_gfn-thursday-8-27-nv-blog-1280x680-logo-842x450/gfn-thursday-8-27-nv-blog-1280x680-logo-842x450_thmb.jpg?v=77ebd822-2b6b-46bf-8942-2ea780ae0e0e"
-  },
-  {
-    "title": "Piloting the world's first double-blind AI evaluations",
-    "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "source": "Google DeepMind",
-    "description": "Piloting the world's first double-blind AI evaluations",
-    "pubDate": "Thu, 27 Aug 2026 12:59:16 +0000",
-    "image": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-    "link": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 26 Aug 2026 21:05:30 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792"
-  },
-  {
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
     "image": ""
   }
 ]
