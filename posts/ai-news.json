@@ -1,42 +1,42 @@
 [
   {
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
-    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Fri, 04 Sep 2026 04:21:03 +0000",
+    "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
     "image": ""
   },
   {
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Fri, 04 Sep 2026 00:48:42 +0000",
+    "pubDate": "Fri, 04 Sep 2026 23:15:11 +0000",
     "image": ""
   },
   {
-    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 03 Sep 2026 19:36:29 +0000",
+    "pubDate": "Fri, 04 Sep 2026 21:12:11 +0000",
     "image": ""
   },
   {
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "title": "What will Apple&#8217;s John Ternus era look like?",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 03 Sep 2026 18:37:57 +0000",
+    "pubDate": "Fri, 04 Sep 2026 17:18:00 +0000",
     "image": ""
   },
   {
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 03 Sep 2026 18:19:56 +0000",
+    "pubDate": "Fri, 04 Sep 2026 16:21:11 +0000",
     "image": ""
   },
   {
@@ -80,16 +80,16 @@
     "image": "https://iprsoftwaremedia.com/219/files/202609/17c6d2e6ab122de760ffe2743238dcff/6a996f8a3d6332e2bddd5853_gfn-thursday-9-3-blog-1920x1080-logo-842x450/gfn-thursday-9-3-blog-1920x1080-logo-842x450_thmb.jpg?v=1e776358-a858-4f3d-81ee-f434d7be441e"
   },
   {
-    "title": "<![CDATA[Legora reviewed 41 documents in minutes with GPT-6 Astra]]>",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "title": "<![CDATA[Playco cut manual fixes 50% prototyping games with GPT-6 Astra]]>",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
     "image": ""
   },
   {
-    "title": "<![CDATA[Playco cut manual fixes 50% prototyping games with GPT-6 Astra]]>",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "title": "<![CDATA[Legora reviewed 41 documents in minutes with GPT-6 Astra]]>",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
@@ -102,6 +102,14 @@
     "description": "",
     "pubDate": "Thu, 03 Sep 2026 11:59:49 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202609/c7220e9c4241f777ae4f7172c60a6f41/6a9961443d63329ca6f0f645_hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-842x450/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-842x450_thmb.jpg?v=bbdb768a-6281-40b7-a3c6-3e314400f61a"
+  },
+  {
+    "title": "<![CDATA[GPT-6 Astra: A new generation of intelligence]]>",
+    "link": "https://openai.com/index/gpt-6-astra",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 03 Sep 2026 11:00:00 GMT",
+    "image": ""
   },
   {
     "title": "<![CDATA[Safety overview: GPT-6 Astra]]>",
@@ -157,14 +165,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Wed, 02 Sep 2026 13:49:14 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT]]>",
-    "link": "https://openai.com/index/atv-big-air-tour",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 02 Sep 2026 12:00:00 GMT",
     "image": ""
   },
   {
