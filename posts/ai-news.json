@@ -1,5 +1,37 @@
 [
   {
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 20:47:37 +0000",
+    "image": ""
+  },
+  {
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 16:45:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[An Alien Mind]]>",
+    "link": "https://openai.com/index/an-alien-mind",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 09:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Research acceleration: The view inside OpenAI]]>",
+    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Sun, 06 Sep 2026 08:00:00 GMT",
+    "image": ""
+  },
+  {
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
     "source": "TechCrunch AI",
@@ -21,22 +53,6 @@
     "source": "TechCrunch AI",
     "description": "",
     "pubDate": "Sat, 05 Sep 2026 18:05:27 +0000",
-    "image": ""
-  },
-  {
-    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
-    "image": ""
-  },
-  {
-    "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
-    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 04 Sep 2026 23:15:11 +0000",
     "image": ""
   },
   {
@@ -80,16 +96,16 @@
     "image": "https://iprsoftwaremedia.com/219/files/202609/17c6d2e6ab122de760ffe2743238dcff/6a996f8a3d6332e2bddd5853_gfn-thursday-9-3-blog-1920x1080-logo-842x450/gfn-thursday-9-3-blog-1920x1080-logo-842x450_thmb.jpg?v=1e776358-a858-4f3d-81ee-f434d7be441e"
   },
   {
-    "title": "<![CDATA[Playco cut manual fixes 50% prototyping games with GPT-6 Astra]]>",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "title": "<![CDATA[Legora reviewed 41 documents in minutes with GPT-6 Astra]]>",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
     "image": ""
   },
   {
-    "title": "<![CDATA[Legora reviewed 41 documents in minutes with GPT-6 Astra]]>",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "title": "<![CDATA[Playco cut manual fixes 50% prototyping games with GPT-6 Astra]]>",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
@@ -102,22 +118,6 @@
     "description": "",
     "pubDate": "Thu, 03 Sep 2026 11:59:49 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202609/c7220e9c4241f777ae4f7172c60a6f41/6a9961443d63329ca6f0f645_hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-842x450/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-842x450_thmb.jpg?v=bbdb768a-6281-40b7-a3c6-3e314400f61a"
-  },
-  {
-    "title": "<![CDATA[GPT-6 Astra: A new generation of intelligence]]>",
-    "link": "https://openai.com/index/gpt-6-astra",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 03 Sep 2026 11:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Safety overview: GPT-6 Astra]]>",
-    "link": "https://openai.com/index/safety-overview-gpt-6-astra",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
-    "image": ""
   },
   {
     "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
