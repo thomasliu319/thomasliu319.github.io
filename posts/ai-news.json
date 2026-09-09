@@ -1,66 +1,98 @@
 [
   {
-    "title": "Opaque recurrence, and other AI terms that you should probably know",
-    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 07 Sep 2026 19:24:00 +0000",
+    "pubDate": "Tue, 08 Sep 2026 21:10:27 +0000",
     "image": ""
   },
   {
-    "title": "<![CDATA[Supporting independent journalism in Ukraine]]>",
-    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 08 Sep 2026 21:04:06 +0000",
+    "image": ""
+  },
+  {
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 08 Sep 2026 19:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 08 Sep 2026 17:32:15 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How GPT-5.6 Sol helps run quantum computing experiments]]>",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments",
     "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Mon, 07 Sep 2026 00:00:00 GMT",
+    "pubDate": "Tue, 08 Sep 2026 17:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 06 Sep 2026 20:47:37 +0000",
+    "pubDate": "Tue, 08 Sep 2026 16:20:31 +0000",
     "image": ""
   },
   {
-    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "source": "TechCrunch AI",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Sun, 06 Sep 2026 16:45:00 +0000",
+    "pubDate": "Tue, 08 Sep 2026 14:23:07 GMT",
     "image": ""
   },
   {
-    "title": "<![CDATA[An Alien Mind]]>",
-    "link": "https://openai.com/index/an-alien-mind",
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "source": "Google DeepMind",
+    "description": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "pubDate": "Tue, 08 Sep 2026 14:00:15 +0000",
+    "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "<![CDATA[The Work Now Within Reach]]>",
+    "link": "https://openai.com/index/the-work-now-within-reach",
     "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Sun, 06 Sep 2026 09:00:00 GMT",
+    "pubDate": "Tue, 08 Sep 2026 13:00:00 GMT",
     "image": ""
   },
   {
-    "title": "<![CDATA[Research acceleration: The view inside OpenAI]]>",
-    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "title": "<![CDATA[Introducing ChatGPT Images 2.5]]>",
+    "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
     "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Sun, 06 Sep 2026 08:00:00 GMT",
+    "pubDate": "Tue, 08 Sep 2026 11:30:00 GMT",
     "image": ""
   },
   {
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[On the Navier–Stokes Millennium Prize Problem]]>",
+    "link": "https://openai.com/index/navier-stokes-solution",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
+    "pubDate": "Tue, 08 Sep 2026 10:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[Funding grants for new research into AI and teen development]]>",
+    "link": "https://openai.com/index/teen-development-research-grants",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Sat, 05 Sep 2026 19:35:24 +0000",
+    "pubDate": "Tue, 08 Sep 2026 09:00:00 GMT",
     "image": ""
   },
   {
@@ -80,14 +112,6 @@
     "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "<![CDATA[Daybreak for Frontline Defenders: $1B to protect essential services]]>",
-    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 03 Sep 2026 13:15:00 GMT",
-    "image": ""
-  },
-  {
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
     "link": "https://huggingface.co/blog/Hcompany/neomme",
     "source": "Hugging Face Blog",
@@ -102,14 +126,6 @@
     "description": "",
     "pubDate": "Thu, 03 Sep 2026 13:00:35 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202609/17c6d2e6ab122de760ffe2743238dcff/6a996f8a3d6332e2bddd5853_gfn-thursday-9-3-blog-1920x1080-logo-842x450/gfn-thursday-9-3-blog-1920x1080-logo-842x450_thmb.jpg?v=1e776358-a858-4f3d-81ee-f434d7be441e"
-  },
-  {
-    "title": "<![CDATA[Legora reviewed 41 documents in minutes with GPT-6 Astra]]>",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
-    "image": ""
   },
   {
     "title": "NVIDIA to Acquire Hugging Face",
@@ -160,14 +176,6 @@
     "image": ""
   },
   {
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 02 Sep 2026 13:49:14 GMT",
-    "image": ""
-  },
-  {
     "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
     "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
     "source": "NVIDIA Blog",
@@ -190,13 +198,5 @@
     "description": "",
     "pubDate": "Mon, 31 Aug 2026 12:30:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2"
-  },
-  {
-    "title": "Gemini Omni 1.1 Flash lets you build with more control",
-    "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Thu, 27 Aug 2026 16:11:32 +0000",
-    "image": ""
   }
 ]
