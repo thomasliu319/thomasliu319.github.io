@@ -1,34 +1,90 @@
 [
   {
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 08 Sep 2026 21:10:27 +0000",
+    "pubDate": "Thu, 10 Sep 2026 00:00:37 +0000",
     "image": ""
   },
   {
-    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660"
+  },
+  {
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 08 Sep 2026 21:04:06 +0000",
+    "pubDate": "Wed, 09 Sep 2026 22:25:22 +0000",
     "image": ""
   },
   {
-    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "title": "Massachusetts hits data centers with new clean power rules",
+    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 08 Sep 2026 19:00:00 +0000",
+    "pubDate": "Wed, 09 Sep 2026 21:43:34 +0000",
     "image": ""
   },
   {
-    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "title": "Apple Watch&#8217;s new AI features are normalizing the idea that technology is always listening",
+    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 08 Sep 2026 17:32:15 +0000",
+    "pubDate": "Wed, 09 Sep 2026 20:24:48 +0000",
+    "image": ""
+  },
+  {
+    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 09 Sep 2026 20:03:43 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Paul Christiano joins OpenAI Foundation Board]]>",
+    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 09 Sep 2026 17:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+    "link": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 09 Sep 2026 16:00:42 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e"
+  },
+  {
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 09 Sep 2026 15:36:24 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[The AI policy window is open. We need to act.]]>",
+    "link": "https://openai.com/index/ai-policy-window",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 09 Sep 2026 13:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[GPT-6 Astra: The next generation in intelligence for work]]>",
+    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 09 Sep 2026 11:00:00 GMT",
     "image": ""
   },
   {
@@ -37,14 +93,6 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Tue, 08 Sep 2026 17:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 08 Sep 2026 16:20:31 +0000",
     "image": ""
   },
   {
@@ -69,30 +117,6 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Tue, 08 Sep 2026 13:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Introducing ChatGPT Images 2.5]]>",
-    "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 08 Sep 2026 11:30:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[On the Navier–Stokes Millennium Prize Problem]]>",
-    "link": "https://openai.com/index/navier-stokes-solution",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 08 Sep 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Funding grants for new research into AI and teen development]]>",
-    "link": "https://openai.com/index/teen-development-research-grants",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 08 Sep 2026 09:00:00 GMT",
     "image": ""
   },
   {
@@ -152,14 +176,6 @@
     "image": ""
   },
   {
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "link": "https://huggingface.co/blog/train-to-paint-with-code",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Proactive cyber defense for governments and enterprises",
     "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
     "source": "Google DeepMind",
@@ -176,27 +192,11 @@
     "image": ""
   },
   {
-    "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-    "link": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 01 Sep 2026 21:19:20 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/c2b4f6776e34beb6c701386ec4c39302/6a9741713d63320ca3a5a9d6_falcon-nvidia-main-feature-image-842x450/falcon-nvidia-main-feature-image-842x450_thmb.jpg?v=d5c1260e-9111-4b20-a3b2-8385a18686e7"
-  },
-  {
     "title": "Introducing agentic video understanding with Gemini",
     "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Tue, 01 Sep 2026 17:08:51 +0000",
     "image": ""
-  },
-  {
-    "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 31 Aug 2026 12:30:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2"
   }
 ]
