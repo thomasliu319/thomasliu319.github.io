@@ -1,42 +1,66 @@
 [
   {
-    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[Perplexity trusts GPT-6 Astra with end-to-end systems]]>",
+    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Thu, 10 Sep 2026 21:51:59 +0000",
+    "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 10 Sep 2026 21:35:00 +0000",
+    "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
     "image": ""
   },
   {
-    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 10 Sep 2026 20:59:51 +0000",
+    "pubDate": "Fri, 11 Sep 2026 20:59:47 +0000",
     "image": ""
   },
   {
-    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
+    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 10 Sep 2026 20:57:30 +0000",
+    "pubDate": "Fri, 11 Sep 2026 20:57:36 +0000",
     "image": ""
   },
   {
-    "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
-    "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 10 Sep 2026 19:50:04 +0000",
+    "pubDate": "Fri, 11 Sep 2026 20:33:18 +0000",
+    "image": ""
+  },
+  {
+    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+    "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 11 Sep 2026 20:30:17 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Cognition helps Devin test its own work with GPT‑6 Astra]]>",
+    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 11 Sep 2026 16:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Rapidly scaling online storage to serve over 1 billion ChatGPT users]]>",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 11 Sep 2026 10:00:00 GMT",
     "image": ""
   },
   {
@@ -94,30 +118,6 @@
     "description": "",
     "pubDate": "Thu, 10 Sep 2026 09:00:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202609/38876c048ca50c779d310d7d819f27bd/6aa210be3d63325a96e97259_palantir-nvidia/palantir-nvidia_thmb.jpg?v=f0195c71-b6c0-4659-b603-2f73ebdc1de8"
-  },
-  {
-    "title": "<![CDATA[Introducing ChatGPT for Financial Services]]>",
-    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Expanding AI access and cyber defense for federal, state, local, and tribal governments]]>",
-    "link": "https://openai.com/index/expanding-ai-access-us-government",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Introducing the Agents API]]>",
-    "link": "https://openai.com/index/introducing-the-agents-api",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
-    "image": ""
   },
   {
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
