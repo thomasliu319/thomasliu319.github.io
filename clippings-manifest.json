@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-10T03:42:11.094Z",
+  "generatedAt": "2026-06-26T07:54:09.062Z",
   "siteName": "Thomas Liu",
   "tags": [
     {
       "name": "AI Coding",
       "slug": "ai-coding",
-      "count": 1,
+      "count": 2,
       "posts": [
         {
           "slug": "ai编程的常用prompt",
@@ -14,13 +14,84 @@
           "excerpt": "AI编程的常用prompt。",
           "url": "/posts/ai-coding/ai%E7%BC%96%E7%A8%8B%E7%9A%84%E5%B8%B8%E7%94%A8prompt/",
           "mdPath": "/Clippings/AI Coding/AI编程的常用prompt.md"
+        },
+        {
+          "slug": "claude-code安装与核心插件配置指南",
+          "title": "Claude Code安装与核心插件配置指南",
+          "created": "2026-05-11",
+          "excerpt": "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team's pr",
+          "url": "/posts/ai-coding/claude-code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/",
+          "mdPath": "/Clippings/AI Coding/Claude Code安装与核心插件配置指南.md"
+        }
+      ]
+    },
+    {
+      "name": "AI 重塑云原生应用开发实战",
+      "slug": "ai-重塑云原生应用开发实战",
+      "count": 7,
+      "posts": [
+        {
+          "slug": "00-开篇词-ai+云原生-孔明与刘备的互相成就-ai重塑云原生应用开发实战-极客时间",
+          "title": "开篇词｜AI+云原生：孔明与刘备的互相成就-AI重塑云原生应用开发实战-极客时间",
+          "created": "2026-06-04",
+          "excerpt": "云原生AI套件结合Kubernetes构建生产系统，管理GPU资源和复杂环境，提升AI训练效率。AI网关作为云原生API网关，具备智能调度、自动化管理和自然语言交互能力，简化复杂系统的管理与调度过程。课程设计着重于AI+云原生应用开发，包括",
+          "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/00-%E5%BC%80%E7%AF%87%E8%AF%8D-ai+%E4%BA%91%E5%8E%9F%E7%94%9F-%E5%AD%94%E6%98%8E%E4%B8%8E%E5%88%98%E5%A4%87%E7%9A%84%E4%BA%92%E7%9B%B8%E6%88%90%E5%B0%B1-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+          "mdPath": "/Clippings/AI 重塑云原生应用开发实战/00 |开篇词｜AI+云原生：孔明与刘备的互相成就-AI重塑云原生应用开发实战-极客时间.md"
+        },
+        {
+          "slug": "01-agent的前辈-function-calling-ai重塑云原生应用开发实战-极客时间",
+          "title": "01｜Agent的前辈：Function Calling-AI重塑云原生应用开发实战-极客时间",
+          "created": "2026-06-04",
+          "excerpt": "OpenAI 公司推出了 Function Calling 机制，通过向大模型提供工具（函数），让其自行选择合适的工具解决问题。文章介绍了使用 Go 语言演示 Function Calling 功能的实战步骤，包括模型环境变量配置、Chat",
+          "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/01-agent%E7%9A%84%E5%89%8D%E8%BE%88-function-calling-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+          "mdPath": "/Clippings/AI 重塑云原生应用开发实战/01｜Agent的前辈：Function Calling-AI重塑云原生应用开发实战-极客时间.md"
+        },
+        {
+          "slug": "02-agent的原理-什么是ai-agent-ai重塑云原生应用开发实战-极客时间",
+          "title": "02｜Agent的原理：什么是AI Agent？-AI重塑云原生应用开发实战-极客时间",
+          "created": "2026-06-04",
+          "excerpt": "AI Agent是一种计算实体，能感知环境、自主决策并执行行动。它通过多模态输入获取信息，进行信息加工和决策，最终执行行动。Agent的重要性在于帮助大模型解决复杂问题，如推理和规划。 Agent的实现需要结合感知、大脑和行动三部分。",
+          "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/02-agent%E7%9A%84%E5%8E%9F%E7%90%86-%E4%BB%80%E4%B9%88%E6%98%AFai-agent-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+          "mdPath": "/Clippings/AI 重塑云原生应用开发实战/02｜Agent的原理：什么是AI Agent？-AI重塑云原生应用开发实战-极客时间.md"
+        },
+        {
+          "slug": "03-agent的常见推理模式-cot-react-reflexion究竟是什么-ai重塑云原生应用开发实战-极客时间",
+          "title": "03｜Agent的常见推理模式：CoT、ReAct、Reflexion究竟是什么？-AI重塑云原生应用开发实战-极客时间",
+          "created": "2026-06-04",
+          "excerpt": "常见推理模式包括CoT、ReAct、Reflexion，它们在AI Agent应用开发中使用率极高，有助于提高大模型的推理能力和减少幻觉产生。ReWOO则是在ReAct方案基础上提出的新思路，通过规划解决步骤，节省对话成本。这些思想不断完善",
+          "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/03-agent%E7%9A%84%E5%B8%B8%E8%A7%81%E6%8E%A8%E7%90%86%E6%A8%A1%E5%BC%8F-cot-react-reflexion%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+          "mdPath": "/Clippings/AI 重塑云原生应用开发实战/03｜Agent的常见推理模式：CoT、ReAct、Reflexion究竟是什么？-AI重塑云原生应用开发实战-极客时间.md"
+        },
+        {
+          "slug": "04-实践篇-用go语言实现一个简单agent-ai重塑云原生应用开发实战-极客时间",
+          "title": "04｜实践篇：用Go语言实现一个简单Agent-AI重塑云原生应用开发实战-极客时间",
+          "created": "2026-06-04",
+          "excerpt": "本文介绍了使用Go语言实现一个简单Agent的实践过程，展示了Agent的工作流程和多轮对话核心逻辑。通过ReAct方案和LangChain Hub，详细解释了ReAct Prompt模板的构成和Agent核心代码的实现。文章涵盖了技术实践",
+          "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/04-%E5%AE%9E%E8%B7%B5%E7%AF%87-%E7%94%A8go%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95agent-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+          "mdPath": "/Clippings/AI 重塑云原生应用开发实战/04｜实践篇：用Go语言实现一个简单Agent-AI重塑云原生应用开发实战-极客时间.md"
+        },
+        {
+          "slug": "05-设计-用自然语言调用agent操控k8s-ai重塑云原生应用开发实战-极客时间",
+          "title": "05｜设计：用自然语言调用Agent操控K8s-AI重塑云原生应用开发实战-极客时间",
+          "created": "2026-06-26",
+          "excerpt": "本文介绍了如何利用自然语言调用Agent操控Kubernetes（K8s），包括传统的Kubernetes交互方式、用自然语言操控Kubernetes的原理与设计，以及相关技术如Cobra命令行工具、API设计、client-go进阶用法和",
+          "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/05-%E8%AE%BE%E8%AE%A1-%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E8%B0%83%E7%94%A8agent%E6%93%8D%E6%8E%A7k8s-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+          "mdPath": "/Clippings/AI 重塑云原生应用开发实战/05｜设计：用自然语言调用Agent操控K8s-AI重塑云原生应用开发实战-极客时间.md"
+        },
+        {
+          "slug": "06-client-go进阶玩法之restmapper",
+          "title": "06｜client-go进阶玩法之RestMapper",
+          "created": "2026-06-26",
+          "excerpt": "本文介绍了如何利用自然语言调用Agent操控Kubernetes（K8s），包括传统的Kubernetes交互方式、用自然语言操控Kubernetes的原理与设计，以及相关技术如Cobra命令行工具、API设计、client-go进阶用法和",
+          "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/06-client-go%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95%E4%B9%8Brestmapper/",
+          "mdPath": "/Clippings/AI 重塑云原生应用开发实战/06｜client-go进阶玩法之RestMapper.md"
         }
       ]
     },
     {
       "name": "Claude Code Action",
       "slug": "claude-code-action",
-      "count": 6,
+      "count": 27,
       "posts": [
         {
           "slug": "00-开篇词-共生而非替代-极客和-ai-的共舞",
@@ -69,6 +140,174 @@
           "excerpt": "本文介绍了如何构建只读型的安全审计子代理，以及为何需要这样的子代理。通过分析代码审查的工程痛点，设计了一个从痛点出发、反推设计的工程思维。文章还详细介绍了代码审查子代理的配置和功能，以及在实际项目中的应用场景和设计思路。文章强调了子代理的配",
           "url": "/posts/claude-code-action/05-%E6%98%8E%E5%AF%9F%E7%A7%8B%E6%AF%AB-%E6%9E%84%E5%BB%BA%E5%8F%AA%E8%AF%BB%E5%9E%8B%E5%AE%89%E5%85%A8%E5%AE%A1%E8%AE%A1%E5%AD%90%E4%BB%A3%E7%90%86/",
           "mdPath": "/Clippings/Claude Code Action/05｜明察秋毫 ：构建只读型安全审计子代理-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "06-去芜存菁-高噪声任务处理——测试运行器与日志分析器",
+          "title": "06｜去芜存菁 ：高噪声任务处理——测试运行器与日志分析器",
+          "created": "2026-05-11",
+          "excerpt": "本文介绍了处理高噪声任务的方法，通过创建测试运行器和日志分析器来隔离噪声，提高效率。强调了信噪比决策框架的重要性，以及如何使用子代理来处理高噪声场景。通过实例展示了测试运行器和日志分析器的配置和使用方法，以及输出格式设计的重要性。文章总结了",
+          "url": "/posts/claude-code-action/06-%E5%8E%BB%E8%8A%9C%E5%AD%98%E8%8F%81-%E9%AB%98%E5%99%AA%E5%A3%B0%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86%E2%80%94%E2%80%94%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C%E5%99%A8%E4%B8%8E%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E5%99%A8/",
+          "mdPath": "/Clippings/Claude Code Action/06｜去芜存菁 ：高噪声任务处理——测试运行器与日志分析器-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "07-百舸争流-多任务并行探索与流水线编排",
+          "title": "07｜百舸争流：多任务并行探索与流水线编排",
+          "created": "2026-05-11",
+          "excerpt": "本文总结了并行探索和流水线编排在工程化实战中的应用，强调了任务独立性和信息依赖的重要性。并行探索支持多个子代理同时工作，适合独立任务的同时处理，提供快速 + 清洁的上下文，其核心价值是速度 + 独立性。流水线编排支持多个子代理顺序工作，适合",
+          "url": "/posts/claude-code-action/07-%E7%99%BE%E8%88%B8%E4%BA%89%E6%B5%81-%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%B9%B6%E8%A1%8C%E6%8E%A2%E7%B4%A2%E4%B8%8E%E6%B5%81%E6%B0%B4%E7%BA%BF%E7%BC%96%E6%8E%92/",
+          "mdPath": "/Clippings/Claude Code Action/07｜百舸争流：多任务并行探索与流水线编排-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "08-群策群力-agent-teams-多会话协作架构",
+          "title": "08｜群策群力：Agent Teams 多会话协作架构",
+          "created": "2026-05-11",
+          "excerpt": "Agent Teams 是 Claude Code 的实验性功能，通过团队协作模式，让代理之间能够直接交流、互相挑战、协作推进。文章介绍了Agent Teams的创建和使用方式，并提供了一个实战项目示例。此外，文章还总结了Agent Tea",
+          "url": "/posts/claude-code-action/08-%E7%BE%A4%E7%AD%96%E7%BE%A4%E5%8A%9B-agent-teams-%E5%A4%9A%E4%BC%9A%E8%AF%9D%E5%8D%8F%E4%BD%9C%E6%9E%B6%E6%9E%84/",
+          "mdPath": "/Clippings/Claude Code Action/08｜群策群力：Agent Teams 多会话协作架构-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "09-触类旁通-skill-md-结构与触发机制",
+          "title": "09｜触类旁通：SKILL.md 结构与触发机制",
+          "created": "2026-05-13",
+          "excerpt": "企业中的技能系统Skills是SOP体系的一部分，连接“行动能力”与“语义世界”，具有特殊地位。Skills支持两种触发方式，通过语义理解判断当前对话是否匹配某个Skill。企业本体论视角下，Skill分为参考型和任务型，分别影响“怎么做”",
+          "url": "/posts/claude-code-action/09-%E8%A7%A6%E7%B1%BB%E6%97%81%E9%80%9A-skill-md-%E7%BB%93%E6%9E%84%E4%B8%8E%E8%A7%A6%E5%8F%91%E6%9C%BA%E5%88%B6/",
+          "mdPath": "/Clippings/Claude Code Action/09｜触类旁通：SKILL.md 结构与触发机制-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "10-令行禁止-任务型-skills-斜杠命令-command-实战",
+          "title": "10｜令行禁止：任务型 Skills （斜杠命令 /Command）实战",
+          "created": "2026-05-13",
+          "excerpt": "任务型 Skill 是一种用于执行特定工作流程的技术，支持参数传递和动态上下文注入，能提高工程效率，减少重复对话模式。设计时需遵循七步设计清单，包括动作命名、触发者、权限、上下文、安全网、输出量和模型选择。团队标准命令集的创建包括智能提交、",
+          "url": "/posts/claude-code-action/10-%E4%BB%A4%E8%A1%8C%E7%A6%81%E6%AD%A2-%E4%BB%BB%E5%8A%A1%E5%9E%8B-skills-%E6%96%9C%E6%9D%A0%E5%91%BD%E4%BB%A4-command-%E5%AE%9E%E6%88%98/",
+          "mdPath": "/Clippings/Claude Code Action/10｜令行禁止：任务型 Skills （斜杠命令 Command）实战-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "11-循序渐进-渐进式披露架构设计",
+          "title": "11｜循序渐进：渐进式披露架构设计",
+          "created": "2026-05-20",
+          "excerpt": "本文介绍了渐进式披露架构设计，通过分层结构提高token利用率，解决信息噪声和token爆炸问题。详解了三层架构设计，强调了渐进式披露的价值，平均节省50-80% tokens。同时介绍了渐进式的设计模式与最佳实践，包括文件组织模式、主文件",
+          "url": "/posts/claude-code-action/11-%E5%BE%AA%E5%BA%8F%E6%B8%90%E8%BF%9B-%E6%B8%90%E8%BF%9B%E5%BC%8F%E6%8A%AB%E9%9C%B2%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/",
+          "mdPath": "/Clippings/Claude Code Action/11｜循序渐进：渐进式披露架构设计-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "12-珠联璧合-skills-与-subagent-配合实战",
+          "title": "12｜珠联璧合：Skills 与 SubAgent 配合实战",
+          "created": "2026-05-20",
+          "excerpt": "本文介绍了如何将Skills与SubAgent两大关键技术栈融为一体，通过两种组合方向实现实战应用。其中，SubAgent包含Skill适用于子代理需要特定领域的专业知识来完成任务，而Skill包含SubAgent适用于研究型任务和重型生成",
+          "url": "/posts/claude-code-action/12-%E7%8F%A0%E8%81%94%E7%92%A7%E5%90%88-skills-%E4%B8%8E-subagent-%E9%85%8D%E5%90%88%E5%AE%9E%E6%88%98/",
+          "mdPath": "/Clippings/Claude Code Action/12｜珠联璧合：Skills 与 SubAgent 配合实战-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "13-纲举目张-skills-架构定位与高级能力",
+          "title": "13｜纲举目张：Skills 架构定位与高级能力",
+          "created": "2026-05-20",
+          "excerpt": "本文总结了Claude Code架构中Skills的定位和作用，以及Skills的三种结构方向。探讨了Skills的三级进化路径，从SOP到组织智能的演进，并提出了四种Skill设计模式。同时，讨论了权限体系与安全设计的重要性。文章还展望了",
+          "url": "/posts/claude-code-action/13-%E7%BA%B2%E4%B8%BE%E7%9B%AE%E5%BC%A0-skills-%E6%9E%B6%E6%9E%84%E5%AE%9A%E4%BD%8D%E4%B8%8E%E9%AB%98%E7%BA%A7%E8%83%BD%E5%8A%9B/",
+          "mdPath": "/Clippings/Claude Code Action/13｜纲举目张：Skills 架构定位与高级能力-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "14-星火燎原-从-claude-code-到行业开放标准",
+          "title": "14｜星火燎原：从 Claude Code 到行业开放标准",
+          "created": "2026-05-20",
+          "excerpt": "Agent生态中的Skills从产品特性发展成行业标准，强调了声明式、自包含和知识本位属性，以及与SubAgents的对比。介绍了Agentic AI Foundation的成立和skills.sh的推出。强调了AGENTS.md和Skil",
+          "url": "/posts/claude-code-action/14-%E6%98%9F%E7%81%AB%E7%87%8E%E5%8E%9F-%E4%BB%8E-claude-code-%E5%88%B0%E8%A1%8C%E4%B8%9A%E5%BC%80%E6%94%BE%E6%A0%87%E5%87%86/",
+          "mdPath": "/Clippings/Claude Code Action/14｜星火燎原：从 Claude Code 到行业开放标准-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "15-防微杜渐-hooks-事件驱动自动化",
+          "title": "15｜防微杜渐：Hooks 事件驱动自动化",
+          "created": "2026-05-23",
+          "excerpt": "Hooks事件驱动自动化是Claude Code的重要扩展机制，支持17种事件，包括控制点、接管点和观察点，可在工具执行前后插入自定义检查，保护敏感文件、自动格式化代码。Hooks提供了自动化安全检查和保护敏感文件的功能，同时支持自定义事件",
+          "url": "/posts/claude-code-action/15-%E9%98%B2%E5%BE%AE%E6%9D%9C%E6%B8%90-hooks-%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E8%87%AA%E5%8A%A8%E5%8C%96/",
+          "mdPath": "/Clippings/Claude Code Action/15｜防微杜渐：Hooks 事件驱动自动化.md"
+        },
+        {
+          "slug": "16-未雨绸缪-hooks-高级模式与工程实践",
+          "title": "16｜未雨绸缪：Hooks 高级模式与工程实践",
+          "created": "2026-05-23",
+          "excerpt": "本文深入探讨了Hooks高级模式与工程实践，包括Stop Hook的质量门控和自动测试门控的实战应用，以及SubagentStart和SubagentStop事件的使用。进阶技巧和最佳实践包括多Hook链、环境变量的使用、在Commands",
+          "url": "/posts/claude-code-action/16-%E6%9C%AA%E9%9B%A8%E7%BB%B8%E7%BC%AA-hooks-%E9%AB%98%E7%BA%A7%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/",
+          "mdPath": "/Clippings/Claude Code Action/16｜未雨绸缪：Hooks 高级模式与工程实践.md"
+        },
+        {
+          "slug": "17-海纳百川-mcp-协议与外部工具连接",
+          "title": "17｜海纳百川：MCP 协议与外部工具连接",
+          "created": "2026-05-23",
+          "excerpt": "MCP协议连接数字世界，解决AI助手碎片化问题。实战中，连接主流MCP服务如Context7、GitHub、Notion和数据库，展示了其实用性。MCP协议支持多种传输方式，适用于不同场景，是全栈开发者的完整工具箱。此外，文章还介绍了创建自",
+          "url": "/posts/claude-code-action/17-%E6%B5%B7%E7%BA%B3%E7%99%BE%E5%B7%9D-mcp-%E5%8D%8F%E8%AE%AE%E4%B8%8E%E5%A4%96%E9%83%A8%E5%B7%A5%E5%85%B7%E8%BF%9E%E6%8E%A5/",
+          "mdPath": "/Clippings/Claude Code Action/17｜海纳百川：MCP 协议与外部工具连接.md"
+        },
+        {
+          "slug": "18-庖丁解牛-tools-工具系统内核剖析",
+          "title": "18｜庖丁解牛：Tools 工具系统内核剖析",
+          "created": "2026-05-23",
+          "excerpt": "本文深入解析了Claude Code的工具系统内核，阐述了工具的设计哲学和分类，以及工具的风险等级。强调了工具集是一组精心选择的原语，而不是特化的高级能力，高级能力是通过原语工具的组合涌现出来的。文章还介绍了权限控制体系、工具扩展与架构定位",
+          "url": "/posts/claude-code-action/18-%E5%BA%96%E4%B8%81%E8%A7%A3%E7%89%9B-tools-%E5%B7%A5%E5%85%B7%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%89%96%E6%9E%90/",
+          "mdPath": "/Clippings/Claude Code Action/18｜庖丁解牛：Tools 工具系统内核剖析.md"
+        },
+        {
+          "slug": "19-无人值守-headless-模式与-cicd-集成",
+          "title": "19｜无人值守：Headless 模式与 CI/CD 集成",
+          "created": "2026-05-25",
+          "excerpt": "\\\"Headless 模式让 Claude Code 在无人干预下自动运行\\\"介绍了Headless 模式在代码审查、自动化任务中的应用，以及核心机制和输出格式与管道集成。强调了Headless 模式的价值和适用场景，提供了实用的命令行参数",
+          "url": "/posts/claude-code-action/19-%E6%97%A0%E4%BA%BA%E5%80%BC%E5%AE%88-headless-%E6%A8%A1%E5%BC%8F%E4%B8%8E-cicd-%E9%9B%86%E6%88%90/",
+          "mdPath": "/Clippings/Claude Code Action/19｜无人值守：Headless 模式与 CICD 集成.md"
+        },
+        {
+          "slug": "20-有章可循-rules-规则系统深度剖析",
+          "title": "20｜有章可循：Rules 规则系统深度剖析",
+          "created": "2026-05-25",
+          "excerpt": "Claude Code中的规则系统包括指令规则和权限规则，分别位于`.claude/rules/`目录和`.claude/settings.json`中。指令规则是认知约束，权限规则是行为约束，两者协同构成完整的规则体系。权限规则覆盖内置工",
+          "url": "/posts/claude-code-action/20-%E6%9C%89%E7%AB%A0%E5%8F%AF%E5%BE%AA-rules-%E8%A7%84%E5%88%99%E7%B3%BB%E7%BB%9F%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90/",
+          "mdPath": "/Clippings/Claude Code Action/20｜有章可循：Rules 规则系统深度剖析.md"
+        },
+        {
+          "slug": "21-登堂入室-通过agent-sdk-掌控-claude-code",
+          "title": "21｜登堂入室 ：通过Agent SDK 掌控 Claude Code",
+          "created": "2026-05-28",
+          "excerpt": "Agent SDK是一种可编程接口，封装了Claude Code的能力，提供Python和TypeScript支持，通过query()函数和ClaudeSDKClient类实现对AI Agent的驱动和控制。其特点是简洁高效的query()",
+          "url": "/posts/claude-code-action/21-%E7%99%BB%E5%A0%82%E5%85%A5%E5%AE%A4-%E9%80%9A%E8%BF%87agent-sdk-%E6%8E%8C%E6%8E%A7-claude-code/",
+          "mdPath": "/Clippings/Claude Code Action/21｜登堂入室 ：通过Agent SDK 掌控 Claude Code-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "22-得心应手-agent-sdk-高级应用",
+          "title": "22｜得心应手：Agent SDK 高级应用",
+          "created": "2026-05-28",
+          "excerpt": "Agent SDK高级应用深入讲解了自定义工具、Hooks拦截、权限分层和流式会话等高级能力，展示了如何在工程环境中应用Agent SDK的高级特性。文章还介绍了生产环境中应用SDK的最佳实践，包括成本控制、错误重试和超时处理。SDK提供了",
+          "url": "/posts/claude-code-action/22-%E5%BE%97%E5%BF%83%E5%BA%94%E6%89%8B-agent-sdk-%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8/",
+          "mdPath": "/Clippings/Claude Code Action/22｜得心应手：Agent SDK 高级应用-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "23-化零为整-plugins-插件打包与分发",
+          "title": "23｜化零为整：Plugins 插件打包与分发",
+          "created": "2026-05-28",
+          "excerpt": "本文介绍了如何使用插件系统将散落在各处的Commands、Skills、Agents、Hooks、MCP配置打包成一个可安装、可升级、可分享的插件。通过插件系统，可以将个人经验转化为团队能力，实现知识的资产化和重复的复用。文章还介绍了插件的",
+          "url": "/posts/claude-code-action/23-%E5%8C%96%E9%9B%B6%E4%B8%BA%E6%95%B4-plugins-%E6%8F%92%E4%BB%B6%E6%89%93%E5%8C%85%E4%B8%8E%E5%88%86%E5%8F%91/",
+          "mdPath": "/Clippings/Claude Code Action/23｜化零为整：Plugins 插件打包与分发.md"
+        },
+        {
+          "slug": "加餐-子代理专题总结-&-春节练习",
+          "title": "加餐｜子代理专题总结 & 春节练习",
+          "created": "2026-05-12",
+          "excerpt": "子代理专题总结：通过五讲学习，掌握了子代理的完整知识体系，包括结构化分工和协作型认知。四种使用模式和综合运用案例展示了子代理在工程场景中的应用。春节假期作业提供了思考题，引导学习者设计子代理编排方案，探讨AI排查和修复的风险。子代理真正解决",
+          "url": "/posts/claude-code-action/%E5%8A%A0%E9%A4%90-%E5%AD%90%E4%BB%A3%E7%90%86%E4%B8%93%E9%A2%98%E6%80%BB%E7%BB%93-&-%E6%98%A5%E8%8A%82%E7%BB%83%E4%B9%A0/",
+          "mdPath": "/Clippings/Claude Code Action/加餐｜子代理专题总结 & 春节练习-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "加餐-skills-专题总结",
+          "title": "加餐｜Skills 专题总结",
+          "created": "2026-05-20",
+          "excerpt": "文章总结了Skills专题的六讲全景、四种设计模式及其综合运用案例，突出了Skills在AI Agent架构中的重要性和与Tools、SubAgents的关系。强调了贯穿始终的工程方法论和Skills的终极定义。同时，提出了构建生产级Ski",
+          "url": "/posts/claude-code-action/%E5%8A%A0%E9%A4%90-skills-%E4%B8%93%E9%A2%98%E6%80%BB%E7%BB%93/",
+          "mdPath": "/Clippings/Claude Code Action/加餐｜Skills 专题总结-Claude Code 工程化实战-极客时间.md"
+        },
+        {
+          "slug": "结束语-时代飞速更迭-你我携手同行",
+          "title": "结束语｜时代飞速更迭，你我携手同行",
+          "created": "2026-05-30",
+          "excerpt": "本文介绍了如何使用插件系统将散落在各处的Commands、Skills、Agents、Hooks、MCP配置打包成一个可安装、可升级、可分享的插件。通过插件系统，可以将个人经验转化为团队能力，实现知识的资产化和重复的复用。文章还介绍了插件的",
+          "url": "/posts/claude-code-action/%E7%BB%93%E6%9D%9F%E8%AF%AD-%E6%97%B6%E4%BB%A3%E9%A3%9E%E9%80%9F%E6%9B%B4%E8%BF%AD-%E4%BD%A0%E6%88%91%E6%90%BA%E6%89%8B%E5%90%8C%E8%A1%8C/",
+          "mdPath": "/Clippings/Claude Code Action/结束语｜时代飞速更迭，你我携手同行.md"
         }
       ]
     },
@@ -93,52 +332,52 @@
       "count": 6,
       "posts": [
         {
+          "slug": "00-学好了ddd-你能做什么",
+          "title": "学好了DDD，你能做什么？",
+          "created": "2026-05-14",
+          "excerpt": "领域驱动设计（DDD）在微服务和中台业务建模中的应用，探讨了DDD、微服务和中台之间的关系，以及如何通过DDD设计思想实现清晰的微服务边界和合理的业务领域划分。专栏课程包括中台和领域建模的实战、微服务设计实战和前端设计思想，旨在帮助读者深入",
+          "url": "/posts/ddd/00-%E5%AD%A6%E5%A5%BD%E4%BA%86ddd-%E4%BD%A0%E8%83%BD%E5%81%9A%E4%BB%80%E4%B9%88/",
+          "mdPath": "/Clippings/DDD/00 | 学好了DDD，你能做什么？.md"
+        },
+        {
           "slug": "01-领域驱动设计-微服务设计为什么要选择ddd",
-          "title": "01  领域驱动设计：微服务设计为什么要选择DDD？",
-          "created": "",
-          "excerpt": "01 | 领域驱动设计：微服务设计为什么要选择DDD？ ​ 我们知道，微服务设计过程中往往会面临边界如何划定的问题，我经常看到项目团队为微服务到底应该拆多小而争得面红耳赤。不同的人会根据自己对微服务的理解而拆分出不同的微服务，于是大家各执一",
+          "title": "领域驱动设计：微服务设计为什么要选择DDD？-DDD实战课-极客时间",
+          "created": "2026-05-14",
+          "excerpt": "领域驱动设计（DDD）为微服务设计提供理论支持，通过战略设计建立领域模型，划定领域边界，解决微服务拆分难题。DDD强调业务领域视角，构建通用语言，维持业务和代码的一致性。微服务注重运行时通信和独立部署，两者共同追求高响应力和演进式架构。DD",
           "url": "/posts/ddd/01-%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E9%80%89%E6%8B%A9ddd/",
-          "mdPath": "/Clippings/DDD/01  领域驱动设计：微服务设计为什么要选择DDD？.md"
+          "mdPath": "/Clippings/DDD/01 | 领域驱动设计：微服务设计为什么要选择DDD？.md"
         },
         {
           "slug": "02-领域-子域-核心域-通用域和支撑域-傻傻分不清",
-          "title": "02  领域、子域、核心域、通用域和支撑域：傻傻分不清？",
-          "created": "",
-          "excerpt": "02 | 领域、子域、核心域、通用域和支撑域：傻傻分不清？ ​ DDD 的知识体系提出了很多的名词，像：领域、子域、核心域、通用域、支撑域、限界上下文、聚合、聚合根、实体、值对象等等，非常多。这些名词，都是关键概念，但它们实在有些晦涩难懂，",
+          "title": "02 | 领域、子域、核心域、通用域和支撑域：傻傻分不清？",
+          "created": "2026-05-14",
+          "excerpt": "领域划分是微服务设计和领域驱动设计的核心思想，通过区分核心域、通用域和支撑域，实现不同子域的重要性和功能属性的区分，从而采取不同的资源投入和建设策略。在公司业务领域拆分时，应结合商业模式和战略重点，重点关注核心域的建设。",
           "url": "/posts/ddd/02-%E9%A2%86%E5%9F%9F-%E5%AD%90%E5%9F%9F-%E6%A0%B8%E5%BF%83%E5%9F%9F-%E9%80%9A%E7%94%A8%E5%9F%9F%E5%92%8C%E6%94%AF%E6%92%91%E5%9F%9F-%E5%82%BB%E5%82%BB%E5%88%86%E4%B8%8D%E6%B8%85/",
-          "mdPath": "/Clippings/DDD/02  领域、子域、核心域、通用域和支撑域：傻傻分不清？.md"
+          "mdPath": "/Clippings/DDD/02 | 领域、子域、核心域、通用域和支撑域：傻傻分不清？.md"
         },
         {
           "slug": "03-限界上下文-定义领域边界的利器",
           "title": "03 | 限界上下文：定义领域边界的利器",
-          "created": "",
-          "excerpt": "03 | 限界上下文：定义领域边界的利器 ​ 在 DDD 领域建模和系统建设过程中，有很多的参与者，包括领域专家、产品经理、项目经理、架构师、开发经理和测试经理等。对同样的领域知识，不同的参与角色可能会有不同的理解，那大家交流起来就会有障碍",
+          "created": "2026-05-14",
+          "excerpt": "领域划分是微服务设计和领域驱动设计的核心思想，通过区分核心域、通用域和支撑域，实现不同子域的重要性和功能属性的区分，从而采取不同的资源投入和建设策略。在公司业务领域拆分时，应结合商业模式和战略重点，重点关注核心域的建设。",
           "url": "/posts/ddd/03-%E9%99%90%E7%95%8C%E4%B8%8A%E4%B8%8B%E6%96%87-%E5%AE%9A%E4%B9%89%E9%A2%86%E5%9F%9F%E8%BE%B9%E7%95%8C%E7%9A%84%E5%88%A9%E5%99%A8/",
           "mdPath": "/Clippings/DDD/03 | 限界上下文：定义领域边界的利器.md"
         },
         {
           "slug": "04-实体和值对象-从领域模型的基础单元看系统设计",
           "title": "04 | 实体和值对象：从领域模型的基础单元看系统设计",
-          "created": "",
-          "excerpt": "04 | 实体和值对象：从领域模型的基础单元看系统设计 ​ 实体和值对象这两个概念都是领域模型中的领域对象。它们在领域模型中起什么作用，战术设计时如何将它们映射到代码和数据模型中去？就是我们这一讲重点要关注的问题。 ​ 另外，在战略设计向战",
+          "created": "2026-05-14",
+          "excerpt": "本文介绍了领域驱动设计中实体和值对象的概念及其在系统设计中的作用。值对象通过简化数据库设计和提升性能，但需根据业务场景慎重选择。实体和值对象在微服务底层实现核心领域逻辑，但在某些场景下可互换。文章强调从领域模型出发，选择适合自身业务的设计方",
           "url": "/posts/ddd/04-%E5%AE%9E%E4%BD%93%E5%92%8C%E5%80%BC%E5%AF%B9%E8%B1%A1-%E4%BB%8E%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%9F%BA%E7%A1%80%E5%8D%95%E5%85%83%E7%9C%8B%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/",
           "mdPath": "/Clippings/DDD/04 | 实体和值对象：从领域模型的基础单元看系统设计.md"
         },
         {
           "slug": "05-聚合和聚合根-怎样设计聚合",
-          "title": "05 | 聚合和聚合根：怎样设计聚合",
-          "created": "",
-          "excerpt": "05 | 聚合和聚合根：怎样设计聚合？ ​ 我们先回顾下上一讲，在事件风暴中，我们会根据一些业务操作和行为找出实体（Entity）或值对象（ValueObject），进而将业务关联紧密的实体和值对象进行组合，构成聚合，再根据业务语义将多个聚",
+          "title": "05 | 聚合和聚合根：怎样设计聚合？",
+          "created": "2026-05-14",
+          "excerpt": "本文介绍了领域驱动设计中实体和值对象的概念及其在系统设计中的作用。值对象通过简化数据库设计和提升性能，但需根据业务场景慎重选择。实体和值对象在微服务底层实现核心领域逻辑，但在某些场景下可互换。文章强调从领域模型出发，选择适合自身业务的设计方",
           "url": "/posts/ddd/05-%E8%81%9A%E5%90%88%E5%92%8C%E8%81%9A%E5%90%88%E6%A0%B9-%E6%80%8E%E6%A0%B7%E8%AE%BE%E8%AE%A1%E8%81%9A%E5%90%88/",
-          "mdPath": "/Clippings/DDD/05 | 聚合和聚合根：怎样设计聚合.md"
-        },
-        {
-          "slug": "ddd讲座笔记",
-          "title": "DDD讲座笔记",
-          "created": "",
-          "excerpt": "设计模型，尽量使用业务语言 设计系统，站在系统设计方角度 只要前台和后端发生一次交互，理论上可以划分成一次任务，调用第三方也需要归纳进来 流程流转，如果涉及逆向流程，在设计阶段可以考虑把逆向流程重新设计一个新的流程 业务实体一开始不要过度设",
-          "url": "/posts/ddd/ddd%E8%AE%B2%E5%BA%A7%E7%AC%94%E8%AE%B0/",
-          "mdPath": "/Clippings/DDD/DDD讲座笔记.md"
+          "mdPath": "/Clippings/DDD/05 | 聚合和聚合根：怎样设计聚合？.md"
         }
       ]
     },
@@ -161,47 +400,65 @@
       "posts": []
     },
     {
-      "name": "TCP:IP Analysis",
-      "slug": "tcp-ip-analysis",
-      "count": 0,
-      "posts": []
-    },
-    {
-      "name": "k8s",
+      "name": "K8S",
       "slug": "k8s",
-      "count": 5,
+      "count": 8,
       "posts": [
         {
+          "slug": "00-打通“容器技术”的任督二脉",
+          "title": "打通“容器技术”的任督二脉",
+          "created": "2026-05-15",
+          "excerpt": "总结：本文介绍了容器技术的发展历程和Kubernetes项目的重要性，作者以自身经历为例，深入剖析了容器技术的核心特性和技术本质。通过专栏的划分和内容安排，旨在帮助读者深入理解容器技术，搭建Kubernetes集群，剖析核心特性，并探讨开源",
+          "url": "/posts/k8s/00-%E6%89%93%E9%80%9A%E2%80%9C%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF%E2%80%9D%E7%9A%84%E4%BB%BB%E7%9D%A3%E4%BA%8C%E8%84%89/",
+          "mdPath": "/Clippings/K8S/00 打通“容器技术”的任督二脉.md"
+        },
+        {
           "slug": "01-预习篇-·-小鲸鱼大事记-一-初出茅庐",
-          "title": "01  预习篇 · 小鲸鱼大事记（一）：初出茅庐",
-          "created": "",
-          "excerpt": "01 | 预习篇 · 小鲸鱼大事记（一）：初出茅庐",
+          "title": "01 | 预习篇 · 小鲸鱼大事记（一）：初出茅庐",
+          "created": "2026-05-15",
+          "excerpt": "\\\"Docker作为PaaS项目的创新力量，通过开源容器项目解决了PaaS打包难题，实现本地与云端环境高度一致。其镜像机制为应用打包提供便利，改变了云计算发展历程，成为热门服务器端技术。Docker公司的Swarm项目定义了PaaS的未来愿",
           "url": "/posts/k8s/01-%E9%A2%84%E4%B9%A0%E7%AF%87-%C2%B7-%E5%B0%8F%E9%B2%B8%E9%B1%BC%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E4%B8%80-%E5%88%9D%E5%87%BA%E8%8C%85%E5%BA%90/",
-          "mdPath": "/Clippings/k8s/01  预习篇 · 小鲸鱼大事记（一）：初出茅庐.md"
+          "mdPath": "/Clippings/K8S/01  预习篇 · 小鲸鱼大事记（一）：初出茅庐.md"
         },
         {
           "slug": "02-预习篇-·-小鲸鱼大事记-二-崭露头角",
-          "title": "02  预习篇 · 小鲸鱼大事记（二）：崭露头角",
-          "created": "",
-          "excerpt": "02 | 预习篇 · 小鲸鱼大事记（二）：崭露头角",
+          "title": "02 | 预习篇 · 小鲸鱼大事记（二）：崭露头角",
+          "created": "2026-05-15",
+          "excerpt": "dotCloud公司改名为Docker，开启扩张之路。Docker项目通过解决PaaS的根本性问题、与开发者密切关系以及PaaS概念深入人心的契机，迅速崛起。公司改名为Docker，标志着其更强硬的姿态面对云计算市场。开源和开发者社群是其成",
           "url": "/posts/k8s/02-%E9%A2%84%E4%B9%A0%E7%AF%87-%C2%B7-%E5%B0%8F%E9%B2%B8%E9%B1%BC%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E4%BA%8C-%E5%B4%AD%E9%9C%B2%E5%A4%B4%E8%A7%92/",
-          "mdPath": "/Clippings/k8s/02  预习篇 · 小鲸鱼大事记（二）：崭露头角.md"
+          "mdPath": "/Clippings/K8S/02  预习篇 · 小鲸鱼大事记（二）：崭露头角.md"
         },
         {
           "slug": "03-预习篇-·-小鲸鱼大事记-三-群雄并起",
           "title": "03  预习篇 · 小鲸鱼大事记（三）：群雄并起",
-          "created": "",
-          "excerpt": "03 | 预习篇 · 小鲸鱼大事记（三）：群雄并起",
+          "created": "2026-05-15",
+          "excerpt": "容器生态蓬勃发展，Docker公司的平台化战略引发竞争，Swarm和Marathon项目成为竞争对手，Mesos提供超大规模集群管理经验。RedHat退出Docker生态，但Kubernetes项目的诞生改变了整个容器市场格局。",
           "url": "/posts/k8s/03-%E9%A2%84%E4%B9%A0%E7%AF%87-%C2%B7-%E5%B0%8F%E9%B2%B8%E9%B1%BC%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E4%B8%89-%E7%BE%A4%E9%9B%84%E5%B9%B6%E8%B5%B7/",
-          "mdPath": "/Clippings/k8s/03  预习篇 · 小鲸鱼大事记（三）：群雄并起.md"
+          "mdPath": "/Clippings/K8S/03  预习篇 · 小鲸鱼大事记（三）：群雄并起.md"
+        },
+        {
+          "slug": "04-预习篇-·-小鲸鱼大事记-四-尘埃落定",
+          "title": "04 | 预习篇 · 小鲸鱼大事记（四）：尘埃落定",
+          "created": "2026-05-15",
+          "excerpt": "Kubernetes社区接手Docker项目，形成容器技术生态格局，对抗Docker公司的商业生态。Docker公司放弃开源社区竞争，专注商业业务。Solomon Hykes的选择引发思考。Kubernetes以开发者为核心，构建开放的容器",
+          "url": "/posts/k8s/04-%E9%A2%84%E4%B9%A0%E7%AF%87-%C2%B7-%E5%B0%8F%E9%B2%B8%E9%B1%BC%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E5%9B%9B-%E5%B0%98%E5%9F%83%E8%90%BD%E5%AE%9A/",
+          "mdPath": "/Clippings/K8S/04  预习篇 · 小鲸鱼大事记（四）：尘埃落定.md"
+        },
+        {
+          "slug": "05-白话容器基础-一-从进程说开去",
+          "title": "05 | 白话容器基础（一）：从进程说开去",
+          "created": "2026-05-18",
+          "excerpt": "容器技术的核心在于使用Cgroups和Namespace技术约束和修改进程的动态表现，创造出一个“边界”。Docker容器通过指定一组Namespace参数，使容器只能“看”到当前Namespace所限定的资源、文件、设备、状态或配置。与虚",
+          "url": "/posts/k8s/05-%E7%99%BD%E8%AF%9D%E5%AE%B9%E5%99%A8%E5%9F%BA%E7%A1%80-%E4%B8%80-%E4%BB%8E%E8%BF%9B%E7%A8%8B%E8%AF%B4%E5%BC%80%E5%8E%BB/",
+          "mdPath": "/Clippings/K8S/05  白话容器基础（一）：从进程说开去.md"
         },
         {
           "slug": "06-白话容器基础-二-隔离与限制",
-          "title": "06  白话容器基础（二）：隔离与限制",
-          "created": "",
-          "excerpt": "06 | 白话容器基础（二）：隔离与限制",
+          "title": "06 | 白话容器基础（二）：隔离与限制",
+          "created": "2026-05-18",
+          "excerpt": "Linux容器使用Namespace实现隔离，Cgroups限制资源。容器高性能、敏捷，但隔离不彻底。Docker等项目创建控制组，指定资源值。修复容器中的top指令和/proc文件系统信息可采用lxcfs。在虚拟机向容器迁移应用时，需解决",
           "url": "/posts/k8s/06-%E7%99%BD%E8%AF%9D%E5%AE%B9%E5%99%A8%E5%9F%BA%E7%A1%80-%E4%BA%8C-%E9%9A%94%E7%A6%BB%E4%B8%8E%E9%99%90%E5%88%B6/",
-          "mdPath": "/Clippings/k8s/06  白话容器基础（二）：隔离与限制.md"
+          "mdPath": "/Clippings/K8S/06  白话容器基础（二）：隔离与限制.md"
         },
         {
           "slug": "kubernates设计理念",
@@ -209,33 +466,657 @@
           "created": "",
           "excerpt": "Kubernates设计理念 Kubernates设计理念与分布式系统 ​ 分析和理解Kubernetes的设计理念可以使我们更深入地了解Kubernates系统，更好地利用它管理分布式部署的云原生应用，另一方面也可以让我们借鉴其在分布式系",
           "url": "/posts/k8s/kubernates%E8%AE%BE%E8%AE%A1%E7%90%86%E5%BF%B5/",
-          "mdPath": "/Clippings/k8s/Kubernates设计理念.md"
+          "mdPath": "/Clippings/K8S/Kubernates设计理念.md"
         }
       ]
     },
     {
-      "name": "kafka",
+      "name": "KAFKA",
       "slug": "kafka",
-      "count": 1,
+      "count": 3,
       "posts": [
+        {
+          "slug": "01-消息引擎系统abc",
+          "title": "01 消息引擎系统ABC",
+          "created": "2026-05-12",
+          "excerpt": "消息引擎系统ABC",
+          "url": "/posts/kafka/01-%E6%B6%88%E6%81%AF%E5%BC%95%E6%93%8E%E7%B3%BB%E7%BB%9Fabc/",
+          "mdPath": "/Clippings/KAFKA/01 消息引擎系统ABC.md"
+        },
+        {
+          "slug": "开篇词-为什么要学习kafka",
+          "title": "开篇词 为什么要学习Kafka？",
+          "created": "2026-05-12",
+          "excerpt": "为什么要学习Kafka",
+          "url": "/posts/kafka/%E5%BC%80%E7%AF%87%E8%AF%8D-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AD%A6%E4%B9%A0kafka/",
+          "mdPath": "/Clippings/KAFKA/开篇词  为什么要学习Kafka.md"
+        },
         {
           "slug": "kafka在mac上的安装与启用",
           "title": "kafka在mac上的安装与启用",
           "created": "",
           "excerpt": "kafka在mac上的安装与启用 1.kafka安装包下载 在Apache的kafka官网下载安装包，以下4个包随便选一个下载。 2.启动zookeeper的服务 进入文件的解压目录，输入 bin/zookeeperserverstart.",
           "url": "/posts/kafka/kafka%E5%9C%A8mac%E4%B8%8A%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E5%90%AF%E7%94%A8/",
-          "mdPath": "/Clippings/kafka/kafka在mac上的安装与启用.md"
+          "mdPath": "/Clippings/KAFKA/kafka在mac上的安装与启用.md"
         }
       ]
     },
     {
-      "name": "mysql",
+      "name": "LLM",
+      "slug": "llm",
+      "count": 1,
+      "posts": [
+        {
+          "slug": "cuda安装驱动失败",
+          "title": "CUDA安装驱动失败",
+          "created": "2026-05-14",
+          "excerpt": "ChatGPT conversation with 8 messages",
+          "url": "/posts/llm/cuda%E5%AE%89%E8%A3%85%E9%A9%B1%E5%8A%A8%E5%A4%B1%E8%B4%A5/",
+          "mdPath": "/Clippings/LLM/CUDA安装驱动失败.md"
+        }
+      ]
+    },
+    {
+      "name": "MYSQL",
       "slug": "mysql",
+      "count": 4,
+      "posts": [
+        {
+          "slug": "00-开篇词-这一次-让我们一起来搞懂mysql",
+          "title": "00  开篇词 | 这一次，让我们一起来搞懂MySQL",
+          "created": "2026-05-17",
+          "excerpt": "这篇文章由一位经验丰富的MySQL内核开发人员分享了他的学习历程和见解。他强调了通过深入理解MySQL内部原理来提高数据库应用性能的重要性，并希望通过专栏帮助开发者更好地理解MySQL的核心概念和原理，从而提升个人的技术水平。",
+          "url": "/posts/mysql/00-%E5%BC%80%E7%AF%87%E8%AF%8D-%E8%BF%99%E4%B8%80%E6%AC%A1-%E8%AE%A9%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E6%9D%A5%E6%90%9E%E6%87%82mysql/",
+          "mdPath": "/Clippings/MYSQL/00 |开篇词  这一次，让我们一起来搞懂MySQL.md"
+        },
+        {
+          "slug": "01-基础架构-一条sql查询语句是如何执行的",
+          "title": "01 | 基础架构：一条SQL查询语句是如何执行的？",
+          "created": "2026-05-17",
+          "excerpt": "这篇文章由一位经验丰富的MySQL内核开发人员分享了他的学习历程和见解。他强调了通过深入理解MySQL内部原理来提高数据库应用性能的重要性，并希望通过专栏帮助开发者更好地理解MySQL的核心概念和原理，从而提升个人的技术水平。",
+          "url": "/posts/mysql/01-%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84-%E4%B8%80%E6%9D%A1sql%E6%9F%A5%E8%AF%A2%E8%AF%AD%E5%8F%A5%E6%98%AF%E5%A6%82%E4%BD%95%E6%89%A7%E8%A1%8C%E7%9A%84/",
+          "mdPath": "/Clippings/MYSQL/01 |基础架构：一条SQL查询语句是如何执行的？.md"
+        },
+        {
+          "slug": "02-日志系统-一条sql更新语句是如何执行的",
+          "title": "02 | 日志系统：一条SQL更新语句是如何执行的？",
+          "created": "2026-05-17",
+          "excerpt": "文章总结：介绍了MySQL日志系统的执行流程和重要日志模块redo log和binlog的设计原理，以及两阶段提交的必要性。强调了WAL技术提升更新效率和保证数据库的crash-safe能力，展现了MySQL技术的独特之处。同时提出思考题，",
+          "url": "/posts/mysql/02-%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F-%E4%B8%80%E6%9D%A1sql%E6%9B%B4%E6%96%B0%E8%AF%AD%E5%8F%A5%E6%98%AF%E5%A6%82%E4%BD%95%E6%89%A7%E8%A1%8C%E7%9A%84/",
+          "mdPath": "/Clippings/MYSQL/02 | 日志系统：一条SQL更新语句是如何执行的？.md"
+        },
+        {
+          "slug": "03-事务隔离-为什么你改了我还看不见-mysql实战45讲-极客时间",
+          "title": "事务隔离：为什么你改了我还看不见？-MySQL实战45讲-极客时间",
+          "created": "2026-05-17",
+          "excerpt": "本文介绍了MySQL事务隔离级别的重要性和实现原理，以及长事务对数据库性能的影响。建议根据业务情况选择合适的隔离级别，并避免长事务。同时，提供了启动事务的方式和查询长事务的方法。总结了如何避免长事务的正确方式。",
+          "url": "/posts/mysql/03-%E4%BA%8B%E5%8A%A1%E9%9A%94%E7%A6%BB-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E6%94%B9%E4%BA%86%E6%88%91%E8%BF%98%E7%9C%8B%E4%B8%8D%E8%A7%81-mysql%E5%AE%9E%E6%88%9845%E8%AE%B2-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+          "mdPath": "/Clippings/MYSQL/03 | 事务隔离：为什么你改了我还看不见？-MySQL实战45讲-极客时间.md"
+        }
+      ]
+    },
+    {
+      "name": "TCP:IP Analysis",
+      "slug": "tcp-ip-analysis",
       "count": 0,
       "posts": []
+    },
+    {
+      "name": "openclaw",
+      "slug": "openclaw",
+      "count": 1,
+      "posts": [
+        {
+          "slug": "openclaw对接qq消息收发原来这么简单",
+          "title": "OpenClaw对接QQ消息收发原来这么简单",
+          "created": "",
+          "excerpt": "简介：讲解OpenClaw对接QQ消息收 进入QQ开放平台，扫码登录 https://q.qq.com/qqbot/openclaw/index.html 点击创建机器人，立即分配对应ID ![[Pasted image 202606090",
+          "url": "/posts/openclaw/openclaw%E5%AF%B9%E6%8E%A5qq%E6%B6%88%E6%81%AF%E6%94%B6%E5%8F%91%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95/",
+          "mdPath": "/Clippings/openclaw/OpenClaw对接QQ消息收发原来这么简单.md"
+        }
+      ]
     }
   ],
   "posts": [
+    {
+      "slug": "05-设计-用自然语言调用agent操控k8s-ai重塑云原生应用开发实战-极客时间",
+      "title": "05｜设计：用自然语言调用Agent操控K8s-AI重塑云原生应用开发实战-极客时间",
+      "created": "2026-06-26",
+      "excerpt": "本文介绍了如何利用自然语言调用Agent操控Kubernetes（K8s），包括传统的Kubernetes交互方式、用自然语言操控Kubernetes的原理与设计，以及相关技术如Cobra命令行工具、API设计、client-go进阶用法和",
+      "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/05-%E8%AE%BE%E8%AE%A1-%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E8%B0%83%E7%94%A8agent%E6%93%8D%E6%8E%A7k8s-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+      "mdPath": "/Clippings/AI 重塑云原生应用开发实战/05｜设计：用自然语言调用Agent操控K8s-AI重塑云原生应用开发实战-极客时间.md",
+      "tagName": "AI 重塑云原生应用开发实战",
+      "tagSlug": "ai-重塑云原生应用开发实战",
+      "source": "https://time.geekbang.org/column/article/835895"
+    },
+    {
+      "slug": "06-client-go进阶玩法之restmapper",
+      "title": "06｜client-go进阶玩法之RestMapper",
+      "created": "2026-06-26",
+      "excerpt": "本文介绍了如何利用自然语言调用Agent操控Kubernetes（K8s），包括传统的Kubernetes交互方式、用自然语言操控Kubernetes的原理与设计，以及相关技术如Cobra命令行工具、API设计、client-go进阶用法和",
+      "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/06-client-go%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95%E4%B9%8Brestmapper/",
+      "mdPath": "/Clippings/AI 重塑云原生应用开发实战/06｜client-go进阶玩法之RestMapper.md",
+      "tagName": "AI 重塑云原生应用开发实战",
+      "tagSlug": "ai-重塑云原生应用开发实战",
+      "source": "https://time.geekbang.org/column/article/836672"
+    },
+    {
+      "slug": "00-开篇词-ai+云原生-孔明与刘备的互相成就-ai重塑云原生应用开发实战-极客时间",
+      "title": "开篇词｜AI+云原生：孔明与刘备的互相成就-AI重塑云原生应用开发实战-极客时间",
+      "created": "2026-06-04",
+      "excerpt": "云原生AI套件结合Kubernetes构建生产系统，管理GPU资源和复杂环境，提升AI训练效率。AI网关作为云原生API网关，具备智能调度、自动化管理和自然语言交互能力，简化复杂系统的管理与调度过程。课程设计着重于AI+云原生应用开发，包括",
+      "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/00-%E5%BC%80%E7%AF%87%E8%AF%8D-ai+%E4%BA%91%E5%8E%9F%E7%94%9F-%E5%AD%94%E6%98%8E%E4%B8%8E%E5%88%98%E5%A4%87%E7%9A%84%E4%BA%92%E7%9B%B8%E6%88%90%E5%B0%B1-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+      "mdPath": "/Clippings/AI 重塑云原生应用开发实战/00 |开篇词｜AI+云原生：孔明与刘备的互相成就-AI重塑云原生应用开发实战-极客时间.md",
+      "tagName": "AI 重塑云原生应用开发实战",
+      "tagSlug": "ai-重塑云原生应用开发实战",
+      "source": "https://time.geekbang.org/column/article/833565?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "01-agent的前辈-function-calling-ai重塑云原生应用开发实战-极客时间",
+      "title": "01｜Agent的前辈：Function Calling-AI重塑云原生应用开发实战-极客时间",
+      "created": "2026-06-04",
+      "excerpt": "OpenAI 公司推出了 Function Calling 机制，通过向大模型提供工具（函数），让其自行选择合适的工具解决问题。文章介绍了使用 Go 语言演示 Function Calling 功能的实战步骤，包括模型环境变量配置、Chat",
+      "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/01-agent%E7%9A%84%E5%89%8D%E8%BE%88-function-calling-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+      "mdPath": "/Clippings/AI 重塑云原生应用开发实战/01｜Agent的前辈：Function Calling-AI重塑云原生应用开发实战-极客时间.md",
+      "tagName": "AI 重塑云原生应用开发实战",
+      "tagSlug": "ai-重塑云原生应用开发实战",
+      "source": "https://time.geekbang.org/column/article/833574?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "02-agent的原理-什么是ai-agent-ai重塑云原生应用开发实战-极客时间",
+      "title": "02｜Agent的原理：什么是AI Agent？-AI重塑云原生应用开发实战-极客时间",
+      "created": "2026-06-04",
+      "excerpt": "AI Agent是一种计算实体，能感知环境、自主决策并执行行动。它通过多模态输入获取信息，进行信息加工和决策，最终执行行动。Agent的重要性在于帮助大模型解决复杂问题，如推理和规划。 Agent的实现需要结合感知、大脑和行动三部分。",
+      "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/02-agent%E7%9A%84%E5%8E%9F%E7%90%86-%E4%BB%80%E4%B9%88%E6%98%AFai-agent-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+      "mdPath": "/Clippings/AI 重塑云原生应用开发实战/02｜Agent的原理：什么是AI Agent？-AI重塑云原生应用开发实战-极客时间.md",
+      "tagName": "AI 重塑云原生应用开发实战",
+      "tagSlug": "ai-重塑云原生应用开发实战",
+      "source": "https://time.geekbang.org/column/article/833757?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "03-agent的常见推理模式-cot-react-reflexion究竟是什么-ai重塑云原生应用开发实战-极客时间",
+      "title": "03｜Agent的常见推理模式：CoT、ReAct、Reflexion究竟是什么？-AI重塑云原生应用开发实战-极客时间",
+      "created": "2026-06-04",
+      "excerpt": "常见推理模式包括CoT、ReAct、Reflexion，它们在AI Agent应用开发中使用率极高，有助于提高大模型的推理能力和减少幻觉产生。ReWOO则是在ReAct方案基础上提出的新思路，通过规划解决步骤，节省对话成本。这些思想不断完善",
+      "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/03-agent%E7%9A%84%E5%B8%B8%E8%A7%81%E6%8E%A8%E7%90%86%E6%A8%A1%E5%BC%8F-cot-react-reflexion%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+      "mdPath": "/Clippings/AI 重塑云原生应用开发实战/03｜Agent的常见推理模式：CoT、ReAct、Reflexion究竟是什么？-AI重塑云原生应用开发实战-极客时间.md",
+      "tagName": "AI 重塑云原生应用开发实战",
+      "tagSlug": "ai-重塑云原生应用开发实战",
+      "source": "https://time.geekbang.org/column/article/834219?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "04-实践篇-用go语言实现一个简单agent-ai重塑云原生应用开发实战-极客时间",
+      "title": "04｜实践篇：用Go语言实现一个简单Agent-AI重塑云原生应用开发实战-极客时间",
+      "created": "2026-06-04",
+      "excerpt": "本文介绍了使用Go语言实现一个简单Agent的实践过程，展示了Agent的工作流程和多轮对话核心逻辑。通过ReAct方案和LangChain Hub，详细解释了ReAct Prompt模板的构成和Agent核心代码的实现。文章涵盖了技术实践",
+      "url": "/posts/ai-%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/04-%E5%AE%9E%E8%B7%B5%E7%AF%87-%E7%94%A8go%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95agent-ai%E9%87%8D%E5%A1%91%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+      "mdPath": "/Clippings/AI 重塑云原生应用开发实战/04｜实践篇：用Go语言实现一个简单Agent-AI重塑云原生应用开发实战-极客时间.md",
+      "tagName": "AI 重塑云原生应用开发实战",
+      "tagSlug": "ai-重塑云原生应用开发实战",
+      "source": "https://time.geekbang.org/column/article/835145?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "结束语-时代飞速更迭-你我携手同行",
+      "title": "结束语｜时代飞速更迭，你我携手同行",
+      "created": "2026-05-30",
+      "excerpt": "本文介绍了如何使用插件系统将散落在各处的Commands、Skills、Agents、Hooks、MCP配置打包成一个可安装、可升级、可分享的插件。通过插件系统，可以将个人经验转化为团队能力，实现知识的资产化和重复的复用。文章还介绍了插件的",
+      "url": "/posts/claude-code-action/%E7%BB%93%E6%9D%9F%E8%AF%AD-%E6%97%B6%E4%BB%A3%E9%A3%9E%E9%80%9F%E6%9B%B4%E8%BF%AD-%E4%BD%A0%E6%88%91%E6%90%BA%E6%89%8B%E5%90%8C%E8%A1%8C/",
+      "mdPath": "/Clippings/Claude Code Action/结束语｜时代飞速更迭，你我携手同行.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/967306?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "21-登堂入室-通过agent-sdk-掌控-claude-code",
+      "title": "21｜登堂入室 ：通过Agent SDK 掌控 Claude Code",
+      "created": "2026-05-28",
+      "excerpt": "Agent SDK是一种可编程接口，封装了Claude Code的能力，提供Python和TypeScript支持，通过query()函数和ClaudeSDKClient类实现对AI Agent的驱动和控制。其特点是简洁高效的query()",
+      "url": "/posts/claude-code-action/21-%E7%99%BB%E5%A0%82%E5%85%A5%E5%AE%A4-%E9%80%9A%E8%BF%87agent-sdk-%E6%8E%8C%E6%8E%A7-claude-code/",
+      "mdPath": "/Clippings/Claude Code Action/21｜登堂入室 ：通过Agent SDK 掌控 Claude Code-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/965077?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "22-得心应手-agent-sdk-高级应用",
+      "title": "22｜得心应手：Agent SDK 高级应用",
+      "created": "2026-05-28",
+      "excerpt": "Agent SDK高级应用深入讲解了自定义工具、Hooks拦截、权限分层和流式会话等高级能力，展示了如何在工程环境中应用Agent SDK的高级特性。文章还介绍了生产环境中应用SDK的最佳实践，包括成本控制、错误重试和超时处理。SDK提供了",
+      "url": "/posts/claude-code-action/22-%E5%BE%97%E5%BF%83%E5%BA%94%E6%89%8B-agent-sdk-%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8/",
+      "mdPath": "/Clippings/Claude Code Action/22｜得心应手：Agent SDK 高级应用-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/966254?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "23-化零为整-plugins-插件打包与分发",
+      "title": "23｜化零为整：Plugins 插件打包与分发",
+      "created": "2026-05-28",
+      "excerpt": "本文介绍了如何使用插件系统将散落在各处的Commands、Skills、Agents、Hooks、MCP配置打包成一个可安装、可升级、可分享的插件。通过插件系统，可以将个人经验转化为团队能力，实现知识的资产化和重复的复用。文章还介绍了插件的",
+      "url": "/posts/claude-code-action/23-%E5%8C%96%E9%9B%B6%E4%B8%BA%E6%95%B4-plugins-%E6%8F%92%E4%BB%B6%E6%89%93%E5%8C%85%E4%B8%8E%E5%88%86%E5%8F%91/",
+      "mdPath": "/Clippings/Claude Code Action/23｜化零为整：Plugins 插件打包与分发.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/966900?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "19-无人值守-headless-模式与-cicd-集成",
+      "title": "19｜无人值守：Headless 模式与 CI/CD 集成",
+      "created": "2026-05-25",
+      "excerpt": "\\\"Headless 模式让 Claude Code 在无人干预下自动运行\\\"介绍了Headless 模式在代码审查、自动化任务中的应用，以及核心机制和输出格式与管道集成。强调了Headless 模式的价值和适用场景，提供了实用的命令行参数",
+      "url": "/posts/claude-code-action/19-%E6%97%A0%E4%BA%BA%E5%80%BC%E5%AE%88-headless-%E6%A8%A1%E5%BC%8F%E4%B8%8E-cicd-%E9%9B%86%E6%88%90/",
+      "mdPath": "/Clippings/Claude Code Action/19｜无人值守：Headless 模式与 CICD 集成.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/959884?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "20-有章可循-rules-规则系统深度剖析",
+      "title": "20｜有章可循：Rules 规则系统深度剖析",
+      "created": "2026-05-25",
+      "excerpt": "Claude Code中的规则系统包括指令规则和权限规则，分别位于`.claude/rules/`目录和`.claude/settings.json`中。指令规则是认知约束，权限规则是行为约束，两者协同构成完整的规则体系。权限规则覆盖内置工",
+      "url": "/posts/claude-code-action/20-%E6%9C%89%E7%AB%A0%E5%8F%AF%E5%BE%AA-rules-%E8%A7%84%E5%88%99%E7%B3%BB%E7%BB%9F%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90/",
+      "mdPath": "/Clippings/Claude Code Action/20｜有章可循：Rules 规则系统深度剖析.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/964160?utm_source=u_nav_web&utm_medium=u_nav_web&utm_term=u_nav_web"
+    },
+    {
+      "slug": "15-防微杜渐-hooks-事件驱动自动化",
+      "title": "15｜防微杜渐：Hooks 事件驱动自动化",
+      "created": "2026-05-23",
+      "excerpt": "Hooks事件驱动自动化是Claude Code的重要扩展机制，支持17种事件，包括控制点、接管点和观察点，可在工具执行前后插入自定义检查，保护敏感文件、自动格式化代码。Hooks提供了自动化安全检查和保护敏感文件的功能，同时支持自定义事件",
+      "url": "/posts/claude-code-action/15-%E9%98%B2%E5%BE%AE%E6%9D%9C%E6%B8%90-hooks-%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E8%87%AA%E5%8A%A8%E5%8C%96/",
+      "mdPath": "/Clippings/Claude Code Action/15｜防微杜渐：Hooks 事件驱动自动化.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/953022"
+    },
+    {
+      "slug": "16-未雨绸缪-hooks-高级模式与工程实践",
+      "title": "16｜未雨绸缪：Hooks 高级模式与工程实践",
+      "created": "2026-05-23",
+      "excerpt": "本文深入探讨了Hooks高级模式与工程实践，包括Stop Hook的质量门控和自动测试门控的实战应用，以及SubagentStart和SubagentStop事件的使用。进阶技巧和最佳实践包括多Hook链、环境变量的使用、在Commands",
+      "url": "/posts/claude-code-action/16-%E6%9C%AA%E9%9B%A8%E7%BB%B8%E7%BC%AA-hooks-%E9%AB%98%E7%BA%A7%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/",
+      "mdPath": "/Clippings/Claude Code Action/16｜未雨绸缪：Hooks 高级模式与工程实践.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/954158"
+    },
+    {
+      "slug": "17-海纳百川-mcp-协议与外部工具连接",
+      "title": "17｜海纳百川：MCP 协议与外部工具连接",
+      "created": "2026-05-23",
+      "excerpt": "MCP协议连接数字世界，解决AI助手碎片化问题。实战中，连接主流MCP服务如Context7、GitHub、Notion和数据库，展示了其实用性。MCP协议支持多种传输方式，适用于不同场景，是全栈开发者的完整工具箱。此外，文章还介绍了创建自",
+      "url": "/posts/claude-code-action/17-%E6%B5%B7%E7%BA%B3%E7%99%BE%E5%B7%9D-mcp-%E5%8D%8F%E8%AE%AE%E4%B8%8E%E5%A4%96%E9%83%A8%E5%B7%A5%E5%85%B7%E8%BF%9E%E6%8E%A5/",
+      "mdPath": "/Clippings/Claude Code Action/17｜海纳百川：MCP 协议与外部工具连接.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/955015"
+    },
+    {
+      "slug": "18-庖丁解牛-tools-工具系统内核剖析",
+      "title": "18｜庖丁解牛：Tools 工具系统内核剖析",
+      "created": "2026-05-23",
+      "excerpt": "本文深入解析了Claude Code的工具系统内核，阐述了工具的设计哲学和分类，以及工具的风险等级。强调了工具集是一组精心选择的原语，而不是特化的高级能力，高级能力是通过原语工具的组合涌现出来的。文章还介绍了权限控制体系、工具扩展与架构定位",
+      "url": "/posts/claude-code-action/18-%E5%BA%96%E4%B8%81%E8%A7%A3%E7%89%9B-tools-%E5%B7%A5%E5%85%B7%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%89%96%E6%9E%90/",
+      "mdPath": "/Clippings/Claude Code Action/18｜庖丁解牛：Tools 工具系统内核剖析.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/957210"
+    },
+    {
+      "slug": "11-循序渐进-渐进式披露架构设计",
+      "title": "11｜循序渐进：渐进式披露架构设计",
+      "created": "2026-05-20",
+      "excerpt": "本文介绍了渐进式披露架构设计，通过分层结构提高token利用率，解决信息噪声和token爆炸问题。详解了三层架构设计，强调了渐进式披露的价值，平均节省50-80% tokens。同时介绍了渐进式的设计模式与最佳实践，包括文件组织模式、主文件",
+      "url": "/posts/claude-code-action/11-%E5%BE%AA%E5%BA%8F%E6%B8%90%E8%BF%9B-%E6%B8%90%E8%BF%9B%E5%BC%8F%E6%8A%AB%E9%9C%B2%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/",
+      "mdPath": "/Clippings/Claude Code Action/11｜循序渐进：渐进式披露架构设计-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/946847"
+    },
+    {
+      "slug": "12-珠联璧合-skills-与-subagent-配合实战",
+      "title": "12｜珠联璧合：Skills 与 SubAgent 配合实战",
+      "created": "2026-05-20",
+      "excerpt": "本文介绍了如何将Skills与SubAgent两大关键技术栈融为一体，通过两种组合方向实现实战应用。其中，SubAgent包含Skill适用于子代理需要特定领域的专业知识来完成任务，而Skill包含SubAgent适用于研究型任务和重型生成",
+      "url": "/posts/claude-code-action/12-%E7%8F%A0%E8%81%94%E7%92%A7%E5%90%88-skills-%E4%B8%8E-subagent-%E9%85%8D%E5%90%88%E5%AE%9E%E6%88%98/",
+      "mdPath": "/Clippings/Claude Code Action/12｜珠联璧合：Skills 与 SubAgent 配合实战-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/947718"
+    },
+    {
+      "slug": "13-纲举目张-skills-架构定位与高级能力",
+      "title": "13｜纲举目张：Skills 架构定位与高级能力",
+      "created": "2026-05-20",
+      "excerpt": "本文总结了Claude Code架构中Skills的定位和作用，以及Skills的三种结构方向。探讨了Skills的三级进化路径，从SOP到组织智能的演进，并提出了四种Skill设计模式。同时，讨论了权限体系与安全设计的重要性。文章还展望了",
+      "url": "/posts/claude-code-action/13-%E7%BA%B2%E4%B8%BE%E7%9B%AE%E5%BC%A0-skills-%E6%9E%B6%E6%9E%84%E5%AE%9A%E4%BD%8D%E4%B8%8E%E9%AB%98%E7%BA%A7%E8%83%BD%E5%8A%9B/",
+      "mdPath": "/Clippings/Claude Code Action/13｜纲举目张：Skills 架构定位与高级能力-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/948037"
+    },
+    {
+      "slug": "14-星火燎原-从-claude-code-到行业开放标准",
+      "title": "14｜星火燎原：从 Claude Code 到行业开放标准",
+      "created": "2026-05-20",
+      "excerpt": "Agent生态中的Skills从产品特性发展成行业标准，强调了声明式、自包含和知识本位属性，以及与SubAgents的对比。介绍了Agentic AI Foundation的成立和skills.sh的推出。强调了AGENTS.md和Skil",
+      "url": "/posts/claude-code-action/14-%E6%98%9F%E7%81%AB%E7%87%8E%E5%8E%9F-%E4%BB%8E-claude-code-%E5%88%B0%E8%A1%8C%E4%B8%9A%E5%BC%80%E6%94%BE%E6%A0%87%E5%87%86/",
+      "mdPath": "/Clippings/Claude Code Action/14｜星火燎原：从 Claude Code 到行业开放标准-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/952321"
+    },
+    {
+      "slug": "加餐-skills-专题总结",
+      "title": "加餐｜Skills 专题总结",
+      "created": "2026-05-20",
+      "excerpt": "文章总结了Skills专题的六讲全景、四种设计模式及其综合运用案例，突出了Skills在AI Agent架构中的重要性和与Tools、SubAgents的关系。强调了贯穿始终的工程方法论和Skills的终极定义。同时，提出了构建生产级Ski",
+      "url": "/posts/claude-code-action/%E5%8A%A0%E9%A4%90-skills-%E4%B8%93%E9%A2%98%E6%80%BB%E7%BB%93/",
+      "mdPath": "/Clippings/Claude Code Action/加餐｜Skills 专题总结-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/952329"
+    },
+    {
+      "slug": "05-白话容器基础-一-从进程说开去",
+      "title": "05 | 白话容器基础（一）：从进程说开去",
+      "created": "2026-05-18",
+      "excerpt": "容器技术的核心在于使用Cgroups和Namespace技术约束和修改进程的动态表现，创造出一个“边界”。Docker容器通过指定一组Namespace参数，使容器只能“看”到当前Namespace所限定的资源、文件、设备、状态或配置。与虚",
+      "url": "/posts/k8s/05-%E7%99%BD%E8%AF%9D%E5%AE%B9%E5%99%A8%E5%9F%BA%E7%A1%80-%E4%B8%80-%E4%BB%8E%E8%BF%9B%E7%A8%8B%E8%AF%B4%E5%BC%80%E5%8E%BB/",
+      "mdPath": "/Clippings/K8S/05  白话容器基础（一）：从进程说开去.md",
+      "tagName": "K8S",
+      "tagSlug": "k8s",
+      "source": "https://time.geekbang.org/column/article/14642"
+    },
+    {
+      "slug": "06-白话容器基础-二-隔离与限制",
+      "title": "06 | 白话容器基础（二）：隔离与限制",
+      "created": "2026-05-18",
+      "excerpt": "Linux容器使用Namespace实现隔离，Cgroups限制资源。容器高性能、敏捷，但隔离不彻底。Docker等项目创建控制组，指定资源值。修复容器中的top指令和/proc文件系统信息可采用lxcfs。在虚拟机向容器迁移应用时，需解决",
+      "url": "/posts/k8s/06-%E7%99%BD%E8%AF%9D%E5%AE%B9%E5%99%A8%E5%9F%BA%E7%A1%80-%E4%BA%8C-%E9%9A%94%E7%A6%BB%E4%B8%8E%E9%99%90%E5%88%B6/",
+      "mdPath": "/Clippings/K8S/06  白话容器基础（二）：隔离与限制.md",
+      "tagName": "K8S",
+      "tagSlug": "k8s",
+      "source": "https://time.geekbang.org/column/article/14653"
+    },
+    {
+      "slug": "00-开篇词-这一次-让我们一起来搞懂mysql",
+      "title": "00  开篇词 | 这一次，让我们一起来搞懂MySQL",
+      "created": "2026-05-17",
+      "excerpt": "这篇文章由一位经验丰富的MySQL内核开发人员分享了他的学习历程和见解。他强调了通过深入理解MySQL内部原理来提高数据库应用性能的重要性，并希望通过专栏帮助开发者更好地理解MySQL的核心概念和原理，从而提升个人的技术水平。",
+      "url": "/posts/mysql/00-%E5%BC%80%E7%AF%87%E8%AF%8D-%E8%BF%99%E4%B8%80%E6%AC%A1-%E8%AE%A9%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E6%9D%A5%E6%90%9E%E6%87%82mysql/",
+      "mdPath": "/Clippings/MYSQL/00 |开篇词  这一次，让我们一起来搞懂MySQL.md",
+      "tagName": "MYSQL",
+      "tagSlug": "mysql",
+      "source": "https://time.geekbang.org/column/article/67888"
+    },
+    {
+      "slug": "01-基础架构-一条sql查询语句是如何执行的",
+      "title": "01 | 基础架构：一条SQL查询语句是如何执行的？",
+      "created": "2026-05-17",
+      "excerpt": "这篇文章由一位经验丰富的MySQL内核开发人员分享了他的学习历程和见解。他强调了通过深入理解MySQL内部原理来提高数据库应用性能的重要性，并希望通过专栏帮助开发者更好地理解MySQL的核心概念和原理，从而提升个人的技术水平。",
+      "url": "/posts/mysql/01-%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84-%E4%B8%80%E6%9D%A1sql%E6%9F%A5%E8%AF%A2%E8%AF%AD%E5%8F%A5%E6%98%AF%E5%A6%82%E4%BD%95%E6%89%A7%E8%A1%8C%E7%9A%84/",
+      "mdPath": "/Clippings/MYSQL/01 |基础架构：一条SQL查询语句是如何执行的？.md",
+      "tagName": "MYSQL",
+      "tagSlug": "mysql",
+      "source": "https://time.geekbang.org/column/article/68319"
+    },
+    {
+      "slug": "02-日志系统-一条sql更新语句是如何执行的",
+      "title": "02 | 日志系统：一条SQL更新语句是如何执行的？",
+      "created": "2026-05-17",
+      "excerpt": "文章总结：介绍了MySQL日志系统的执行流程和重要日志模块redo log和binlog的设计原理，以及两阶段提交的必要性。强调了WAL技术提升更新效率和保证数据库的crash-safe能力，展现了MySQL技术的独特之处。同时提出思考题，",
+      "url": "/posts/mysql/02-%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F-%E4%B8%80%E6%9D%A1sql%E6%9B%B4%E6%96%B0%E8%AF%AD%E5%8F%A5%E6%98%AF%E5%A6%82%E4%BD%95%E6%89%A7%E8%A1%8C%E7%9A%84/",
+      "mdPath": "/Clippings/MYSQL/02 | 日志系统：一条SQL更新语句是如何执行的？.md",
+      "tagName": "MYSQL",
+      "tagSlug": "mysql",
+      "source": "https://time.geekbang.org/column/article/68633"
+    },
+    {
+      "slug": "03-事务隔离-为什么你改了我还看不见-mysql实战45讲-极客时间",
+      "title": "事务隔离：为什么你改了我还看不见？-MySQL实战45讲-极客时间",
+      "created": "2026-05-17",
+      "excerpt": "本文介绍了MySQL事务隔离级别的重要性和实现原理，以及长事务对数据库性能的影响。建议根据业务情况选择合适的隔离级别，并避免长事务。同时，提供了启动事务的方式和查询长事务的方法。总结了如何避免长事务的正确方式。",
+      "url": "/posts/mysql/03-%E4%BA%8B%E5%8A%A1%E9%9A%94%E7%A6%BB-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E6%94%B9%E4%BA%86%E6%88%91%E8%BF%98%E7%9C%8B%E4%B8%8D%E8%A7%81-mysql%E5%AE%9E%E6%88%9845%E8%AE%B2-%E6%9E%81%E5%AE%A2%E6%97%B6%E9%97%B4/",
+      "mdPath": "/Clippings/MYSQL/03 | 事务隔离：为什么你改了我还看不见？-MySQL实战45讲-极客时间.md",
+      "tagName": "MYSQL",
+      "tagSlug": "mysql",
+      "source": "https://time.geekbang.org/column/article/68963"
+    },
+    {
+      "slug": "00-打通“容器技术”的任督二脉",
+      "title": "打通“容器技术”的任督二脉",
+      "created": "2026-05-15",
+      "excerpt": "总结：本文介绍了容器技术的发展历程和Kubernetes项目的重要性，作者以自身经历为例，深入剖析了容器技术的核心特性和技术本质。通过专栏的划分和内容安排，旨在帮助读者深入理解容器技术，搭建Kubernetes集群，剖析核心特性，并探讨开源",
+      "url": "/posts/k8s/00-%E6%89%93%E9%80%9A%E2%80%9C%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF%E2%80%9D%E7%9A%84%E4%BB%BB%E7%9D%A3%E4%BA%8C%E8%84%89/",
+      "mdPath": "/Clippings/K8S/00 打通“容器技术”的任督二脉.md",
+      "tagName": "K8S",
+      "tagSlug": "k8s",
+      "source": "https://time.geekbang.org/column/article/14252"
+    },
+    {
+      "slug": "01-预习篇-·-小鲸鱼大事记-一-初出茅庐",
+      "title": "01 | 预习篇 · 小鲸鱼大事记（一）：初出茅庐",
+      "created": "2026-05-15",
+      "excerpt": "\\\"Docker作为PaaS项目的创新力量，通过开源容器项目解决了PaaS打包难题，实现本地与云端环境高度一致。其镜像机制为应用打包提供便利，改变了云计算发展历程，成为热门服务器端技术。Docker公司的Swarm项目定义了PaaS的未来愿",
+      "url": "/posts/k8s/01-%E9%A2%84%E4%B9%A0%E7%AF%87-%C2%B7-%E5%B0%8F%E9%B2%B8%E9%B1%BC%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E4%B8%80-%E5%88%9D%E5%87%BA%E8%8C%85%E5%BA%90/",
+      "mdPath": "/Clippings/K8S/01  预习篇 · 小鲸鱼大事记（一）：初出茅庐.md",
+      "tagName": "K8S",
+      "tagSlug": "k8s",
+      "source": "https://time.geekbang.org/column/article/14254"
+    },
+    {
+      "slug": "02-预习篇-·-小鲸鱼大事记-二-崭露头角",
+      "title": "02 | 预习篇 · 小鲸鱼大事记（二）：崭露头角",
+      "created": "2026-05-15",
+      "excerpt": "dotCloud公司改名为Docker，开启扩张之路。Docker项目通过解决PaaS的根本性问题、与开发者密切关系以及PaaS概念深入人心的契机，迅速崛起。公司改名为Docker，标志着其更强硬的姿态面对云计算市场。开源和开发者社群是其成",
+      "url": "/posts/k8s/02-%E9%A2%84%E4%B9%A0%E7%AF%87-%C2%B7-%E5%B0%8F%E9%B2%B8%E9%B1%BC%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E4%BA%8C-%E5%B4%AD%E9%9C%B2%E5%A4%B4%E8%A7%92/",
+      "mdPath": "/Clippings/K8S/02  预习篇 · 小鲸鱼大事记（二）：崭露头角.md",
+      "tagName": "K8S",
+      "tagSlug": "k8s",
+      "source": "https://time.geekbang.org/column/article/14256"
+    },
+    {
+      "slug": "03-预习篇-·-小鲸鱼大事记-三-群雄并起",
+      "title": "03  预习篇 · 小鲸鱼大事记（三）：群雄并起",
+      "created": "2026-05-15",
+      "excerpt": "容器生态蓬勃发展，Docker公司的平台化战略引发竞争，Swarm和Marathon项目成为竞争对手，Mesos提供超大规模集群管理经验。RedHat退出Docker生态，但Kubernetes项目的诞生改变了整个容器市场格局。",
+      "url": "/posts/k8s/03-%E9%A2%84%E4%B9%A0%E7%AF%87-%C2%B7-%E5%B0%8F%E9%B2%B8%E9%B1%BC%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E4%B8%89-%E7%BE%A4%E9%9B%84%E5%B9%B6%E8%B5%B7/",
+      "mdPath": "/Clippings/K8S/03  预习篇 · 小鲸鱼大事记（三）：群雄并起.md",
+      "tagName": "K8S",
+      "tagSlug": "k8s",
+      "source": "https://time.geekbang.org/column/article/14405"
+    },
+    {
+      "slug": "04-预习篇-·-小鲸鱼大事记-四-尘埃落定",
+      "title": "04 | 预习篇 · 小鲸鱼大事记（四）：尘埃落定",
+      "created": "2026-05-15",
+      "excerpt": "Kubernetes社区接手Docker项目，形成容器技术生态格局，对抗Docker公司的商业生态。Docker公司放弃开源社区竞争，专注商业业务。Solomon Hykes的选择引发思考。Kubernetes以开发者为核心，构建开放的容器",
+      "url": "/posts/k8s/04-%E9%A2%84%E4%B9%A0%E7%AF%87-%C2%B7-%E5%B0%8F%E9%B2%B8%E9%B1%BC%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E5%9B%9B-%E5%B0%98%E5%9F%83%E8%90%BD%E5%AE%9A/",
+      "mdPath": "/Clippings/K8S/04  预习篇 · 小鲸鱼大事记（四）：尘埃落定.md",
+      "tagName": "K8S",
+      "tagSlug": "k8s",
+      "source": "https://time.geekbang.org/column/article/14406"
+    },
+    {
+      "slug": "00-学好了ddd-你能做什么",
+      "title": "学好了DDD，你能做什么？",
+      "created": "2026-05-14",
+      "excerpt": "领域驱动设计（DDD）在微服务和中台业务建模中的应用，探讨了DDD、微服务和中台之间的关系，以及如何通过DDD设计思想实现清晰的微服务边界和合理的业务领域划分。专栏课程包括中台和领域建模的实战、微服务设计实战和前端设计思想，旨在帮助读者深入",
+      "url": "/posts/ddd/00-%E5%AD%A6%E5%A5%BD%E4%BA%86ddd-%E4%BD%A0%E8%83%BD%E5%81%9A%E4%BB%80%E4%B9%88/",
+      "mdPath": "/Clippings/DDD/00 | 学好了DDD，你能做什么？.md",
+      "tagName": "DDD",
+      "tagSlug": "ddd",
+      "source": "https://time.geekbang.org/column/article/149941"
+    },
+    {
+      "slug": "01-领域驱动设计-微服务设计为什么要选择ddd",
+      "title": "领域驱动设计：微服务设计为什么要选择DDD？-DDD实战课-极客时间",
+      "created": "2026-05-14",
+      "excerpt": "领域驱动设计（DDD）为微服务设计提供理论支持，通过战略设计建立领域模型，划定领域边界，解决微服务拆分难题。DDD强调业务领域视角，构建通用语言，维持业务和代码的一致性。微服务注重运行时通信和独立部署，两者共同追求高响应力和演进式架构。DD",
+      "url": "/posts/ddd/01-%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E9%80%89%E6%8B%A9ddd/",
+      "mdPath": "/Clippings/DDD/01 | 领域驱动设计：微服务设计为什么要选择DDD？.md",
+      "tagName": "DDD",
+      "tagSlug": "ddd",
+      "source": "https://time.geekbang.org/column/article/149943"
+    },
+    {
+      "slug": "02-领域-子域-核心域-通用域和支撑域-傻傻分不清",
+      "title": "02 | 领域、子域、核心域、通用域和支撑域：傻傻分不清？",
+      "created": "2026-05-14",
+      "excerpt": "领域划分是微服务设计和领域驱动设计的核心思想，通过区分核心域、通用域和支撑域，实现不同子域的重要性和功能属性的区分，从而采取不同的资源投入和建设策略。在公司业务领域拆分时，应结合商业模式和战略重点，重点关注核心域的建设。",
+      "url": "/posts/ddd/02-%E9%A2%86%E5%9F%9F-%E5%AD%90%E5%9F%9F-%E6%A0%B8%E5%BF%83%E5%9F%9F-%E9%80%9A%E7%94%A8%E5%9F%9F%E5%92%8C%E6%94%AF%E6%92%91%E5%9F%9F-%E5%82%BB%E5%82%BB%E5%88%86%E4%B8%8D%E6%B8%85/",
+      "mdPath": "/Clippings/DDD/02 | 领域、子域、核心域、通用域和支撑域：傻傻分不清？.md",
+      "tagName": "DDD",
+      "tagSlug": "ddd",
+      "source": "https://time.geekbang.org/column/article/149945"
+    },
+    {
+      "slug": "03-限界上下文-定义领域边界的利器",
+      "title": "03 | 限界上下文：定义领域边界的利器",
+      "created": "2026-05-14",
+      "excerpt": "领域划分是微服务设计和领域驱动设计的核心思想，通过区分核心域、通用域和支撑域，实现不同子域的重要性和功能属性的区分，从而采取不同的资源投入和建设策略。在公司业务领域拆分时，应结合商业模式和战略重点，重点关注核心域的建设。",
+      "url": "/posts/ddd/03-%E9%99%90%E7%95%8C%E4%B8%8A%E4%B8%8B%E6%96%87-%E5%AE%9A%E4%B9%89%E9%A2%86%E5%9F%9F%E8%BE%B9%E7%95%8C%E7%9A%84%E5%88%A9%E5%99%A8/",
+      "mdPath": "/Clippings/DDD/03 | 限界上下文：定义领域边界的利器.md",
+      "tagName": "DDD",
+      "tagSlug": "ddd",
+      "source": "https://time.geekbang.org/column/article/149950"
+    },
+    {
+      "slug": "04-实体和值对象-从领域模型的基础单元看系统设计",
+      "title": "04 | 实体和值对象：从领域模型的基础单元看系统设计",
+      "created": "2026-05-14",
+      "excerpt": "本文介绍了领域驱动设计中实体和值对象的概念及其在系统设计中的作用。值对象通过简化数据库设计和提升性能，但需根据业务场景慎重选择。实体和值对象在微服务底层实现核心领域逻辑，但在某些场景下可互换。文章强调从领域模型出发，选择适合自身业务的设计方",
+      "url": "/posts/ddd/04-%E5%AE%9E%E4%BD%93%E5%92%8C%E5%80%BC%E5%AF%B9%E8%B1%A1-%E4%BB%8E%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%9F%BA%E7%A1%80%E5%8D%95%E5%85%83%E7%9C%8B%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/",
+      "mdPath": "/Clippings/DDD/04 | 实体和值对象：从领域模型的基础单元看系统设计.md",
+      "tagName": "DDD",
+      "tagSlug": "ddd",
+      "source": "https://time.geekbang.org/column/article/152677"
+    },
+    {
+      "slug": "05-聚合和聚合根-怎样设计聚合",
+      "title": "05 | 聚合和聚合根：怎样设计聚合？",
+      "created": "2026-05-14",
+      "excerpt": "本文介绍了领域驱动设计中实体和值对象的概念及其在系统设计中的作用。值对象通过简化数据库设计和提升性能，但需根据业务场景慎重选择。实体和值对象在微服务底层实现核心领域逻辑，但在某些场景下可互换。文章强调从领域模型出发，选择适合自身业务的设计方",
+      "url": "/posts/ddd/05-%E8%81%9A%E5%90%88%E5%92%8C%E8%81%9A%E5%90%88%E6%A0%B9-%E6%80%8E%E6%A0%B7%E8%AE%BE%E8%AE%A1%E8%81%9A%E5%90%88/",
+      "mdPath": "/Clippings/DDD/05 | 聚合和聚合根：怎样设计聚合？.md",
+      "tagName": "DDD",
+      "tagSlug": "ddd",
+      "source": "https://time.geekbang.org/column/article/154547"
+    },
+    {
+      "slug": "cuda安装驱动失败",
+      "title": "CUDA安装驱动失败",
+      "created": "2026-05-14",
+      "excerpt": "ChatGPT conversation with 8 messages",
+      "url": "/posts/llm/cuda%E5%AE%89%E8%A3%85%E9%A9%B1%E5%8A%A8%E5%A4%B1%E8%B4%A5/",
+      "mdPath": "/Clippings/LLM/CUDA安装驱动失败.md",
+      "tagName": "LLM",
+      "tagSlug": "llm",
+      "source": "https://chatgpt.com/c/6a058743-a508-83ea-95ef-f64bfffec456"
+    },
+    {
+      "slug": "09-触类旁通-skill-md-结构与触发机制",
+      "title": "09｜触类旁通：SKILL.md 结构与触发机制",
+      "created": "2026-05-13",
+      "excerpt": "企业中的技能系统Skills是SOP体系的一部分，连接“行动能力”与“语义世界”，具有特殊地位。Skills支持两种触发方式，通过语义理解判断当前对话是否匹配某个Skill。企业本体论视角下，Skill分为参考型和任务型，分别影响“怎么做”",
+      "url": "/posts/claude-code-action/09-%E8%A7%A6%E7%B1%BB%E6%97%81%E9%80%9A-skill-md-%E7%BB%93%E6%9E%84%E4%B8%8E%E8%A7%A6%E5%8F%91%E6%9C%BA%E5%88%B6/",
+      "mdPath": "/Clippings/Claude Code Action/09｜触类旁通：SKILL.md 结构与触发机制-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/945937"
+    },
+    {
+      "slug": "10-令行禁止-任务型-skills-斜杠命令-command-实战",
+      "title": "10｜令行禁止：任务型 Skills （斜杠命令 /Command）实战",
+      "created": "2026-05-13",
+      "excerpt": "任务型 Skill 是一种用于执行特定工作流程的技术，支持参数传递和动态上下文注入，能提高工程效率，减少重复对话模式。设计时需遵循七步设计清单，包括动作命名、触发者、权限、上下文、安全网、输出量和模型选择。团队标准命令集的创建包括智能提交、",
+      "url": "/posts/claude-code-action/10-%E4%BB%A4%E8%A1%8C%E7%A6%81%E6%AD%A2-%E4%BB%BB%E5%8A%A1%E5%9E%8B-skills-%E6%96%9C%E6%9D%A0%E5%91%BD%E4%BB%A4-command-%E5%AE%9E%E6%88%98/",
+      "mdPath": "/Clippings/Claude Code Action/10｜令行禁止：任务型 Skills （斜杠命令 Command）实战-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/946297"
+    },
+    {
+      "slug": "加餐-子代理专题总结-&-春节练习",
+      "title": "加餐｜子代理专题总结 & 春节练习",
+      "created": "2026-05-12",
+      "excerpt": "子代理专题总结：通过五讲学习，掌握了子代理的完整知识体系，包括结构化分工和协作型认知。四种使用模式和综合运用案例展示了子代理在工程场景中的应用。春节假期作业提供了思考题，引导学习者设计子代理编排方案，探讨AI排查和修复的风险。子代理真正解决",
+      "url": "/posts/claude-code-action/%E5%8A%A0%E9%A4%90-%E5%AD%90%E4%BB%A3%E7%90%86%E4%B8%93%E9%A2%98%E6%80%BB%E7%BB%93-&-%E6%98%A5%E8%8A%82%E7%BB%83%E4%B9%A0/",
+      "mdPath": "/Clippings/Claude Code Action/加餐｜子代理专题总结 & 春节练习-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/945359"
+    },
+    {
+      "slug": "01-消息引擎系统abc",
+      "title": "01 消息引擎系统ABC",
+      "created": "2026-05-12",
+      "excerpt": "消息引擎系统ABC",
+      "url": "/posts/kafka/01-%E6%B6%88%E6%81%AF%E5%BC%95%E6%93%8E%E7%B3%BB%E7%BB%9Fabc/",
+      "mdPath": "/Clippings/KAFKA/01 消息引擎系统ABC.md",
+      "tagName": "KAFKA",
+      "tagSlug": "kafka",
+      "source": "https://time.geekbang.org/column/article/98948"
+    },
+    {
+      "slug": "开篇词-为什么要学习kafka",
+      "title": "开篇词 为什么要学习Kafka？",
+      "created": "2026-05-12",
+      "excerpt": "为什么要学习Kafka",
+      "url": "/posts/kafka/%E5%BC%80%E7%AF%87%E8%AF%8D-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AD%A6%E4%B9%A0kafka/",
+      "mdPath": "/Clippings/KAFKA/开篇词  为什么要学习Kafka.md",
+      "tagName": "KAFKA",
+      "tagSlug": "kafka",
+      "source": "https://time.geekbang.org/column/article/98683"
+    },
+    {
+      "slug": "claude-code安装与核心插件配置指南",
+      "title": "Claude Code安装与核心插件配置指南",
+      "created": "2026-05-11",
+      "excerpt": "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team's pr",
+      "url": "/posts/ai-coding/claude-code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/",
+      "mdPath": "/Clippings/AI Coding/Claude Code安装与核心插件配置指南.md",
+      "tagName": "AI Coding",
+      "tagSlug": "ai-coding",
+      "source": "https://www.notion.so/Claude-Code-3271cdc36e928063906df043fb56dbd2"
+    },
+    {
+      "slug": "06-去芜存菁-高噪声任务处理——测试运行器与日志分析器",
+      "title": "06｜去芜存菁 ：高噪声任务处理——测试运行器与日志分析器",
+      "created": "2026-05-11",
+      "excerpt": "本文介绍了处理高噪声任务的方法，通过创建测试运行器和日志分析器来隔离噪声，提高效率。强调了信噪比决策框架的重要性，以及如何使用子代理来处理高噪声场景。通过实例展示了测试运行器和日志分析器的配置和使用方法，以及输出格式设计的重要性。文章总结了",
+      "url": "/posts/claude-code-action/06-%E5%8E%BB%E8%8A%9C%E5%AD%98%E8%8F%81-%E9%AB%98%E5%99%AA%E5%A3%B0%E4%BB%BB%E5%8A%A1%E5%A4%84%E7%90%86%E2%80%94%E2%80%94%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C%E5%99%A8%E4%B8%8E%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E5%99%A8/",
+      "mdPath": "/Clippings/Claude Code Action/06｜去芜存菁 ：高噪声任务处理——测试运行器与日志分析器-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/944525"
+    },
+    {
+      "slug": "07-百舸争流-多任务并行探索与流水线编排",
+      "title": "07｜百舸争流：多任务并行探索与流水线编排",
+      "created": "2026-05-11",
+      "excerpt": "本文总结了并行探索和流水线编排在工程化实战中的应用，强调了任务独立性和信息依赖的重要性。并行探索支持多个子代理同时工作，适合独立任务的同时处理，提供快速 + 清洁的上下文，其核心价值是速度 + 独立性。流水线编排支持多个子代理顺序工作，适合",
+      "url": "/posts/claude-code-action/07-%E7%99%BE%E8%88%B8%E4%BA%89%E6%B5%81-%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%B9%B6%E8%A1%8C%E6%8E%A2%E7%B4%A2%E4%B8%8E%E6%B5%81%E6%B0%B4%E7%BA%BF%E7%BC%96%E6%8E%92/",
+      "mdPath": "/Clippings/Claude Code Action/07｜百舸争流：多任务并行探索与流水线编排-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/945070"
+    },
+    {
+      "slug": "08-群策群力-agent-teams-多会话协作架构",
+      "title": "08｜群策群力：Agent Teams 多会话协作架构",
+      "created": "2026-05-11",
+      "excerpt": "Agent Teams 是 Claude Code 的实验性功能，通过团队协作模式，让代理之间能够直接交流、互相挑战、协作推进。文章介绍了Agent Teams的创建和使用方式，并提供了一个实战项目示例。此外，文章还总结了Agent Tea",
+      "url": "/posts/claude-code-action/08-%E7%BE%A4%E7%AD%96%E7%BE%A4%E5%8A%9B-agent-teams-%E5%A4%9A%E4%BC%9A%E8%AF%9D%E5%8D%8F%E4%BD%9C%E6%9E%B6%E6%9E%84/",
+      "mdPath": "/Clippings/Claude Code Action/08｜群策群力：Agent Teams 多会话协作架构-Claude Code 工程化实战-极客时间.md",
+      "tagName": "Claude Code Action",
+      "tagSlug": "claude-code-action",
+      "source": "https://time.geekbang.org/column/article/945358"
+    },
     {
       "slug": "04-量体裁衣-从-sub-agents-到-multi-agent-的工程指南",
       "title": "04｜量体裁衣：从 Sub-Agents 到 Multi-Agent 的工程指南",
@@ -325,123 +1206,13 @@
       "source": ""
     },
     {
-      "slug": "01-领域驱动设计-微服务设计为什么要选择ddd",
-      "title": "01  领域驱动设计：微服务设计为什么要选择DDD？",
-      "created": "",
-      "excerpt": "01 | 领域驱动设计：微服务设计为什么要选择DDD？ ​ 我们知道，微服务设计过程中往往会面临边界如何划定的问题，我经常看到项目团队为微服务到底应该拆多小而争得面红耳赤。不同的人会根据自己对微服务的理解而拆分出不同的微服务，于是大家各执一",
-      "url": "/posts/ddd/01-%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E9%80%89%E6%8B%A9ddd/",
-      "mdPath": "/Clippings/DDD/01  领域驱动设计：微服务设计为什么要选择DDD？.md",
-      "tagName": "DDD",
-      "tagSlug": "ddd",
-      "source": ""
-    },
-    {
-      "slug": "02-领域-子域-核心域-通用域和支撑域-傻傻分不清",
-      "title": "02  领域、子域、核心域、通用域和支撑域：傻傻分不清？",
-      "created": "",
-      "excerpt": "02 | 领域、子域、核心域、通用域和支撑域：傻傻分不清？ ​ DDD 的知识体系提出了很多的名词，像：领域、子域、核心域、通用域、支撑域、限界上下文、聚合、聚合根、实体、值对象等等，非常多。这些名词，都是关键概念，但它们实在有些晦涩难懂，",
-      "url": "/posts/ddd/02-%E9%A2%86%E5%9F%9F-%E5%AD%90%E5%9F%9F-%E6%A0%B8%E5%BF%83%E5%9F%9F-%E9%80%9A%E7%94%A8%E5%9F%9F%E5%92%8C%E6%94%AF%E6%92%91%E5%9F%9F-%E5%82%BB%E5%82%BB%E5%88%86%E4%B8%8D%E6%B8%85/",
-      "mdPath": "/Clippings/DDD/02  领域、子域、核心域、通用域和支撑域：傻傻分不清？.md",
-      "tagName": "DDD",
-      "tagSlug": "ddd",
-      "source": ""
-    },
-    {
-      "slug": "03-限界上下文-定义领域边界的利器",
-      "title": "03 | 限界上下文：定义领域边界的利器",
-      "created": "",
-      "excerpt": "03 | 限界上下文：定义领域边界的利器 ​ 在 DDD 领域建模和系统建设过程中，有很多的参与者，包括领域专家、产品经理、项目经理、架构师、开发经理和测试经理等。对同样的领域知识，不同的参与角色可能会有不同的理解，那大家交流起来就会有障碍",
-      "url": "/posts/ddd/03-%E9%99%90%E7%95%8C%E4%B8%8A%E4%B8%8B%E6%96%87-%E5%AE%9A%E4%B9%89%E9%A2%86%E5%9F%9F%E8%BE%B9%E7%95%8C%E7%9A%84%E5%88%A9%E5%99%A8/",
-      "mdPath": "/Clippings/DDD/03 | 限界上下文：定义领域边界的利器.md",
-      "tagName": "DDD",
-      "tagSlug": "ddd",
-      "source": ""
-    },
-    {
-      "slug": "04-实体和值对象-从领域模型的基础单元看系统设计",
-      "title": "04 | 实体和值对象：从领域模型的基础单元看系统设计",
-      "created": "",
-      "excerpt": "04 | 实体和值对象：从领域模型的基础单元看系统设计 ​ 实体和值对象这两个概念都是领域模型中的领域对象。它们在领域模型中起什么作用，战术设计时如何将它们映射到代码和数据模型中去？就是我们这一讲重点要关注的问题。 ​ 另外，在战略设计向战",
-      "url": "/posts/ddd/04-%E5%AE%9E%E4%BD%93%E5%92%8C%E5%80%BC%E5%AF%B9%E8%B1%A1-%E4%BB%8E%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%9F%BA%E7%A1%80%E5%8D%95%E5%85%83%E7%9C%8B%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/",
-      "mdPath": "/Clippings/DDD/04 | 实体和值对象：从领域模型的基础单元看系统设计.md",
-      "tagName": "DDD",
-      "tagSlug": "ddd",
-      "source": ""
-    },
-    {
-      "slug": "05-聚合和聚合根-怎样设计聚合",
-      "title": "05 | 聚合和聚合根：怎样设计聚合",
-      "created": "",
-      "excerpt": "05 | 聚合和聚合根：怎样设计聚合？ ​ 我们先回顾下上一讲，在事件风暴中，我们会根据一些业务操作和行为找出实体（Entity）或值对象（ValueObject），进而将业务关联紧密的实体和值对象进行组合，构成聚合，再根据业务语义将多个聚",
-      "url": "/posts/ddd/05-%E8%81%9A%E5%90%88%E5%92%8C%E8%81%9A%E5%90%88%E6%A0%B9-%E6%80%8E%E6%A0%B7%E8%AE%BE%E8%AE%A1%E8%81%9A%E5%90%88/",
-      "mdPath": "/Clippings/DDD/05 | 聚合和聚合根：怎样设计聚合.md",
-      "tagName": "DDD",
-      "tagSlug": "ddd",
-      "source": ""
-    },
-    {
-      "slug": "ddd讲座笔记",
-      "title": "DDD讲座笔记",
-      "created": "",
-      "excerpt": "设计模型，尽量使用业务语言 设计系统，站在系统设计方角度 只要前台和后端发生一次交互，理论上可以划分成一次任务，调用第三方也需要归纳进来 流程流转，如果涉及逆向流程，在设计阶段可以考虑把逆向流程重新设计一个新的流程 业务实体一开始不要过度设",
-      "url": "/posts/ddd/ddd%E8%AE%B2%E5%BA%A7%E7%AC%94%E8%AE%B0/",
-      "mdPath": "/Clippings/DDD/DDD讲座笔记.md",
-      "tagName": "DDD",
-      "tagSlug": "ddd",
-      "source": ""
-    },
-    {
-      "slug": "01-预习篇-·-小鲸鱼大事记-一-初出茅庐",
-      "title": "01  预习篇 · 小鲸鱼大事记（一）：初出茅庐",
-      "created": "",
-      "excerpt": "01 | 预习篇 · 小鲸鱼大事记（一）：初出茅庐",
-      "url": "/posts/k8s/01-%E9%A2%84%E4%B9%A0%E7%AF%87-%C2%B7-%E5%B0%8F%E9%B2%B8%E9%B1%BC%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E4%B8%80-%E5%88%9D%E5%87%BA%E8%8C%85%E5%BA%90/",
-      "mdPath": "/Clippings/k8s/01  预习篇 · 小鲸鱼大事记（一）：初出茅庐.md",
-      "tagName": "k8s",
-      "tagSlug": "k8s",
-      "source": ""
-    },
-    {
-      "slug": "02-预习篇-·-小鲸鱼大事记-二-崭露头角",
-      "title": "02  预习篇 · 小鲸鱼大事记（二）：崭露头角",
-      "created": "",
-      "excerpt": "02 | 预习篇 · 小鲸鱼大事记（二）：崭露头角",
-      "url": "/posts/k8s/02-%E9%A2%84%E4%B9%A0%E7%AF%87-%C2%B7-%E5%B0%8F%E9%B2%B8%E9%B1%BC%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E4%BA%8C-%E5%B4%AD%E9%9C%B2%E5%A4%B4%E8%A7%92/",
-      "mdPath": "/Clippings/k8s/02  预习篇 · 小鲸鱼大事记（二）：崭露头角.md",
-      "tagName": "k8s",
-      "tagSlug": "k8s",
-      "source": ""
-    },
-    {
-      "slug": "03-预习篇-·-小鲸鱼大事记-三-群雄并起",
-      "title": "03  预习篇 · 小鲸鱼大事记（三）：群雄并起",
-      "created": "",
-      "excerpt": "03 | 预习篇 · 小鲸鱼大事记（三）：群雄并起",
-      "url": "/posts/k8s/03-%E9%A2%84%E4%B9%A0%E7%AF%87-%C2%B7-%E5%B0%8F%E9%B2%B8%E9%B1%BC%E5%A4%A7%E4%BA%8B%E8%AE%B0-%E4%B8%89-%E7%BE%A4%E9%9B%84%E5%B9%B6%E8%B5%B7/",
-      "mdPath": "/Clippings/k8s/03  预习篇 · 小鲸鱼大事记（三）：群雄并起.md",
-      "tagName": "k8s",
-      "tagSlug": "k8s",
-      "source": ""
-    },
-    {
-      "slug": "06-白话容器基础-二-隔离与限制",
-      "title": "06  白话容器基础（二）：隔离与限制",
-      "created": "",
-      "excerpt": "06 | 白话容器基础（二）：隔离与限制",
-      "url": "/posts/k8s/06-%E7%99%BD%E8%AF%9D%E5%AE%B9%E5%99%A8%E5%9F%BA%E7%A1%80-%E4%BA%8C-%E9%9A%94%E7%A6%BB%E4%B8%8E%E9%99%90%E5%88%B6/",
-      "mdPath": "/Clippings/k8s/06  白话容器基础（二）：隔离与限制.md",
-      "tagName": "k8s",
-      "tagSlug": "k8s",
-      "source": ""
-    },
-    {
       "slug": "kubernates设计理念",
       "title": "Kubernates设计理念",
       "created": "",
       "excerpt": "Kubernates设计理念 Kubernates设计理念与分布式系统 ​ 分析和理解Kubernetes的设计理念可以使我们更深入地了解Kubernates系统，更好地利用它管理分布式部署的云原生应用，另一方面也可以让我们借鉴其在分布式系",
       "url": "/posts/k8s/kubernates%E8%AE%BE%E8%AE%A1%E7%90%86%E5%BF%B5/",
-      "mdPath": "/Clippings/k8s/Kubernates设计理念.md",
-      "tagName": "k8s",
+      "mdPath": "/Clippings/K8S/Kubernates设计理念.md",
+      "tagName": "K8S",
       "tagSlug": "k8s",
       "source": ""
     },
@@ -451,9 +1222,20 @@
       "created": "",
       "excerpt": "kafka在mac上的安装与启用 1.kafka安装包下载 在Apache的kafka官网下载安装包，以下4个包随便选一个下载。 2.启动zookeeper的服务 进入文件的解压目录，输入 bin/zookeeperserverstart.",
       "url": "/posts/kafka/kafka%E5%9C%A8mac%E4%B8%8A%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E5%90%AF%E7%94%A8/",
-      "mdPath": "/Clippings/kafka/kafka在mac上的安装与启用.md",
-      "tagName": "kafka",
+      "mdPath": "/Clippings/KAFKA/kafka在mac上的安装与启用.md",
+      "tagName": "KAFKA",
       "tagSlug": "kafka",
+      "source": ""
+    },
+    {
+      "slug": "openclaw对接qq消息收发原来这么简单",
+      "title": "OpenClaw对接QQ消息收发原来这么简单",
+      "created": "",
+      "excerpt": "简介：讲解OpenClaw对接QQ消息收 进入QQ开放平台，扫码登录 https://q.qq.com/qqbot/openclaw/index.html 点击创建机器人，立即分配对应ID ![[Pasted image 202606090",
+      "url": "/posts/openclaw/openclaw%E5%AF%B9%E6%8E%A5qq%E6%B6%88%E6%81%AF%E6%94%B6%E5%8F%91%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95/",
+      "mdPath": "/Clippings/openclaw/OpenClaw对接QQ消息收发原来这么简单.md",
+      "tagName": "openclaw",
+      "tagSlug": "openclaw",
       "source": ""
     }
   ]
