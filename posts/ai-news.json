@@ -1,50 +1,74 @@
 [
   {
+    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 15 Sep 2026 01:50:48 +0000",
+    "image": ""
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
+    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
+    "image": ""
+  },
+  {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
+    "image": ""
+  },
+  {
+    "title": "With iOS 27, I&#8217;m actually using Siri again",
+    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 14 Sep 2026 17:10:30 +0000",
+    "image": ""
+  },
+  {
+    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+    "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 14 Sep 2026 17:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+    "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 14 Sep 2026 15:00:52 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/a5c299977646e1578ae12539a2af17ec/6aa80c233d6332fdd217ae5f_Local-AI_Perplexity-on-Windows_Blog_Feature-842x450/Local-AI_Perplexity-on-Windows_Blog_Feature-842x450_thmb.jpg?v=0b84bce9-03cf-4a35-ab23-15c74ebca1ad"
+  },
+  {
+    "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 14 Sep 2026 13:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/8f5f4e6e5f17070f1bcf2fd75581d07e/6aa46b373d6332e22de500bb_nvidia-cuda-q-quantum-computing/nvidia-cuda-q-quantum-computing_thmb.jpg?v=62fa9332-597d-41db-af52-fce2ff0d404a"
+  },
+  {
+    "title": "<![CDATA[How Fyxer built an AI executive assistant people trust]]>",
+    "link": "https://openai.com/index/fyxer",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 14 Sep 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
     "title": "<![CDATA[Perplexity trusts GPT-6 Astra with end-to-end systems]]>",
     "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
-    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
-    "image": ""
-  },
-  {
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sun, 13 Sep 2026 16:30:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 12 Sep 2026 20:19:16 +0000",
-    "image": ""
-  },
-  {
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 12 Sep 2026 19:34:44 +0000",
-    "image": ""
-  },
-  {
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
     "image": ""
   },
   {
@@ -88,14 +112,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Now everyone can put data to work]]>",
-    "link": "https://openai.com/index/put-data-to-work",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 10 Sep 2026 15:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
     "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
     "source": "NVIDIA Blog",
@@ -104,20 +120,12 @@
     "image": "https://iprsoftwaremedia.com/219/files/202609/4ef93ae301f2ae359aca88f58c6d9310/6aa2a9fc3d633259e2f7c529_gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450_thmb.jpg?v=fa02dd1e-abf1-4d32-9863-5e102e7dc154"
   },
   {
-    "title": "Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/",
-    "source": "NVIDIA Blog",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Thu, 10 Sep 2026 13:00:18 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/5c8236191d88099da65187701b2adab0/6aa2aa023d633259e2f7c530_GFN_Thursday_September_10-842x450/GFN_Thursday_September_10-842x450_thmb.jpg?v=b3760d38-eed0-4c64-9771-f9be437c9346"
-  },
-  {
-    "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 10 Sep 2026 09:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/38876c048ca50c779d310d7d819f27bd/6aa210be3d63325a96e97259_palantir-nvidia/palantir-nvidia_thmb.jpg?v=f0195c71-b6c0-4659-b603-2f73ebdc1de8"
+    "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "image": ""
   },
   {
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -165,14 +173,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Thu, 03 Sep 2026 13:13:48 GMT",
-    "image": ""
-  },
-  {
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
     "image": ""
   },
   {
