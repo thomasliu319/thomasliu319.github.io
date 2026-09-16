@@ -1,59 +1,99 @@
 [
   {
-    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 15 Sep 2026 01:50:48 +0000",
-    "image": ""
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
-    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
-    "image": ""
-  },
-  {
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
-    "image": ""
-  },
-  {
-    "title": "With iOS 27, I&#8217;m actually using Siri again",
-    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 14 Sep 2026 17:10:30 +0000",
-    "image": ""
-  },
-  {
-    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-    "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 14 Sep 2026 17:00:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-    "link": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+    "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+    "link": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
     "source": "NVIDIA Blog",
     "description": "",
-    "pubDate": "Mon, 14 Sep 2026 15:00:52 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/a5c299977646e1578ae12539a2af17ec/6aa80c233d6332fdd217ae5f_Local-AI_Perplexity-on-Windows_Blog_Feature-842x450/Local-AI_Perplexity-on-Windows_Blog_Feature-842x450_thmb.jpg?v=0b84bce9-03cf-4a35-ab23-15c74ebca1ad"
+    "pubDate": "Wed, 16 Sep 2026 05:00:42 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/90bd9bd060e0edeb9efd5c66532bdd13/6aaa22e43d633274124a7923_Is-AI-Poll-01_1920x1080-842x450/Is-AI-Poll-01_1920x1080-842x450_thmb.jpg?v=0afc409b-7783-43a7-806f-7a64f41837e5"
   },
   {
-    "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
+    "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
+    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 16 Sep 2026 00:20:39 +0000",
+    "image": ""
+  },
+  {
+    "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+    "link": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
     "source": "NVIDIA Blog",
     "description": "",
-    "pubDate": "Mon, 14 Sep 2026 13:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/8f5f4e6e5f17070f1bcf2fd75581d07e/6aa46b373d6332e22de500bb_nvidia-cuda-q-quantum-computing/nvidia-cuda-q-quantum-computing_thmb.jpg?v=62fa9332-597d-41db-af52-fce2ff0d404a"
+    "pubDate": "Tue, 15 Sep 2026 22:24:34 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/31fc274ef2bdda6c506a0fbfd6c7072d/6aa9c5aa3d6332a79a3b5c25_DF26-SF-260915-EL2_6006-1-842x450/DF26-SF-260915-EL2_6006-1-842x450_thmb.jpg?v=c83efd2a-2501-446c-95ec-12f494dd4d77"
+  },
+  {
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 15 Sep 2026 21:47:38 +0000",
+    "image": ""
+  },
+  {
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 15 Sep 2026 20:12:53 +0000",
+    "image": ""
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 15 Sep 2026 19:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 15 Sep 2026 18:29:20 +0000",
+    "image": ""
+  },
+  {
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Tue, 15 Sep 2026 17:05:57 +0000",
+    "image": ""
+  },
+  {
+    "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+    "link": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 15 Sep 2026 16:55:59 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/97f9bf45f550b45f0d042f542f2ba5de/6aa979003d633225ae170bed_end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450/end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450_thmb.jpg?v=eb2603aa-ff51-4d88-be4e-1249821a5575"
+  },
+  {
+    "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+    "link": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 15 Sep 2026 16:55:40 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/8f011514186f899f16838f6d383c8efc/6aa979083d633225ae170bf4_gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450/gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450_thmb.jpg?v=f558b9d7-db21-4068-91f2-defd3fc79b36"
+  },
+  {
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 15 Sep 2026 16:00:44 GMT",
+    "image": ""
+  },
+  {
+    "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+    "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 15 Sep 2026 09:00:42 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/d5eb14d4b00983bf3d0adcf4885355b0/6aa909a53d6332fb42469dfb_5172100_CHOP_16x9-1/5172100_CHOP_16x9-1_thmb.jpg?v=cbaefa88-c1db-4a6b-9ce0-2b6f1daf3909"
   },
   {
     "title": "<![CDATA[How Fyxer built an AI executive assistant people trust]]>",
@@ -88,36 +128,12 @@
     "image": ""
   },
   {
-    "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-    "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 10 Sep 2026 16:30:35 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/0d4b983fdd40752cc106c1e0499c8b1d/6aa2db623d63325599216289_skildai-kv-1920x1080-1-842x450/skildai-kv-1920x1080-1-842x450_thmb.jpg?v=0ce6de06-b007-49ae-8663-227243db2134"
-  },
-  {
-    "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-    "link": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 10 Sep 2026 16:00:04 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/ca837387e40cd66776e91dd957020a50/6aa2e5d43d63328b3262219a_auto-robotaxi-hero-kv-blog-r7-1920x1080-1-842x450/auto-robotaxi-hero-kv-blog-r7-1920x1080-1-842x450_thmb.jpg?v=e1fe8a57-6505-4c1a-b812-01e6f6974bbd"
-  },
-  {
     "title": "<![CDATA[How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules]]>",
     "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
     "image": ""
-  },
-  {
-    "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-    "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 10 Sep 2026 13:00:21 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/4ef93ae301f2ae359aca88f58c6d9310/6aa2a9fc3d633259e2f7c529_gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450_thmb.jpg?v=fa02dd1e-abf1-4d32-9863-5e102e7dc154"
   },
   {
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
@@ -133,14 +149,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 09 Sep 2026 15:36:24 GMT",
     "image": ""
   },
   {
@@ -189,14 +197,6 @@
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Wed, 02 Sep 2026 16:18:31 +0000",
-    "image": ""
-  },
-  {
-    "title": "Introducing agentic video understanding with Gemini",
-    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Tue, 01 Sep 2026 17:08:51 +0000",
     "image": ""
   }
 ]
