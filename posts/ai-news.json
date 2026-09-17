@@ -1,5 +1,101 @@
 [
   {
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 17 Sep 2026 00:58:49 +0000",
+    "image": ""
+  },
+  {
+    "title": "Al Gore says the real AI risk isn&#8217;t data centers",
+    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 16 Sep 2026 23:43:09 +0000",
+    "image": ""
+  },
+  {
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 16 Sep 2026 21:07:24 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Our framework for reporting model misalignment]]>",
+    "link": "https://openai.com/index/model-misalignment-reporting-framework",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 16 Sep 2026 17:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Helping older adults use AI in everyday life]]>",
+    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 16 Sep 2026 16:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+    "link": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 16 Sep 2026 15:00:48 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/069545b47f763ec3b16c11a64e715117/6aaaaf5a3d63323004a4d349_mlperf-inference-6-1-842x450/mlperf-inference-6-1-842x450_thmb.jpg?v=68b529e8-6e2e-425a-8731-c8051cba7540"
+  },
+  {
+    "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+    "link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 16 Sep 2026 13:00:33 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/68f0ec8f9398507f177fa7f9ef9bd52e/6aaa936a3d6332a269423aa1_aema-main-feature-842x450/aema-main-feature-842x450_thmb.jpg?v=bae9fbc7-6eba-4f1c-8186-bc7dccca1c58"
+  },
+  {
+    "title": "<![CDATA[Reimagining advertising with AI]]>",
+    "link": "https://openai.com/index/reimagining-advertising-with-ai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 16 Sep 2026 13:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How to connect AI usage to business value]]>",
+    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 16 Sep 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How workers are unlocking new ways of working]]>",
+    "link": "https://openai.com/index/unlocking-new-ways-of-working",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 16 Sep 2026 09:00:00 GMT",
+    "image": ""
+  },
+  {
     "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
     "link": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
     "source": "NVIDIA Blog",
@@ -8,52 +104,12 @@
     "image": "https://iprsoftwaremedia.com/219/files/202609/90bd9bd060e0edeb9efd5c66532bdd13/6aaa22e43d633274124a7923_Is-AI-Poll-01_1920x1080-842x450/Is-AI-Poll-01_1920x1080-842x450_thmb.jpg?v=0afc409b-7783-43a7-806f-7a64f41837e5"
   },
   {
-    "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
-    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 16 Sep 2026 00:20:39 +0000",
-    "image": ""
-  },
-  {
     "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
     "link": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Tue, 15 Sep 2026 22:24:34 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202609/31fc274ef2bdda6c506a0fbfd6c7072d/6aa9c5aa3d6332a79a3b5c25_DF26-SF-260915-EL2_6006-1-842x450/DF26-SF-260915-EL2_6006-1-842x450_thmb.jpg?v=c83efd2a-2501-446c-95ec-12f494dd4d77"
-  },
-  {
-    "title": "The AI data center boom is colliding with cities scarred by big industry",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 15 Sep 2026 21:47:38 +0000",
-    "image": ""
-  },
-  {
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 15 Sep 2026 20:12:53 +0000",
-    "image": ""
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 15 Sep 2026 19:00:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 15 Sep 2026 18:29:20 +0000",
-    "image": ""
   },
   {
     "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
@@ -72,67 +128,11 @@
     "image": "https://iprsoftwaremedia.com/219/files/202609/97f9bf45f550b45f0d042f542f2ba5de/6aa979003d633225ae170bed_end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450/end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450_thmb.jpg?v=eb2603aa-ff51-4d88-be4e-1249821a5575"
   },
   {
-    "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-    "link": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 15 Sep 2026 16:55:40 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/8f011514186f899f16838f6d383c8efc/6aa979083d633225ae170bf4_gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450/gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450_thmb.jpg?v=f558b9d7-db21-4068-91f2-defd3fc79b36"
-  },
-  {
     "title": "Your Agent Aced the Task. Will It Do It Again?",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Tue, 15 Sep 2026 16:00:44 GMT",
-    "image": ""
-  },
-  {
-    "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-    "link": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 15 Sep 2026 09:00:42 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/d5eb14d4b00983bf3d0adcf4885355b0/6aa909a53d6332fb42469dfb_5172100_CHOP_16x9-1/5172100_CHOP_16x9-1_thmb.jpg?v=cbaefa88-c1db-4a6b-9ce0-2b6f1daf3909"
-  },
-  {
-    "title": "<![CDATA[How Fyxer built an AI executive assistant people trust]]>",
-    "link": "https://openai.com/index/fyxer",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 14 Sep 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Perplexity trusts GPT-6 Astra with end-to-end systems]]>",
-    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Cognition helps Devin test its own work with GPT‑6 Astra]]>",
-    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 11 Sep 2026 16:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Rapidly scaling online storage to serve over 1 billion ChatGPT users]]>",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 11 Sep 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules]]>",
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
     "image": ""
   },
   {
