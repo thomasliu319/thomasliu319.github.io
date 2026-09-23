@@ -1,42 +1,114 @@
 [
   {
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "link": "https://huggingface.co/blog/omlx",
+    "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
+    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 04:59:08 +0000",
+    "image": ""
+  },
+  {
+    "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+    "link": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 02:30:22 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/ac1bc65311b893072f5f82ff4d106f94/6ab339db3d63326c7a34a1b8_ai-day-singapore-key-visul-1920x1080-1-842x450/ai-day-singapore-key-visul-1920x1080-1-842x450_thmb.jpg?v=ae11ab35-3911-4034-a382-2383226adaa2"
+  },
+  {
+    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 22 Sep 2026 23:21:49 +0000",
+    "image": ""
+  },
+  {
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Better prompt caching for GPT-6]]>",
+    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 22 Sep 2026 20:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Meta admits Muse&#8217;s likeness to OpenClaw isn&#8217;t a coincidence",
+    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 22 Sep 2026 19:09:11 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Introducing GPT-6 Sol and Luna]]>",
+    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 22 Sep 2026 18:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+    "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 22 Sep 2026 12:00:41 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/82f1aadbab1c170bd204d416aaaf9fc3/6ab26e263d63329409f1c3f6_robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450/robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450_thmb.jpg?v=77773af0-e2c0-47bc-9e58-aef499e33994"
+  },
+  {
+    "title": "<![CDATA[Parallel cut research time and cost in half with GPT‑6 Astra]]>",
+    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 22 Sep 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Priorities and principles for effective third party assessments]]>",
+    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "link": "https://huggingface.co/blog/evaleval-aisi",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
-    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-    "source": "TechCrunch AI",
+    "title": "Transformers now runs llama.cpp quants",
+    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Mon, 21 Sep 2026 23:44:28 +0000",
+    "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "source": "TechCrunch AI",
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "link": "https://huggingface.co/blog/omlx",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
-    "image": ""
-  },
-  {
-    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 21 Sep 2026 19:25:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch",
-    "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
+    "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -46,14 +118,6 @@
     "description": "",
     "pubDate": "Mon, 21 Sep 2026 18:00:07 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5"
-  },
-  {
-    "title": "Meta&#8217;s AI agent has been blocked from using Amazon.com",
-    "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
-    "image": ""
   },
   {
     "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
@@ -72,14 +136,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/20268/3778ffb28747c4555edaaa7d50684784/6ab15e6d3d63321a506c63ed_robotics-halos-1600x900-1/robotics-halos-1600x900-1_thmb.jpg?v=460e0675-11b8-4993-bbe0-91d2356c0853"
   },
   {
-    "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-    "link": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 21 Sep 2026 14:51:34 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/4a691753804dff8b9350217f7b2d2fd8/6ab144cd3d6332afd5e854b5_security-thought-leadership-1920x1080-1-842x450/security-thought-leadership-1920x1080-1-842x450_thmb.jpg?v=8734befa-aaf6-4d3e-9783-4043591e9924"
-  },
-  {
     "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
     "source": "Hugging Face Blog",
@@ -88,51 +144,11 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Advisory Group on Mathematics and Artificial Intelligence]]>",
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 21 Sep 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "<![CDATA[Higgsfield AI ships new video features in a day with GPT-6 Astra]]>",
     "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Mon, 21 Sep 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "5 Companies Using NVIDIA AI for Clean Energy",
-    "link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 21 Sep 2026 10:00:35 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/330c20a910e1e67377fb8c0d9029a32b/6ab100843d63325c10dc3cdf_clean-energy-key-visual-1920x1080-1-842x450/clean-energy-key-visual-1920x1080-1-842x450_thmb.jpg?v=289203f1-d977-402b-b22d-ce0a16eaeb5d"
-  },
-  {
-    "title": "<![CDATA[Building standards for the next phase of AI]]>",
-    "link": "https://openai.com/index/building-standards-next-phase-ai",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 21 Sep 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Expanding OpenAI Academy with new learning paths]]>",
-    "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How V7 gives AI agents institutional memory]]>",
-    "link": "https://openai.com/index/v7",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 21 Sep 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -149,22 +165,6 @@
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Tue, 15 Sep 2026 17:05:57 +0000",
-    "image": ""
-  },
-  {
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 15 Sep 2026 16:00:44 GMT",
-    "image": ""
-  },
-  {
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
     "image": ""
   },
   {
