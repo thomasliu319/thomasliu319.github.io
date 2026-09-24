@@ -1,10 +1,114 @@
 [
   {
-    "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
-    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "title": "Everything new coming to Meta&#8217;s AI agent Muse",
+    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 23 Sep 2026 04:59:08 +0000",
+    "pubDate": "Thu, 24 Sep 2026 01:13:32 +0000",
+    "image": ""
+  },
+  {
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 24 Sep 2026 00:46:17 +0000",
+    "image": ""
+  },
+  {
+    "title": "Meta introduces camera-free AI glasses",
+    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 23:39:44 +0000",
+    "image": ""
+  },
+  {
+    "title": "Anthropic says its biology lab has already found something big",
+    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 22:17:39 +0000",
+    "image": ""
+  },
+  {
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
+    "image": ""
+  },
+  {
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 18:41:40 GMT",
+    "image": ""
+  },
+  {
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "source": "Google DeepMind",
+    "description": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "pubDate": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "<![CDATA[Two years of OpenAI Academy]]>",
+    "link": "https://openai.com/index/two-years-of-openai-academy",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 15:25:14 +0000",
+    "image": ""
+  },
+  {
+    "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+    "link": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 15:00:32 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/b56da2e8cbf20ce93789fe3691646f97/6ab3e99e3d6332cb4ccac053_Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450/Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450_thmb.jpg?v=7d4a21c0-4d4f-4b0a-a5db-ddba886821b7"
+  },
+  {
+    "title": "<![CDATA[OpenAI extends cyber access to Ukraine for civilian defense]]>",
+    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 13:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Sam Altman’s remarks at the United Nations Security Council]]>",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Harvey turns legal context into stronger drafts with GPT-6 Astra]]>",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How invideo improves color grading 3x with GPT‑6 Astra]]>",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
     "image": ""
   },
   {
@@ -16,76 +120,12 @@
     "image": "https://iprsoftwaremedia.com/219/files/202609/ac1bc65311b893072f5f82ff4d106f94/6ab339db3d63326c7a34a1b8_ai-day-singapore-key-visul-1920x1080-1-842x450/ai-day-singapore-key-visul-1920x1080-1-842x450_thmb.jpg?v=ae11ab35-3911-4034-a382-2383226adaa2"
   },
   {
-    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 22 Sep 2026 23:21:49 +0000",
-    "image": ""
-  },
-  {
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Better prompt caching for GPT-6]]>",
-    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 22 Sep 2026 20:00:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "Meta admits Muse&#8217;s likeness to OpenClaw isn&#8217;t a coincidence",
-    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 22 Sep 2026 19:09:11 +0000",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Introducing GPT-6 Sol and Luna]]>",
-    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 22 Sep 2026 18:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
     "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Tue, 22 Sep 2026 12:00:41 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202609/82f1aadbab1c170bd204d416aaaf9fc3/6ab26e263d63329409f1c3f6_robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450/robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450_thmb.jpg?v=77773af0-e2c0-47bc-9e58-aef499e33994"
-  },
-  {
-    "title": "<![CDATA[Parallel cut research time and cost in half with GPT‑6 Astra]]>",
-    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 22 Sep 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Priorities and principles for effective third party assessments]]>",
-    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
-    "image": ""
   },
   {
     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
@@ -128,35 +168,11 @@
     "image": "https://iprsoftwaremedia.com/219/files/202609/f3263dde2c0d183de1dcf5b6eaee7f38/6ab154e73d6332ff287c994c_5696800-ent-egypt-ecosystem-blog-image-842x450/5696800-ent-egypt-ecosystem-blog-image-842x450_thmb.jpg?v=525fdfc4-7135-4c25-b2ea-680a07af30c2"
   },
   {
-    "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-    "link": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 21 Sep 2026 16:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20268/3778ffb28747c4555edaaa7d50684784/6ab15e6d3d63321a506c63ed_robotics-halos-1600x900-1/robotics-halos-1600x900-1_thmb.jpg?v=460e0675-11b8-4993-bbe0-91d2356c0853"
-  },
-  {
     "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Mon, 21 Sep 2026 13:44:34 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Higgsfield AI ships new video features in a day with GPT-6 Astra]]>",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 21 Sep 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "tokenizers v1: encode, decode and scaling, measured",
-    "link": "https://huggingface.co/blog/tokenizers-v1",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Mon, 21 Sep 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -182,21 +198,5 @@
     "description": "",
     "pubDate": "Thu, 03 Sep 2026 15:02:08 +0000",
     "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Proactive cyber defense for governments and enterprises",
-    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Wed, 02 Sep 2026 16:24:24 +0000",
-    "image": ""
-  },
-  {
-    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Wed, 02 Sep 2026 16:18:31 +0000",
-    "image": ""
   }
 ]
