@@ -110,7 +110,8 @@ function commonHead(title) {
   <link rel="icon" href="/favicon.png">
   <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/css/post-renderer.css">`;
+  <link rel="stylesheet" href="/css/post-renderer.css">
+  <link rel="stylesheet" href="/css/dashboard.css">`;
 }
 
 function header() {
@@ -135,7 +136,8 @@ function dashboard() {
           .then(r => r.text())
           .then(html => { document.getElementById('dashboard-container').innerHTML = html; })
           .catch(err => console.error('dashboard load failed:', err));
-      </script>`;
+      </script>
+      <script src="/js/ai-news.js"></script>`;
 }
 
 function footer() {
@@ -143,7 +145,7 @@ function footer() {
       <div class="outer">
         <div id="footer-info" class="inner">
           &copy; 2026 thomasliu<br>
-          内容采集自极客时间，仅作个人学习笔记使用
+          
         </div>
       </div>
     </footer>`;
@@ -362,10 +364,10 @@ ${dashboard()}
 
       <div class="outer">
         <section id="main" class="home-main">
-          <h1 class="home-title">最新文章</h1>
+          <h1 class="home-title">RECENT POST</h1>
           <div class="home-posts">${items}
           </div>
-          <div class="home-more"><a href="/posts/">查看全部 →</a></div>
+          <div class="home-more"><a href="/posts/">View All →</a></div>
         </section>
         <aside id="sidebar">
           <div class="sidebar-inner"></div>
