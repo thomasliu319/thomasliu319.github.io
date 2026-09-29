@@ -1,50 +1,106 @@
 [
   {
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 27 Sep 2026 20:34:28 +0000",
+    "pubDate": "Tue, 29 Sep 2026 05:13:43 +0000",
     "image": ""
   },
   {
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 27 Sep 2026 19:57:30 +0000",
+    "pubDate": "Tue, 29 Sep 2026 00:30:00 +0000",
     "image": ""
   },
   {
-    "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 27 Sep 2026 16:30:00 +0000",
+    "pubDate": "Mon, 28 Sep 2026 23:39:20 +0000",
     "image": ""
   },
   {
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 27 Sep 2026 01:30:00 +0000",
+    "pubDate": "Mon, 28 Sep 2026 21:29:18 +0000",
     "image": ""
   },
   {
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "title": "AMD will acquire Fei-Fei Li&#8217;s World Labs for $8.2 billion",
+    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 26 Sep 2026 21:02:06 +0000",
+    "pubDate": "Mon, 28 Sep 2026 20:39:33 +0000",
     "image": ""
   },
   {
-    "title": "<![CDATA[Proaction boosts sales 60% and saves 75+ hours with Codex]]>",
-    "link": "https://openai.com/index/proaction",
+    "title": "<![CDATA[How we will do better for Australia]]>",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
     "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Fri, 25 Sep 2026 19:00:00 GMT",
+    "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Towards safety cases for frontier AI training]]>",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 28 Sep 2026 11:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"
+  },
+  {
+    "title": "Holo4: powering generalist computer-use agents",
+    "link": "https://huggingface.co/blog/Hcompany/holo4",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Mon, 28 Sep 2026 09:44:05 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+    "link": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 28 Sep 2026 09:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202609/c68dda94943a6e093074e9e88fd5ddef/6aba9c533d6332d60a0bb99a_nvidia-open-agent-safety-platform/nvidia-open-agent-safety-platform_thmb.png?v=f9cea0c6-00ad-4b7f-b0a0-6bc06b39af63"
+  },
+  {
+    "title": "<![CDATA[The Lenfest Institute grows landmark program with expanded OpenAI support]]>",
+    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Basis completes a tax workbook 2x faster with GPT-6 Astra]]>",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Are you a Codex Original?]]>",
+    "link": "https://openai.com/form/codex-originals",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -96,14 +152,6 @@
     "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "<![CDATA[Two years of OpenAI Academy]]>",
-    "link": "https://openai.com/index/two-years-of-openai-academy",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Gemini 3.8 text-to-speech says hello",
     "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
     "source": "Google DeepMind",
@@ -120,46 +168,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202609/b56da2e8cbf20ce93789fe3691646f97/6ab3e99e3d6332cb4ccac053_Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450/Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450_thmb.jpg?v=7d4a21c0-4d4f-4b0a-a5db-ddba886821b7"
   },
   {
-    "title": "<![CDATA[OpenAI extends cyber access to Ukraine for civilian defense]]>",
-    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 23 Sep 2026 13:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Sam Altman’s remarks at the United Nations Security Council]]>",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Harvey turns legal context into stronger drafts with GPT-6 Astra]]>",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-    "link": "https://blogs.nvidia.com/blog/ai-day-singapore/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 23 Sep 2026 02:30:22 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/ac1bc65311b893072f5f82ff4d106f94/6ab339db3d63326c7a34a1b8_ai-day-singapore-key-visul-1920x1080-1-842x450/ai-day-singapore-key-visul-1920x1080-1-842x450_thmb.jpg?v=ae11ab35-3911-4034-a382-2383226adaa2"
-  },
-  {
-    "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-    "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 22 Sep 2026 12:00:41 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/82f1aadbab1c170bd204d416aaaf9fc3/6ab26e263d63329409f1c3f6_robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450/robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450_thmb.jpg?v=77773af0-e2c0-47bc-9e58-aef499e33994"
-  },
-  {
     "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
     "link": "https://huggingface.co/blog/evaleval-aisi",
     "source": "Hugging Face Blog",
@@ -170,14 +178,6 @@
   {
     "title": "Transformers now runs llama.cpp quants",
     "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "link": "https://huggingface.co/blog/omlx",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
