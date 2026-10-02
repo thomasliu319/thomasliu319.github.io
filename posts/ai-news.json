@@ -1,18 +1,106 @@
 [
   {
-    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-    "source": "TechCrunch AI",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Wed, 30 Sep 2026 23:43:07 +0000",
+    "pubDate": "Fri, 02 Oct 2026 04:01:31 GMT",
     "image": ""
   },
   {
-    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+    "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 01 Oct 2026 23:44:13 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/d1cb38eec4ee290ac0fea39ce15a35d8/6abef08d3d6332a948f30c2f_twitter-gif-2104993966043320759-v5-842x450/twitter-gif-2104993966043320759-v5-842x450_thmb.jpg?v=f8092bd5-856c-4205-8168-bfcda2d24714"
+  },
+  {
+    "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#8217;s president",
+    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 30 Sep 2026 21:07:40 +0000",
+    "pubDate": "Thu, 01 Oct 2026 21:08:11 +0000",
+    "image": ""
+  },
+  {
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 01 Oct 2026 19:21:53 +0000",
+    "image": ""
+  },
+  {
+    "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
+    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 01 Oct 2026 19:18:03 +0000",
+    "image": ""
+  },
+  {
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 01 Oct 2026 18:14:42 +0000",
+    "image": ""
+  },
+  {
+    "title": "Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tells)",
+    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 01 Oct 2026 17:50:19 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[The eternal complement]]>",
+    "link": "https://openai.com/index/the-eternal-complement",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 01 Oct 2026 17:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How Albertsons Companies is reimagining retail from the inside out]]>",
+    "link": "https://openai.com/index/albertsons-reimagining-retail",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "link": "https://huggingface.co/blog/allenai/olmocore3",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 01 Oct 2026 15:01:43 GMT",
+    "image": ""
+  },
+  {
+    "title": "Fall Into 25 New Games on GeForce NOW This October",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 01 Oct 2026 13:00:54 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/8c18cff77482434dbac5135b5d20689f/6abe59c33d6332bdba437e62_GFN_Thursday-Oct_1-842x450/GFN_Thursday-Oct_1-842x450_thmb.jpg?v=b1ce4094-2b6d-413d-ae5f-ccc418dcbe24"
+  },
+  {
+    "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+    "link": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 01 Oct 2026 13:00:49 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/810a8175b65f5945603f8af1a6039432/6abe5a043d6332bec0d2cd2d_fungibility-blog-1280x680-1-842x450/fungibility-blog-1280x680-1-842x450_thmb.jpg?v=ee5f6585-1b63-483c-a624-b8a1a8451244"
+  },
+  {
+    "title": "<![CDATA[The Den frees up 10-15 hours a week to grow with ChatGPT Work]]>",
+    "link": "https://openai.com/index/the-den-family-social",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 01 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -21,30 +109,6 @@
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
-    "image": ""
-  },
-  {
-    "title": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
-    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 30 Sep 2026 19:00:57 +0000",
-    "image": ""
-  },
-  {
-    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 30 Sep 2026 18:23:57 +0000",
-    "image": ""
-  },
-  {
-    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 30 Sep 2026 17:45:00 +0000",
     "image": ""
   },
   {
@@ -112,76 +176,12 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Introducing GPT-6.1 Sol]]>",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[DevDay 2026 Recap]]>",
-    "link": "https://openai.com/index/devday-2026-recap",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Introducing dots]]>",
-    "link": "https://openai.com/index/introducing-dots",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 29 Sep 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 28 Sep 2026 11:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"
-  },
-  {
-    "title": "Holo4: powering generalist computer-use agents",
-    "link": "https://huggingface.co/blog/Hcompany/holo4",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Mon, 28 Sep 2026 09:44:05 GMT",
-    "image": ""
-  },
-  {
-    "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
-    "link": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 28 Sep 2026 09:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/c68dda94943a6e093074e9e88fd5ddef/6aba9c533d6332d60a0bb99a_nvidia-open-agent-safety-platform/nvidia-open-agent-safety-platform_thmb.png?v=f9cea0c6-00ad-4b7f-b0a0-6bc06b39af63"
-  },
-  {
     "title": "Introducing Gemini 3.8 Live with Live Avatar",
     "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Thu, 24 Sep 2026 16:20:39 +0000",
     "image": ""
-  },
-  {
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 24 Sep 2026 14:08:57 GMT",
-    "image": ""
-  },
-  {
-    "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-    "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 24 Sep 2026 14:00:50 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/306cbf129044501629326e0a7a1e125d/6ab52d223d63321fe4743d17_AF-0000000212056767-master-black-background-842x450/AF-0000000212056767-master-black-background-842x450_thmb.jpg?v=c4bfe338-2832-4d7f-957b-9d6c1481f447"
   },
   {
     "title": "Advancing Private AI Compute with secure, server-side memory",
