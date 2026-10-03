@@ -13,6 +13,7 @@
   <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="/css/style.css">
   <link rel="stylesheet" href="/css/post-renderer.css">
+  <link rel="stylesheet" href="/css/dashboard.css">
 </head>
 <body>
   <div id="container">
@@ -37,12 +38,13 @@
           .then(html => { document.getElementById('dashboard-container').innerHTML = html; })
           .catch(err => console.error('dashboard load failed:', err));
       </script>
+      <script src="/js/ai-news.js"></script>
 
       <div class="outer">
         <section id="main" class="tag-page">
           <header class="tag-header">
             <h1 class="tag-title">#AI Coding</h1>
-            <p class="tag-count">1 篇文章</p>
+            <p class="tag-count">2 篇文章</p>
           </header>
           <ul class="post-list">
               <li class="post-list-item">
@@ -51,6 +53,13 @@
                   <time class="post-list-date">2026-05-09</time>
                 </a>
                 <p class="post-list-excerpt">AI编程的常用prompt。</p>
+              </li>
+              <li class="post-list-item">
+                <a class="post-list-link" href="/posts/ai-coding/claude-code%E5%AE%89%E8%A3%85%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/">
+                  <span class="post-list-title">Claude Code安装与核心插件配置指南</span>
+                  <time class="post-list-date">2026-05-11</time>
+                </a>
+                <p class="post-list-excerpt">A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team&#39;s pr</p>
               </li>
           </ul>
         </section>
@@ -64,7 +73,7 @@
       <div class="outer">
         <div id="footer-info" class="inner">
           &copy; 2026 thomasliu<br>
-          内容采集自极客时间，仅作个人学习笔记使用
+          
         </div>
       </div>
     </footer>
