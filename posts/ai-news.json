@@ -1,10 +1,82 @@
 [
   {
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sat, 03 Oct 2026 00:45:39 +0000",
+    "image": ""
+  },
+  {
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000",
+    "image": ""
+  },
+  {
+    "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 02 Oct 2026 19:15:51 +0000",
+    "image": ""
+  },
+  {
+    "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
+    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 02 Oct 2026 18:11:27 +0000",
+    "image": ""
+  },
+  {
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 02 Oct 2026 17:56:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[A model guide for the GPT-6 family]]>",
+    "link": "https://openai.com/index/practical-guide-building-gpt-6",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 02 Oct 2026 16:15:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 02 Oct 2026 15:19:50 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+    "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Fri, 02 Oct 2026 13:00:39 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445"
+  },
+  {
     "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
     "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Fri, 02 Oct 2026 04:01:31 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Chatham scales its capital markets expertise with OpenAI]]>",
+    "link": "https://openai.com/index/chatham-financial",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 02 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -14,46 +86,6 @@
     "description": "",
     "pubDate": "Thu, 01 Oct 2026 23:44:13 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202610/d1cb38eec4ee290ac0fea39ce15a35d8/6abef08d3d6332a948f30c2f_twitter-gif-2104993966043320759-v5-842x450/twitter-gif-2104993966043320759-v5-842x450_thmb.jpg?v=f8092bd5-856c-4205-8168-bfcda2d24714"
-  },
-  {
-    "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#8217;s president",
-    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 01 Oct 2026 21:08:11 +0000",
-    "image": ""
-  },
-  {
-    "title": "ChatGPT can now virtually try on clothes for you",
-    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 01 Oct 2026 19:21:53 +0000",
-    "image": ""
-  },
-  {
-    "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
-    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 01 Oct 2026 19:18:03 +0000",
-    "image": ""
-  },
-  {
-    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 01 Oct 2026 18:14:42 +0000",
-    "image": ""
-  },
-  {
-    "title": "Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tells)",
-    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 01 Oct 2026 17:50:19 +0000",
-    "image": ""
   },
   {
     "title": "<![CDATA[The eternal complement]]>",
@@ -69,14 +101,6 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "link": "https://huggingface.co/blog/allenai/olmocore3",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 01 Oct 2026 15:01:43 GMT",
     "image": ""
   },
   {
@@ -126,30 +150,6 @@
     "description": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
     "pubDate": "Wed, 30 Sep 2026 15:03:07 +0000",
     "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-    "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 30 Sep 2026 15:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/c994f47c6b49141a96a67fed66981be3/6abd25513d633284ffca0d51_logo-lockup-corp-blog-coreweave-1280x680-1-842x450/logo-lockup-corp-blog-coreweave-1280x680-1-842x450_thmb.jpg?v=6db82ef4-6b4a-4ab3-a03a-5bf1d18cd178"
-  },
-  {
-    "title": "<![CDATA[Disrupting a coordinated model-distillation campaign]]>",
-    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 30 Sep 2026 10:30:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Helping small businesses put AI to work]]>",
-    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 30 Sep 2026 10:00:00 GMT",
-    "image": ""
   },
   {
     "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
