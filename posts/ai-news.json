@@ -1,5 +1,37 @@
 [
   {
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Sat, 03 Oct 2026 22:56:48 GMT",
+    "image": ""
+  },
+  {
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000",
+    "image": ""
+  },
+  {
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
+    "image": ""
+  },
+  {
+    "title": "All the AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000",
+    "image": ""
+  },
+  {
     "title": "Meta wants your next gadget to be Muse-infused",
     "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
     "source": "TechCrunch AI",
@@ -13,30 +45,6 @@
     "source": "TechCrunch AI",
     "description": "",
     "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000",
-    "image": ""
-  },
-  {
-    "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 02 Oct 2026 19:15:51 +0000",
-    "image": ""
-  },
-  {
-    "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 02 Oct 2026 18:11:27 +0000",
-    "image": ""
-  },
-  {
-    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 02 Oct 2026 17:56:00 +0000",
     "image": ""
   },
   {
@@ -165,14 +173,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Tue, 29 Sep 2026 15:30:38 GMT",
-    "image": ""
-  },
-  {
-    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 29 Sep 2026 13:07:00 GMT",
     "image": ""
   },
   {
