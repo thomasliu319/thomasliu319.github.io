@@ -1,26 +1,74 @@
 [
   {
-    "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
-    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "source": "TechCrunch AI",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Sun, 04 Oct 2026 20:31:07 +0000",
+    "pubDate": "Tue, 06 Oct 2026 06:44:39 GMT",
     "image": ""
   },
   {
-    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 04 Oct 2026 20:08:34 +0000",
+    "pubDate": "Mon, 05 Oct 2026 20:36:48 +0000",
     "image": ""
   },
   {
-    "title": "Trump unveils his new Super Intelligence Force",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 04 Oct 2026 15:15:10 +0000",
+    "pubDate": "Mon, 05 Oct 2026 19:33:53 +0000",
+    "image": ""
+  },
+  {
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 05 Oct 2026 18:54:30 +0000",
+    "image": ""
+  },
+  {
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 05 Oct 2026 18:29:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Hot Girl Hotline is like &#8216;Dear Abby&#8217; for the AI era",
+    "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 05 Oct 2026 17:29:22 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Our approach to EU text provenance rules]]>",
+    "link": "https://openai.com/index/eu-text-provenance",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 05 Oct 2026 15:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+    "link": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 05 Oct 2026 13:00:57 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/b1939cc201efc5ee8ba102ec352c5311/6ac39fbe3d6332b35f1da8a7_AdobeStock_422714256_BCAMheader-842x450/AdobeStock_422714256_BCAMheader-842x450_thmb.jpg?v=24711c28-a239-42ba-a70d-9ac1f41ba238"
+  },
+  {
+    "title": "<![CDATA[Building advertising for the way people use AI]]>",
+    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 05 Oct 2026 10:00:00 GMT",
     "image": ""
   },
   {
@@ -29,22 +77,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Sat, 03 Oct 2026 22:56:48 GMT",
-    "image": ""
-  },
-  {
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000",
-    "image": ""
-  },
-  {
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
     "image": ""
   },
   {
@@ -104,14 +136,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[How Albertsons Companies is reimagining retail from the inside out]]>",
-    "link": "https://openai.com/index/albertsons-reimagining-retail",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Fall Into 25 New Games on GeForce NOW This October",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
     "source": "NVIDIA Blog",
@@ -128,28 +152,12 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/810a8175b65f5945603f8af1a6039432/6abe5a043d6332bec0d2cd2d_fungibility-blog-1280x680-1-842x450/fungibility-blog-1280x680-1-842x450_thmb.jpg?v=ee5f6585-1b63-483c-a624-b8a1a8451244"
   },
   {
-    "title": "<![CDATA[The Den frees up 10-15 hours a week to grow with ChatGPT Work]]>",
-    "link": "https://openai.com/index/the-den-family-social",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 01 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Gemini 4 Argon: our next era of frontier intelligence",
     "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
     "image": ""
-  },
-  {
-    "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
-    "link": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 30 Sep 2026 17:00:21 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202609/ee1928d508ca963c894784a02b6113fd/6abd40523d633214cb8a7db4_graduate-fellowship-2026-updated-842x450/graduate-fellowship-2026-updated-842x450_thmb.jpg?v=d8ac71cd-fe6d-4082-8263-cb768ed942f1"
   },
   {
     "title": "Introducing SynthID Bio",
@@ -165,14 +173,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Wed, 30 Sep 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 29 Sep 2026 15:30:38 GMT",
     "image": ""
   },
   {
