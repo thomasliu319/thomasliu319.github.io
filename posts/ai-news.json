@@ -1,50 +1,98 @@
 [
   {
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 06 Oct 2026 22:34:03 +0000",
+    "image": ""
+  },
+  {
+    "title": "How AI decision models could change content moderation",
+    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 06 Oct 2026 20:35:20 +0000",
+    "image": ""
+  },
+  {
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 06 Oct 2026 20:00:30 +0000",
+    "image": ""
+  },
+  {
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
+    "image": ""
+  },
+  {
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 06 Oct 2026 19:56:50 +0000",
+    "image": ""
+  },
+  {
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 06 Oct 2026 18:22:45 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Atlassian and OpenAI expand partnership to turn enterprise knowledge into action]]>",
+    "link": "https://openai.com/index/atlassian-partnership",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+    "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 06 Oct 2026 13:00:19 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b"
+  },
+  {
+    "title": "<![CDATA[How Jump Trading is scaling quant research with ChatGPT]]>",
+    "link": "https://openai.com/index/jump-trading",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Sharing AI progress in mathematics]]>",
+    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Advancing computer use with Ironclad]]>",
+    "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 06 Oct 2026 10:00:00 GMT",
+    "image": ""
+  },
+  {
     "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
     "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Tue, 06 Oct 2026 06:44:39 GMT",
-    "image": ""
-  },
-  {
-    "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
-    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 05 Oct 2026 20:36:48 +0000",
-    "image": ""
-  },
-  {
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 05 Oct 2026 19:33:53 +0000",
-    "image": ""
-  },
-  {
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 05 Oct 2026 18:54:30 +0000",
-    "image": ""
-  },
-  {
-    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-    "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 05 Oct 2026 18:29:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "Hot Girl Hotline is like &#8216;Dear Abby&#8217; for the AI era",
-    "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 05 Oct 2026 17:29:22 +0000",
     "image": ""
   },
   {
@@ -64,27 +112,11 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/b1939cc201efc5ee8ba102ec352c5311/6ac39fbe3d6332b35f1da8a7_AdobeStock_422714256_BCAMheader-842x450/AdobeStock_422714256_BCAMheader-842x450_thmb.jpg?v=24711c28-a239-42ba-a70d-9ac1f41ba238"
   },
   {
-    "title": "<![CDATA[Building advertising for the way people use AI]]>",
-    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 05 Oct 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "The Agent Said It Was Done. The Database Disagreed.",
     "link": "https://huggingface.co/blog/microsoft/thinkingbox",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Sat, 03 Oct 2026 22:56:48 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[A model guide for the GPT-6 family]]>",
-    "link": "https://openai.com/index/practical-guide-building-gpt-6",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 02 Oct 2026 16:15:00 GMT",
     "image": ""
   },
   {
@@ -112,14 +144,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Chatham scales its capital markets expertise with OpenAI]]>",
-    "link": "https://openai.com/index/chatham-financial",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 02 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
     "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
     "source": "NVIDIA Blog",
@@ -128,28 +152,12 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/d1cb38eec4ee290ac0fea39ce15a35d8/6abef08d3d6332a948f30c2f_twitter-gif-2104993966043320759-v5-842x450/twitter-gif-2104993966043320759-v5-842x450_thmb.jpg?v=f8092bd5-856c-4205-8168-bfcda2d24714"
   },
   {
-    "title": "<![CDATA[The eternal complement]]>",
-    "link": "https://openai.com/index/the-eternal-complement",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 01 Oct 2026 17:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Fall Into 25 New Games on GeForce NOW This October",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Thu, 01 Oct 2026 13:00:54 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202610/8c18cff77482434dbac5135b5d20689f/6abe59c33d6332bdba437e62_GFN_Thursday-Oct_1-842x450/GFN_Thursday-Oct_1-842x450_thmb.jpg?v=b1ce4094-2b6d-413d-ae5f-ccc418dcbe24"
-  },
-  {
-    "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-    "link": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 01 Oct 2026 13:00:49 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/810a8175b65f5945603f8af1a6039432/6abe5a043d6332bec0d2cd2d_fungibility-blog-1280x680-1-842x450/fungibility-blog-1280x680-1-842x450_thmb.jpg?v=ee5f6585-1b63-483c-a624-b8a1a8451244"
   },
   {
     "title": "Gemini 4 Argon: our next era of frontier intelligence",
@@ -190,13 +198,5 @@
     "description": "Introducing private, server-side memory to Private AI Compute for personal AI.",
     "pubDate": "Wed, 23 Sep 2026 16:00:57 +0000",
     "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Wed, 23 Sep 2026 15:25:14 +0000",
-    "image": ""
   }
 ]
