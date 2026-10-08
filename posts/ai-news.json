@@ -1,26 +1,90 @@
 [
   {
-    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 06 Oct 2026 22:34:03 +0000",
+    "pubDate": "Wed, 07 Oct 2026 20:48:45 +0000",
     "image": ""
   },
   {
-    "title": "How AI decision models could change content moderation",
-    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 06 Oct 2026 20:35:20 +0000",
+    "pubDate": "Wed, 07 Oct 2026 20:22:37 +0000",
     "image": ""
   },
   {
-    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents",
+    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 07 Oct 2026 18:45:28 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202111/618c4510ed6ae54e51b85162_nv-blog-preview-1280x680-1-842x450/nv-blog-preview-1280x680-1-842x450_thmb.jpg?v=7f16f52c-ffb3-4f7e-a25d-61580f0dc38c"
+  },
+  {
+    "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
+    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 06 Oct 2026 20:00:30 +0000",
+    "pubDate": "Wed, 07 Oct 2026 18:30:57 +0000",
+    "image": ""
+  },
+  {
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 07 Oct 2026 18:15:28 +0000",
+    "image": ""
+  },
+  {
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 07 Oct 2026 18:00:19 +0000",
+    "image": ""
+  },
+  {
+    "title": "Multimodal open d1 decision models for the edge",
+    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 07 Oct 2026 16:54:33 GMT",
+    "image": ""
+  },
+  {
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 07 Oct 2026 12:45:31 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Helping teens learn, plan, and shape the future of AI]]>",
+    "link": "https://openai.com/index/teens-learn-and-plan",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 07 Oct 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Radisson Hotel Group brings hotel discovery into ChatGPT]]>",
+    "link": "https://openai.com/index/radisson",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[GPT-6 and Intelligent UI for everyone]]>",
+    "link": "https://openai.com/index/gpt-6-for-everyone",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 07 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -29,30 +93,6 @@
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
-    "image": ""
-  },
-  {
-    "title": "The next hurdle for AI agents: getting websites to let them in",
-    "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 06 Oct 2026 19:56:50 +0000",
-    "image": ""
-  },
-  {
-    "title": "Hark releases an AI personal assistant with a focus on privacy",
-    "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 06 Oct 2026 18:22:45 +0000",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Atlassian and OpenAI expand partnership to turn enterprise knowledge into action]]>",
-    "link": "https://openai.com/index/atlassian-partnership",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
     "image": ""
   },
   {
@@ -77,30 +117,6 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Tue, 06 Oct 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Advancing computer use with Ironclad]]>",
-    "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 06 Oct 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 06 Oct 2026 06:44:39 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Our approach to EU text provenance rules]]>",
-    "link": "https://openai.com/index/eu-text-provenance",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 05 Oct 2026 15:00:00 GMT",
     "image": ""
   },
   {
@@ -152,14 +168,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/d1cb38eec4ee290ac0fea39ce15a35d8/6abef08d3d6332a948f30c2f_twitter-gif-2104993966043320759-v5-842x450/twitter-gif-2104993966043320759-v5-842x450_thmb.jpg?v=f8092bd5-856c-4205-8168-bfcda2d24714"
   },
   {
-    "title": "Fall Into 25 New Games on GeForce NOW This October",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 01 Oct 2026 13:00:54 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/8c18cff77482434dbac5135b5d20689f/6abe59c33d6332bdba437e62_GFN_Thursday-Oct_1-842x450/GFN_Thursday-Oct_1-842x450_thmb.jpg?v=b1ce4094-2b6d-413d-ae5f-ccc418dcbe24"
-  },
-  {
     "title": "Gemini 4 Argon: our next era of frontier intelligence",
     "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
     "source": "Google DeepMind",
@@ -174,14 +182,6 @@
     "description": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
     "pubDate": "Wed, 30 Sep 2026 15:03:07 +0000",
     "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "link": "https://huggingface.co/blog/open-tts-leaderboard",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 30 Sep 2026 00:00:00 GMT",
-    "image": ""
   },
   {
     "title": "Introducing Gemini 3.8 Live with Live Avatar",
