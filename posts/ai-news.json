@@ -1,18 +1,106 @@
 [
   {
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "link": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 21:06:35 GMT",
+    "image": "/static/images/video.png"
+  },
+  {
+    "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 07 Oct 2026 20:48:45 +0000",
+    "pubDate": "Thu, 08 Oct 2026 21:00:00 +0000",
     "image": ""
   },
   {
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 07 Oct 2026 20:22:37 +0000",
+    "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000",
+    "image": ""
+  },
+  {
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 18:20:32 +0000",
+    "image": ""
+  },
+  {
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 18:19:45 +0000",
+    "image": ""
+  },
+  {
+    "title": "OpenAI&#8217;s revenue is reportedly $20 billion less than previously projected",
+    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How Oracle turns days of work into minutes with ChatGPT and Codex]]>",
+    "link": "https://openai.com/index/oracle",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 16:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 14:31:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"
+  },
+  {
+    "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 13:00:46 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/14fc8824076bdbffd0180b4d98e2a79b/6ac794223d6332663e580326_gfn-thursday-10-8-blog-1920x1080-logo-842x450/gfn-thursday-10-8-blog-1920x1080-logo-842x450_thmb.jpg?v=7dd5c271-5882-4cc5-9a64-7cb2b537e175"
+  },
+  {
+    "title": "<![CDATA[Pollo AI turns creative ideas into campaigns with OpenAI]]>",
+    "link": "https://openai.com/index/pollo-ai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[LegalOn halves Codex costs while maintaining development speed]]>",
+    "link": "https://openai.com/index/legalon-halves-codex-costs",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Disrupting AI-enabled “false front” operations]]>",
+    "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "The model that didn't exist, so you made it yourself",
+    "link": "https://huggingface.co/blog/building-with-ml-intern",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -24,35 +112,19 @@
     "image": "https://iprsoftwaremedia.com/219/files/202111/618c4510ed6ae54e51b85162_nv-blog-preview-1280x680-1-842x450/nv-blog-preview-1280x680-1-842x450_thmb.jpg?v=7f16f52c-ffb3-4f7e-a25d-61580f0dc38c"
   },
   {
-    "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
-    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 07 Oct 2026 18:30:57 +0000",
-    "image": ""
-  },
-  {
-    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-    "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 07 Oct 2026 18:15:28 +0000",
-    "image": ""
-  },
-  {
-    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-    "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 07 Oct 2026 18:00:19 +0000",
-    "image": ""
-  },
-  {
     "title": "Multimodal open d1 decision models for the edge",
     "link": "https://huggingface.co/blog/LiquidAI/open-d1",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Wed, 07 Oct 2026 16:54:33 GMT",
+    "image": ""
+  },
+  {
+    "title": "Introducing Falcon ASR",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 07 Oct 2026 13:21:03 GMT",
     "image": ""
   },
   {
@@ -72,22 +144,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Radisson Hotel Group brings hotel discovery into ChatGPT]]>",
-    "link": "https://openai.com/index/radisson",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[GPT-6 and Intelligent UI for everyone]]>",
-    "link": "https://openai.com/index/gpt-6-for-everyone",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 07 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
     "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
     "source": "Google DeepMind",
@@ -104,68 +160,12 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b"
   },
   {
-    "title": "<![CDATA[How Jump Trading is scaling quant research with ChatGPT]]>",
-    "link": "https://openai.com/index/jump-trading",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 06 Oct 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Sharing AI progress in mathematics]]>",
-    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 06 Oct 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-    "link": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 05 Oct 2026 13:00:57 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/b1939cc201efc5ee8ba102ec352c5311/6ac39fbe3d6332b35f1da8a7_AdobeStock_422714256_BCAMheader-842x450/AdobeStock_422714256_BCAMheader-842x450_thmb.jpg?v=24711c28-a239-42ba-a70d-9ac1f41ba238"
-  },
-  {
     "title": "The Agent Said It Was Done. The Database Disagreed.",
     "link": "https://huggingface.co/blog/microsoft/thinkingbox",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Sat, 03 Oct 2026 22:56:48 GMT",
     "image": ""
-  },
-  {
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "link": "https://huggingface.co/blog/allenai/astabrief",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 02 Oct 2026 15:19:50 GMT",
-    "image": ""
-  },
-  {
-    "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-    "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Fri, 02 Oct 2026 13:00:39 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445"
-  },
-  {
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 02 Oct 2026 04:01:31 GMT",
-    "image": ""
-  },
-  {
-    "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-    "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 01 Oct 2026 23:44:13 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/d1cb38eec4ee290ac0fea39ce15a35d8/6abef08d3d6332a948f30c2f_twitter-gif-2104993966043320759-v5-842x450/twitter-gif-2104993966043320759-v5-842x450_thmb.jpg?v=f8092bd5-856c-4205-8168-bfcda2d24714"
   },
   {
     "title": "Gemini 4 Argon: our next era of frontier intelligence",
