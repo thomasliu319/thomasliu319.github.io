@@ -1,202 +1,202 @@
 [
   {
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 04 Jul 2026 20:55:25 +0000",
+    "pubDate": "Sat, 10 Oct 2026 00:18:32 +0000",
     "image": ""
   },
   {
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 04 Jul 2026 18:00:05 +0000",
+    "pubDate": "Fri, 09 Oct 2026 21:41:29 +0000",
     "image": ""
   },
   {
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 04 Jul 2026 16:32:08 +0000",
+    "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
     "image": ""
   },
   {
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 04 Jul 2026 15:51:32 +0000",
+    "pubDate": "Fri, 09 Oct 2026 16:56:42 +0000",
     "image": ""
   },
   {
-    "title": "The only AI glossary you&#8217;ll need this year",
-    "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Fri, 03 Jul 2026 21:20:00 +0000",
+    "pubDate": "Fri, 09 Oct 2026 16:53:02 +0000",
     "image": ""
   },
   {
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Fri, 03 Jul 2026 14:25:43 +0000",
-    "image": ""
-  },
-  {
-    "title": "Joyride Through July With 12 Games Coming to GeForce NOW",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 02 Jul 2026 13:00:23 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/f38ec34046598385e3332bcd64a51247/6a4661303d6332ed559e1208_gfn-thursday-7-2-blog-2048x1024-no-copy-logo-842x450/gfn-thursday-7-2-blog-2048x1024-no-copy-logo-842x450_thmb.jpg"
-  },
-  {
-    "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Capital Partners to Power the AI Infrastructure Buildout",
-    "link": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 02 Jul 2026 03:34:48 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg"
-  },
-  {
-    "title": "NVIDIA and Partners Build in America, for America",
-    "link": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 01 Jul 2026 13:00:47 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg"
-  },
-  {
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "title": "Impactful scheduling for GPU clusters",
+    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
     "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Wed, 01 Jul 2026 00:00:00 GMT",
+    "pubDate": "Fri, 09 Oct 2026 15:20:29 GMT",
     "image": ""
   },
   {
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "source": "Hugging Face Blog",
+    "title": "<![CDATA[Sophos cuts threat investigation time by 96% with OpenAI Daybreak]]>",
+    "link": "https://openai.com/index/sophos",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Tue, 30 Jun 2026 18:32:50 GMT",
+    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
     "image": ""
   },
   {
-    "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
-    "link": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+    "title": "<![CDATA[Asana cuts model costs 76x in browser tests with GPT-6.1 Sol]]>",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "link": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
     "source": "NVIDIA Blog",
     "description": "",
-    "pubDate": "Tue, 30 Jun 2026 17:00:38 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202606/87fcaecc8e2e0705958c997424700a1a/6a43f6783d6332202b542014_anthropic-nvidia-842x450/anthropic-nvidia-842x450_thmb.jpg"
+    "pubDate": "Thu, 08 Oct 2026 21:06:35 GMT",
+    "image": "/static/images/video.png"
   },
   {
-    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "source": "Google DeepMind",
+    "title": "<![CDATA[How Oracle turns days of work into minutes with ChatGPT and Codex]]>",
+    "link": "https://openai.com/index/oracle",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Tue, 30 Jun 2026 16:02:40 +0000",
+    "pubDate": "Thu, 08 Oct 2026 16:00:00 GMT",
     "image": ""
   },
   {
-    "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
-    "link": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+    "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
     "source": "NVIDIA Blog",
     "description": "",
-    "pubDate": "Tue, 30 Jun 2026 15:00:57 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202606/46eca8102541963ace8bb69d9d7d8481/6a43da813d6332962ecebe9c_press-inference-ai-aws-beat-1920x1080-1-842x450/press-inference-ai-aws-beat-1920x1080-1-842x450_thmb.jpg"
+    "pubDate": "Thu, 08 Oct 2026 14:31:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"
   },
   {
-    "title": "Why Specialization Is Inevitable",
-    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 13:00:46 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/14fc8824076bdbffd0180b4d98e2a79b/6ac794223d6332663e580326_gfn-thursday-10-8-blog-1920x1080-logo-842x450/gfn-thursday-10-8-blog-1920x1080-logo-842x450_thmb.jpg?v=7dd5c271-5882-4cc5-9a64-7cb2b537e175"
+  },
+  {
+    "title": "<![CDATA[Pollo AI turns creative ideas into campaigns with OpenAI]]>",
+    "link": "https://openai.com/index/pollo-ai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[LegalOn halves Codex costs while maintaining development speed]]>",
+    "link": "https://openai.com/index/legalon-halves-codex-costs",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "The model that didn't exist, so you made it yourself",
+    "link": "https://huggingface.co/blog/building-with-ml-intern",
     "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Tue, 30 Jun 2026 14:39:11 GMT",
+    "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "<![CDATA[How ChatGPT adoption has expanded]]>",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "source": "OpenAI Blog",
+    "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents",
+    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+    "source": "NVIDIA Blog",
     "description": "",
-    "pubDate": "Tue, 30 Jun 2026 09:00:00 GMT",
-    "image": ""
+    "pubDate": "Wed, 07 Oct 2026 18:45:28 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202111/618c4510ed6ae54e51b85162_nv-blog-preview-1280x680-1-842x450/nv-blog-preview-1280x680-1-842x450_thmb.jpg?v=7f16f52c-ffb3-4f7e-a25d-61580f0dc38c"
   },
   {
-    "title": "<![CDATA[Inside Genebench-Pro]]>",
-    "link": "https://openai.com/index/genebench-pro/case-studies",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Introducing GeneBench-Pro]]>",
-    "link": "https://openai.com/index/introducing-genebench-pro",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Core dump epidemiology: fixing an 18-year-old bug]]>",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-    "link": "https://huggingface.co/blog/eee-community-evals",
+    "title": "Multimodal open d1 decision models for the edge",
+    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
     "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "pubDate": "Wed, 07 Oct 2026 16:54:33 GMT",
     "image": ""
   },
   {
-    "title": "DiScoFormer: One transformer for density and score, across distributions",
-    "link": "https://huggingface.co/blog/allenai/discoformer",
+    "title": "Introducing Falcon ASR",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
     "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Mon, 29 Jun 2026 18:02:48 GMT",
+    "pubDate": "Wed, 07 Oct 2026 13:21:03 GMT",
     "image": ""
   },
   {
-    "title": "<![CDATA[Mapping Europe’s AI Workforce Opportunity]]>",
-    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "source": "OpenAI Blog",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "pubDate": "Wed, 07 Oct 2026 12:45:31 GMT",
     "image": ""
   },
   {
-    "title": "Introducing computer use in Gemini 3.5 Flash",
-    "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
     "source": "Google DeepMind",
     "description": "",
-    "pubDate": "Wed, 24 Jun 2026 16:30:01 +0000",
+    "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
     "image": ""
   },
   {
-    "title": "Unlocking UK house-building with AI-accelerated planning",
-    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "source": "Google DeepMind",
-    "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-    "pubDate": "Tue, 16 Jun 2026 21:29:50 +0000",
-    "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo"
+    "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+    "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 06 Oct 2026 13:00:19 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b"
   },
   {
-    "title": "Securing the future of AI agents",
-    "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
     "source": "Google DeepMind",
-    "description": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
-    "pubDate": "Tue, 16 Jun 2026 15:46:31 +0000",
-    "image": "https://lh3.googleusercontent.com/X6w_t9eA7TLFiq3JMp1kXlon25qi9N6O0AxPyp7j0qOIu8oz-QDsaOP-oKz7FIuqlA3W1evDbeLYssDJM_fjkqeyscPO_fHJd0xeD0IoDlHkiUQW1w=w528-h297-n-nu-rw-lo"
+    "description": "",
+    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
+    "image": ""
+  },
+  {
+    "title": "Introducing SynthID Bio",
+    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "source": "Google DeepMind",
+    "description": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "pubDate": "Wed, 30 Sep 2026 15:03:07 +0000",
+    "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Thu, 24 Sep 2026 16:20:39 +0000",
+    "image": ""
+  },
+  {
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "source": "Google DeepMind",
+    "description": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "pubDate": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo"
   }
 ]
