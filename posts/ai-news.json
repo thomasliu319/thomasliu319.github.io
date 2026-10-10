@@ -1,51 +1,75 @@
 [
   {
+    "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sat, 10 Oct 2026 00:18:32 +0000",
+    "image": ""
+  },
+  {
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 09 Oct 2026 21:41:29 +0000",
+    "image": ""
+  },
+  {
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
+    "image": ""
+  },
+  {
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 09 Oct 2026 16:56:42 +0000",
+    "image": ""
+  },
+  {
+    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 09 Oct 2026 16:53:02 +0000",
+    "image": ""
+  },
+  {
+    "title": "Impactful scheduling for GPU clusters",
+    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 09 Oct 2026 15:20:29 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Sophos cuts threat investigation time by 96% with OpenAI Daybreak]]>",
+    "link": "https://openai.com/index/sophos",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Asana cuts model costs 76x in browser tests with GPT-6.1 Sol]]>",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "image": ""
+  },
+  {
     "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
     "link": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Thu, 08 Oct 2026 21:06:35 GMT",
     "image": "/static/images/video.png"
-  },
-  {
-    "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
-    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 21:00:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000",
-    "image": ""
-  },
-  {
-    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 18:20:32 +0000",
-    "image": ""
-  },
-  {
-    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 18:19:45 +0000",
-    "image": ""
-  },
-  {
-    "title": "OpenAI&#8217;s revenue is reportedly $20 billion less than previously projected",
-    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000",
-    "image": ""
   },
   {
     "title": "<![CDATA[How Oracle turns days of work into minutes with ChatGPT and Codex]]>",
@@ -85,14 +109,6 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Disrupting AI-enabled “false front” operations]]>",
-    "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -136,14 +152,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Helping teens learn, plan, and shape the future of AI]]>",
-    "link": "https://openai.com/index/teens-learn-and-plan",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 07 Oct 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
     "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
     "source": "Google DeepMind",
@@ -158,14 +166,6 @@
     "description": "",
     "pubDate": "Tue, 06 Oct 2026 13:00:19 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b"
-  },
-  {
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Sat, 03 Oct 2026 22:56:48 GMT",
-    "image": ""
   },
   {
     "title": "Gemini 4 Argon: our next era of frontier intelligence",
