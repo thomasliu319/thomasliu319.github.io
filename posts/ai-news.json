@@ -1,43 +1,75 @@
 [
   {
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "title": "NVIDIA Lands in Europe for GTC Berlin",
+    "link": "https://blogs.nvidia.com/gtc-berlin-2026-news/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 05:13:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20269/576359a162f64f9983d9b3de77530626/6acdbe983d633269055dc501_france-germany-european-commission-collaboration-social-1920x1080-5822338/france-germany-european-commission-collaboration-social-1920x1080-5822338_thmb.jpg?v=e3a43c90-678d-4e4d-b18a-856b0f5a0df1"
+  },
+  {
+    "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+    "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 05:00:31 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/f62fea35eec4b9278b81b95a5670bff3/6acdbb0e3d63327665b4e82e_france-ai-ecosystem-gtc-berlin-updated-842x450/france-ai-ecosystem-gtc-berlin-updated-842x450_thmb.jpg?v=f8e7dd8e-6113-46c6-bc47-ab9f7abd3a0d"
+  },
+  {
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 11 Oct 2026 21:14:40 +0000",
+    "pubDate": "Mon, 12 Oct 2026 17:56:56 +0000",
     "image": ""
   },
   {
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 11 Oct 2026 19:00:00 +0000",
+    "pubDate": "Mon, 12 Oct 2026 17:19:14 +0000",
     "image": ""
   },
   {
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 11 Oct 2026 16:52:33 +0000",
+    "pubDate": "Mon, 12 Oct 2026 15:45:00 +0000",
     "image": ""
   },
   {
-    "title": "These execs think voice AI hasn&#8217;t reached its ChatGPT moment yet",
-    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 11 Oct 2026 14:00:00 +0000",
+    "pubDate": "Mon, 12 Oct 2026 15:31:19 +0000",
     "image": ""
   },
   {
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 10 Oct 2026 21:47:51 +0000",
+    "pubDate": "Mon, 12 Oct 2026 15:27:59 +0000",
     "image": ""
+  },
+  {
+    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+    "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 12 Oct 2026 15:00:25 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/b714aa393d1a3d790925deb8cbedf198/6accf62c3d6332b0a1302305_gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450_thmb.jpg?v=153b22de-a263-454a-98d0-56e9978185ba"
+  },
+  {
+    "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 12 Oct 2026 15:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/bb0658e6668adfadaaf0477f22795d99/6acb0cef3d63325ab15dc4ff_ultra-dense-small-form-factor-pluggable/ultra-dense-small-form-factor-pluggable_thmb.jpg?v=6511e202-6a08-4834-996a-ced5c6faeac3"
   },
   {
     "title": "Impactful scheduling for GPU clusters",
@@ -80,22 +112,6 @@
     "image": ""
   },
   {
-    "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 14:31:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"
-  },
-  {
-    "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 13:00:46 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/14fc8824076bdbffd0180b4d98e2a79b/6ac794223d6332663e580326_gfn-thursday-10-8-blog-1920x1080-logo-842x450/gfn-thursday-10-8-blog-1920x1080-logo-842x450_thmb.jpg?v=7dd5c271-5882-4cc5-9a64-7cb2b537e175"
-  },
-  {
     "title": "<![CDATA[Pollo AI turns creative ideas into campaigns with OpenAI]]>",
     "link": "https://openai.com/index/pollo-ai",
     "source": "OpenAI Blog",
@@ -118,14 +134,6 @@
     "description": "",
     "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
     "image": ""
-  },
-  {
-    "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents",
-    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 07 Oct 2026 18:45:28 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202111/618c4510ed6ae54e51b85162_nv-blog-preview-1280x680-1-842x450/nv-blog-preview-1280x680-1-842x450_thmb.jpg?v=7f16f52c-ffb3-4f7e-a25d-61580f0dc38c"
   },
   {
     "title": "Multimodal open d1 decision models for the edge",
@@ -158,14 +166,6 @@
     "description": "",
     "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
     "image": ""
-  },
-  {
-    "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-    "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 06 Oct 2026 13:00:19 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b"
   },
   {
     "title": "Gemini 4 Argon: our next era of frontier intelligence",
