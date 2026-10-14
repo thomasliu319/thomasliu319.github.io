@@ -1,75 +1,131 @@
 [
   {
+    "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+    "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 14 Oct 2026 06:04:15 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/1af23f952ae234850928e304df2a723d/6acf1b663d63323a5bda7ff4_uk-ecosystem-industries-842x450/uk-ecosystem-industries-842x450_thmb.jpg?v=6e353cb1-d85d-4289-b5bc-338799d77208"
+  },
+  {
+    "title": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 14 Oct 2026 06:01:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"
+  },
+  {
+    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+    "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 14 Oct 2026 06:00:28 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/af99a5398b196a1a4eca380e548b0b20/6acf1aa43d6332373f7a92ba_gtc-berlin-smart-cities-blog-842x450/gtc-berlin-smart-cities-blog-842x450_thmb.jpg?v=04cdaffa-6cb8-4d97-b22b-f0511e272af3"
+  },
+  {
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "source": "Google DeepMind",
+    "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
+    "image": "https://lh3.googleusercontent.com/m134KeViYlQXqWaac-fW1TuTvCk1ZQ2EnHF72xH6anzjd4iKukfGHvV3o5PiDTJfSytjxUF2E1rwAAHlZ4ZyCkGkOHV7Uij2ZZ3zsbVZUAFCMCccZQ=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 23:13:31 +0000",
+    "image": ""
+  },
+  {
+    "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 23:05:34 +0000",
+    "image": ""
+  },
+  {
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 23:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 22:36:59 +0000",
+    "image": ""
+  },
+  {
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 20:36:44 +0000",
+    "image": ""
+  },
+  {
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 19:43:07 +0000",
+    "image": ""
+  },
+  {
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 17:05:48 GMT",
+    "image": ""
+  },
+  {
+    "title": "Gemini 4 Argon for Robotics",
+    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 16:01:58 +0000",
+    "image": ""
+  },
+  {
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 16:01:52 +0000",
+    "image": ""
+  },
+  {
+    "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 12:00:49 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/bbc6b9cdf14fbe5f7664f977c0ea5447/6ace1dde3d63325cfcf07f50_nv-raig-weekly-kit-10132026-nv-blog-1280x680-1-842x450/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1-842x450_thmb.jpg?v=3d8579af-d065-4e3d-8444-5cd8f6dbb823"
+  },
+  {
+    "title": "<![CDATA[Higgsfield takes AI video from 1 minute to over 10]]>",
+    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 13 Oct 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
     "title": "NVIDIA Lands in Europe for GTC Berlin",
     "link": "https://blogs.nvidia.com/gtc-berlin-2026-news/",
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Tue, 13 Oct 2026 05:13:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/20269/576359a162f64f9983d9b3de77530626/6acdbe983d633269055dc501_france-germany-european-commission-collaboration-social-1920x1080-5822338/france-germany-european-commission-collaboration-social-1920x1080-5822338_thmb.jpg?v=e3a43c90-678d-4e4d-b18a-856b0f5a0df1"
-  },
-  {
-    "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
-    "link": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 13 Oct 2026 05:00:31 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/f62fea35eec4b9278b81b95a5670bff3/6acdbb0e3d63327665b4e82e_france-ai-ecosystem-gtc-berlin-updated-842x450/france-ai-ecosystem-gtc-berlin-updated-842x450_thmb.jpg?v=f8e7dd8e-6113-46c6-bc47-ab9f7abd3a0d"
-  },
-  {
-    "title": "Meta releases its first frontier model, Muse Wonder",
-    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 12 Oct 2026 17:56:56 +0000",
-    "image": ""
-  },
-  {
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 12 Oct 2026 17:19:14 +0000",
-    "image": ""
-  },
-  {
-    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 12 Oct 2026 15:45:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 12 Oct 2026 15:31:19 +0000",
-    "image": ""
-  },
-  {
-    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 12 Oct 2026 15:27:59 +0000",
-    "image": ""
-  },
-  {
-    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-    "link": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 12 Oct 2026 15:00:25 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/b714aa393d1a3d790925deb8cbedf198/6accf62c3d6332b0a1302305_gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450_thmb.jpg?v=153b22de-a263-454a-98d0-56e9978185ba"
-  },
-  {
-    "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 12 Oct 2026 15:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/bb0658e6668adfadaaf0477f22795d99/6acb0cef3d63325ab15dc4ff_ultra-dense-small-form-factor-pluggable/ultra-dense-small-form-factor-pluggable_thmb.jpg?v=6511e202-6a08-4834-996a-ced5c6faeac3"
   },
   {
     "title": "Impactful scheduling for GPU clusters",
@@ -96,14 +152,6 @@
     "image": ""
   },
   {
-    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-    "link": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 21:06:35 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/016b788b2d35ad703c42051807c2a4f2/6ac805fa3d63329b7859cf27_omniverse-overall-ov-x-astra-1920x1080-1/omniverse-overall-ov-x-astra-1920x1080-1_thmb.jpg?v=fa6d3afa-3fb1-41a9-a244-d472dfcb6b55"
-  },
-  {
     "title": "<![CDATA[How Oracle turns days of work into minutes with ChatGPT and Codex]]>",
     "link": "https://openai.com/index/oracle",
     "source": "OpenAI Blog",
@@ -120,27 +168,11 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[LegalOn halves Codex costs while maintaining development speed]]>",
-    "link": "https://openai.com/index/legalon-halves-codex-costs",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "The model that didn't exist, so you made it yourself",
     "link": "https://huggingface.co/blog/building-with-ml-intern",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Multimodal open d1 decision models for the edge",
-    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 07 Oct 2026 16:54:33 GMT",
     "image": ""
   },
   {
@@ -166,37 +198,5 @@
     "description": "",
     "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
     "image": ""
-  },
-  {
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
-    "image": ""
-  },
-  {
-    "title": "Introducing SynthID Bio",
-    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "source": "Google DeepMind",
-    "description": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "pubDate": "Wed, 30 Sep 2026 15:03:07 +0000",
-    "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Thu, 24 Sep 2026 16:20:39 +0000",
-    "image": ""
-  },
-  {
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "source": "Google DeepMind",
-    "description": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "pubDate": "Wed, 23 Sep 2026 16:00:57 +0000",
-    "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo"
   }
 ]
