@@ -1,5 +1,101 @@
 [
   {
+    "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+    "link": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 05:00:12 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/d11dc853704dbe0c7dafb78271a1f720/6ad05e303d633281a2481569_nordics-embrace-social-1920x1080-5822300-842x450/nordics-embrace-social-1920x1080-5822300-842x450_thmb.jpg?v=d81f8fb1-1e93-4113-a222-f03f5d62f3d3"
+  },
+  {
+    "title": "Figma announces new features to define how agents work on its platform",
+    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 04:30:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 01:01:32 +0000",
+    "image": ""
+  },
+  {
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 00:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website says different",
+    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
+    "image": ""
+  },
+  {
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 14 Oct 2026 18:23:46 +0000",
+    "image": ""
+  },
+  {
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 14 Oct 2026 16:12:42 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 14 Oct 2026 16:10:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/91e4671418fd42dd611fce974f821286/6aceab1a3d6332051d5dc521_nvidia-and-semiconductor-leaders/nvidia-and-semiconductor-leaders_thmb.jpg?v=5ac54765-981c-4c26-b6c2-cdd8daa42e94"
+  },
+  {
+    "title": "<![CDATA[Amp puts AI agents to work beyond code with OpenAI models]]>",
+    "link": "https://openai.com/index/amp-beyond-coding",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[SentinelOne cuts malware analysis from weeks to hours]]>",
+    "link": "https://openai.com/index/sentinelone",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How Third Moment Research runs 10,000 agents for 36+ hours]]>",
+    "link": "https://openai.com/index/third-moment-research",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How Block is building AI-powered security with OpenAI technology]]>",
+    "link": "https://openai.com/index/block-ai-powered-security",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "image": ""
+  },
+  {
     "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
     "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
     "source": "NVIDIA Blog",
@@ -29,46 +125,14 @@
     "source": "Google DeepMind",
     "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
     "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "image": "https://lh3.googleusercontent.com/m134KeViYlQXqWaac-fW1TuTvCk1ZQ2EnHF72xH6anzjd4iKukfGHvV3o5PiDTJfSytjxUF2E1rwAAHlZ4ZyCkGkOHV7Uij2ZZ3zsbVZUAFCMCccZQ=w528-h297-n-nu-rw-lo"
+    "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[The EU’s next chapter in AI is agentic]]>",
+    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Tue, 13 Oct 2026 23:13:31 +0000",
-    "image": ""
-  },
-  {
-    "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 13 Oct 2026 23:05:34 +0000",
-    "image": ""
-  },
-  {
-    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 13 Oct 2026 23:00:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 13 Oct 2026 22:36:59 +0000",
-    "image": ""
-  },
-  {
-    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 13 Oct 2026 20:36:44 +0000",
+    "pubDate": "Wed, 14 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -101,70 +165,6 @@
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Tue, 13 Oct 2026 16:01:52 +0000",
-    "image": ""
-  },
-  {
-    "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 13 Oct 2026 12:00:49 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/bbc6b9cdf14fbe5f7664f977c0ea5447/6ace1dde3d63325cfcf07f50_nv-raig-weekly-kit-10132026-nv-blog-1280x680-1-842x450/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1-842x450_thmb.jpg?v=3d8579af-d065-4e3d-8444-5cd8f6dbb823"
-  },
-  {
-    "title": "<![CDATA[Higgsfield takes AI video from 1 minute to over 10]]>",
-    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 13 Oct 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "NVIDIA Lands in Europe for GTC Berlin",
-    "link": "https://blogs.nvidia.com/gtc-berlin-2026-news/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 13 Oct 2026 05:13:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20269/576359a162f64f9983d9b3de77530626/6acdbe983d633269055dc501_france-germany-european-commission-collaboration-social-1920x1080-5822338/france-germany-european-commission-collaboration-social-1920x1080-5822338_thmb.jpg?v=e3a43c90-678d-4e4d-b18a-856b0f5a0df1"
-  },
-  {
-    "title": "Impactful scheduling for GPU clusters",
-    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 09 Oct 2026 15:20:29 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Sophos cuts threat investigation time by 96% with OpenAI Daybreak]]>",
-    "link": "https://openai.com/index/sophos",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Asana cuts model costs 76x in browser tests with GPT-6.1 Sol]]>",
-    "link": "https://openai.com/index/asana-browser-agent",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How Oracle turns days of work into minutes with ChatGPT and Codex]]>",
-    "link": "https://openai.com/index/oracle",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 16:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Pollo AI turns creative ideas into campaigns with OpenAI]]>",
-    "link": "https://openai.com/index/pollo-ai",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
     "image": ""
   },
   {
