@@ -1,50 +1,146 @@
 [
   {
-    "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
-    "link": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 16 Oct 2026 01:44:47 GMT",
+    "image": ""
+  },
+  {
+    "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
+    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
+    "image": ""
+  },
+  {
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 20:34:01 GMT",
+    "image": ""
+  },
+  {
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 20:04:53 +0000",
+    "image": ""
+  },
+  {
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 19:55:25 +0000",
+    "image": ""
+  },
+  {
+    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 19:14:26 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Bringing GPT-Rosalind to academic research labs]]>",
+    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+    "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 18:56:46 +0000",
+    "image": ""
+  },
+  {
+    "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
+    "link": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
     "source": "NVIDIA Blog",
     "description": "",
-    "pubDate": "Thu, 15 Oct 2026 05:00:12 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/d11dc853704dbe0c7dafb78271a1f720/6ad05e303d633281a2481569_nordics-embrace-social-1920x1080-5822300-842x450/nordics-embrace-social-1920x1080-5822300-842x450_thmb.jpg?v=d81f8fb1-1e93-4113-a222-f03f5d62f3d3"
+    "pubDate": "Thu, 15 Oct 2026 17:30:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/20269/e517972ce6ea647b2c088652f4a6c47c/6ad111e43d63320c839b1aba_JHH-Volvo-1600x900/JHH-Volvo-1600x900_thmb.jpg?v=8bb5a42f-7901-4d4b-b581-3e273067984b"
   },
   {
-    "title": "Figma announces new features to define how agents work on its platform",
-    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "source": "TechCrunch AI",
+    "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+    "source": "NVIDIA Blog",
     "description": "",
-    "pubDate": "Thu, 15 Oct 2026 04:30:00 +0000",
+    "pubDate": "Thu, 15 Oct 2026 17:00:23 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/e5eef2a45338109b7e6d80237afb8d8e/6ad1069d3d6332e50ab73366_press-nvidia-rtx-spark-launch-events-1920x1080-1-842x450/press-nvidia-rtx-spark-launch-events-1920x1080-1-842x450_thmb.jpg?v=d37e4c6c-59d0-463b-b352-9fc43a08dc9c"
+  },
+  {
+    "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+    "link": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 17:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_thmb.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5"
+  },
+  {
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "source": "Google DeepMind",
+    "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
+    "image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+    "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 15:00:24 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/1537766779024a2b34767af63823c4c6/6ad0ea933d633256e451ff7c_FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765-842x450/FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765-842x450_thmb.jpg?v=fdd21978-126e-4822-81aa-d850892d3765"
+  },
+  {
+    "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 13:00:59 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/677e6e6ccaa38ca91f968724d2a6579b/6ad0ce993d6332cc8ac0808c_GFN_Thursday_October_15_2026-842x450/GFN_Thursday_October_15_2026-842x450_thmb.jpg?v=edf71b41-f2fb-482c-a0cb-b89b1b58e5b2"
+  },
+  {
+    "title": "<![CDATA[Teaching students to think and learn through questions]]>",
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[Sullivan & Cromwell brings legal expertise into agreement review]]>",
+    "link": "https://openai.com/index/sullivan-cromwell",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Thu, 15 Oct 2026 01:01:32 +0000",
+    "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "source": "TechCrunch AI",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "link": "https://huggingface.co/blog/meta-muse-spark-open",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Thu, 15 Oct 2026 00:00:00 +0000",
+    "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website says different",
-    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-    "source": "TechCrunch AI",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "link": "https://huggingface.co/blog/flux-3",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
-    "image": ""
-  },
-  {
-    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 14 Oct 2026 18:23:46 +0000",
+    "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -54,14 +150,6 @@
     "description": "",
     "pubDate": "Wed, 14 Oct 2026 16:12:42 GMT",
     "image": ""
-  },
-  {
-    "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 14 Oct 2026 16:10:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/91e4671418fd42dd611fce974f821286/6aceab1a3d6332051d5dc521_nvidia-and-semiconductor-leaders/nvidia-and-semiconductor-leaders_thmb.jpg?v=5ac54765-981c-4c26-b6c2-cdd8daa42e94"
   },
   {
     "title": "<![CDATA[Amp puts AI agents to work beyond code with OpenAI models]]>",
@@ -80,46 +168,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[How Third Moment Research runs 10,000 agents for 36+ hours]]>",
-    "link": "https://openai.com/index/third-moment-research",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How Block is building AI-powered security with OpenAI technology]]>",
-    "link": "https://openai.com/index/block-ai-powered-security",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
-    "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 14 Oct 2026 06:04:15 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/1af23f952ae234850928e304df2a723d/6acf1b663d63323a5bda7ff4_uk-ecosystem-industries-842x450/uk-ecosystem-industries-842x450_thmb.jpg?v=6e353cb1-d85d-4289-b5bc-338799d77208"
-  },
-  {
-    "title": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 14 Oct 2026 06:01:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"
-  },
-  {
-    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-    "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 14 Oct 2026 06:00:28 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/af99a5398b196a1a4eca380e548b0b20/6acf1aa43d6332373f7a92ba_gtc-berlin-smart-cities-blog-842x450/gtc-berlin-smart-cities-blog-842x450_thmb.jpg?v=04cdaffa-6cb8-4d97-b22b-f0511e272af3"
-  },
-  {
     "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
     "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
     "source": "Google DeepMind",
@@ -128,27 +176,11 @@
     "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "<![CDATA[The EU’s next chapter in AI is agentic]]>",
-    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 14 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Developing Gemini 4 Argon responsibly and safely",
     "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Tue, 13 Oct 2026 19:43:07 +0000",
-    "image": ""
-  },
-  {
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 13 Oct 2026 17:05:48 GMT",
     "image": ""
   },
   {
@@ -165,38 +197,6 @@
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Tue, 13 Oct 2026 16:01:52 +0000",
-    "image": ""
-  },
-  {
-    "title": "The model that didn't exist, so you made it yourself",
-    "link": "https://huggingface.co/blog/building-with-ml-intern",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Introducing Falcon ASR",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 07 Oct 2026 13:21:03 GMT",
-    "image": ""
-  },
-  {
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 07 Oct 2026 12:45:31 GMT",
-    "image": ""
-  },
-  {
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
     "image": ""
   }
 ]
