@@ -1,5 +1,69 @@
 [
   {
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How Itaú is building generative AI for its entire customer base]]>",
+    "link": "https://openai.com/index/itau-generative-ai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
+    "image": ""
+  },
+  {
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Fri, 16 Oct 2026 12:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/6b76fb1cf81fffb13a4bb218a40498e4/6ad1b68c3d63324cdc9b1ab9_nvidia-rtx-spark/nvidia-rtx-spark_thmb.jpg?v=f4f2e983-c349-4b1f-ac12-c09817b54764"
+  },
+  {
+    "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
+    "link": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Fri, 16 Oct 2026 08:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/d8074bf73d259485ee16c0b53d2e2ccb/6ad157533d633269179b1ab9_mercedes-benz-nvidia/mercedes-benz-nvidia_thmb.jpg?v=f3c71739-e87b-4984-b90f-744f8481356c"
+  },
+  {
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
     "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
     "source": "Hugging Face Blog",
@@ -8,11 +72,27 @@
     "image": ""
   },
   {
-    "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
-    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[Stack Overflow for Agents triples signups with ChatGPT plugin]]>",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
+    "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Benefit Street Partners answers questions faster with Codex]]>",
+    "link": "https://openai.com/index/benefit-street-partners",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "link": "https://huggingface.co/blog/reflection-beam",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -24,43 +104,11 @@
     "image": ""
   },
   {
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 15 Oct 2026 20:04:53 +0000",
-    "image": ""
-  },
-  {
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 15 Oct 2026 19:55:25 +0000",
-    "image": ""
-  },
-  {
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 15 Oct 2026 19:14:26 +0000",
-    "image": ""
-  },
-  {
     "title": "<![CDATA[Bringing GPT-Rosalind to academic research labs]]>",
     "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 15 Oct 2026 18:56:46 +0000",
     "image": ""
   },
   {
@@ -96,35 +144,11 @@
     "image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-    "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 15 Oct 2026 15:00:24 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/1537766779024a2b34767af63823c4c6/6ad0ea933d633256e451ff7c_FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765-842x450/FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765-842x450_thmb.jpg?v=fdd21978-126e-4822-81aa-d850892d3765"
-  },
-  {
-    "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 15 Oct 2026 13:00:59 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/677e6e6ccaa38ca91f968724d2a6579b/6ad0ce993d6332cc8ac0808c_GFN_Thursday_October_15_2026-842x450/GFN_Thursday_October_15_2026-842x450_thmb.jpg?v=edf71b41-f2fb-482c-a0cb-b89b1b58e5b2"
-  },
-  {
     "title": "<![CDATA[Teaching students to think and learn through questions]]>",
     "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Sullivan & Cromwell brings legal expertise into agreement review]]>",
-    "link": "https://openai.com/index/sullivan-cromwell",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -141,30 +165,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 14 Oct 2026 16:12:42 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Amp puts AI agents to work beyond code with OpenAI models]]>",
-    "link": "https://openai.com/index/amp-beyond-coding",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[SentinelOne cuts malware analysis from weeks to hours]]>",
-    "link": "https://openai.com/index/sentinelone",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
     "image": ""
   },
   {
