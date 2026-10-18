@@ -1,10 +1,34 @@
 [
   {
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
+    "pubDate": "Sat, 17 Oct 2026 21:31:32 +0000",
+    "image": ""
+  },
+  {
+    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Sat, 17 Oct 2026 21:00:13 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/363cee81e992d936964e9889c953c847/6ad3e2053d633208347d156d_nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450/nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450_thmb.jpg?v=86ea3f39-fb3c-4b95-9d20-324546533bd2"
+  },
+  {
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sat, 17 Oct 2026 20:21:19 +0000",
+    "image": ""
+  },
+  {
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sat, 17 Oct 2026 18:48:08 +0000",
     "image": ""
   },
   {
@@ -32,22 +56,6 @@
     "image": ""
   },
   {
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
-    "image": ""
-  },
-  {
     "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
     "link": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
     "source": "NVIDIA Blog",
@@ -72,16 +80,16 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Stack Overflow for Agents triples signups with ChatGPT plugin]]>",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "title": "<![CDATA[Benefit Street Partners answers questions faster with Codex]]>",
+    "link": "https://openai.com/index/benefit-street-partners",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "<![CDATA[Benefit Street Partners answers questions faster with Codex]]>",
-    "link": "https://openai.com/index/benefit-street-partners",
+    "title": "<![CDATA[Stack Overflow for Agents triples signups with ChatGPT plugin]]>",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
@@ -126,14 +134,6 @@
     "description": "",
     "pubDate": "Thu, 15 Oct 2026 17:00:23 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202610/e5eef2a45338109b7e6d80237afb8d8e/6ad1069d3d6332e50ab73366_press-nvidia-rtx-spark-launch-events-1920x1080-1-842x450/press-nvidia-rtx-spark-launch-events-1920x1080-1-842x450_thmb.jpg?v=d37e4c6c-59d0-463b-b352-9fc43a08dc9c"
-  },
-  {
-    "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-    "link": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 15 Oct 2026 17:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_thmb.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5"
   },
   {
     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
