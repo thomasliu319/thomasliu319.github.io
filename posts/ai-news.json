@@ -1,26 +1,90 @@
 [
   {
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+    "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 20 Oct 2026 05:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/d7234aca6f858edd7c1472c556ce312d/6ad6f57e3d63322a005875f8_spain-startups-bsc-1920x1080-1-842x450/spain-startups-bsc-1920x1080-1-842x450_thmb.jpg?v=742f0af5-01b3-4438-8ec1-bffefb3a6143"
+  },
+  {
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 18 Oct 2026 20:37:40 +0000",
+    "pubDate": "Tue, 20 Oct 2026 01:27:03 +0000",
     "image": ""
   },
   {
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
+    "pubDate": "Mon, 19 Oct 2026 23:39:38 +0000",
     "image": ""
   },
   {
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
+    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 17 Oct 2026 21:31:32 +0000",
+    "pubDate": "Mon, 19 Oct 2026 22:49:27 +0000",
+    "image": ""
+  },
+  {
+    "title": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&#8217;t be trusted&#8217;",
+    "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 19 Oct 2026 22:04:28 +0000",
+    "image": ""
+  },
+  {
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 19 Oct 2026 20:09:24 +0000",
+    "image": ""
+  },
+  {
+    "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+    "link": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 19 Oct 2026 19:27:08 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/cd9ae663e0a1f253347489cd426f5727/6ad66f323d6332922c39b1ec_26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450/26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450_thmb.jpg?v=9233a325-79ab-4f3d-a1d9-f68aa825c17b"
+  },
+  {
+    "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 19 Oct 2026 18:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/50251123164c2b783748b003bc473940/6ad65ba13d6332f05e072a37_quantum-computing-jupiter-supercomputer/quantum-computing-jupiter-supercomputer_thmb.jpg?v=41b14eed-74aa-4882-94b8-7c5195b3c9bb"
+  },
+  {
+    "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+    "link": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 19 Oct 2026 15:00:31 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/291a3398e4c060fc8e7b2cf55829f09b/6ad630cf3d63325799a4de28_media-and-entertainment-1920x1080-1-842x450/media-and-entertainment-1920x1080-1-842x450_thmb.jpg?v=ce2c4423-42da-4d4f-8420-972157346029"
+  },
+  {
+    "title": "<![CDATA[Advancing coding in low‑resource programming languages]]>",
+    "link": "https://openai.com/index/low-resource-programming-languages",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 19 Oct 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "link": "https://huggingface.co/blog/hf-torchneuron",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Mon, 19 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -32,44 +96,12 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/363cee81e992d936964e9889c953c847/6ad3e2053d633208347d156d_nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450/nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450_thmb.jpg?v=86ea3f39-fb3c-4b95-9d20-324546533bd2"
   },
   {
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 17 Oct 2026 20:21:19 +0000",
-    "image": ""
-  },
-  {
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 17 Oct 2026 18:48:08 +0000",
-    "image": ""
-  },
-  {
     "title": "<![CDATA[How Itaú is building generative AI for its entire customer base]]>",
     "link": "https://openai.com/index/itau-generative-ai",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
     "image": ""
-  },
-  {
-    "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Fri, 16 Oct 2026 12:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/6b76fb1cf81fffb13a4bb218a40498e4/6ad1b68c3d63324cdc9b1ab9_nvidia-rtx-spark/nvidia-rtx-spark_thmb.jpg?v=f4f2e983-c349-4b1f-ac12-c09817b54764"
-  },
-  {
-    "title": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
-    "link": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Fri, 16 Oct 2026 08:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/d8074bf73d259485ee16c0b53d2e2ccb/6ad157533d633269179b1ab9_mercedes-benz-nvidia/mercedes-benz-nvidia_thmb.jpg?v=f3c71739-e87b-4984-b90f-744f8481356c"
   },
   {
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -120,22 +152,6 @@
     "image": ""
   },
   {
-    "title": "Volvo Cars and NVIDIA Expand Partnership to Advance Safe Automated Driving",
-    "link": "https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 15 Oct 2026 17:30:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20269/e517972ce6ea647b2c088652f4a6c47c/6ad111e43d63320c839b1aba_JHH-Volvo-1600x900/JHH-Volvo-1600x900_thmb.jpg?v=8bb5a42f-7901-4d4b-b581-3e273067984b"
-  },
-  {
-    "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 15 Oct 2026 17:00:23 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/e5eef2a45338109b7e6d80237afb8d8e/6ad1069d3d6332e50ab73366_press-nvidia-rtx-spark-launch-events-1920x1080-1-842x450/press-nvidia-rtx-spark-launch-events-1920x1080-1-842x450_thmb.jpg?v=d37e4c6c-59d0-463b-b352-9fc43a08dc9c"
-  },
-  {
     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
     "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
     "source": "Google DeepMind",
@@ -144,27 +160,11 @@
     "image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "<![CDATA[Teaching students to think and learn through questions]]>",
-    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "link": "https://huggingface.co/blog/meta-muse-spark-open",
+    "title": "Apertus 1.5 Release Notes",
+    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
     "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "link": "https://huggingface.co/blog/flux-3",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
+    "pubDate": "Thu, 15 Oct 2026 09:08:45 GMT",
     "image": ""
   },
   {
