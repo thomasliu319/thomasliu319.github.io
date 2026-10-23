@@ -1,5 +1,125 @@
 [
   {
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Kazakhstan Expands Compute for Its AI Future",
+    "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Fri, 23 Oct 2026 02:00:13 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/e3acef13a2c2acb8624d4ec892615f18/6adabfea3d63325b302903bf_kz-post-note-gtc-berliin-2026-1920x1080-1-842x450/kz-post-note-gtc-berliin-2026-1920x1080-1-842x450_thmb.jpg?v=2bd878c7-7605-4b34-9918-c7813d0880b8"
+  },
+  {
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[OpenAI and Poland’s NASK partner to advance AI safety and security]]>",
+    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 22 Oct 2026 22:24:34 GMT",
+    "image": ""
+  },
+  {
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
+    "image": ""
+  },
+  {
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 22 Oct 2026 19:07:09 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Build more responsive apps with the Decisions API]]>",
+    "link": "https://openai.com/index/decisions-api",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 22 Oct 2026 19:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 22 Oct 2026 16:11:31 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+    "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 22 Oct 2026 15:00:02 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/7d7574df63ef80cac10287682becede6/6ada25333d63325284a123a0_ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450/ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450_thmb.jpg?v=8783fa8d-3a4b-4954-baf4-c2a554092e76"
+  },
+  {
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "source": "Google DeepMind",
+    "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
+    "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 22 Oct 2026 13:00:20 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/cc71c74a077de75df2d8b737950883f3/6ada09173d6332c97ccc1d0e_Call-Of-Duty-Modern-Warfare-4-842x450/Call-Of-Duty-Modern-Warfare-4-842x450_thmb.jpg?v=9616c859-4a33-4f38-8142-3d41ff6a2d2d"
+  },
+  {
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 22 Oct 2026 07:51:31 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[What FDE means at OpenAI]]>",
+    "link": "https://openai.com/index/forward-deployed-engineering-means",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 22 Oct 2026 06:00:00 GMT",
+    "image": ""
+  },
+  {
     "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
     "link": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
     "source": "NVIDIA Blog",
@@ -16,75 +136,11 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/7555d5f01553f3b431523e3117d5f8f5/6ad9988a3d6332948d724d3e_NVIDIA-Cosmos-New-Tools-2026-842x450/NVIDIA-Cosmos-New-Tools-2026-842x450_thmb.jpg?v=543886cd-2660-41cb-98ae-8dbf23500340"
   },
   {
-    "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-    "link": "https://blogs.nvidia.com/blog/dsx-power/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 05:00:25 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/68612dde5305787f2cb824cd510fbca1/6ad998903d6332948d724d45_dsx-ai-factory-platform-842x450/dsx-ai-factory-platform-842x450_thmb.jpg?v=6d2a2b7d-2022-4b34-bfe9-4ada236de803"
-  },
-  {
-    "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-    "link": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 05:00:23 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/3f26382512bb52ee56851e6855196454/6ad998963d6332948d724d4c_NVIDIA-European-Retail-842x450/NVIDIA-European-Retail-842x450_thmb.jpg?v=ecf63af1-231f-420b-a688-a133c6b7c0d6"
-  },
-  {
-    "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
-    "link": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 05:00:19 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/3461f9393935f103c1a1a7f9fa202887/6ad9989b3d6332948d724d53_Earth-2-Open-Models-Climate-Prediction-842x450/Earth-2-Open-Models-Climate-Prediction-842x450_thmb.jpg?v=0efa6d8e-f5e8-4a9d-b653-54ea0c1d3091"
-  },
-  {
-    "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
-    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 22:51:22 +0000",
-    "image": ""
-  },
-  {
-    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 21:16:20 +0000",
-    "image": ""
-  },
-  {
-    "title": "Meta says Muse has over 10M users, with shopping a top activity",
-    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 21:14:19 +0000",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Broad access through consistent standards]]>",
-    "link": "https://openai.com/index/broad-access-through-consistent-standards",
+    "title": "<![CDATA[Uber brings ChatGPT Work to all employees with OpenAI]]>",
+    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
     "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Wed, 21 Oct 2026 21:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 20:27:41 +0000",
-    "image": ""
-  },
-  {
-    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 19:30:00 +0000",
+    "pubDate": "Thu, 22 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -109,54 +165,6 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Wed, 21 Oct 2026 17:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 16:04:43 GMT",
-    "image": ""
-  },
-  {
-    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 14:58:18 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform]]>",
-    "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 13:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[OpenAI models are coming to Google Cloud]]>",
-    "link": "https://openai.com/index/openai-models-google-cloud",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Patch the Planet: global response coordination as agents uncover critical vulnerabilities]]>",
-    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "link": "https://huggingface.co/blog/allenai/fairstress",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 20 Oct 2026 16:09:19 GMT",
     "image": ""
   },
   {
@@ -189,14 +197,6 @@
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Tue, 13 Oct 2026 16:01:58 +0000",
-    "image": ""
-  },
-  {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Tue, 13 Oct 2026 16:01:52 +0000",
     "image": ""
   }
 ]
