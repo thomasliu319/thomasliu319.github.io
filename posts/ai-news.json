@@ -1,6 +1,54 @@
 [
   {
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 23 Oct 2026 23:05:49 +0000",
+    "image": ""
+  },
+  {
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 23 Oct 2026 21:59:19 +0000",
+    "image": ""
+  },
+  {
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 23 Oct 2026 19:06:23 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)]]>",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 23 Oct 2026 17:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 23 Oct 2026 16:15:50 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Securing our frontier model training environment]]>",
+    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 23 Oct 2026 10:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "source": "TechCrunch AI",
     "description": "",
@@ -32,6 +80,14 @@
     "image": ""
   },
   {
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
     "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
     "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "source": "Hugging Face Blog",
@@ -40,43 +96,11 @@
     "image": ""
   },
   {
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
-    "image": ""
-  },
-  {
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 19:07:09 +0000",
-    "image": ""
-  },
-  {
     "title": "<![CDATA[Build more responsive apps with the Decisions API]]>",
     "link": "https://openai.com/index/decisions-api",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Thu, 22 Oct 2026 19:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Canva releases its first image generation model",
-    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 16:11:31 GMT",
     "image": ""
   },
   {
@@ -136,35 +160,11 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/7555d5f01553f3b431523e3117d5f8f5/6ad9988a3d6332948d724d3e_NVIDIA-Cosmos-New-Tools-2026-842x450/NVIDIA-Cosmos-New-Tools-2026-842x450_thmb.jpg?v=543886cd-2660-41cb-98ae-8dbf23500340"
   },
   {
-    "title": "<![CDATA[Uber brings ChatGPT Work to all employees with OpenAI]]>",
-    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
     "link": "https://huggingface.co/blog/nvidia/kumo-relational",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Wed, 21 Oct 2026 18:26:30 GMT",
-    "image": ""
-  },
-  {
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 17:35:36 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How AT&T is rethinking in-house legal work with OpenAI]]>",
-    "link": "https://openai.com/index/att-legal",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 17:00:00 GMT",
     "image": ""
   },
   {
