@@ -1,5 +1,101 @@
 [
   {
+    "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
+    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 28 Oct 2026 01:15:28 +0000",
+    "image": ""
+  },
+  {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 27 Oct 2026 23:34:27 +0000",
+    "image": ""
+  },
+  {
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 27 Oct 2026 22:55:41 +0000",
+    "image": ""
+  },
+  {
+    "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
+    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 27 Oct 2026 21:44:34 +0000",
+    "image": ""
+  },
+  {
+    "title": "Who&#8217;s really in charge at Anthropic after the IPO?",
+    "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 27 Oct 2026 21:38:28 +0000",
+    "image": ""
+  },
+  {
+    "title": "Build specialized multimodal models with LFM3",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 27 Oct 2026 17:16:52 GMT",
+    "image": ""
+  },
+  {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 27 Oct 2026 16:12:42 GMT",
+    "image": ""
+  },
+  {
+    "title": "Genie 4: A new generation of world simulation",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "source": "Google DeepMind",
+    "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "pubDate": "Tue, 27 Oct 2026 16:01:38 +0000",
+    "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 27 Oct 2026 16:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b"
+  },
+  {
+    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+    "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 27 Oct 2026 15:00:20 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/5e82c6a2d7172e1daf9526073f5f5e81/6ae0bcb73d6332d0fbd6a456_cbrain-nvidia-1-842x450/cbrain-nvidia-1-842x450_thmb.jpg?v=a95b85ce-4c3d-45a1-a64f-7036b7141f79"
+  },
+  {
+    "title": "<![CDATA[Retell uses OpenAI models to help power 100M monthly calls]]>",
+    "link": "https://openai.com/index/retell-ai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[OpenAI expands partnership with Oracle to bring its apps to ChatGPT]]>",
+    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT",
+    "image": ""
+  },
+  {
     "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
     "link": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
     "source": "NVIDIA Blog",
@@ -8,19 +104,11 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591"
   },
   {
-    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[How Check Point accelerates vulnerability research with Daybreak]]>",
+    "link": "https://openai.com/index/check-point-daybreak",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Tue, 27 Oct 2026 02:00:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 27 Oct 2026 01:12:21 +0000",
+    "pubDate": "Tue, 27 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -32,67 +120,11 @@
     "image": ""
   },
   {
-    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 26 Oct 2026 16:49:42 +0000",
-    "image": ""
-  },
-  {
-    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 26 Oct 2026 16:46:36 +0000",
-    "image": ""
-  },
-  {
-    "title": "Anthropic officially files for its public debut",
-    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 26 Oct 2026 14:35:22 +0000",
-    "image": ""
-  },
-  {
     "title": "<![CDATA[Working with academic communities to build scientific understanding]]>",
     "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Mon, 26 Oct 2026 14:30:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases]]>",
-    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 26 Oct 2026 13:45:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[ChatGPT’s expanding world of work]]>",
-    "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 26 Oct 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How Fanatics and OpenAI streamline the fan experience]]>",
-    "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-    "link": "https://huggingface.co/blog/allenai/litpivot",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 23 Oct 2026 16:15:50 GMT",
     "image": ""
   },
   {
@@ -136,35 +168,11 @@
     "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 13:00:20 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/cc71c74a077de75df2d8b737950883f3/6ada09173d6332c97ccc1d0e_Call-Of-Duty-Modern-Warfare-4-842x450/Call-Of-Duty-Modern-Warfare-4-842x450_thmb.jpg?v=9616c859-4a33-4f38-8142-3d41ff6a2d2d"
-  },
-  {
     "title": "Ensemble forecasting with IBM Granite time-series models",
     "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Thu, 22 Oct 2026 07:51:31 GMT",
-    "image": ""
-  },
-  {
-    "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
-    "link": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 05:00:56 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/233b6f1a8a8ad0c12c0908d23aceb342/6ad998cc3d633295a468d430_Financial-Services-NVIDIA-Open-Models-842x450/Financial-Services-NVIDIA-Open-Models-842x450_thmb.jpg?v=16a1272c-6752-460a-83cf-ff802ba34528"
-  },
-  {
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 21 Oct 2026 18:26:30 GMT",
     "image": ""
   },
   {
@@ -189,14 +197,6 @@
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Tue, 13 Oct 2026 19:43:07 +0000",
-    "image": ""
-  },
-  {
-    "title": "Gemini 4 Argon for Robotics",
-    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Tue, 13 Oct 2026 16:01:58 +0000",
     "image": ""
   }
 ]
