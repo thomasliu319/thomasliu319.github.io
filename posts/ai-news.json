@@ -1,42 +1,98 @@
 [
   {
-    "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
-    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 28 Oct 2026 01:15:28 +0000",
+    "pubDate": "Wed, 28 Oct 2026 21:58:32 +0000",
     "image": ""
   },
   {
-    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 27 Oct 2026 23:34:27 +0000",
+    "pubDate": "Wed, 28 Oct 2026 21:48:37 +0000",
     "image": ""
   },
   {
-    "title": "The data center boom has an upside: innovation for the US grid",
-    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 27 Oct 2026 22:55:41 +0000",
+    "pubDate": "Wed, 28 Oct 2026 21:34:30 +0000",
     "image": ""
   },
   {
-    "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
-    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 27 Oct 2026 21:44:34 +0000",
+    "pubDate": "Wed, 28 Oct 2026 21:25:30 +0000",
     "image": ""
   },
   {
-    "title": "Who&#8217;s really in charge at Anthropic after the IPO?",
-    "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 28 Oct 2026 21:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 27 Oct 2026 21:38:28 +0000",
+    "pubDate": "Wed, 28 Oct 2026 19:19:58 +0000",
+    "image": ""
+  },
+  {
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Wed, 28 Oct 2026 17:00:58 +0000",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 28 Oct 2026 15:00:46 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb"
+  },
+  {
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 28 Oct 2026 14:58:17 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[OpenAI and ServiceNow expand partnership across enterprise workflows]]>",
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 28 Oct 2026 13:15:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[The future of the firm]]>",
+    "link": "https://openai.com/index/the-future-of-the-firm",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 28 Oct 2026 10:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Legora is building the agentic operating system for legal work]]>",
+    "link": "https://openai.com/index/legora",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 28 Oct 2026 09:30:00 GMT",
     "image": ""
   },
   {
@@ -104,38 +160,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591"
   },
   {
-    "title": "<![CDATA[How Check Point accelerates vulnerability research with Daybreak]]>",
-    "link": "https://openai.com/index/check-point-daybreak",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 27 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Greptile takes bug detection beyond code review with GPT-6 Astra]]>",
-    "link": "https://openai.com/index/greptile-code-review-codex-astra",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 26 Oct 2026 22:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Working with academic communities to build scientific understanding]]>",
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 26 Oct 2026 14:30:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Kazakhstan Expands Compute for Its AI Future",
-    "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Fri, 23 Oct 2026 02:00:13 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/e3acef13a2c2acb8624d4ec892615f18/6adabfea3d63325b302903bf_kz-post-note-gtc-berliin-2026-1920x1080-1-842x450/kz-post-note-gtc-berliin-2026-1920x1080-1-842x450_thmb.jpg?v=2bd878c7-7605-4b34-9918-c7813d0880b8"
-  },
-  {
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
     "link": "https://huggingface.co/blog/torch-neuronx-model-support",
     "source": "Hugging Face Blog",
@@ -152,28 +176,12 @@
     "image": ""
   },
   {
-    "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-    "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 15:00:02 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/7d7574df63ef80cac10287682becede6/6ada25333d63325284a123a0_ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450/ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450_thmb.jpg?v=8783fa8d-3a4b-4954-baf4-c2a554092e76"
-  },
-  {
     "title": "Beyond tree cover: mapping the world’s forest types",
     "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
     "source": "Google DeepMind",
     "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
     "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
     "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 07:51:31 GMT",
-    "image": ""
   },
   {
     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -190,13 +198,5 @@
     "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
     "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
     "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Tue, 13 Oct 2026 19:43:07 +0000",
-    "image": ""
   }
 ]
