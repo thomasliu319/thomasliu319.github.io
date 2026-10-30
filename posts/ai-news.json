@@ -1,34 +1,106 @@
 [
   {
-    "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
+    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 28 Oct 2026 21:58:32 +0000",
+    "pubDate": "Fri, 30 Oct 2026 01:20:48 +0000",
     "image": ""
   },
   {
-    "title": "Google expands AI Search ads globally as core ad growth slows",
-    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 28 Oct 2026 21:48:37 +0000",
+    "pubDate": "Thu, 29 Oct 2026 23:42:22 +0000",
     "image": ""
   },
   {
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
+    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 28 Oct 2026 21:34:30 +0000",
+    "pubDate": "Thu, 29 Oct 2026 20:08:31 +0000",
     "image": ""
   },
   {
-    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "title": "Rivian expands joint venture with VW to include AI assistant",
+    "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 28 Oct 2026 21:25:30 +0000",
+    "pubDate": "Thu, 29 Oct 2026 20:05:47 +0000",
+    "image": ""
+  },
+  {
+    "title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 29 Oct 2026 19:56:19 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[An updated Model Spec for more capable and beneficial AI]]>",
+    "link": "https://openai.com/index/updated-model-spec",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 29 Oct 2026 17:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 29 Oct 2026 13:37:07 GMT",
+    "image": ""
+  },
+  {
+    "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 29 Oct 2026 13:00:16 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/8b3fdaae6d6bbc8bf2799fbdec10ede5/6ae343d53d63322b0660b5b3_gfn-thursday-10-29-blog-1920x1080-logo-842x450/gfn-thursday-10-29-blog-1920x1080-logo-842x450_thmb.jpg?v=270a9de1-a727-4bc6-9a94-b468536daf8f"
+  },
+  {
+    "title": "<![CDATA[How we detect frontier model misalignment]]>",
+    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 29 Oct 2026 09:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How Ropes & Gray is developing AI for transactional diligence]]>",
+    "link": "https://openai.com/index/ropes-gray-ai-diligence",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 29 Oct 2026 07:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "link": "https://huggingface.co/blog/announcing-project-protostar",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "link": "https://huggingface.co/blog/mistral-large4",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "link": "https://huggingface.co/blog/anydecisionmodel",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 29 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -37,14 +109,6 @@
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Wed, 28 Oct 2026 21:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 28 Oct 2026 19:19:58 +0000",
     "image": ""
   },
   {
@@ -88,30 +152,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Legora is building the agentic operating system for legal work]]>",
-    "link": "https://openai.com/index/legora",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 28 Oct 2026 09:30:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Build specialized multimodal models with LFM3",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 27 Oct 2026 17:16:52 GMT",
-    "image": ""
-  },
-  {
-    "title": "Can we trust LLMs to judge whether a research idea is novel?",
-    "link": "https://huggingface.co/blog/allenai/novelty-bench",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 27 Oct 2026 16:12:42 GMT",
-    "image": ""
-  },
-  {
     "title": "Genie 4: A new generation of world simulation",
     "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
     "source": "Google DeepMind",
@@ -134,46 +174,6 @@
     "description": "",
     "pubDate": "Tue, 27 Oct 2026 15:00:20 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202610/5e82c6a2d7172e1daf9526073f5f5e81/6ae0bcb73d6332d0fbd6a456_cbrain-nvidia-1-842x450/cbrain-nvidia-1-842x450_thmb.jpg?v=a95b85ce-4c3d-45a1-a64f-7036b7141f79"
-  },
-  {
-    "title": "<![CDATA[Retell uses OpenAI models to help power 100M monthly calls]]>",
-    "link": "https://openai.com/index/retell-ai",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 27 Oct 2026 15:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[OpenAI expands partnership with Oracle to bring its apps to ChatGPT]]>",
-    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 27 Oct 2026 05:52:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591"
-  },
-  {
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 22 Oct 2026 22:24:34 GMT",
-    "image": ""
   },
   {
     "title": "Beyond tree cover: mapping the world’s forest types",
