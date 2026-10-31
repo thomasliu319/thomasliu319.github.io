@@ -1,42 +1,82 @@
 [
   {
-    "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
-    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Fri, 30 Oct 2026 01:20:48 +0000",
+    "pubDate": "Sat, 31 Oct 2026 01:20:05 +0000",
     "image": ""
   },
   {
-    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 29 Oct 2026 23:42:22 +0000",
+    "pubDate": "Fri, 30 Oct 2026 22:56:13 +0000",
     "image": ""
   },
   {
-    "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
-    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
+    "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 29 Oct 2026 20:08:31 +0000",
+    "pubDate": "Fri, 30 Oct 2026 21:54:34 +0000",
     "image": ""
   },
   {
-    "title": "Rivian expands joint venture with VW to include AI assistant",
-    "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, FT report says",
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 29 Oct 2026 20:05:47 +0000",
+    "pubDate": "Fri, 30 Oct 2026 21:52:03 +0000",
     "image": ""
   },
   {
-    "title": "OpenAI-backed Thrive Holdings acquires ADT",
-    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 29 Oct 2026 19:56:19 +0000",
+    "pubDate": "Fri, 30 Oct 2026 21:26:59 +0000",
+    "image": ""
+  },
+  {
+    "title": "nemotron-halloween",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 30 Oct 2026 17:57:24 GMT",
+    "image": ""
+  },
+  {
+    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+    "link": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Fri, 30 Oct 2026 15:00:10 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/8d113e03d95ec1ca46d8a7db209c9d97/6ae4b11c3d63322d6d3b467c_IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450_thmb.jpg?v=cf4d0898-88f0-447b-82c0-d5e33442f3aa"
+  },
+  {
+    "title": "<![CDATA[Making it easier for websites to express AI training preferences]]>",
+    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Community safety report and new protections for teens]]>",
+    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Fair use benefits everyone]]>",
+    "link": "https://openai.com/index/fair-use-benefits-everyone",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -69,14 +109,6 @@
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Thu, 29 Oct 2026 09:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How Ropes & Gray is developing AI for transactional diligence]]>",
-    "link": "https://openai.com/index/ropes-gray-ai-diligence",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 29 Oct 2026 07:00:00 GMT",
     "image": ""
   },
   {
@@ -128,30 +160,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb"
   },
   {
-    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 28 Oct 2026 14:58:17 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[OpenAI and ServiceNow expand partnership across enterprise workflows]]>",
-    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 28 Oct 2026 13:15:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[The future of the firm]]>",
-    "link": "https://openai.com/index/the-future-of-the-firm",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 28 Oct 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Genie 4: A new generation of world simulation",
     "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
     "source": "Google DeepMind",
@@ -166,14 +174,6 @@
     "description": "",
     "pubDate": "Tue, 27 Oct 2026 16:00:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b"
-  },
-  {
-    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-    "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 27 Oct 2026 15:00:20 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/5e82c6a2d7172e1daf9526073f5f5e81/6ae0bcb73d6332d0fbd6a456_cbrain-nvidia-1-842x450/cbrain-nvidia-1-842x450_thmb.jpg?v=a95b85ce-4c3d-45a1-a64f-7036b7141f79"
   },
   {
     "title": "Beyond tree cover: mapping the world’s forest types",
