@@ -7,7 +7,7 @@ published:
 created: 2026-05-09
 description: AI编程的常用prompt。
 tags:
-  - AI编程
+  - AICoding
 ---
 
 ### 一、生成知识库
