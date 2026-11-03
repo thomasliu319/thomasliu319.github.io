@@ -1,42 +1,98 @@
 [
   {
-    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
+    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 01 Nov 2026 21:55:23 +0000",
+    "pubDate": "Tue, 03 Nov 2026 07:20:00 +0000",
     "image": ""
   },
   {
-    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+    "link": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 03 Nov 2026 07:00:12 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/268670f4ebabdee5beac742e274ef0f1/6ae9867d3d6332a5e3147d24_smart-city-blog-1920x1080-1-842x450/smart-city-blog-1920x1080-1-842x450_thmb.jpg?v=151bfaa1-c1eb-4a6e-bdde-49688ddac75a"
+  },
+  {
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 01 Nov 2026 20:57:58 +0000",
+    "pubDate": "Tue, 03 Nov 2026 03:30:00 +0000",
     "image": ""
   },
   {
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
+    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 31 Oct 2026 21:41:00 +0000",
+    "pubDate": "Tue, 03 Nov 2026 01:49:52 +0000",
     "image": ""
   },
   {
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "title": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 31 Oct 2026 21:36:07 +0000",
+    "pubDate": "Tue, 03 Nov 2026 00:35:52 +0000",
     "image": ""
   },
   {
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "title": "Transformers Model Integration Contracts",
+    "link": "https://huggingface.co/blog/transformers-mic",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sat, 31 Oct 2026 21:17:03 +0000",
+    "pubDate": "Mon, 02 Nov 2026 23:13:53 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Rewarding defenders with bigger bug bounties]]>",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Preparing our next security sprint to harden OpenAI]]>",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Scaling Git at OpenAI]]>",
+    "link": "https://openai.com/index/scaling-git-at-openai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 02 Nov 2026 15:30:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Introducing the Grid Protectors Program]]>",
+    "link": "https://openai.com/index/grid-protectors-program",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 02 Nov 2026 15:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[LifeVal]]>",
+    "link": "https://openai.com/index/lifeval",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 02 Nov 2026 09:00:00 GMT",
     "image": ""
   },
   {
@@ -56,36 +112,12 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/8d113e03d95ec1ca46d8a7db209c9d97/6ae4b11c3d63322d6d3b467c_IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450_thmb.jpg?v=cf4d0898-88f0-447b-82c0-d5e33442f3aa"
   },
   {
-    "title": "<![CDATA[Making it easier for websites to express AI training preferences]]>",
-    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Community safety report and new protections for teens]]>",
-    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Fair use benefits everyone]]>",
-    "link": "https://openai.com/index/fair-use-benefits-everyone",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[An updated Model Spec for more capable and beneficial AI]]>",
-    "link": "https://openai.com/index/updated-model-spec",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 29 Oct 2026 17:00:00 GMT",
-    "image": ""
+    "title": "Speeding up planning decisions with AI",
+    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "source": "Google DeepMind",
+    "description": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "pubDate": "Fri, 30 Oct 2026 14:18:30 +0000",
+    "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo"
   },
   {
     "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -104,14 +136,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/8b3fdaae6d6bbc8bf2799fbdec10ede5/6ae343d53d63322b0660b5b3_gfn-thursday-10-29-blog-1920x1080-logo-842x450/gfn-thursday-10-29-blog-1920x1080-logo-842x450_thmb.jpg?v=270a9de1-a727-4bc6-9a94-b468536daf8f"
   },
   {
-    "title": "<![CDATA[How we detect frontier model misalignment]]>",
-    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 29 Oct 2026 09:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
     "link": "https://huggingface.co/blog/announcing-project-protostar",
     "source": "Hugging Face Blog",
@@ -122,14 +146,6 @@
   {
     "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
     "link": "https://huggingface.co/blog/mistral-large4",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 29 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-    "link": "https://huggingface.co/blog/anydecisionmodel",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Thu, 29 Oct 2026 00:00:00 GMT",
@@ -168,14 +184,6 @@
     "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 27 Oct 2026 16:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b"
-  },
-  {
     "title": "Beyond tree cover: mapping the world’s forest types",
     "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
     "source": "Google DeepMind",
@@ -190,13 +198,5 @@
     "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
     "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
     "image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "source": "Google DeepMind",
-    "description": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo"
   }
 ]
