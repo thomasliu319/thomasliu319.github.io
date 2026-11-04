@@ -1,10 +1,98 @@
 [
   {
-    "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
-    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Tue, 03 Nov 2026 07:20:00 +0000",
+    "pubDate": "Tue, 03 Nov 2026 22:41:03 +0000",
+    "image": ""
+  },
+  {
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 03 Nov 2026 22:19:53 +0000",
+    "image": ""
+  },
+  {
+    "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 03 Nov 2026 21:43:08 +0000",
+    "image": ""
+  },
+  {
+    "title": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding signal",
+    "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 03 Nov 2026 21:05:55 +0000",
+    "image": ""
+  },
+  {
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 03 Nov 2026 19:34:43 +0000",
+    "image": ""
+  },
+  {
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "link": "https://huggingface.co/blog/allenai/statebench",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 03 Nov 2026 17:15:21 GMT",
+    "image": ""
+  },
+  {
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "source": "Google DeepMind",
+    "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "pubDate": "Tue, 03 Nov 2026 17:01:49 +0000",
+    "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 03 Nov 2026 16:35:36 GMT",
+    "image": ""
+  },
+  {
+    "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+    "link": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Tue, 03 Nov 2026 16:00:45 GMT",
+    "image": "/static/images/video.png"
+  },
+  {
+    "title": "<![CDATA[Accelerating engineering for the physical world]]>",
+    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 03 Nov 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How Cisco defends at machine speed with OpenAI]]>",
+    "link": "https://openai.com/index/cisco-cyber",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Heimstaden is changing residential real estate management with AI]]>",
+    "link": "https://openai.com/index/heimstaden",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
     "image": ""
   },
   {
@@ -16,27 +104,19 @@
     "image": "https://iprsoftwaremedia.com/219/files/202611/268670f4ebabdee5beac742e274ef0f1/6ae9867d3d6332a5e3147d24_smart-city-blog-1920x1080-1-842x450/smart-city-blog-1920x1080-1-842x450_thmb.jpg?v=151bfaa1-c1eb-4a6e-bdde-49688ddac75a"
   },
   {
-    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer]]>",
+    "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Tue, 03 Nov 2026 03:30:00 +0000",
+    "pubDate": "Tue, 03 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
-    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-    "source": "TechCrunch AI",
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "link": "https://huggingface.co/blog/cwe-bench",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Tue, 03 Nov 2026 01:49:52 +0000",
-    "image": ""
-  },
-  {
-    "title": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 03 Nov 2026 00:35:52 +0000",
+    "pubDate": "Tue, 03 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -48,51 +128,11 @@
     "image": ""
   },
   {
-    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-    "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Mon, 02 Nov 2026 23:13:53 +0000",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Rewarding defenders with bigger bug bounties]]>",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 02 Nov 2026 18:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Preparing our next security sprint to harden OpenAI]]>",
-    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 02 Nov 2026 18:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "<![CDATA[Scaling Git at OpenAI]]>",
     "link": "https://openai.com/index/scaling-git-at-openai",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Mon, 02 Nov 2026 15:30:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Introducing the Grid Protectors Program]]>",
-    "link": "https://openai.com/index/grid-protectors-program",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 02 Nov 2026 15:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[LifeVal]]>",
-    "link": "https://openai.com/index/lifeval",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 02 Nov 2026 09:00:00 GMT",
     "image": ""
   },
   {
@@ -120,36 +160,12 @@
     "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "Granite Switch 4.1.1 — Update models like you update software",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 29 Oct 2026 13:37:07 GMT",
-    "image": ""
-  },
-  {
     "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
     "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Thu, 29 Oct 2026 13:00:16 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202610/8b3fdaae6d6bbc8bf2799fbdec10ede5/6ae343d53d63322b0660b5b3_gfn-thursday-10-29-blog-1920x1080-logo-842x450/gfn-thursday-10-29-blog-1920x1080-logo-842x450_thmb.jpg?v=270a9de1-a727-4bc6-9a94-b468536daf8f"
-  },
-  {
-    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-    "link": "https://huggingface.co/blog/announcing-project-protostar",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 29 Oct 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-    "link": "https://huggingface.co/blog/mistral-large4",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 29 Oct 2026 00:00:00 GMT",
-    "image": ""
   },
   {
     "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
@@ -168,14 +184,6 @@
     "image": ""
   },
   {
-    "title": "NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-    "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 28 Oct 2026 15:00:46 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb"
-  },
-  {
     "title": "Genie 4: A new generation of world simulation",
     "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
     "source": "Google DeepMind",
@@ -190,13 +198,5 @@
     "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
     "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
     "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "source": "Google DeepMind",
-    "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
-    "image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo"
   }
 ]
