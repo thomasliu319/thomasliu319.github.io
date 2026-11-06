@@ -1,42 +1,138 @@
 [
   {
-    "title": "Apple is reportedly cutting budgets for its internal AI usage",
-    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 05 Nov 2026 01:26:22 +0000",
+    "pubDate": "Fri, 06 Nov 2026 06:28:32 +0000",
     "image": ""
   },
   {
-    "title": "After the midterms, a bigger clash over data centers could be coming",
-    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
+    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
+    "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
     "image": ""
   },
   {
-    "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
-    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-    "source": "TechCrunch AI",
+    "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+    "link": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+    "source": "NVIDIA Blog",
     "description": "",
-    "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
+    "pubDate": "Thu, 05 Nov 2026 20:00:41 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/1a79b75a3212c9999a143e5612168a04/6aece0913d63320fd673a377_tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450_thmb.jpg?v=9e580a6c-6d9b-47c6-83a9-05fb567b1c89"
+  },
+  {
+    "title": "<![CDATA[Cult.fit builds operational muscle with Codex]]>",
+    "link": "https://openai.com/index/cultfit-builds-with-codex",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 05 Nov 2026 20:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
-    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
+    "pubDate": "Thu, 05 Nov 2026 19:48:28 +0000",
     "image": ""
   },
   {
-    "title": "Almost no one uses AI agents to book their Uber, company says",
-    "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 05 Nov 2026 19:35:16 GMT",
+    "image": ""
+  },
+  {
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 04 Nov 2026 21:56:01 +0000",
+    "pubDate": "Thu, 05 Nov 2026 19:12:39 +0000",
+    "image": ""
+  },
+  {
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 05 Nov 2026 19:06:12 +0000",
+    "image": ""
+  },
+  {
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Thu, 05 Nov 2026 17:05:16 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Australian universities are creating AI-native graduates]]>",
+    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 05 Nov 2026 17:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+    "link": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 05 Nov 2026 16:00:05 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/8e8eb039e80a44db2a9a03e70d57eb13/6aeca83f3d6332fa74322372_Chris-Alexiuk_portrait-842x450/Chris-Alexiuk_portrait-842x450_thmb.jpg?v=11d542fe-a06c-4daf-823c-46f63808a377"
+  },
+  {
+    "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+    "link": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 05 Nov 2026 16:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/135acc2eca65af91f0417e0aee50a774/6aeca8473d6332fa74322379_memory-codesign-1920x1080-1-842x450/memory-codesign-1920x1080-1-842x450_thmb.jpg?v=1973dd6a-8e38-408b-8592-68b6ba933546"
+  },
+  {
+    "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 05 Nov 2026 14:00:34 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/60652bd2eb00e4408190d8bcb75444bf/6aec8c313d63326ba2671bef_gfn-thursday-11-5-blog-1920x1080-no-copy-842x450/gfn-thursday-11-5-blog-1920x1080-no-copy-842x450_thmb.jpg?v=2b75e572-a34a-4853-9d7d-31c470f8eea7"
+  },
+  {
+    "title": "<![CDATA[GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents]]>",
+    "link": "https://openai.com/index/introducing-gpt-6-cyber",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 05 Nov 2026 09:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Merge builds product and business tools with OpenAI technology]]>",
+    "link": "https://openai.com/index/merge-builds-with-openai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Setting a new standard for responsible AI infrastructure]]>",
+    "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 05 Nov 2026 02:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "link": "https://huggingface.co/blog/phonon-tts",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 05 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -45,46 +141,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Wed, 04 Nov 2026 17:50:10 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[OpenAI to acquire Pierre Computer Company, Inc.]]>",
-    "link": "https://openai.com/index/openai-to-acquire-pierre",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 04 Nov 2026 14:30:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[A thousand fewer paths to root]]>",
-    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Daybreak Red is now available in AWS GovCloud (US-East)]]>",
-    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 04 Nov 2026 07:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Introducing Images 2.6]]>",
-    "link": "https://openai.com/index/introducing-images-2-6",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 04 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[DevRev delivers autonomous self-service with GPT-6.1 Sol]]>",
-    "link": "https://openai.com/index/devrev-enterprise-self-service",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 04 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -117,39 +173,7 @@
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Tue, 03 Nov 2026 16:00:45 GMT",
-    "image": "/static/images/video.png"
-  },
-  {
-    "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-    "link": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 03 Nov 2026 07:00:12 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202611/268670f4ebabdee5beac742e274ef0f1/6ae9867d3d6332a5e3147d24_smart-city-blog-1920x1080-1-842x450/smart-city-blog-1920x1080-1-842x450_thmb.jpg?v=151bfaa1-c1eb-4a6e-bdde-49688ddac75a"
-  },
-  {
-    "title": "CWE-bench v2: More coverage, quality, and transparency",
-    "link": "https://huggingface.co/blog/cwe-bench",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 03 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Transformers Model Integration Contracts",
-    "link": "https://huggingface.co/blog/transformers-mic",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 03 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-    "link": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Fri, 30 Oct 2026 15:00:10 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/8d113e03d95ec1ca46d8a7db209c9d97/6ae4b11c3d63322d6d3b467c_IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450_thmb.jpg?v=cf4d0898-88f0-447b-82c0-d5e33442f3aa"
+    "image": "https://iprsoftwaremedia.com/219/files/202611/3a6a3ff8ed4b798fe06c86de264fa519/6aea055f3d633216642323d9_ai-semiconductor-fab-video/ai-semiconductor-fab-video_thmb.jpg?v=1445a45e-4a92-4da4-9cd3-b80b8365809d"
   },
   {
     "title": "Speeding up planning decisions with AI",
@@ -158,22 +182,6 @@
     "description": "Google DeepMind and UK government work together to reduce planning assessment times",
     "pubDate": "Fri, 30 Oct 2026 14:18:30 +0000",
     "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 29 Oct 2026 13:00:16 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/8b3fdaae6d6bbc8bf2799fbdec10ede5/6ae343d53d63322b0660b5b3_gfn-thursday-10-29-blog-1920x1080-logo-842x450/gfn-thursday-10-29-blog-1920x1080-logo-842x450_thmb.jpg?v=270a9de1-a727-4bc6-9a94-b468536daf8f"
-  },
-  {
-    "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 28 Oct 2026 21:00:00 GMT",
-    "image": ""
   },
   {
     "title": "Gemini 4 Carbon: Our next frontier model",
@@ -190,13 +198,5 @@
     "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
     "pubDate": "Tue, 27 Oct 2026 16:01:38 +0000",
     "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Beyond tree cover: mapping the world’s forest types",
-    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "source": "Google DeepMind",
-    "description": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
-    "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo"
   }
 ]
