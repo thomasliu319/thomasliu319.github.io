@@ -1,18 +1,82 @@
 [
   {
-    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Fri, 06 Nov 2026 06:28:32 +0000",
+    "pubDate": "Sat, 07 Nov 2026 01:40:28 +0000",
     "image": ""
   },
   {
-    "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
-    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
+    "pubDate": "Fri, 06 Nov 2026 22:53:46 +0000",
+    "image": ""
+  },
+  {
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 06 Nov 2026 18:44:38 +0000",
+    "image": ""
+  },
+  {
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 06 Nov 2026 18:44:20 +0000",
+    "image": ""
+  },
+  {
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 06 Nov 2026 18:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+    "link": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Fri, 06 Nov 2026 16:00:00 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/a27cc51720fd9a8615299143a36e44e0/6aedf9ac3d633293bf8bf12f_telco-promo-pack-brooklyn-6g-summit-corp-blog-1920x1080-1-1/telco-promo-pack-brooklyn-6g-summit-corp-blog-1920x1080-1-1_thmb.jpg?v=1ff9b9f1-1af5-4c74-99ac-b3af397698cf"
+  },
+  {
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "link": "https://huggingface.co/blog/allenai/toyblocks",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 06 Nov 2026 14:00:48 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Partnering with Hacktron to find vulnerabilities in OpenAI’s systems]]>",
+    "link": "https://openai.com/index/partnering-with-hacktron",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Measuring how AI agents handle everyday wet-lab science]]>",
+    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 06 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -32,35 +96,11 @@
     "image": ""
   },
   {
-    "title": "Meta says US users can now video chat with their Muse AI avatar",
-    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 19:48:28 +0000",
-    "image": ""
-  },
-  {
     "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
     "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Thu, 05 Nov 2026 19:35:16 GMT",
-    "image": ""
-  },
-  {
-    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-    "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 19:12:39 +0000",
-    "image": ""
-  },
-  {
-    "title": "OpenAI released a new cybersecurity model. Is that enough?",
-    "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 19:06:12 +0000",
     "image": ""
   },
   {
@@ -112,22 +152,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Merge builds product and business tools with OpenAI technology]]>",
-    "link": "https://openai.com/index/merge-builds-with-openai",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Setting a new standard for responsible AI infrastructure]]>",
-    "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 02:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
     "link": "https://huggingface.co/blog/phonon-tts",
     "source": "Hugging Face Blog",
@@ -144,36 +168,12 @@
     "image": ""
   },
   {
-    "title": "StateBench: Testing how language models track state changes over long documents",
-    "link": "https://huggingface.co/blog/allenai/statebench",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 03 Nov 2026 17:15:21 GMT",
-    "image": ""
-  },
-  {
     "title": "Agentic cheminformatics with Google Antigravity",
     "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
     "source": "Google DeepMind",
     "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
     "pubDate": "Tue, 03 Nov 2026 17:01:49 +0000",
     "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Palette: teaching a small model to build decks in your design language",
-    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 03 Nov 2026 16:35:36 GMT",
-    "image": ""
-  },
-  {
-    "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-    "link": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 03 Nov 2026 16:00:45 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202611/3a6a3ff8ed4b798fe06c86de264fa519/6aea055f3d633216642323d9_ai-semiconductor-fab-video/ai-semiconductor-fab-video_thmb.jpg?v=1445a45e-4a92-4da4-9cd3-b80b8365809d"
   },
   {
     "title": "Speeding up planning decisions with AI",
