@@ -1,5 +1,13 @@
 [
   {
+    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+    "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 03:13:10 +0000",
+    "image": ""
+  },
+  {
     "title": "<![CDATA[Gilbert + Tobin rethinks the business of law with AI]]>",
     "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
     "source": "OpenAI Blog",
@@ -8,19 +16,51 @@
     "image": ""
   },
   {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 11 Nov 2026 23:50:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 11 Nov 2026 23:28:45 +0000",
+    "image": ""
+  },
+  {
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 11 Nov 2026 23:17:05 +0000",
+    "image": ""
+  },
+  {
+    "title": "Why the data center you dread might never even be built",
+    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 11 Nov 2026 20:15:15 +0000",
+    "image": ""
+  },
+  {
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "source": "Google DeepMind",
+    "description": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+    "pubDate": "Wed, 11 Nov 2026 15:00:15 +0000",
+    "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo"
+  },
+  {
     "title": "<![CDATA[ChatGPT Plus for veterans and servicemembers]]>",
     "link": "https://openai.com/index/chatgpt-plus-for-veterans",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Wed, 11 Nov 2026 08:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-    "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 11 Nov 2026 07:30:51 +0000",
     "image": ""
   },
   {
@@ -40,35 +80,19 @@
     "image": "https://iprsoftwaremedia.com/219/files/202611/f3f324bb2a2e75f4f99e90d86934784a/6af3da723d633258c5307134_recycling-company-grid-1920x1080-1-842x450/recycling-company-grid-1920x1080-1-842x450_thmb.jpg?v=48e354b9-766a-4449-aa37-71ff96b236f4"
   },
   {
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[JioStar’s chief architect on AI discovery at 500M-user scale]]>",
+    "link": "https://openai.com/index/jiostar-vijay-seshadri",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Tue, 10 Nov 2026 21:08:52 +0000",
+    "pubDate": "Wed, 11 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "source": "TechCrunch AI",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "link": "https://huggingface.co/blog/token-pooling",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Tue, 10 Nov 2026 20:52:13 +0000",
-    "image": ""
-  },
-  {
-    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-    "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 10 Nov 2026 19:57:52 +0000",
-    "image": ""
-  },
-  {
-    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-    "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 10 Nov 2026 19:23:34 +0000",
+    "pubDate": "Wed, 11 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -120,14 +144,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Closing the AI guidance gap in education]]>",
-    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 10 Nov 2026 09:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
     "link": "https://huggingface.co/blog/hub-gcp-marketplace",
     "source": "Hugging Face Blog",
@@ -168,14 +184,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6"
   },
   {
-    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Mon, 09 Nov 2026 12:34:29 GMT",
-    "image": ""
-  },
-  {
     "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
     "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
     "source": "NVIDIA Blog",
@@ -190,13 +198,5 @@
     "description": "",
     "pubDate": "Thu, 05 Nov 2026 17:05:16 +0000",
     "image": ""
-  },
-  {
-    "title": "Agentic cheminformatics with Google Antigravity",
-    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "source": "Google DeepMind",
-    "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-    "pubDate": "Tue, 03 Nov 2026 17:01:49 +0000",
-    "image": "https://lh3.googleusercontent.com/UFTBrp1IrRBrc6_f4ibNgtV35iY8F2iTYaqOb1lzR-qZNy-Mb5726xrLKTozohfdZ_3quHe50uyn8z-Wh_Eril_8CVh7py7gH0188sl_EXkoJknlqg=w528-h297-n-nu-rw-lo"
   }
 ]
