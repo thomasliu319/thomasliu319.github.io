@@ -1,10 +1,106 @@
 [
   {
-    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-    "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 12 Nov 2026 03:13:10 +0000",
+    "pubDate": "Thu, 12 Nov 2026 22:42:51 +0000",
+    "image": ""
+  },
+  {
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 22:22:28 +0000",
+    "image": ""
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 21:35:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 21:27:10 +0000",
+    "image": ""
+  },
+  {
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 20:26:47 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How Amplitude ships product improvements in 1–2 days with OpenAI]]>",
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 20:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 19:07:35 GMT",
+    "image": ""
+  },
+  {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 18:00:50 +0000",
+    "image": ""
+  },
+  {
+    "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 14:00:59 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/cb5b379857fb055399ba19241ee5089f/6af5c6bc3d6332081653aba2_gfn-thursday-11-12-blog-1920x1080-logo-842x450/gfn-thursday-11-12-blog-1920x1080-logo-842x450_thmb.jpg?v=25f4c7b8-a838-40e0-bb4f-acbf9541d4cf"
+  },
+  {
+    "title": "NVIDIA Announces CEO Transition",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 13:48:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Gondola doubles revenue as its team builds more with Codex]]>",
+    "link": "https://openai.com/business/customer-stories/gondola",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 12:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Holiday Extras is rethinking what it can build with Codex]]>",
+    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 09:30:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Supporting research on AI and children’s safety]]>",
+    "link": "https://openai.com/index/children-first-declaration",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -16,35 +112,11 @@
     "image": ""
   },
   {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "source": "TechCrunch AI",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "link": "https://huggingface.co/blog/3d-lora-finetuning",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Wed, 11 Nov 2026 23:50:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 11 Nov 2026 23:28:45 +0000",
-    "image": ""
-  },
-  {
-    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 11 Nov 2026 23:17:05 +0000",
-    "image": ""
-  },
-  {
-    "title": "Why the data center you dread might never even be built",
-    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 11 Nov 2026 20:15:15 +0000",
+    "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -54,14 +126,6 @@
     "description": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
     "pubDate": "Wed, 11 Nov 2026 15:00:15 +0000",
     "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "<![CDATA[ChatGPT Plus for veterans and servicemembers]]>",
-    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 11 Nov 2026 08:00:00 GMT",
-    "image": ""
   },
   {
     "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -78,14 +142,6 @@
     "description": "",
     "pubDate": "Wed, 11 Nov 2026 03:00:20 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202611/f3f324bb2a2e75f4f99e90d86934784a/6af3da723d633258c5307134_recycling-company-grid-1920x1080-1-842x450/recycling-company-grid-1920x1080-1-842x450_thmb.jpg?v=48e354b9-766a-4449-aa37-71ff96b236f4"
-  },
-  {
-    "title": "<![CDATA[JioStar’s chief architect on AI discovery at 500M-user scale]]>",
-    "link": "https://openai.com/index/jiostar-vijay-seshadri",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 11 Nov 2026 00:00:00 GMT",
-    "image": ""
   },
   {
     "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
@@ -128,32 +184,8 @@
     "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "<![CDATA[Helping caregivers use AI in everyday life]]>",
-    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 10 Nov 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Introducing Businesses in ChatGPT]]>",
-    "link": "https://openai.com/index/introducing-businesses-chatgpt",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 10 Nov 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
     "link": "https://huggingface.co/blog/hub-gcp-marketplace",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 10 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Decision Models in Hugging Face",
-    "link": "https://huggingface.co/blog/decision",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Tue, 10 Nov 2026 00:00:00 GMT",
@@ -166,37 +198,5 @@
     "description": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
     "pubDate": "Mon, 09 Nov 2026 19:51:47 +0000",
     "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Mon, 09 Nov 2026 15:05:57 GMT",
-    "image": ""
-  },
-  {
-    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-    "link": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 09 Nov 2026 14:00:01 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6"
-  },
-  {
-    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-    "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 09 Nov 2026 08:00:53 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202611/3a869738b38dcf51055748f78c9558e0/6af17de53d6332913dbbd117_korea-startups-msit-1920x1080-1-842x450/korea-startups-msit-1920x1080-1-842x450_thmb.jpg?v=d4394c7d-c7ef-4491-ad0d-ede57d00f865"
-  },
-  {
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Thu, 05 Nov 2026 17:05:16 +0000",
-    "image": ""
   }
 ]
