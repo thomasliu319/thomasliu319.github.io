@@ -1,42 +1,90 @@
 [
   {
-    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
-    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 12 Nov 2026 22:42:51 +0000",
+    "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000",
     "image": ""
   },
   {
-    "title": "Muse can now place calls to US businesses — if you pay",
-    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 12 Nov 2026 22:22:28 +0000",
+    "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
+    "image": ""
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
+    "image": ""
+  },
+  {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 13 Nov 2026 18:00:39 GMT",
+    "image": ""
+  },
+  {
+    "title": "XYBench: Helping with the problem behind the question",
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 13 Nov 2026 17:02:35 GMT",
+    "image": ""
+  },
+  {
+    "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
     "image": ""
   },
   {
     "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 12 Nov 2026 21:35:00 +0000",
+    "pubDate": "Fri, 13 Nov 2026 15:58:00 +0000",
     "image": ""
   },
   {
-    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[Introducing ChatGPT Wallet]]>",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Thu, 12 Nov 2026 21:27:10 +0000",
+    "pubDate": "Fri, 13 Nov 2026 15:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Jensen Huang was having a third affair, Reuters reports",
-    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-    "source": "TechCrunch AI",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Thu, 12 Nov 2026 20:26:47 +0000",
+    "pubDate": "Fri, 13 Nov 2026 14:05:22 GMT",
+    "image": ""
+  },
+  {
+    "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+    "link": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Fri, 13 Nov 2026 13:00:42 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/2c608553a3bb66cdeeaa6e6442d32ab8/6af70a433d63327f4c4d6eac_Screenshot-2026-11-12-at-9.25.28-AM-842x450/Screenshot-2026-11-12-at-9.25.28-AM-842x450_thmb.jpg?v=49811220-e02a-4307-8be1-0c4af7e4b03f"
+  },
+  {
+    "title": "<![CDATA[Shield helps technicians hand off legacy portal work with OpenAI]]>",
+    "link": "https://openai.com/business/customer-stories/shield",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
     "image": ""
   },
   {
@@ -96,22 +144,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Supporting research on AI and children’s safety]]>",
-    "link": "https://openai.com/index/children-first-declaration",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Gilbert + Tobin rethinks the business of law with AI]]>",
-    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
     "link": "https://huggingface.co/blog/3d-lora-finetuning",
     "source": "Hugging Face Blog",
@@ -128,28 +160,12 @@
     "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-    "link": "https://huggingface.co/blog/qvac/botpsy",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 11 Nov 2026 05:01:16 GMT",
-    "image": ""
-  },
-  {
     "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
     "link": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
     "source": "NVIDIA Blog",
     "description": "",
     "pubDate": "Wed, 11 Nov 2026 03:00:20 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202611/f3f324bb2a2e75f4f99e90d86934784a/6af3da723d633258c5307134_recycling-company-grid-1920x1080-1-842x450/recycling-company-grid-1920x1080-1-842x450_thmb.jpg?v=48e354b9-766a-4449-aa37-71ff96b236f4"
-  },
-  {
-    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-    "link": "https://huggingface.co/blog/token-pooling",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 11 Nov 2026 00:00:00 GMT",
-    "image": ""
   },
   {
     "title": "Statement From the Independent Members of the NVIDIA Board",
@@ -168,14 +184,6 @@
     "image": ""
   },
   {
-    "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
-    "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 10 Nov 2026 16:00:03 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202611/3337e430527205ac3c1d8650d867952b/6af33fb73d63324036e5b1e9_end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450_thmb.jpg?v=c09c8d93-d3e4-465b-be57-60aa829a9151"
-  },
-  {
     "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
     "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
     "source": "Google DeepMind",
@@ -184,19 +192,11 @@
     "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo"
   },
   {
-    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Tue, 10 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-    "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "title": "Opening the datasets behind our AI weather models",
+    "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
     "source": "Google DeepMind",
-    "description": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-    "pubDate": "Mon, 09 Nov 2026 19:51:47 +0000",
-    "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo"
+    "description": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+    "pubDate": "Tue, 10 Nov 2026 11:13:04 +0000",
+    "image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo"
   }
 ]
