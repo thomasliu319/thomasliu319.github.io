@@ -1,42 +1,66 @@
 [
   {
+    "title": "Apple launches new app to study how people use AI for health",
+    "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 16 Nov 2026 01:30:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+    "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 16 Nov 2026 00:00:28 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/94e4d8e35e46dc78f8b79cb27f0462be/6afa47d13d63322ca4bea3e8_ai-day-seoul-wrapup-1920x1080-1-842x450/ai-day-seoul-wrapup-1920x1080-1-842x450_thmb.jpg?v=26a11e93-65b4-450d-b0ef-9f5089ac6f01"
+  },
+  {
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sun, 15 Nov 2026 23:30:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[A step toward defining the Standard Model on a lattice]]>",
+    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Sun, 15 Nov 2026 22:00:01 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Our new blog for science]]>",
+    "link": "https://openai.com/index/our-new-blog-for-science",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Sun, 15 Nov 2026 22:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sun, 15 Nov 2026 21:56:35 +0000",
+    "image": ""
+  },
+  {
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Sun, 15 Nov 2026 20:20:57 +0000",
+    "image": ""
+  },
+  {
     "title": "Where was Nvidia&#8217;s security team?",
     "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
     "source": "TechCrunch AI",
     "description": "",
     "pubDate": "Sun, 15 Nov 2026 00:08:07 +0000",
-    "image": ""
-  },
-  {
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 14 Nov 2026 21:41:22 +0000",
-    "image": ""
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 14 Nov 2026 17:30:00 +0000",
-    "image": ""
-  },
-  {
-    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 14 Nov 2026 16:34:15 +0000",
-    "image": ""
-  },
-  {
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000",
     "image": ""
   },
   {
@@ -128,22 +152,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Gondola doubles revenue as its team builds more with Codex]]>",
-    "link": "https://openai.com/business/customer-stories/gondola",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 12 Nov 2026 12:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Holiday Extras is rethinking what it can build with Codex]]>",
-    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 12 Nov 2026 09:30:00 GMT",
-    "image": ""
-  },
-  {
     "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
     "link": "https://huggingface.co/blog/3d-lora-finetuning",
     "source": "Hugging Face Blog",
@@ -166,14 +174,6 @@
     "description": "",
     "pubDate": "Wed, 11 Nov 2026 03:00:20 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202611/f3f324bb2a2e75f4f99e90d86934784a/6af3da723d633258c5307134_recycling-company-grid-1920x1080-1-842x450/recycling-company-grid-1920x1080-1-842x450_thmb.jpg?v=48e354b9-766a-4449-aa37-71ff96b236f4"
-  },
-  {
-    "title": "Statement From the Independent Members of the NVIDIA Board",
-    "link": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 10 Nov 2026 19:07:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b"
   },
   {
     "title": "Gemini 4 Carbon is now available",
