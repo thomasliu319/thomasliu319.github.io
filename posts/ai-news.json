@@ -1,50 +1,146 @@
 [
   {
-    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-    "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 18 Nov 2026 01:44:21 +0000",
+    "pubDate": "Thu, 19 Nov 2026 00:42:56 +0000",
     "image": ""
   },
   {
-    "title": "Nvidia promises that revenue will keep soaring — for now",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
+    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 18 Nov 2026 00:16:50 +0000",
+    "pubDate": "Wed, 18 Nov 2026 23:45:00 +0000",
     "image": ""
   },
   {
-    "title": "<![CDATA[Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT]]>",
-    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "title": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off your team&#8217;",
+    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 23:25:17 +0000",
+    "image": ""
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 23:17:28 +0000",
+    "image": ""
+  },
+  {
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 22:58:11 +0000",
+    "image": ""
+  },
+  {
+    "title": "Introducing Gemini 4 Neon",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 21:35:43 +0000",
+    "image": ""
+  },
+  {
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 19:54:56 GMT",
+    "image": ""
+  },
+  {
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 18:53:43 GMT",
+    "image": ""
+  },
+  {
+    "title": "Genie 4 is now available",
+    "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "source": "Google DeepMind",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 18:13:42 +0000",
+    "image": ""
+  },
+  {
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 15:00:23 GMT",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+    "link": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 14:00:31 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb"
+  },
+  {
+    "title": "<![CDATA[The Silent Consensus]]>",
+    "link": "https://openai.com/index/the-silent-consensus",
     "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 10:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Research acceleration: The jagged frontier]]>",
+    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise]]>",
+    "link": "https://openai.com/business/customer-stories/sumitomo-life",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Inside the Codex sandbox]]>",
+    "link": "https://openai.com/index/inside-the-codex-sandbox",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Managing frontier AI risk: From training to deployment]]>",
+    "link": "https://openai.com/index/managing-frontier-ai-risk",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Wed, 18 Nov 2026 06:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "link": "https://huggingface.co/blog/moe-expert-streaming",
+    "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Nvidia is abandoning China after Jensen Huang&#8217;s ouster",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-    "source": "TechCrunch AI",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "link": "https://huggingface.co/blog/rumble-2-flash",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Tue, 17 Nov 2026 23:37:48 +0000",
-    "image": ""
-  },
-  {
-    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang&#8217;s exit",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 17 Nov 2026 23:04:35 +0000",
-    "image": ""
-  },
-  {
-    "title": "Nvidia says it doesn&#8217;t plan to reappoint Jensen Huang as CEO",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 17 Nov 2026 22:42:27 +0000",
+    "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -64,14 +160,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_thmb.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9"
   },
   {
-    "title": "<![CDATA[Introducing GPT-6.2 Astra and Sol]]>",
-    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 17 Nov 2026 17:45:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
     "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
     "source": "NVIDIA Blog",
@@ -86,78 +174,6 @@
     "description": "",
     "pubDate": "Tue, 17 Nov 2026 10:00:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038"
-  },
-  {
-    "title": "<![CDATA[Introducing ChatGPT for Sales]]>",
-    "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Strengthening NATO and allied cyber defenses with AI]]>",
-    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Astra for Law leads in legal intelligence]]>",
-    "link": "https://openai.com/index/astra-law-6-2",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
-    "link": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Mon, 16 Nov 2026 23:00:05 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202611/605255c85d8350f63ab2fd828ac080dd/6afb8b903d6332997cbeb04c_SC-Local-AI-DGX-Spark-Clusters-Blog-Header-842x450/SC-Local-AI-DGX-Spark-Clusters-Blog-Header-842x450_thmb.jpg?v=058dcd92-b6ba-41e3-8667-966e6b50606a"
-  },
-  {
-    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-    "link": "https://huggingface.co/blog/openrouter",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Mon, 16 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 13 Nov 2026 18:00:39 GMT",
-    "image": ""
-  },
-  {
-    "title": "XYBench: Helping with the problem behind the question",
-    "link": "https://huggingface.co/blog/allenai/xybench",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 13 Nov 2026 17:02:35 GMT",
-    "image": ""
-  },
-  {
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 13 Nov 2026 14:05:22 GMT",
-    "image": ""
-  },
-  {
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Thu, 12 Nov 2026 19:07:35 GMT",
-    "image": ""
   },
   {
     "title": "Introducing Gemini 4 Hydrogen",
@@ -182,21 +198,5 @@
     "description": "",
     "pubDate": "Tue, 10 Nov 2026 16:03:47 +0000",
     "image": ""
-  },
-  {
-    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "source": "Google DeepMind",
-    "description": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-    "pubDate": "Tue, 10 Nov 2026 12:02:28 +0000",
-    "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Opening the datasets behind our AI weather models",
-    "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-    "source": "Google DeepMind",
-    "description": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-    "pubDate": "Tue, 10 Nov 2026 11:13:04 +0000",
-    "image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo"
   }
 ]
