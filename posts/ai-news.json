@@ -1,42 +1,106 @@
 [
   {
-    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Thu, 19 Nov 2026 00:42:56 +0000",
+    "pubDate": "Fri, 20 Nov 2026 00:56:01 +0000",
     "image": ""
   },
   {
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
-    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "title": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 18 Nov 2026 23:45:00 +0000",
+    "pubDate": "Fri, 20 Nov 2026 00:43:50 +0000",
     "image": ""
   },
   {
-    "title": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off your team&#8217;",
-    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "source": "TechCrunch AI",
+    "title": "NVIDIA Announces Upcoming Event for Financial Community",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
+    "source": "NVIDIA Blog",
     "description": "",
-    "pubDate": "Wed, 18 Nov 2026 23:25:17 +0000",
+    "pubDate": "Thu, 19 Nov 2026 22:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "title": "Meta&#8217;s new Muse Charm device may cost $300",
+    "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 18 Nov 2026 23:17:28 +0000",
+    "pubDate": "Thu, 19 Nov 2026 21:58:06 +0000",
     "image": ""
   },
   {
-    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Wed, 18 Nov 2026 22:58:11 +0000",
+    "pubDate": "Thu, 19 Nov 2026 21:42:31 +0000",
+    "image": ""
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 19 Nov 2026 20:18:49 +0000",
+    "image": ""
+  },
+  {
+    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+    "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 19 Nov 2026 20:00:15 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/a6297761eae528f1a18e87707b33e918/6aff58ca3d63323c3f3a4de8_nvidia-microsoft-842x450/nvidia-microsoft-842x450_thmb.jpg?v=be49bde6-39b2-4035-bd54-25b3ee2894a7"
+  },
+  {
+    "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 19 Nov 2026 14:00:12 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/26f24efb07ab4c2e546bd3ee49568965/6aff01413d63328b52a584e9_GFN_Thursday_November_19-842x450/GFN_Thursday_November_19-842x450_thmb.jpg?v=1805d358-7c79-43f0-8191-5ddb191e0f78"
+  },
+  {
+    "title": "<![CDATA[How OpenAI’s Performance Factory keeps ChatGPT fast]]>",
+    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Deploying Daybreak Red]]>",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[See PR scans in action]]>",
+    "link": "https://openai.com/business/learn/pr-scans-demo",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Explore the Codex Security Plugin]]>",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Get started with Daybreak Blue]]>",
+    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -88,46 +152,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb"
   },
   {
-    "title": "<![CDATA[The Silent Consensus]]>",
-    "link": "https://openai.com/index/the-silent-consensus",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 18 Nov 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Research acceleration: The jagged frontier]]>",
-    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise]]>",
-    "link": "https://openai.com/business/customer-stories/sumitomo-life",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Inside the Codex sandbox]]>",
-    "link": "https://openai.com/index/inside-the-codex-sandbox",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Managing frontier AI risk: From training to deployment]]>",
-    "link": "https://openai.com/index/managing-frontier-ai-risk",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Wed, 18 Nov 2026 06:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
     "link": "https://huggingface.co/blog/moe-expert-streaming",
     "source": "Hugging Face Blog",
@@ -150,30 +174,6 @@
     "description": "",
     "pubDate": "Tue, 17 Nov 2026 22:18:00 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95"
-  },
-  {
-    "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 17 Nov 2026 21:20:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_thmb.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9"
-  },
-  {
-    "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-    "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 17 Nov 2026 14:00:10 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202611/5b8e1f6fca8cc84a486aa1046ce7b649/6afc7d673d633236f42c73b0_Buck-Talk-SC26-842x450/Buck-Talk-SC26-842x450_thmb.jpg?v=3f0914d2-0379-4fef-8287-0a2e0dddcfb7"
-  },
-  {
-    "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 17 Nov 2026 10:00:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038"
   },
   {
     "title": "Introducing Gemini 4 Hydrogen",
