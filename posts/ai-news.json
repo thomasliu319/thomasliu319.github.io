@@ -1,26 +1,106 @@
 [
   {
-    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 23 Nov 2026 01:25:53 +0000",
+    "pubDate": "Mon, 23 Nov 2026 22:05:50 +0000",
     "image": ""
   },
   {
-    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 22 Nov 2026 21:14:07 +0000",
+    "pubDate": "Mon, 23 Nov 2026 22:02:05 +0000",
     "image": ""
   },
   {
-    "title": "Why data centers are at the center of the Big Tech backlash",
-    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Sun, 22 Nov 2026 18:08:43 +0000",
+    "pubDate": "Mon, 23 Nov 2026 21:47:41 +0000",
+    "image": ""
+  },
+  {
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+    "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 23 Nov 2026 21:25:42 +0000",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[OpenAI and Cisco introduce Shirudo]]>",
+    "link": "https://openai.com/index/introducing-shirudo",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 23 Nov 2026 21:20:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company&#8217;s HQ",
+    "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Mon, 23 Nov 2026 20:38:53 +0000",
+    "image": ""
+  },
+  {
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "link": "https://huggingface.co/blog/allenai/robotrack",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Mon, 23 Nov 2026 17:20:37 GMT",
+    "image": ""
+  },
+  {
+    "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+    "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 23 Nov 2026 17:00:08 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/bc89bebfe8b03ffab773ba004ddb5842/6b04714c3d6332f07ccc903f_nvidia-holiday26-gfn-nv-blog-preview-1280x680-1-842x450/nvidia-holiday26-gfn-nv-blog-preview-1280x680-1-842x450_thmb.jpg?v=16e9ca88-6ca3-4796-8c5a-89dc386e2045"
+  },
+  {
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "source": "Google DeepMind",
+    "description": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "pubDate": "Mon, 23 Nov 2026 16:59:40 +0000",
+    "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo"
+  },
+  {
+    "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Mon, 23 Nov 2026 13:55:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Connected intelligence for in-house legal]]>",
+    "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Richpanel helps companies automate 50% of support in 30 days]]>",
+    "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "How to build and maintain an agentic evaluation",
+    "link": "https://huggingface.co/blog/agentic-evals",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Mon, 23 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -32,43 +112,11 @@
     "image": ""
   },
   {
-    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 21 Nov 2026 21:37:10 +0000",
-    "image": ""
-  },
-  {
-    "title": "A tale of two Nvidias",
-    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Sat, 21 Nov 2026 21:07:42 +0000",
-    "image": ""
-  },
-  {
     "title": "<![CDATA[Combatting adversarial distillation]]>",
     "link": "https://openai.com/index/combatting-adversarial-distillation",
     "source": "OpenAI Blog",
     "description": "",
     "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Hebbia sees improvements in financial research with GPT-6 Astra]]>",
-    "link": "https://openai.com/business/customer-stories/hebbia",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Can AI help scientists identify promising drug candidates?]]>",
-    "link": "https://openai.com/index/introducing-medchembench",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -112,14 +160,6 @@
     "image": "https://iprsoftwaremedia.com/219/files/202611/26f24efb07ab4c2e546bd3ee49568965/6aff01413d63328b52a584e9_GFN_Thursday_November_19-842x450/GFN_Thursday_November_19-842x450_thmb.jpg?v=1805d358-7c79-43f0-8191-5ddb191e0f78"
   },
   {
-    "title": "<![CDATA[How OpenAI’s Performance Factory keeps ChatGPT fast]]>",
-    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Introducing Gemini 4 Neon",
     "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
     "source": "Google DeepMind",
@@ -136,44 +176,12 @@
     "image": ""
   },
   {
-    "title": "Why your fine-tuning job takes longer than the FLOPs say",
-    "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 18 Nov 2026 18:53:43 GMT",
-    "image": ""
-  },
-  {
     "title": "Genie 4 is now available",
     "link": "https://deepmind.google/blog/genie-4-is-now-available/",
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Wed, 18 Nov 2026 18:13:42 +0000",
     "image": ""
-  },
-  {
-    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-    "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 18 Nov 2026 15:00:23 GMT",
-    "image": ""
-  },
-  {
-    "title": "NVIDIA RTX Spark Compact Desktops Out Now",
-    "link": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Wed, 18 Nov 2026 14:00:31 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb"
-  },
-  {
-    "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Tue, 17 Nov 2026 22:18:00 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95"
   },
   {
     "title": "Introducing Gemini 4 Hydrogen",
@@ -190,13 +198,5 @@
     "description": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
     "pubDate": "Wed, 11 Nov 2026 15:00:15 +0000",
     "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo"
-  },
-  {
-    "title": "Gemini 4 Carbon is now available",
-    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-    "source": "Google DeepMind",
-    "description": "",
-    "pubDate": "Tue, 10 Nov 2026 16:03:47 +0000",
-    "image": ""
   }
 ]
