@@ -1,50 +1,98 @@
 [
   {
-    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "source": "TechCrunch AI",
+    "title": "An Indic Voice Agent with CUGA",
+    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Mon, 23 Nov 2026 22:05:50 +0000",
+    "pubDate": "Wed, 25 Nov 2026 10:22:09 GMT",
     "image": ""
   },
   {
-    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-    "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "title": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion",
+    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 23 Nov 2026 22:02:05 +0000",
+    "pubDate": "Wed, 25 Nov 2026 00:12:02 +0000",
     "image": ""
   },
   {
-    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-    "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 23 Nov 2026 21:47:41 +0000",
+    "pubDate": "Tue, 24 Nov 2026 22:27:52 +0000",
     "image": ""
   },
   {
-    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-    "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in therapy",
+    "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
     "source": "TechCrunch AI",
     "description": "",
-    "pubDate": "Mon, 23 Nov 2026 21:25:42 +0000",
+    "pubDate": "Tue, 24 Nov 2026 21:48:27 +0000",
     "image": ""
   },
   {
-    "title": "<![CDATA[OpenAI and Cisco introduce Shirudo]]>",
-    "link": "https://openai.com/index/introducing-shirudo",
+    "title": "Even the best AI agents struggle with everyday life",
+    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 24 Nov 2026 21:33:29 +0000",
+    "image": ""
+  },
+  {
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Tue, 24 Nov 2026 21:32:38 +0000",
+    "image": ""
+  },
+  {
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Tue, 24 Nov 2026 16:34:13 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[GPT-6 models demonstrate intrinsic protein-design capabilities]]>",
+    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
     "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Mon, 23 Nov 2026 21:20:00 GMT",
+    "pubDate": "Tue, 24 Nov 2026 13:00:00 GMT",
     "image": ""
   },
   {
-    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company&#8217;s HQ",
-    "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-    "source": "TechCrunch AI",
+    "title": "<![CDATA[Searching for distant planets with Astra]]>",
+    "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "source": "OpenAI Blog",
     "description": "",
-    "pubDate": "Mon, 23 Nov 2026 20:38:53 +0000",
+    "pubDate": "Tue, 24 Nov 2026 11:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How Intentful uses dots to make more time for growth]]>",
+    "link": "https://openai.com/business/customer-stories/intentful-dots",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[How iFood scales coding agents across 15,000 repositories]]>",
+    "link": "https://openai.com/business/customer-stories/ifood",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
+    "title": "<![CDATA[Clay helps sales teams win with Codex and ChatGPT]]>",
+    "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "source": "OpenAI Blog",
+    "description": "",
+    "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -80,22 +128,6 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Connected intelligence for in-house legal]]>",
-    "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Richpanel helps companies automate 50% of support in 30 days]]>",
-    "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "How to build and maintain an agentic evaluation",
     "link": "https://huggingface.co/blog/agentic-evals",
     "source": "Hugging Face Blog",
@@ -104,32 +136,8 @@
     "image": ""
   },
   {
-    "title": "<![CDATA[Perplexity and Intelligence]]>",
-    "link": "https://openai.com/index/perplexity-and-intelligence",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "<![CDATA[Combatting adversarial distillation]]>",
-    "link": "https://openai.com/index/combatting-adversarial-distillation",
-    "source": "OpenAI Blog",
-    "description": "",
-    "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
     "link": "https://huggingface.co/blog/inkling2mini",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
@@ -165,14 +173,6 @@
     "source": "Google DeepMind",
     "description": "",
     "pubDate": "Wed, 18 Nov 2026 21:35:43 +0000",
-    "image": ""
-  },
-  {
-    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-    "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 18 Nov 2026 19:54:56 GMT",
     "image": ""
   },
   {
