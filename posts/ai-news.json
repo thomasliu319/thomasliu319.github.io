@@ -1,5 +1,61 @@
 [
   {
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 26 Nov 2026 05:05:36 GMT",
+    "image": ""
+  },
+  {
+    "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 25 Nov 2026 22:44:32 +0000",
+    "image": ""
+  },
+  {
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 25 Nov 2026 20:03:27 +0000",
+    "image": ""
+  },
+  {
+    "title": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
+    "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 25 Nov 2026 19:54:57 +0000",
+    "image": ""
+  },
+  {
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 25 Nov 2026 19:44:24 +0000",
+    "image": ""
+  },
+  {
+    "title": "Where scientists draw the line on AI agents",
+    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Wed, 25 Nov 2026 18:52:55 GMT",
+    "image": ""
+  },
+  {
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Wed, 25 Nov 2026 18:11:46 +0000",
+    "image": ""
+  },
+  {
     "title": "An Indic Voice Agent with CUGA",
     "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
     "source": "Hugging Face Blog",
@@ -8,52 +64,20 @@
     "image": ""
   },
   {
-    "title": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion",
-    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 25 Nov 2026 00:12:02 +0000",
-    "image": ""
-  },
-  {
-    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 24 Nov 2026 22:27:52 +0000",
-    "image": ""
-  },
-  {
-    "title": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in therapy",
-    "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 24 Nov 2026 21:48:27 +0000",
-    "image": ""
-  },
-  {
-    "title": "Even the best AI agents struggle with everyday life",
-    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 24 Nov 2026 21:33:29 +0000",
-    "image": ""
-  },
-  {
-    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-    "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Tue, 24 Nov 2026 21:32:38 +0000",
-    "image": ""
-  },
-  {
-    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
     "source": "Hugging Face Blog",
     "description": "",
-    "pubDate": "Tue, 24 Nov 2026 16:34:13 GMT",
+    "pubDate": "Wed, 25 Nov 2026 00:00:00 GMT",
     "image": ""
+  },
+  {
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "source": "Google DeepMind",
+    "description": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+    "pubDate": "Tue, 24 Nov 2026 13:07:53 +0000",
+    "image": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo"
   },
   {
     "title": "<![CDATA[GPT-6 models demonstrate intrinsic protein-design capabilities]]>",
@@ -96,14 +120,6 @@
     "image": ""
   },
   {
-    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-    "link": "https://huggingface.co/blog/allenai/robotrack",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Mon, 23 Nov 2026 17:20:37 GMT",
-    "image": ""
-  },
-  {
     "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
     "link": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
     "source": "NVIDIA Blog",
@@ -133,14 +149,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Mon, 23 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
-    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-    "link": "https://huggingface.co/blog/inkling2mini",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -190,13 +198,5 @@
     "description": "",
     "pubDate": "Thu, 12 Nov 2026 18:00:50 +0000",
     "image": ""
-  },
-  {
-    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "source": "Google DeepMind",
-    "description": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-    "pubDate": "Wed, 11 Nov 2026 15:00:15 +0000",
-    "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo"
   }
 ]
