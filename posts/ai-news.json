@@ -1,10 +1,50 @@
 [
   {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 26 Nov 2026 20:03:54 +0000",
+    "image": ""
+  },
+  {
+    "title": "Grand Theft Auto VI proves why efficiency isn&#8217;t a virtue",
+    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "source": "TechCrunch AI",
+    "description": "",
+    "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
+    "image": ""
+  },
+  {
+    "title": "Come for the Games, Stay for the Community With GeForce NOW",
+    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+    "source": "NVIDIA Blog",
+    "description": "",
+    "pubDate": "Thu, 26 Nov 2026 14:00:22 GMT",
+    "image": "https://iprsoftwaremedia.com/219/files/202611/5d1a7491dadde968b236692b03969385/6b083b8e3d63328113c8523b_GFN_Thursday-November_26-842x450/GFN_Thursday-November_26-842x450_thmb.jpg?v=9c53d69a-1d4d-46fa-8b78-b16faacea967"
+  },
+  {
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 26 Nov 2026 11:37:17 GMT",
+    "image": ""
+  },
+  {
     "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
     "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Thu, 26 Nov 2026 05:05:36 GMT",
+    "image": ""
+  },
+  {
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "link": "https://huggingface.co/blog/training-swarms",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Thu, 26 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -32,14 +72,6 @@
     "image": ""
   },
   {
-    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-    "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 25 Nov 2026 19:44:24 +0000",
-    "image": ""
-  },
-  {
     "title": "Where scientists draw the line on AI agents",
     "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
     "source": "Hugging Face Blog",
@@ -48,27 +80,11 @@
     "image": ""
   },
   {
-    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-    "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-    "source": "TechCrunch AI",
-    "description": "",
-    "pubDate": "Wed, 25 Nov 2026 18:11:46 +0000",
-    "image": ""
-  },
-  {
     "title": "An Indic Voice Agent with CUGA",
     "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Wed, 25 Nov 2026 10:22:09 GMT",
-    "image": ""
-  },
-  {
-    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-    "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 25 Nov 2026 00:00:00 GMT",
     "image": ""
   },
   {
@@ -144,14 +160,6 @@
     "image": ""
   },
   {
-    "title": "How to build and maintain an agentic evaluation",
-    "link": "https://huggingface.co/blog/agentic-evals",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Mon, 23 Nov 2026 00:00:00 GMT",
-    "image": ""
-  },
-  {
     "title": "NVIDIA Announces Upcoming Event for Financial Community",
     "link": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
     "source": "NVIDIA Blog",
@@ -166,14 +174,6 @@
     "description": "",
     "pubDate": "Thu, 19 Nov 2026 20:00:15 GMT",
     "image": "https://iprsoftwaremedia.com/219/files/202611/a6297761eae528f1a18e87707b33e918/6aff58ca3d63323c3f3a4de8_nvidia-microsoft-842x450/nvidia-microsoft-842x450_thmb.jpg?v=be49bde6-39b2-4035-bd54-25b3ee2894a7"
-  },
-  {
-    "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
-    "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
-    "source": "NVIDIA Blog",
-    "description": "",
-    "pubDate": "Thu, 19 Nov 2026 14:00:12 GMT",
-    "image": "https://iprsoftwaremedia.com/219/files/202611/26f24efb07ab4c2e546bd3ee49568965/6aff01413d63328b52a584e9_GFN_Thursday_November_19-842x450/GFN_Thursday_November_19-842x450_thmb.jpg?v=1805d358-7c79-43f0-8191-5ddb191e0f78"
   },
   {
     "title": "Introducing Gemini 4 Neon",
