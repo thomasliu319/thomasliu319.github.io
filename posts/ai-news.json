@@ -1,5 +1,13 @@
 [
   {
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "link": "https://huggingface.co/blog/video-trainium3",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+    "image": ""
+  },
+  {
     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
     "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
     "source": "TechCrunch AI",
@@ -77,14 +85,6 @@
     "source": "Hugging Face Blog",
     "description": "",
     "pubDate": "Wed, 25 Nov 2026 18:52:55 GMT",
-    "image": ""
-  },
-  {
-    "title": "An Indic Voice Agent with CUGA",
-    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-    "source": "Hugging Face Blog",
-    "description": "",
-    "pubDate": "Wed, 25 Nov 2026 10:22:09 GMT",
     "image": ""
   },
   {
